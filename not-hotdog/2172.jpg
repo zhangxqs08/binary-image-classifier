@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="nl-nl" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta charset="utf-8" />
+	<base href="https://www.keukenenmeubelmakerij.nl/img/site/4_23_kast5_332.jpg" />
+	<meta name="keywords" content="den hollander, meubels, bank, bed, kast, dressoir, bedrijven, thuis, maatwerk" />
+	<meta name="description" content="Keuken en Meubelmakerij Den Hollander voor een keuken, meubels en kasten op maat. Ook voor horeca en winkels verzorgen wij de inrichting." />
+	<title>Meubels - Keuken en Meubelmakerij Den Hollander</title>
+	<link href="/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/templates/protostar/css/template.css?554cbfac6bb5d2a3b450c6e832a19008" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />
+	<link href="/templates/protostar/css/user.css?554cbfac6bb5d2a3b450c6e832a19008" rel="stylesheet" />
+	<link href="/media/com_igallery/css/category.css" rel="stylesheet" />
+	<style>
+
+	h1, h2, h3, h4, h5, h6, .site-title {
+		font-family: 'Open Sans', sans-serif;
+	}
+	body.site {
+		border-top: 3px solid #bb4c14;
+		background-color: #7ac142;
+	}
+	a {
+		color: #bb4c14;
+	}
+	.nav-list > .active > a,
+	.nav-list > .active > a:hover,
+	.dropdown-menu li > a:hover,
+	.dropdown-menu .active > a,
+	.dropdown-menu .active > a:hover,
+	.nav-pills > .active > a,
+	.nav-pills > .active > a:hover,
+	.btn-primary {
+		background: #bb4c14;
+	}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"4e27a83b1639f44ef0d003e2210d148b","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?554cbfac6bb5d2a3b450c6e832a19008"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?554cbfac6bb5d2a3b450c6e832a19008"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?554cbfac6bb5d2a3b450c6e832a19008"></script>
+	<script src="/media/system/js/caption.js?554cbfac6bb5d2a3b450c6e832a19008"></script>
+	<script src="/media/jui/js/bootstrap.min.js?554cbfac6bb5d2a3b450c6e832a19008"></script>
+	<script src="/templates/protostar/js/template.js?554cbfac6bb5d2a3b450c6e832a19008"></script>
+	<!--[if lt IE 9]><script src="/media/jui/js/html5.js?554cbfac6bb5d2a3b450c6e832a19008"></script><![endif]-->
+	<script src="/media/system/js/mootools-core.js?554cbfac6bb5d2a3b450c6e832a19008"></script>
+	<script src="/media/system/js/core.js?554cbfac6bb5d2a3b450c6e832a19008"></script>
+	<script src="/media/com_igallery/js/category_mt13.js"></script>
+	<script>
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+//make arrays and classes for the category: Home (id= 5)
+window.addEvent('load', function()
+{
+if( !!(document.id('main_images_wrapperM105') || document.id('main_images_wrapperM105') === 0 ) )
+{
+
+	var idArrayM105 = [64,65,63,66];
+		
+	var jsonImagesObjectM105 =
+	{
+		"general":
+		[
+			{"filename": "keukenenmeubelmakerij_kasten_1024-64.jpg", "url": "", "targetBlank": 1, "hits": 25677, "alt": "", "author": "Super User", "ratingAverage": "0", "ratingCount": "0"},
+			{"filename": "keukenenmeubelmakerij_keuken_1024-65.jpg", "url": "", "targetBlank": 1, "hits": 25745, "alt": "", "author": "Super User", "ratingAverage": "0", "ratingCount": "0"},
+			{"filename": "keukenenmeubelmakerij_horeca_1024-63.jpg", "url": "", "targetBlank": 1, "hits": 25754, "alt": "", "author": "Super User", "ratingAverage": "0", "ratingCount": "0"},
+			{"filename": "keukenenmeubelmakerij_meubel_1024-66.jpg", "url": "", "targetBlank": 1, "hits": 25409, "alt": "", "author": "Super User", "ratingAverage": "0", "ratingCount": "0"}
+		],
+		
+		"main":
+		[
+			{"filename": "1-100/keukenenmeubelmakerij_kasten_1024-64-1024-300-80.jpg", "width": 1024, "height": 293},
+			{"filename": "1-100/keukenenmeubelmakerij_keuken_1024-65-1024-300-80.jpg", "width": 1024, "height": 293},
+			{"filename": "1-100/keukenenmeubelmakerij_horeca_1024-63-1024-300-80.jpg", "width": 1024, "height": 293},
+			{"filename": "1-100/keukenenmeubelmakerij_meubel_1024-66-1024-300-80.jpg", "width": 1024, "height": 293}
+		]
+	};
+
+	var igalleryInt = new Class(igalleryClass);
+
+	var igalleryMainM105 = new igalleryInt
+	({
+	    activeImage: 0,
+		allowComments: 0,
+		allowRating: 0,
+		ratingsContainer: 'main_ratings_containerM105',
+		catid: '5',
+		calledFrom: 'module',
+		collectImageViews: 1,
+		desContainer: 'main_des_containerM105',
+		desPostion: 'below',
+		downArrow: 'main_thumb_down_arrow_wrapperM105',
+		downloadType: 'none',
+		downloadId: 'main_download_buttonM105',
+		host: 'https://www.keukenenmeubelmakerij.nl/',
+		hostRelative: '',
+		fadeDuration: 50,
+		facebookContainer: 'main_facebook_shareM105',
+		facebookTempContainer: 'main_facebook_share_tempM105',
+		facebookShare: 0,
+		facebookCommentsContainer: 'main_fbcommentsM105',
+		facebookCommentsNumPosts: 5,
+		fbButtonType: 'share',
+		fbLikeWidth: 85,
+		facebookColor: 'light',
+		facebookLegacy: 0,
+		galleryWidth: 1034,
+        idArray: idArrayM105,
+        imageSlideshowContainer: 'main_image_slideshow_wrapperM105',
+        imageAuthorContainer: 'main_image_authorM105',
+        imageHitsContainer: 'main_image_hitsM105',
+		imageAssetPath: '/media/com_igallery/images/',
+		imageAlignHoriz: 'center',
+		imageAlignVert: 'center',
+		jCommentsMain: 'main_jcomments_wrapperM105',
+		jCommentsLbox: 'lbox_jcomments_wrapperM105',
+		jsonImages: jsonImagesObjectM105,
+		jsonImagesImageType: jsonImagesObjectM105.main,
+		largeImage: 'main_large_imageM105',
+		largestWidth: 1024,
+		largestHeight: 293,
+		largeImageDivWidth: 1034,
+		largeImagePadding: 5,
+		largeImageMargin: 0,
+		lboxDark: 'lbox_darkM105',
+		lboxWhite: 'lbox_whiteM105',
+		lboxScalable: 0,
+		lightboxWidth: 810,
+		lightboxOn: 0,
+		lightboxBackOpacity: 70,
+		leftArrow: 'main_thumb_left_arrow_wrapperM105',
+		magnify: 1,
+		main: 1,
+		mainWrapper: 'main_images_wrapperM105',
+		numPics: 4,
+		numberingOn: 0,
+		numberingContainer: 'main_img_numberingM105',
+		plusOneDiv: 'main_plus_one_divM105',
+		preload: 1,
+		prefix: 'main',
+		pinterestButton: 0,
+		pInterestContainer: 'main_pinterestM105',
+		pInterestTempContainer: 'main_pinterest_tempM105',
+		resizePath: '/images/igallery/resized/',
+		resizePathAbsolute: 'https://www.keukenenmeubelmakerij.nl/images/igallery/resized/',
+		refreshMode: 'javascript',
+		reportImage: 0,
+		reportContainer: 'main_reportM105',
+		rightArrow: 'main_thumb_right_arrow_wrapperM105',
+        showDescriptions: 1,
+		showThumbArrows: 1,
+		showLargeImage: 1,
+		showThumbs: 0,
+		showPlusOne: 0,
+		showImageAuthor: 0,
+		showImageHits: 0,
+		showSlideshowControls: 0,
+		slideshowPosition: 'below',
+		showTags: 0,
+		slideshowAutostart: 1,
+		slideshowPause: 3000,
+		slideshowForward: 'slideshow_forwardM105',
+		slideshowPlay: 'slideshow_playM105',
+		slideshowRewind: 'slideshow_rewindM105',
+		tagsContainer: 'main_tags_containerM105',
+		thumbContainer: 'main_thumb_containerM105',
+		thumbPostion: 'below',
+		thumbTable: 'main_thumb_tableM105',
+		twitterButton: 0,
+		twitterButtonDiv: 'main_twitter_buttonM105',
+		uniqueid: 'M105',
+		style: 'grey-border-shadow',
+		upArrow: 'main_thumb_up_arrow_wrapperM105',
+		ref: '368'
+	});
+	
+}
+});
+
+
+var jQuery = jQuery.noConflict();
+function runFB() {	
+    var FbWidth = document.getElementById('fb_border').clientWidth; 
+    jQuery(window).resize( function() {
+	jQuery('#FbPagePlugin').html('<div class="fb-page" data-href="https://www.facebook.com/keukenenmeubelmakerij/timeline" data-width="'+FbWidth+'" data-height="595" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false" data-hide-cta="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/keukenenmeubelmakerij/timeline"><a href="https://www.facebook.com/keukenenmeubelmakerij/timeline"></a></ blockquote></div></div>');
+	window.FB.XFBML.parse();
+    });
+};
+
+function newFB() {
+	var FbWidth = document.getElementById('fb_border').clientWidth;
+	jQuery('#FbPagePlugin').html('<div class="fb-page" data-href="https://www.facebook.com/keukenenmeubelmakerij/timeline" data-width="'+FbWidth+'" data-height="595" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false" data-hide-cta="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/keukenenmeubelmakerij/timeline"><a href="https://www.facebook.com/keukenenmeubelmakerij/timeline"></a></ blockquote></div></div>');
+	window.FB.XFBML.parse();
+}
+
+window.fbAsyncInit = function() {
+	new newFB();
+	new runFB();
+}
+	</script>
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-36614344-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+<body class="site com_content view-article no-layout no-task itemid-101">
+	<!-- Body -->
+	<div class="body" id="top">
+		<div class="container">
+			<!-- Header -->
+			<header class="header" role="banner">
+				<div class="header-inner clearfix">
+					<a class="brand pull-left" href="/">
+						<img src="https://www.keukenenmeubelmakerij.nl/images/header/logo_denhollander.png" alt="Keuken en Meubelmakerij Den Hollander" />											</a>
+					<div class="header-search pull-right">
+						<div class="well ">
+
+<div class="custom"  >
+	<p>Pauluswegeling 5<br />4361 JH Westkapelle<br />T: 06-53451542&nbsp;<br />E: <span id="cloak394754d76f2df3c715a45a91a52b61a1">Dit e-mailadres wordt beveiligd tegen spambots. JavaScript dient ingeschakeld te zijn om het te bekijken.</span><script type='text/javascript'>
+				document.getElementById('cloak394754d76f2df3c715a45a91a52b61a1').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy394754d76f2df3c715a45a91a52b61a1 = '&#105;nf&#111;' + '&#64;';
+				addy394754d76f2df3c715a45a91a52b61a1 = addy394754d76f2df3c715a45a91a52b61a1 + 'k&#101;&#117;k&#101;n&#101;nm&#101;&#117;b&#101;lm&#97;k&#101;r&#105;j' + '&#46;' + 'nl';
+				var addy_text394754d76f2df3c715a45a91a52b61a1 = '&#105;nf&#111;' + '&#64;' + 'k&#101;&#117;k&#101;n&#101;nm&#101;&#117;b&#101;lm&#97;k&#101;r&#105;j' + '&#46;' + 'nl';document.getElementById('cloak394754d76f2df3c715a45a91a52b61a1').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy394754d76f2df3c715a45a91a52b61a1 + '\'>'+addy_text394754d76f2df3c715a45a91a52b61a1+'<\/a>';
+		</script></p></div>
+</div>
+					</div>
+				</div>
+			</header>
+							<nav class="navigation" role="navigation">
+					<div class="navbar pull-left">
+						<a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
+							<span class="element-invisible">Schakelen navigatie</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+					</div>
+					<div class="nav-collapse">
+						<ul class="nav menu nav-pills nav-custom">
+<li class="item-101 default current active"><a href="/" >Home</a></li><li class="item-102"><a href="/horeca" >Horeca</a></li><li class="item-103"><a href="/keukens" >Keukens</a></li><li class="item-104"><a href="/meubels" >Meubels</a></li><li class="item-401"><a href="/kasten" >Kasten</a></li><li class="item-142"><a href="/contact" >Contact</a></li></ul>
+
+					</div>
+				</nav>
+						
+			<div class="row-fluid">
+								<main id="content" role="main" class="span12">
+					<!-- Begin Content -->
+					
+					<div id="system-message-container">
+	</div>
+
+					<div class="item-page" itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="nl-NL" />
+	
+		
+			<div class="page-header">
+					<h2 itemprop="headline">
+				Meubels			</h2>
+									</div>
+					
+		
+	
+	
+		
+									<div itemprop="articleBody">
+		<p>Meubels in alle soorten en maten zijn mogelijk.</p>
+<p>Den Hollander Keuken en Meubelmakerij heeft ervaring met het maken van eet- en salontafels, zitbanken, bedden en ga zo maar door.</p>
+<p>Onze meubels kunnen gemaakt worden in elke gewenste houtsoort bijvoorbeeld kersen, beuken, eiken, noten, mdf of multiplex. Ook glas, rvs en natuursteen worden door ons verwerkt</p>
+<p><a href="/contact" title="Keuken en Meubelmakerij Den Hollander - Contact" style="font-size: 12.16px; line-height: 1.3em;">Informeer</a><span style="font-size: 12.16px; line-height: 1.3em;"> naar de mogelijkheden.</span></p> 	</div>
+
+	
+							</div>
+
+					
+
+
+
+
+
+
+    	<a name="gallery-M105" style="height: 0px!important; visibility: hidden;"></a>
+    <div id="main_images_wrapperM105" class="main_images_wrapper main_images_wrapper_grey-border-shadow profile3" style="max-width: 1034px; float: left" >
+
+    
+    
+    
+    
+    
+        
+	    <div id="main_image_slideshow_wrapperM105" class="main_image_slideshow_wrapper" style="width: 100%;">
+
+        <div id="main_large_imageM105" class="main_large_image" style="visibility: hidden; width: 100%;" >
+
+			
+            <img src="/images/igallery/resized/1-100/keukenenmeubelmakerij_kasten_1024-64-1024-300-80.jpg" title="" alt="" class="large_img"/>
+
+            
+        </div>
+
+
+
+
+		<div class="igallery_clear"></div>
+
+
+		
+		
+		
+		
+		
+		
+		
+        
+        
+        
+		
+		</div>
+		
+		
+		
+        
+
+    
+    
+    <div class="igallery_clear"></div>
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+
+
+<div class="big_image_data" style="display: none;">
+
+    
+        
+                    <a href="/images/igallery/resized/1-100/keukenenmeubelmakerij_kasten_1024-64-1024-300-80.jpg">keukenenmeubelmakerij_kasten_1024-64.jpg</a>
+        
+    
+        
+                    <a href="/images/igallery/resized/1-100/keukenenmeubelmakerij_keuken_1024-65-1024-300-80.jpg">keukenenmeubelmakerij_keuken_1024-65.jpg</a>
+        
+    
+        
+                    <a href="/images/igallery/resized/1-100/keukenenmeubelmakerij_horeca_1024-63-1024-300-80.jpg">keukenenmeubelmakerij_horeca_1024-63.jpg</a>
+        
+    
+        
+                    <a href="/images/igallery/resized/1-100/keukenenmeubelmakerij_meubel_1024-66-1024-300-80.jpg">keukenenmeubelmakerij_meubel_1024-66.jpg</a>
+        
+    </div>
+
+<div class="igallery_clear"></div>
+
+
+<div class="simplfb">
+	<div class="row-fluid">
+		<style type="text/css"> div#FbPagePlugin { text-align: center !important; } .fb-page .fb_iframe_widget {width: 100%;} #fb_border { width: 100%; padding: px; background-color: #ffffff; overflow: hidden; } </style>
+<div id="fb_border"><div id="fb-root"></div><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/nl_NL/sdk.js#xfbml=1&version=v2.6&appId=480580252049577"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script><div id="FbPagePlugin"></div></div>	</div>
+</div>
+					<!-- End Content -->
+				</main>
+							</div>
+		</div>
+	</div>
+	<!-- Footer -->
+	<footer class="footer" role="contentinfo">
+		<div class="container">
+			<hr />
+			
+
+<div class="custom pull-right"  >
+	<p>&nbsp;- Realisatie: <a href="http://www/molenwal1.nl" title="Molenwal1 Webdesign" target="_blank">Molenwal1 Webdesign</a></p></div>
+
+			<p class="pull-right">
+				<a href="#top" id="back-top">
+					Terug naar boven				</a>
+			</p>
+			<p>
+				&copy; 2017 Keuken en Meubelmakerij Den Hollander			</p>
+		</div>
+	</footer>
+	
+</body>
+</html>

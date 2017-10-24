@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>Pagina niet gevonden - Henk de Haas - Hardinxveld-Giessendam</title>
+<link href="http://www.henkdehaas.nl/css/styles.css" rel="stylesheet" type="text/css" />
+<link href="http://www.henkdehaas.nl/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<base href="http://www.henkdehaas.nl/" />
+<meta name="author" content="Henk de Haas" />
+<meta name="Robots" content="index, follow" />
+<meta name="Revisit-after" content="1 week" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="include/script.js"></script>
+</head>
+<body onload="preloadimages()">
+<div id="container">
+<div id="header">
+<img src="images/henk-de-haas2.gif" width="381" height="110" alt="" class="floatleft" />
+<img src="images/henk-de-haas1.gif" width="389" height="31" alt="" class="floatright" />
+<img src="images/henk-de-haas9.gif" width="102" height="79" style="margin-right:-3px;" alt="" class="floatleft" />
+<div id="headertext" class="floatright">
+<a class="item" title="Varken staand" href="tuinbeelden/116/">Varken staand</a><p>Varkensbeeld staand
+
+Hoogte: 40 cm</p></div>
+</div>
+<div id="content_outer">
+<div id="content_inner">
+<div id="main">
+<div id="mainleft">
+<div id="menu">
+<a href="home/" title="Home" class="menu_item">Home</a>
+<a href="nieuws/" title="Nieuws" class="menu_item">Nieuws</a>
+<a href="aanhangwagens/" title="Aanhangwagens" class="menu_item">Aanhangwagens</a>
+<a href="boottrailers/" title="Boottrailers" class="menu_item">Boottrailers</a>
+<a href="boottransport/" title="Boottransport" class="menu_item">Boottransport</a>
+<a href="bouw-en-restauratiewerk/" title="Bouw en Restauratiewerk" class="menu_item">Bouw en Restauratiewerk</a>
+<a href="brievenbussen/" title="Brievenbussen" class="menu_item">Brievenbussen</a>
+<a href="curiosa/" title="Curiosa" class="menu_item">Curiosa</a>
+<a href="diversen/" title="Diversen" class="menu_item">Diversen</a>
+<a href="dumpshop/" title="Dumpshop" class="menu_item">Dumpshop</a>
+<a href="gereedschappen/" title="Gereedschappen" class="menu_item">Gereedschappen</a>
+<a href="tuinbeelden/" title="Tuinbeelden" class="menu_item">Tuinbeelden</a>
+<a href="verhuur/" title="Verhuur" class="menu_item">Verhuur</a>
+<a href="vuurwerk/" title="Vuurwerk" class="menu_item">Vuurwerk</a>
+<a href="zoeken/" title="Zoeken" class="menu_item">Zoeken</a>
+<a href="contact/" title="Contact" class="menu_item">Contact</a>
+<a href="links/" title="Links" class="menu_item">Links</a>
+</div>
+<div class="search">
+<form method="post" action="zoeken/">
+<h1>Zoeken</h1>
+<br />
+Zoeken in:
+<select name="select">
+<option value="alle rubrieken">Alle rubrieken</option>
+<option value="aanhangwagens">Aanhangwagens</option>
+<option value="boottrailers">Boottrailers</option>
+<option value="brievenbussen">Brievenbussen</option>
+<option value="curiosa">Curiosa</option>
+<option value="diversen">Diversen</option>
+<option value="dumpshop">Dumpshop</option>
+<option value="gereedschappen">Gereedschappen</option>
+<option value="tuinbeelden">Tuinbeelden</option>
+<option value="verhuur">Verhuur</option>
+</select
+><br /><br />
+Omschrijving:
+<input type="text" name="omschrijving" size="18" value="" />
+<input type="text" style="visibility:hidden; width:0px; height:0px;" />
+<br /><br /><input type="submit" name="submit" value="Zoeken" class="button_zoeken" />
+</form>
+</div>
+<img src="banners/henkdehaas.jpg" width="151" height="113" alt="Henk de Haas" class="imgmenu" />
+<a href="http://www.facebook.com/henkdehaas" title="Henk de Haas op Facebook" target="_blank"><img src="images/facebook.jpg" width="150" height="56" alt="Henk de Haas op Facebook" border="0" class="imgmenu" /></a>
+</div>
+<div id="mainright">
+<div class="title">
+<h1>Home</h1>
+Welkom bij V.O.F. Handelsonderneming H. de Haas</div>
+<br />
+<h1>Pagina niet gevonden</h1>
+Helaas, de pagina die u zocht kon niet gevonden worden.
+<br /><br />
+<p><a href="home/" class="black">Klik hier om terug te keren naar de home pagina</a></p>
+</div>
+<div class="clearfloat"></div>
+</div>
+<div class="clearfloat"></div>
+</div>
+<div class="clearfloat"></div>
+</div>
+<div id="footer">
+<img src="images/henk-de-haas4.gif" alt="" class="floatleft" width="110" height="110" border="0" />
+<img src="images/henk-de-haas6.gif" alt="" class="floatright" width="110" height="110" border="0" />
+<img src="images/henk-de-haas5.gif" alt="" class="floatright" width="550" height="32" border="0" />
+<div id="footertext">
+<div id="left">
+<a class="item" title="Schilderijtjes" href="curiosa/36/">Schilderijtjes</a><p>Schilderijtjes</p></div>
+<div id="right">
+<a class="item" title="Bertil black" href="dumpshop/150/">Bertil black</a><p>Bertil black</p></div>
+</div>
+<img src="images/henk-de-haas7.gif" alt="" class="floatright" width="550" height="33" border="0" />
+<div class="clearfloat"></div>
+</div>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2027067-8";
+urchinTracker();
+</script>
+</body>
+</html>

@@ -1,0 +1,842 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width">
+	
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.saltyhome.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.saltyhome.com/wp-content/themes/mokka/js/html5.js"></script>
+	<![endif]-->
+
+<!-- favicon -->
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<!-- google code -->
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-75071440-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+	
+<!-- This site is optimized with the Yoast SEO plugin v5.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Page not found | Salty Home</title>
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found | Salty Home" />
+<meta property="og:site_name" content="Salty Home" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found | Salty Home" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.saltyhome.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Salty Home &raquo; Feed" href="https://www.saltyhome.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Salty Home &raquo; Comments Feed" href="https://www.saltyhome.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.saltyhome.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='woocs-slider-css-css'  href='http://www.saltyhome.com/wp-content/plugins/woocommerce-category-slider/styles/jquery.bxslider.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocs-main-css-css'  href='http://www.saltyhome.com/wp-content/plugins/woocommerce-category-slider/styles/main.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-style-css'  href='//ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/themes/base/jquery-ui.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wcj-timepicker-style-css'  href='http://www.saltyhome.com/wp-content/plugins/woocommerce-jetpack/includes/lib/timepicker/jquery.timepicker.min.css?ver=3.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://www.saltyhome.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://www.saltyhome.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.2.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://www.saltyhome.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fave-bootstrap.min-css'  href='http://www.saltyhome.com/wp-content/themes/mokka/css/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='fave-font-awesome.min-css'  href='http://www.saltyhome.com/wp-content/themes/mokka/css/font-awesome.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='fave-icons-css'  href='http://www.saltyhome.com/wp-content/themes/mokka/css/icons.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='fave-justifiedGallery.min-css'  href='http://www.saltyhome.com/wp-content/themes/mokka/css/justifiedGallery.min.css?ver=3.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fave-slide_menu-css'  href='http://www.saltyhome.com/wp-content/themes/mokka/css/slide_menu.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='fave-ilightbox-css'  href='http://www.saltyhome.com/wp-content/themes/mokka/css/ilightbox.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='fave-headhesive-css'  href='http://www.saltyhome.com/wp-content/themes/mokka/css/headhesive.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='fave-owl.carousel-css'  href='http://www.saltyhome.com/wp-content/themes/mokka/css/owl.carousel.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.saltyhome.com/wp-content/themes/mokka/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='fave-media_queries-css'  href='http://www.saltyhome.com/wp-content/themes/mokka/css/media-queries.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese&#038;family=Lato%3A100italic%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C100%2C400%2C300%2C600%2C700%2C800%7CLato%3A100italic%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C100%2C400%2C300%2C600%2C700%2C800%7CPrata%3A100italic%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C100%2C400%2C300%2C600%2C700%2C800%7CLato%3A100italic%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C100%2C400%2C300%2C600%2C700%2C800+rel%3D%27stylesheet%27+type%3D%27text%2Fcss&#038;ver=4.8.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.saltyhome.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/plugins/woocommerce-category-slider/js/jquery.bxslider.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/plugins/woocommerce-category-slider/js/main.js?ver=4.8.2'></script>
+<link rel='https://api.w.org/' href='https://www.saltyhome.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.saltyhome.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.saltyhome.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+<meta name="generator" content="WooCommerce 3.2.1" />
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.9';
+</script>
+<script type="text/javascript">
+
+</script>
+
+<style type="text/css">
+
+/*==========================================================
+= Fonts Family 
+===========================================================*/
+/* Body */
+body, .widget-title  {
+ font-family: "Lato", sans-serif;
+}
+
+/* Titles and headings */
+h1, h2, h3, h4, h5, h6, .continue-reading, blockquote, .quote-wrapper > blockquote h2, .link-wrapper, .dropdown-post-title, .sub-links, .tag-line, .copyright-wrapper, .post-tags, .comments-title-wrapper p, .fn, .comment-metadata, .comments-title-wrapper, .nav-sub-posts a, .nav-sub-menus a {
+ font-family: "Prata", serif;
+}
+
+/* primary-nav / Main nav */
+.primary-nav {
+ font-family: "Lato", sans-serif;
+}
+.primary-nav ul li {
+ font-size: 17px;
+ font-weight:700;
+}
+
+/* secondary-nav */
+
+.secondary-nav, #pageslide li .nav-sub-wrap a {
+ font-family: "Lato", sans-serif;
+}
+.secondary-nav ul li{
+ font-size: 14px;
+ font-weight: 700;
+}
+
+
+
+/* =============================================
+Colors
+============================================= */
+
+a, .post-title a:hover, .continue-reading:hover, .post-meta a:hover, .quote-wrapper a:hover, .widget a:hover, .widget .continue-reading, .continue-reading, .latest-tweet-widget a, .link-wrapper a:hover, .primary-nav a.continue-reading, .primary-nav a:hover, .footer .latest-tweet-widget a, .single-post .post-tags a:hover, .post-author-wrapper .nav-social a:hover, .comment-reply-link:hover, .post-author-wrapper h4 a:hover {
+	color: #33899c; /* Option color */
+}
+.widget a.carousel-prev:hover, .widget a.carousel-next:hover, .post a.carousel-prev:hover, .post a.carousel-next:hover, .secondary-nav .dropdown-menu>li>a:hover, .image-post-menu:hover, .featured-image a:hover, .gallery-icon a:hover, .colored-bg:hover, .pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus, .share-wrapper ul li a:hover, #submit, .justified-gallery a:hover, .gallery-item a:hover, .pagination .current, #today {
+	background: #33899c; /* Option color */
+}
+div.jp-play-bar, div.jp-volume-bar-value, .primary-nav .nav-sub-wrap .nav-sub-posts .thumb-wrap, .dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus {
+	background-color: #33899c;
+}
+.pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus, .share-wrapper ul li a:hover, .pagination .current {
+	border: 1px solid #33899c; /* Option color */
+}
+
+
+/*==========================================================
+= Custom CSS 
+===========================================================*/
+.logo img {
+max-width: 40%;
+}
+
+.page-title {
+    margin-bottom: 55px;
+    text-align: center;
+    display: none;
+}
+.banner {
+    width: 100%;
+    height: 64px;
+   margin-bottom: 0px;
+}
+
+.copyright-wrapper{
+background: #33899c;
+color: #fff;}
+
+.primary-nav ul li a {
+    color: #33899c;
+}
+.primary-nav ul li a {
+    padding: 20px 20px;
+}
+.primary-nav ul li a:hover {
+color: #818586;
+}
+
+
+
+
+a:hover {
+color: #84807d;
+}
+
+.secondary-nav .nav>li>a, .secondary-nav .nav>li>a:hover, .secondary-nav .dropdown-menu>li>a {
+    background-color: transparent;
+    background-color: transparent;
+    color: #84807d;
+}
+.secondary-nav .nav>li:hover>a, .secondary-nav .nav>li>a:hover, .secondary-nav .dropdown-menu>li>a {
+    background-color: transparent;
+    background-color: transparent;
+    color: #33899c;
+}
+.fa {
+color: #84807d;
+}
+
+.header {
+    position: relative;
+    z-index: 999;
+}
+
+.boxes {
+margin: 20px 0;
+}
+
+.boxes img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    border: 2px solid #33899c;
+    border-radius: 15%;
+}
+
+.fa-facebook-square {
+font-size: 32px;
+}
+
+.fa-instagram {
+font-size: 32px;
+}
+
+.cart img {
+max-height: 79px;
+width: auto;
+float: right;
+}
+
+.secondary-nav {
+height: 85px;
+}
+
+.nav {
+margin-top: 20px;
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+.primary-nav ul li a {
+    padding: 20px 10px;
+    font-size:16px
+    }
+}
+@media (min-width: 1200px) {
+ .primary-nav ul li a {
+font-size: 20px;
+}
+}
+
+@media (max-width: 768px) {
+ .search-right {
+display: none;
+}
+}
+.subscribe {
+font-size: 30px;
+text-align: center;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #84807d;
+    border-color: #fff;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #33899c;
+    border-color: #fff;
+padding: 20px 75px;
+margin: 10px 0;
+}
+
+.footnav {
+font-size: 20px;
+text-align: center;
+margin: 20px 0;
+}
+
+.footnav  a {
+font-size: 20px;
+text-align: center;
+color: #84807d;
+}
+
+.footnav  a:hover {
+font-size: 20px;]
+color: ##33899c;
+}
+
+.cards {
+text-align: center;
+}
+
+.cards img {
+display: inline-block;
+width: 64px;
+margin: 2px;
+}
+
+.cards ul {
+display: inline-flex;
+list-style-type: none;
+padding: 5px;
+}
+@media (max-width: 767px){
+.search {
+<!-- display: none; -->
+}
+.logo img {
+max-width: 95%;
+}
+}
+.search {
+float: right;
+}
+
+
+
+.logo-wrap {
+padding: 25px;
+}
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+background-color: #fff;
+}
+
+.woocommerce button.button.alt, .woocommerce input.button.alt {
+    background-color: #358896;
+    color: #fff;
+}
+.woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+    background-color: #a5abab;
+    color: #fff;
+}
+
+.woocommerce a.button {
+background-color: #358896;
+color: #fff;
+}
+
+<!-- .woocommerce .woocommerce-message {
+    border-top-color: #358896;
+} -->
+
+.finish_box {
+    color: #948E8A;
+  display: inline-block;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    margin-right: 7px;
+    margin-top: 3px;
+    text-align: center;
+    width: 60px;
+}
+
+.finish_box_img {
+    margin-bottom: 3px;
+}
+
+<!-- .shipping .amount {
+display: none;
+} -->
+
+.post-meta {
+display: none;
+}
+
+body {
+font-size: 18px;
+}
+
+.woocs1 .woocs_container .woocs_count {
+display: none;
+}
+.woocs1 .woocs_container .woocs_price_range {
+display: none;
+}
+
+.woocs1 .woocs_container .woocs_title {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 22px;
+}
+
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    color: #fff;
+    background-color: #33899c;
+}
+
+
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt:hover, .woocommerce button.button.alt, .woocommerce input.button.alt:hover {
+    color: #fff;
+    background-color: #a5abab;
+}
+
+
+.yst-traffic-light {
+display: none;
+}
+
+#wpseo-score {
+display: none;
+}
+
+
+.logo-wrap {
+    padding: 25px;
+    padding-bottom: 0;
+}
+
+
+
+
+ 
+
+</style>
+
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body class="error404 unknown fave-body">
+
+<div id="outer-wrap">
+
+	<div id="inner-wrap1">
+        <div id="pageslide">
+            <a class="close-btn" id="nav-close-btn" href="#top"><i class="fa fa-times-circle-o"></i></a>
+        </div>
+        		
+
+            <header class="header container">
+            <div class="adbanner">
+            <img src="">
+</div>
+                <div class="navbar secondary-nav " role="navigation">
+                    
+                    <div class="mokka-secondary-menu">
+                    <ul id="menu-top" class="page-nav nav nav-pills navbar-left hidden-sm hidden-xs"><li id="nav-menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.saltyhome.com/my-account/">Login</a></li>
+<li id="nav-menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.saltyhome.com/my-account/">My Account</a></li>
+<li id="nav-menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.saltyhome.com/contact/">Contact</a></li>
+<li id="nav-menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.saltyhome.com/about/">About</a></li>
+<li id="nav-menu-item-3860" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.saltyhome.com/customer-service/">Customer Service</a></li>
+</ul><!-- .page-nav -->
+                    </div>
+                    
+                    <ul class="nav-social list-inline navbar-right"><li><a href="https://www.facebook.com/saltyhome/" target="_blank">
+			<i class="fa fa-facebook-square"></i></a>
+			</li><li><a href="https://www.instagram.com/saltyhomeinc/" target="_blank">
+			<i class="fa fa-instagram"></i></a>
+			</li></ul>                    
+                    <div class="nav-open-wrap navbar-header">
+                        <button type="button" id="nav-open-btn" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div><!-- .navbar-header -->
+                    <div class="cart"><a href="/cart"><img src="https://saltyhome.com/wp-content/uploads/2016/03/cart_icon.png" height="79"></a></div>
+
+
+<div class="search-right">
+<form class="navbar-search navbar-form" method="get" id="searchform" action="https://www.saltyhome.com/" role="search">
+    <div class="form-group">
+        <input type="text" name="s" id="s" placeholder="Search" class="form-control">
+    </div>
+    <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+</div>
+
+                </div><!-- .navbar -->
+                
+                <div class="logo-wrap animated text-center">
+                    <h1 class="logo">
+                                        <a href="https://www.saltyhome.com/">
+                        <img width="" height="" src="http://www.saltyhome.com/wp-content/uploads/2016/04/sh_logo.png" alt="Salty Home" title="Salty Home"/>
+                    </a>
+                    </h1>
+                <!-- <img src="https://www.saltyhome.com/Website-Banner.jpg"> -->
+                </div><!-- .logo-wrap -->
+                
+                                <div class="banner hidden-sm hidden-xs">
+                    <div class="banner-wrapper">
+                        <div class="navbar-header">
+                          
+                        </div>
+                        <!-- main nav -->
+                       <!--  <div class="navbar yamm hidden-sm hidden-xs"> -->
+                        <div class="navbar yamm hidden-sm hidden-xs">
+                            <nav id="primary-nav-wrapper" class="primary-nav animated clearfix">
+                                <ul id="menu-main" class="navbar-nav"><li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-3995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/product-category/custom-furniture-accessories/">Furniture</a><div class="nav-sub-wrap container"><div class="fave row">
+<ul class="dropdown-menu">
+	<li id="menu-item-295" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/magnolia-home/">Magnolia Home</a></li>
+	<li id="menu-item-294" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/islands-and-bars/">Islands and Bars</a></li>
+	<li id="menu-item-3867" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/buffets-and-servers/">Buffets and Servers</a></li>
+	<li id="menu-item-3866" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/bedroom/">Bedroom</a></li>
+	<li id="menu-item-3868" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/dining-tables/">Dining Tables</a></li>
+	<li id="menu-item-3869" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/entertainment/">Entertainment</a></li>
+	<li id="menu-item-3870" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/occasional-tables/">Occasional Tables</a></li>
+	<li id="menu-item-3871" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/office/">Office</a></li>
+	<li id="menu-item-3873" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/shelving-and-storage/">Shelving and Storage</a></li>
+	<li id="menu-item-3872" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/seating/">Seating</a></li>
+	<li id="menu-item-5436" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/upholstery/">Upholstery</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-38" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a href="https://www.saltyhome.com/product-category/home-decor/">HOME DECOR</a>
+<ul class="dropdown-menu">
+	<li id="menu-item-3877" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/baskets-containers-and-assorted-storage/">Baskets, Containers, and Assorted Storage</a></li>
+	<li id="menu-item-3878" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/bedding-and-pillows/">Bedding and Pillows</a></li>
+	<li id="menu-item-3879" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/decorative-accessories/">Decorative Accessories</a></li>
+	<li id="menu-item-3880" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/desk-accessories/">Desk Accessories</a></li>
+	<li id="menu-item-10604" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/outdoor-safe/">Outdoor Safe</a></li>
+	<li id="menu-item-166" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/picture-frames/">Picture Frames</a></li>
+	<li id="menu-item-3882" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/rugs-and-mats/">Rugs and Mats</a></li>
+	<li id="menu-item-167" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/tableware/">Tableware</a></li>
+	<li id="menu-item-168" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/wall-decor/">Wall Decor</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a href="https://www.saltyhome.com/product-category/aromatherapy/">AROMATHERAPY</a>
+<ul class="dropdown-menu">
+	<li id="menu-item-161" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/aromatherapy/candles-and-wax-melts/">Candles and Wax Melts</a></li>
+	<li id="menu-item-162" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/aromatherapy/diffusers/">Diffusers</a></li>
+	<li id="menu-item-163" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/aromatherapy/potpourri/">Potpourri</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a href="https://www.saltyhome.com/product-category/womens-accessories/">WOMEN’S ACCESSORIES</a>
+<ul class="dropdown-menu">
+	<li id="menu-item-175" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/womens-accessories/bags-totes-wallets/">Bags, Totes, Wallets</a></li>
+	<li id="menu-item-176" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/womens-accessories/jewelry/">Jewelry</a></li>
+	<li id="menu-item-177" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/womens-accessories/scarves/">Scarves</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-152" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a href="https://www.saltyhome.com/product-category/gifts/">GIFTS</a>
+<ul class="dropdown-menu">
+	<li id="menu-item-3874" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/bath/">Bath</a></li>
+	<li id="menu-item-164" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/childrens/">Children&#8217;s Cherishables</a></li>
+	<li id="menu-item-4001" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/for-him/">For Him</a></li>
+	<li id="menu-item-3875" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/garden-lover/">Garden Lover</a></li>
+	<li id="menu-item-3876" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/gourmet/">Gourmet</a></li>
+	<li id="menu-item-10371" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/hostess-gifts/">Hostess Gifts</a></li>
+	<li id="menu-item-165" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/nautical/">Nautical</a></li>
+	<li id="menu-item-6003" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/paper/">Stationery</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a href="https://www.saltyhome.com/product-category/seasonal/">SEASONAL</a>
+<ul class="dropdown-menu">
+	<li id="menu-item-155" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/christmas/">Christmas</a></li>
+	<li id="menu-item-174" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/valentines-day/">Valentine&#8217;s Day</a></li>
+	<li id="menu-item-172" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/st-patricks-day/">St. Patrick&#8217;s Day</a></li>
+	<li id="menu-item-169" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/easter/">Easter</a></li>
+	<li id="menu-item-170" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/fourth-of-july/">Fourth of July</a></li>
+	<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/halloween/">Halloween</a></li>
+	<li id="menu-item-173" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/thanksgiving/">Thanksgiving</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-1991" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/sale/">SALE</a></li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li></ul>                            </nav>
+                        </div>
+                        <!-- .primary-nav -->
+                    </div>
+                </div>
+                                	<!-- main nav -->
+                	<div class="navbar main-hidden yamm hidden-sm hidden-xs">
+                	    <nav id="primary-nav-wrapper" class="primary-nav animated mokka-main-menu clearfix">
+                	        <ul id="menu-main-1" class="navbar-nav"><li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-3995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/product-category/custom-furniture-accessories/">Furniture</a><div class="nav-sub-wrap container"><div class="fave row">
+<ul class="dropdown-menu">
+	<li id="menu-item-295" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/magnolia-home/">Magnolia Home</a></li>
+	<li id="menu-item-294" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/islands-and-bars/">Islands and Bars</a></li>
+	<li id="menu-item-3867" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/buffets-and-servers/">Buffets and Servers</a></li>
+	<li id="menu-item-3866" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/bedroom/">Bedroom</a></li>
+	<li id="menu-item-3868" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/dining-tables/">Dining Tables</a></li>
+	<li id="menu-item-3869" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/entertainment/">Entertainment</a></li>
+	<li id="menu-item-3870" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/occasional-tables/">Occasional Tables</a></li>
+	<li id="menu-item-3871" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/office/">Office</a></li>
+	<li id="menu-item-3873" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/shelving-and-storage/">Shelving and Storage</a></li>
+	<li id="menu-item-3872" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/seating/">Seating</a></li>
+	<li id="menu-item-5436" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/custom-furniture-accessories/upholstery/">Upholstery</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-38" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a href="https://www.saltyhome.com/product-category/home-decor/">HOME DECOR</a>
+<ul class="dropdown-menu">
+	<li id="menu-item-3877" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/baskets-containers-and-assorted-storage/">Baskets, Containers, and Assorted Storage</a></li>
+	<li id="menu-item-3878" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/bedding-and-pillows/">Bedding and Pillows</a></li>
+	<li id="menu-item-3879" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/decorative-accessories/">Decorative Accessories</a></li>
+	<li id="menu-item-3880" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/desk-accessories/">Desk Accessories</a></li>
+	<li id="menu-item-10604" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/outdoor-safe/">Outdoor Safe</a></li>
+	<li id="menu-item-166" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/picture-frames/">Picture Frames</a></li>
+	<li id="menu-item-3882" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/rugs-and-mats/">Rugs and Mats</a></li>
+	<li id="menu-item-167" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/tableware/">Tableware</a></li>
+	<li id="menu-item-168" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/home-decor/wall-decor/">Wall Decor</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a href="https://www.saltyhome.com/product-category/aromatherapy/">AROMATHERAPY</a>
+<ul class="dropdown-menu">
+	<li id="menu-item-161" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/aromatherapy/candles-and-wax-melts/">Candles and Wax Melts</a></li>
+	<li id="menu-item-162" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/aromatherapy/diffusers/">Diffusers</a></li>
+	<li id="menu-item-163" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/aromatherapy/potpourri/">Potpourri</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a href="https://www.saltyhome.com/product-category/womens-accessories/">WOMEN’S ACCESSORIES</a>
+<ul class="dropdown-menu">
+	<li id="menu-item-175" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/womens-accessories/bags-totes-wallets/">Bags, Totes, Wallets</a></li>
+	<li id="menu-item-176" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/womens-accessories/jewelry/">Jewelry</a></li>
+	<li id="menu-item-177" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/womens-accessories/scarves/">Scarves</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-152" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a href="https://www.saltyhome.com/product-category/gifts/">GIFTS</a>
+<ul class="dropdown-menu">
+	<li id="menu-item-3874" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/bath/">Bath</a></li>
+	<li id="menu-item-164" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/childrens/">Children&#8217;s Cherishables</a></li>
+	<li id="menu-item-4001" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/for-him/">For Him</a></li>
+	<li id="menu-item-3875" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/garden-lover/">Garden Lover</a></li>
+	<li id="menu-item-3876" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/gourmet/">Gourmet</a></li>
+	<li id="menu-item-10371" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/hostess-gifts/">Hostess Gifts</a></li>
+	<li id="menu-item-165" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/nautical/">Nautical</a></li>
+	<li id="menu-item-6003" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/gifts/paper/">Stationery</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a href="https://www.saltyhome.com/product-category/seasonal/">SEASONAL</a>
+<ul class="dropdown-menu">
+	<li id="menu-item-155" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/christmas/">Christmas</a></li>
+	<li id="menu-item-174" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/valentines-day/">Valentine&#8217;s Day</a></li>
+	<li id="menu-item-172" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/st-patricks-day/">St. Patrick&#8217;s Day</a></li>
+	<li id="menu-item-169" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/easter/">Easter</a></li>
+	<li id="menu-item-170" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/fourth-of-july/">Fourth of July</a></li>
+	<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/halloween/">Halloween</a></li>
+	<li id="menu-item-173" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/seasonal/thanksgiving/">Thanksgiving</a></li>
+</ul>
+</li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li><li id="menu-item-1991" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://www.saltyhome.com/product-category/sale/">SALE</a></li>
+<li class="nav-icon"><i class="fa fa-circle"></i></li></ul>                	    </nav>
+                	</div>
+                	<!-- .primary-nav -->
+              
+               
+            </header><!-- .header -->
+            
+           <div id="showHere"></div>
+	
+<div class="container">
+
+	<div class="row animated">
+		<!-- content -->	
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<section class="content">
+				
+                <div class="post single-post">
+
+                    <div class="post-content">
+                    
+                            <div class="entry">
+                                                                   <img src="http://www.saltyhome.com/wp-content/themes/mokka/images/error-page.png" alt="Ooops! There is no page" width="400" height="400" />
+                                                                <h1>Ooops! There is no page</h1>
+                            </div><!-- .entry -->
+                            
+                        </div>
+                
+                </div>
+                
+			</section>
+		</div>
+	</div>
+
+</div>
+	
+
+<footer class="footer">
+
+
+
+    
+
+
+
+    <div class="copyright-wrapper">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+
+                    <div class="copyright">P.O. Box 1258 | 2044 Montauk Hwy Building 1, Suite 16  | Bridgehampton NY 11932 | tel: 631-237-1250 | fax: 631-237-1251</div>
+
+                </div>
+
+                <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+
+                    <div class="credits">© Copyright 2017 - All Right Reserved   | <a href="https://www.jhepperle.com" target="blank"><span style="color: #fff;">JH:DEV</span></a></div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div><!-- .copyright-wrapper -->
+
+</footer>
+
+
+
+</div>
+
+<!--/#inner-wrap-->
+
+</div>
+
+<!--/#outer-wrap-->
+
+	<script type='text/javascript' src='http://www.saltyhome.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/plugins/woocommerce-jetpack/includes/js/wcj-datepicker.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/plugins/woocommerce-jetpack/includes/js/wcj-weekpicker.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/plugins/woocommerce-jetpack/includes/lib/timepicker/jquery.timepicker.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/plugins/woocommerce-jetpack/includes/js/wcj-timepicker.js?ver=3.2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.saltyhome.com\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.saltyhome.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.saltyhome.com\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.saltyhome.com\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_25c857818bfa8dfbe49d5b646b098928"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js/bootstrap.min.js?ver=1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js/jquery.mousewheel.min.js?ver=3.0.6'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js//jquery.touchSwipe.min.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js/jquery.transit.min.js?ver=1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js/jquery.ba-throttle-debounce.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js/masonry.pkgd.min.js?ver=1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js/imagesloaded.js?ver=1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js/plugins.js?ver=1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js/ilightbox.packed.js?ver=1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js/owl.carousel.min.js?ver=1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js/headhesive.min.js?ver=1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-content/themes/mokka/js/custom.js?ver=1'></script>
+<script type='text/javascript' src='http://www.saltyhome.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+<script type="text/javascript">
+
+</script>
+
+		    <script>
+	        // Set options
+	        var options = {
+	            offset: '#showHere',
+	            classes: {
+	                clone:   'banner--clone',
+	                stick:   'banner--stick',
+	                unstick: 'banner--unstick'
+	            }
+	        };
+
+	        // Initialise with options
+	        var banner = new Headhesive('.banner', options);
+
+	        // Headhesive destroy
+	        // banner.destroy();
+
+
+	    </script>
+	
+</body>
+<style>
+.wpseo-score-icon.ok {
+background-color: green;
+}
+
+.search {
+float: none;
+}
+</style>
+</html>
+<script type="text/javascript">
+$(".element").hover(function(){
+
+        // Get the current title
+        var title = $(this).attr("title");
+
+        // Store it in a temporary attribute
+        $(this).attr("tmp_title", title);
+
+        // Set the title to nothing so we don't see the tooltips
+        $(this).attr("title","");
+        
+    });
+
+  $(".element").click(function(){// Fired when we leave the element
+
+        // Retrieve the title from the temporary attribute
+        var title = $(this).attr("tmp_title");
+
+        // Return the title to what it was
+        $(this).attr("title", title);
+        
+    });
+</script>

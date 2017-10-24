@@ -1,0 +1,1566 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="LTR" lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<!--<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />-->
+<title>Más LIBROS Tu Tienda Online</title>
+<meta name="description" content="La tienda online de libros más grande de México para el Mundo ¡Entra ahora! es fácil y seguro." />
+<meta name="keywords" content="librería, royceshop, placismo, compra online, tienda online, diccionarios, enciclopedias, libros, medicina, negocios, marketing, emprendedores, técnicos, novedades, ebooks," />
+<link rel="stylesheet" type="text/css" href="promocion/css/magnific-popup.css">
+<link rel="stylesheet" type="text/css" href="promocion/css/style.css">
+<script src='promocion/js/jquery.min.js'></script>
+<script src='promocion/js/jquery.magnific-popup.min.js'></script>
+
+<base href="https://www.maslibros.mx/" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+<!-- Archivos CSS -->
+<link rel="stylesheet" type="text/css" href="ext/css/mj-template.css" />
+<link rel="stylesheet" type="text/css" href="ext/css/mj_tabcontent.css" />
+<link rel="stylesheet" type="text/css" href="ext/css/template.css" />
+<link rel="stylesheet" type="text/css" href="ext/css/mj-tab.css" />
+<link rel="stylesheet" type="text/css" href="ext/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="ext/css/bootstrap-responsive.css" />
+<link rel="stylesheet" type="text/css" href="ext/css/mj-general.css" />
+<link rel="stylesheet" type="text/css" href="ext/css/mj-mobile.css" />
+<link rel="stylesheet" type="text/css" href="ext/css/mj-ie.css" />
+<link rel="stylesheet" type="text/css" href="ext/css/mj-layout.css" />
+<link rel="stylesheet" type="text/css" href="ext/css/flexslider.css" />
+<link rel="stylesheet" type="text/css" href="ext/jquery/ui/redmond/jquery-ui-1.8.22.css" />
+<link rel="stylesheet" type="text/css" href="ext/jquery/fancybox/jquery.fancybox-1.3.4.css" />
+<link href="ext/jquery/jpecrga/jpecrga-default.css" rel="stylesheet" type="text/css" />
+
+	<link rel="stylesheet" type="text/css" href="ext/css/homepage.css" />
+  
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="ext/css/mj-ie8.css" />
+<![endif]-->
+<!-- Termina archivos CSS -->
+<!-- Archivos JS -->
+<script type="text/javascript" src="ext/jquery/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="ext/jquery/ui/jquery-ui-1.8.22.min.js"></script>
+<script type="text/javascript" src="ext/jquery/css_browser_selector.js"></script>
+<script type="text/javascript" src="ext/jquery/jquery.carouFredSel-6.0.4-packed.js"></script>
+<script type="text/javascript">
+var jqqqnoconf=jQuery.noConflict();
+// fix jQuery 1.8.0 and jQuery UI 1.8.22 bug with dialog buttons; http://bugs.jqueryui.com/ticket/8484
+if ( jqqqnoconf.attrFn ) { jqqqnoconf.attrFn.text = true; }
+</script>
+
+
+<script type="text/javascript" src="ext/jquery/bxGallery/jquery.bxGallery.1.1.min.js"></script>
+<script type="text/javascript" src="ext/jquery/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="ext/jquery/bootstrap.js"></script>
+<script type="text/javascript" src="ext/jquery/jquery.flexslider.js"></script>
+<script type="text/javascript" src="ext/jquery/osmart.js"></script>
+<script type="text/javascript" src="ext/jquery/tabcontent.js"></script>
+<!-- Termina archivos JS -->
+
+<!-- Fuentes de Google -->
+<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' />
+<link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css' />
+<!-- Termina fuentes de Google -->
+
+
+<link rel="stylesheet" type="text/css" href="ext/css/mj-green.css" />
+
+<script type="text/javascript">
+	var tba = jQuery.noConflict();
+	tba(document).ready(function(){       
+            var scroll_pos = 0;
+            tba(document).scroll(function() { 
+                scroll_pos = tba(this).scrollTop();
+                if(scroll_pos > 25) {
+                    tba("#mj-topbar").css('background-color', '#509B00');
+					tba("#mj-topbar").css('background-image','url("images/topbar-bg.png") repeat scroll 0 0 transparent');
+					tba("#mj-topbar a").css('color', '#FFFFFF');
+					tba("#mj-topbar div").css('color', '#FFFFFF');
+					tba("#mj-topbar li").css('background', 'url("images/topbar-arrow-white.png") no-repeat scroll right center transparent');
+					tba("#mj-topbar li:last-child").css('background', 'none');
+                } 
+				else 
+				{
+					tba("#mj-topbar").css('background','url("images/topbar-bg.png") repeat scroll 0 0 transparent');
+					tba("#mj-topbar a").css('color', '#509B00');
+					tba("#mj-topbar div").css('color', '#509B00');
+					tba("#mj-topbar li").css('background', 'url("images/icons/green-arrow.png") no-repeat scroll right center transparent');
+					tba("#mj-topbar li:last-child").css('background', 'none');
+                }
+            });
+        });
+</script><meta property="og:image" content="" />
+
+<script type="text/javascript"> //<![CDATA[ 
+var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
+document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script>
+
+<link href="promocion/css/bootstrap.min.css" rel="stylesheet">
+<style type="text/css">
+  #promocion{
+    display: none;
+    background-color: transparent;
+  }
+  #promocion2{
+    -moz-border-radius: 15px 15px 15px 15px;
+    -webkit-border-radius: 15px 15px 15px 15px;
+    border-radius: 15px 15px 15px 15px;
+    overflow: hidden;
+  }
+  .rowa{
+    margin-top: 10px;
+  }
+</style>
+  
+<div id="promocion" class="white-popup mfp-with-anim mfp-hide">
+  <div id="promocion2">
+  <img src="https://www.maslibros.mx/400.jpg" alt="Novedades de Libros Impresos, e-Books, Software y DVDs" title="Suscríbete para recibir todas nuestras novedades">
+  </div>
+  <form method="post" action="https://www.royceeditores.com/pommo/subscribe.php" name="signup" id="newsletter">
+  <div class="rowa">
+    <div class="col-lg-6">
+      <div class="input-group input-group-lg">
+          <input type="text" class="form-control" name="Email" id="email" placeholder="Introduzca su correo electr&oacute;nico aqu&iacute;...">
+          <span class="input-group-btn">
+            <button class="btn btn-success btn-lg" type="submit">Enviar</button>
+          </span>
+      </div>
+    </div>
+  </div>
+  </form>
+</div>
+
+<script type="text/javascript">
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+    }
+    return "";
+}
+
+function checkCookie() {
+    var user = getCookie("username");
+    if (user != "") {
+    } else {
+        document.getElementById("promocion").style.display = "block";
+        setCookie("username", "1", 15);
+        $.magnificPopup.open({
+          removalDelay: 500,
+          items: {
+            src: '#promocion'
+          },
+          type: 'inline',
+          mainClass: 'mfp-newspaper'
+        }, 0);
+    }
+}
+</script>
+
+</head>
+<body> <!-- Inicia la página -->
+
+        <script type="text/javascript">
+        checkCookie();
+      </script>
+  	
+	<div id="mj-container"> <!-- Contenido -->
+		
+<div id="mj-topbar"><!-- mj-topabar -->
+    	<div class="mj-subcontainer"><!-- mj-subcontainer -->
+            <div class="mj-grid16 mj-lspace" style="letter-spacing:1px;">LL&Aacute;MENOS&nbsp;&nbsp;&nbsp;<a href="tel:52861577">5286 1577</a></div>             	
+            <div id="headerShortcuts" class="mj-grid80 mj-rspace">
+            	<ul class="menu"> 
+					<li><span class="tdbLink"><a id="tdb1" href="https://www.maslibros.mx/index.php">Inicio</a></span><script type="text/javascript">var jqnntb=jQuery.noConflict();jqnntb("#tdb1").button().addClass("ui-priority-secondary").parent().removeClass("tdbLink");</script></li><li><span class="tdbLink"><a id="tdb2" href="https://www.maslibros.mx/login.php">Ingresar</a></span><script type="text/javascript">var jqnntb=jQuery.noConflict();jqnntb("#tdb2").button().addClass("ui-priority-secondary").parent().removeClass("tdbLink");</script></li><li><span class="tdbLink"><a id="tdb3" href="https://www.maslibros.mx/checkout_shipping.php">Procesar Pedido</a></span><script type="text/javascript">var jqnntb=jQuery.noConflict();jqnntb("#tdb3").button({icons:{primary:"ui-icon-triangle-1-e"}}).addClass("ui-priority-secondary").parent().removeClass("tdbLink");</script></li><li><span class="tdbLink"><a id="tdb4" href="https://www.maslibros.mx/carrito.php">Ver Cesta</a></span><script type="text/javascript">var jqnntb=jQuery.noConflict();jqnntb("#tdb4").button({icons:{primary:"ui-icon-cart"}}).addClass("ui-priority-secondary").parent().removeClass("tdbLink");</script></li>                 </ul>
+  			</div>
+        </div><!-- mj-subcontainer End -->
+</div><!-- mj-topabar ends -->
+
+<div id="mj-header"> <!-- mj-header starts -->
+	<div class="mj-subcontainer"> <!-- mj-subcontainer starts -->
+  		<div id="mj-logo"> <!-- mj-logo starts -->
+            <a href="https://www.maslibros.mx/"><img src="images/tienda-online-royce-editores.png" alt="Más LIBROS Tu Tienda Online" title="Más LIBROS Tu Tienda Online" width="198" height="62" /></a>        </div> <!-- mj-logo ends -->
+         <div class="mj-grid16 mj-rspace mj-lspace"> <!-- mj-grid16 starts -->
+         		 <!-- mj-languagebar ends -->
+                <div class="mj-currencies"> <!-- mj-currencies starts -->
+						<form name="currencies" action="https://www.maslibros.mx/index.php" method="get"><select name="currency" onchange="this.form.submit();" class="select"><option value="USD">U.S. Dollar</option><option value="EUR">Euro</option><option value="MXN" selected="selected">Pesos Mexicanos</option></select></form>         			</div>
+         </div> <!-- mj-grid16 ends -->
+  	
+    		<div class="mj-grid32 mj-lspace"> <!-- mj-grid32 starts -->
+                    <form name="search" action="https://www.maslibros.mx/advanced_search_result.php" method="get">                    <div class="search"> <!-- mj-search starts -->
+                    		<input type="text" maxlength="100" name="keywords" class="go" style="width:100%; padding-left:7px;" value="Buscar por Título, Autor, ISBN o Editorial..." 
+                    		onblur="if(this.value=='') this.value='Buscar por Título, Autor, ISBN o Editorial...'" onfocus="if(this.value =='Buscar por Título, Autor, ISBN o Editorial...' ) this.value=''" />
+                     		<button id="search-button" type="submit"><span>BUSCAR</span></button>
+                    </div> <!-- mj-search ends -->
+                    </form>    
+            </div> <!-- mj-grid32 ends -->
+			<script type="text/javascript">
+			var jqheader=jQuery.noConflict();
+  				jqheader("#headerShortcuts").buttonset();
+			</script>
+	</div> <!-- mj-subcontainer ends -->
+</div> <!-- mj-header starts -->
+
+	<div id="mj-righttop"> <!-- mj-righttop starts -->
+    	<div class="mj-subcontainer"> <!-- mj-subcontainer starts -->
+    		<div id="mj-menubar"> <!-- mj-menubar starts -->
+            	<script type="text/javascript">
+				</script>
+    			<div class="jsn-mainnav navbar">
+					<div class="jsn-mainnav-inner navbar-inner">
+						<div class="container clearfix">
+                        	<div class="mainnav-toggle clearfix">
+                    			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span>Menú Principal</span></button>
+                			</div>
+   							<div id="jsn-pos-mainnav" class="nav-collapse collapse clearfix">
+    							<ul class="nav">
+                                    <li    onclick="document.location='https://www.maslibros.mx'"><a> página principal</a>
+                                    </li>
+                                    <li><a>tienda</a>
+                                    	<ul class="nav-child unstyled">
+                                        	<li ><a href="https://www.maslibros.mx/novedades.php">Novedades</a>
+                                            </li>
+                                    		<li ><a href="https://www.maslibros.mx/ofertas.php">Ofertas</a>
+                                            </li>
+                                            <!-- <li  onclick="document.location='https://www.maslibros.mx/typography.php'"><a>tipografía</a>
+                                            </li> -->
+                                        </ul>
+                                    </li>
+                                    <li><a>Categorías</a>
+                                    	<ul class="nav-child unstyled">
+                                    <!--Módulo de categorías-->
+											<ul class="nav"><li class="selected_0"><a href="https://www.maslibros.mx/agricultura-y-ganaderia-c-49  ">Agricultura y Ganadería</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/arquitectura-e-ingenieria-c-35  ">Arquitectura e Ingeniería</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/arte-dibujo-y-pintura-c-50  ">Arte, Dibujo y Pintura</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/audiolibros-c-62  ">AudioLibros</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/carpinteria-c-41  ">Carpintería</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/cuentos-y-fabulas-c-47  ">Cuentos y Fábulas</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/derecho-c-37  ">Derecho</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/diccionarios-y-enciclopedias-c-48  ">Diccionarios y Enciclopedias</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/documentales-c-63  ">Documentales</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/enfermeria-c-38  ">Enfermería</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/esoterismo-c-40  ">Esoterismo</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/gastronomia-c-36  ">Gastronomía</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/herreria-c-42  ">Herrería</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/libros-infantiles-c-51  ">Libros Infantiles</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/libros-tecnicos-c-53  ">Libros Técnicos</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/literatura-c-34  ">Literatura</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/manualidades-c-61  ">Manualidades</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/maquillaje-y-peluqueria-c-52  ">Maquillaje y Peluquería</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/medicina-c-39  " class="current_parent">Medicina</a>
+<ul class="nav-child unstyled"><li class="selected_1"><a href="https://www.maslibros.mx/veterinaria-c-39_46  ">Veterinaria</a></li>
+</ul></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/mundo-animal-c-45  ">Mundo Animal</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/negocios-y-marketing-c-59  ">Negocios y Marketing</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/psicologia-y-psiquiatria-c-54  ">Psicología y Psiquiatría</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/religion-c-44  ">Religión</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/salud-y-bienestar-c-43  ">Salud y Bienestar</a></li>
+<li class="selected_0"><a href="https://www.maslibros.mx/software-educativo-c-60  ">Software Educativo</a></li>
+</ul></li>
+		                                    <!--end Superfish-->
+                                    	</ul>
+                                   	</li>
+											                                                           
+                                    <li   onclick="document.location='https://www.maslibros.mx/create_account.php'"><a>Crear una Cuenta</a>
+                                    </li>
+                                    <li >
+                                      <a href="https://www.royceshop.com/blog/" target="_blank">Blog</a>
+                                    </li>
+                                    <li   onclick="document.location='https://www.maslibros.mx/contactenos.php'">
+                                    	<a>Contáctenos</a>
+                                    </li>
+    							</ul>
+    						</div> 
+    					</div>
+    				</div>
+				</div>
+    		</div> <!-- mj-menubar ends -->
+    	</div> <!-- mj-subcontainer ends -->
+    </div> <!-- mj-righttop ends -->
+ <!-- Condition check for breadcrumb -->
+ <!-- if condition for breadcrumb ends -->
+ <!-- Comienza la presentación -->
+
+<div id="mj-slideshow"> <!-- Comienda el slider -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="slider/css/jquery.plugins.min.js"></script>
+<script type="text/javascript" src="slider/css/jquery.revolution.min.js"></script>
+<link rel="stylesheet" type="text/css" href="slider/css/settings.css" media="screen" />
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+		if ($.fn.cssOriginal!=undefined)
+			$.fn.css = $.fn.cssOriginal;
+
+				$('.fullwidthbanner').revolution(
+					{
+					delay:6000,
+					startwidth:1140,
+					startheight:350,
+					onHoverStop:"on",					
+					thumbWidth:100,							
+					thumbHeight:50,
+					thumbAmount:3,
+					navigationType:"bullet",					
+					navigationArrows:"verticalcentered",		
+					navigationStyle:"round",				
+					touchenabled:"on",						
+					navOffsetHorizontal:0,
+					navOffsetVertical:0,
+					stopAtSlide:-1,
+					stopAfterLoops:-1,						
+					hideCaptionAtLimit:0,					
+					hideAllCaptionAtLilmit:0,				
+					hideSliderAtLimit:0,					
+					fullWidth:"on",
+					shadow:0						
+			});
+	});
+
+</script>
+
+<style>
+.locotronico{ margin-top:110px;}
+@media (max-width: 1500px) {
+.locotronico { margin-top:75px;}
+}
+@media (max-width: 1400px) {
+.locotronico { margin-top:60px;}
+}
+@media (max-width: 1300px) {
+.locotronico { margin-top:40px;}
+}
+@media (max-width: 1200px) {
+.locotronico { margin-top:25px;}
+}
+@media (max-width: 1100px) {
+.locotronico { margin-top:20px;}
+}
+@media (max-width: 800px) {
+.locotronico { margin-top:15px;}
+}
+@media (max-width: 700px) {
+.locotronico { margin-top:15px;}
+}
+@media (max-width: 600px) {
+.locotronico { margin-top:10px;}
+}
+</style>
+
+<!-- slider -->
+<div class="fullwidthbanner-container">
+	<div class="fullwidthbanner">
+		<ul>
+        
+           <!--
+           <li data-transition="slideleft" data-slotamount="10" data-masterspeed="300">
+           		<img src="slider/img/mas_libros_novedades.jpg" data-fullwidthcentering="on">
+				<a href="https://www.maslibros.mx/lexus-editores-m-24"><div class="caption lfl stl locotronico"
+                	data-x="420"
+					data-y="0"
+					data-speed="300"
+					data-start="500"
+					data-easing="easeOutExpo" data-endspeed="300" data-endeasing="easeInSine" ><img src="slider/img/mas_libros_novedades.png">
+                </div></a>
+           </li> 
+            
+            
+            <li data-transition="slideleft" data-slotamount="10" data-masterspeed="300">
+           		<img src="slider/img/student.jpg" data-fullwidthcentering="on">
+				<a href="https://www.maslibros.mx/editorial-macro-m-80"><div class="caption lfl stl locotronico"
+                	data-x="420"
+					data-y="0"
+					data-speed="300"
+					data-start="500"
+					data-easing="easeOutExpo" data-endspeed="300" data-endeasing="easeInSine" ><img src="slider/img/novedades_macro.png">
+                </div></a>
+           </li> -->
+            
+            
+            <li data-transition="slideleft" data-slotamount="10" data-masterspeed="300">
+           		<img src="slider/img/student.jpg" alt="Novedades de Grupo Cultural" title="Haz clic aquí y conoce todas las novedades de Grupo Cultural" data-fullwidthcentering="on">
+				<a href="https://www.maslibros.mx/grupo-cultural-m-22"><div class="caption lfl stl locotronico"
+                	data-x="420"
+					data-y="0"
+					data-speed="300"
+					data-start="500"
+					data-easing="easeOutExpo" data-endspeed="300" data-endeasing="easeInSine" ><img src="slider/img/novedades_cultural.png" alt="Novedades de Grupo Cultural" title="Tu nuevo libro a un click de distancia">
+                </div></a>
+           </li>
+           
+           
+		   <li data-transition="slideleft" data-slotamount="10" data-masterspeed="300">
+                <img src="slider/img/mas_libros_sitio_seguro.jpg" alt="MásLibros.Mx es un sitio seguro" title="Es fácil y seguro pagar todas sus compras en Royce Editores" data-fullwidthcentering="on">
+				<a href="https://www.maslibros.mx/pagos.php"><div class="caption lfl stl locotronico"
+					data-x="420"
+					data-y="0"
+					data-speed="300"
+					data-start="500"
+					data-easing="easeOutExpo" data-endspeed="300" data-endeasing="easeInSine" ><img src="slider/img/mas_libros_sitio_seguro.png" alt="Sitio seguro" title="Sitio web cifrados con https en todo el proceso de compra">
+                </div></a>
+           </li>
+           
+           
+           <li data-transition="slideleft" data-slotamount="10" data-masterspeed="300">
+           		<img src="slider/img/mas_libros_envios.jpg" alt="Enviamos su pedido local y nacional a través de FedEx" title="Compre en línea ahora y recíbalo en la comodidad de su hogar u oficina" data-fullwidthcentering="on">
+                <a href="https://www.maslibros.mx/envios.php"><div class="caption lfl stl locotronico"
+					data-x="420"
+					data-y="0"
+					data-speed="300"
+					data-start="500"
+					data-easing="easeOutExpo" data-endspeed="300" data-endeasing="easeInSine" ><img src="slider/img/mas_libros_envios.png" alt="Enviamos su pedido local y nacional a través de FedEx" title="Compre en línea ahora y recíbalo en la comodidad de su hogar u oficina">
+                </div></a>
+           </li>
+           
+           
+           <li data-transition="slideleft" data-slotamount="10" data-masterspeed="300">
+           		<img src="slider/img/mas_libros_envios_internacionales.jpg" alt="Enviamos a todo el mundo a través de FedEx, DHL o UPS" title="Compre en línea ahora y recíbalo en la comodidad de su hogar u oficina" data-fullwidthcentering="on">
+				<a href="https://www.maslibros.mx/envios.php"><div class="caption lfl stl locotronico"
+                	data-x="420"
+					data-y="0"
+					data-speed="300"
+					data-start="500"
+					data-easing="easeOutExpo" data-endspeed="300" data-endeasing="easeInSine" ><img src="slider/img/mas_libros_envios_internacionales.png" alt="Enviamos a todo el mundo a través de FedEx, DHL o UPS" title="Compre en línea ahora y recíbalo en la comodidad de su hogar u oficina">
+                </div></a>
+           </li>
+           
+           
+           
+		</ul>
+		<div class="tp-bannertimer"></div>
+	</div>
+</div>
+<!-- slider --></div> <!-- Termina el slider -->
+
+
+
+<div id="mj-featured1">
+                <div class="mj-subcontainer">
+                    <div class="mj-full"> <!-- Texto de Envío Gratis -->
+                    		<div class="mj-grid16 mj-rspace mj-lspace">¡Atención!</div>
+                            <div class="mj-grid80 mj-rspace mj-lspace">Surtimos a bibliotecas públicas y privadas con excelentes precios.</div>
+                     </div>
+                </div>	
+            </div>
+
+  <!-- Termina la presentación -->
+ <!-- inclusion of header file -->
+		<div id="mj-maincontent"> <!-- mj-maincontent starts -->
+			<div class="mj-subcontainer"> <!-- mj-subcontainer starts -->
+				<div id="mj-contentarea"  class="mj-grid64 mj-lspace" > <!-- mj-contentarea starts --> 
+            
+<!--<div id="bodyContent" class="grid_16 push_4">-->
+        
+        
+        <ul class="tabs">
+            <li><a href="#" rel="view1">NUEVO</a></li>
+            <li><a href="#" rel="view2">OFERTAS</a></li>
+        </ul>
+        <div class="tabcontents">
+            
+            <div id="view1" class="tabcontent">
+                 
+  <h2>Nuevos Productos en octubre</h2>
+
+  <div class="contentText">
+    <table border="0" width="100%" cellspacing="0" cellpadding="2"><tr><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/evaluacion-financiera-de-proyectos-p-1843  "><img src="images/evaluacion-financiera-proyectos-ecoe.jpg" alt="Evaluación Financiera de Proyectos" title="Evaluación Financiera de Proyectos" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/evaluacion-financiera-de-proyectos-p-1843  ">Evaluación Financiera de Proyectos</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/evaluacion-financiera-de-proyectos-p-1843  ">Compra en línea el libro Evaluación Financiera de Proyectos de Ec...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$890.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1843&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/habilidades-gerenciales-p-1842  "><img src="images/habilidades-gerenciales-actitud.jpg" alt="Habilidades Gerenciales" title="Habilidades Gerenciales" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/habilidades-gerenciales-p-1842  ">Habilidades Gerenciales</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/habilidades-gerenciales-p-1842  ">Compra en línea el libro Habilidades Gerenciales. Desarrollo de d...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$890.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1842&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/entendiendo-el-estandar-niif-para-pymes-p-1841  "><img src="images/entendiendo-estandar-niif-pymes-ecoe.jpg" alt="Entendiendo el Estándar NIIF® para Pymes" title="Entendiendo el Estándar NIIF® para Pymes" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/entendiendo-el-estandar-niif-para-pymes-p-1841  ">Entendiendo el Estándar NIIF® para Pymes</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/entendiendo-el-estandar-niif-para-pymes-p-1841  ">Las Normas Internacionales de Información Financiera son el están...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$890.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1841&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td></tr><tr><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/estrategias-de-internet-p-1840  "><img src="images/estrategias-internet-crecer.jpg" alt="Estrategias de Internet" title="Estrategias de Internet" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/estrategias-de-internet-p-1840  ">Estrategias de Internet</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/estrategias-de-internet-p-1840  ">Estrategias de Internet. Haga crecer su empresa y venda más.
+
+I...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$890.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1840&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/formulacion-y-evaluacion-de-proyectos-agropecuarios-p-1839  "><img src="images/formulacion-proyectos-agropecuarios-ecoe.jpg" alt="Formulación y Evaluación de Proyectos Agropecuarios" title="Formulación y Evaluación de Proyectos Agropecuarios" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/formulacion-y-evaluacion-de-proyectos-agropecuarios-p-1839  ">Formulación y Evaluación de Proyectos Agropecuarios</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/formulacion-y-evaluacion-de-proyectos-agropecuarios-p-1839  ">Compra en línea el libro Formulación y Evaluación de Proyectos Ag...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$690.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1839&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/3-claves-de-exito-de-la-familia-empresaria-p-1838  "><img src="images/tres-claves-exito-familia-empresaria-ecoe.jpg" alt="3 Claves de Éxito de la Familia Empresaria" title="3 Claves de Éxito de la Familia Empresaria" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/3-claves-de-exito-de-la-familia-empresaria-p-1838  ">3 Claves de Éxito de la Familia Empresaria</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/3-claves-de-exito-de-la-familia-empresaria-p-1838  ">Compra en línea el libro 3 Claves de Éxito de la Familia Empresar...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$690.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1838&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td></tr><tr><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/marketing-de-fidelizacion-p-1837  "><img src="images/marketing-fidelizacion-ecoe.jpg" alt="Marketing de Fidelización" title="Marketing de Fidelización" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/marketing-de-fidelizacion-p-1837  ">Marketing de Fidelización</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/marketing-de-fidelizacion-p-1837  ">Compra en línea el libro Marketing de Fidelización. Cómo lograr c...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$690.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1837&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/vender-mas-con-marketing-digital-p-1836  "><img src="images/vender-mas-marketing-digital-ecoe.jpg" alt="Vender Más con Marketing Digital" title="Vender Más con Marketing Digital" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/vender-mas-con-marketing-digital-p-1836  ">Vender Más con Marketing Digital</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/vender-mas-con-marketing-digital-p-1836  ">Compra en línea el libro Vender Más con Marketing Digital de Ecoe...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$690.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1836&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/ded-2017-diccionario-de-especialidades-dermatologicas-p-1834  "><img src="images/ded-2017-diccionario-especialidades-dermatologicas-plm.jpg" alt="DED 2017 Diccionario de Especialidades Dermatológicas" title="DED 2017 Diccionario de Especialidades Dermatológicas" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/ded-2017-diccionario-de-especialidades-dermatologicas-p-1834  ">DED 2017 Diccionario de Especialidades Dermatológicas</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/ded-2017-diccionario-de-especialidades-dermatologicas-p-1834  ">Compra en línea el libro DED 2017 Diccionario de Especialidades D...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$690.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1834&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td></tr><tr><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/coleccion-todo-sobre-mi-bebe-7-vols-p-1833  "><img src="images/coleccion-todo-sobre-mi-bebe-larousse.jpg" alt="Colección Todo Sobre Mi Bebé 7 Vols" title="Colección Todo Sobre Mi Bebé 7 Vols" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/coleccion-todo-sobre-mi-bebe-7-vols-p-1833  ">Colección Todo Sobre Mi Bebé 7 Vols</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/coleccion-todo-sobre-mi-bebe-7-vols-p-1833  ">Compra en línea la Colección Todo Sobre Mi Bebé 7 Vols de Edicion...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$1,990.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1833&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/100-maneras-de-hacer-reir-a-tu-bebe-p-1832  "><img src="images/100maneras-hacer-reir-bebe-larousse.jpg" alt="100 Maneras de Hacer Reír a Tu Bebé" title="100 Maneras de Hacer Reír a Tu Bebé" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/100-maneras-de-hacer-reir-a-tu-bebe-p-1832  ">100 Maneras de Hacer Reír a Tu Bebé</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/100-maneras-de-hacer-reir-a-tu-bebe-p-1832  ">Compra en línea el libro 100 Maneras de Hacer Reír a Tu Bebé de E...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$490.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1832&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/chocolate-100-placer-p-1831  "><img src="images/chocolate-placer-larousse.jpg" alt="Chocolate 100% Placer" title="Chocolate 100% Placer" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/chocolate-100-placer-p-1831  ">Chocolate 100% Placer</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/chocolate-100-placer-p-1831  ">Brownies, fondants, tartaletas, mousses, con frutas, batido, frío...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$290.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1831&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td></tr><tr><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/postres-con-frutas-100-placer-p-1830  "><img src="images/postres-con-frutas-larousse.jpg" alt="Postres con Frutas 100% Placer" title="Postres con Frutas 100% Placer" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/postres-con-frutas-100-placer-p-1830  ">Postres con Frutas 100% Placer</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/postres-con-frutas-100-placer-p-1830  ">Compra en línea el libro Postres con Frutas 100% Placer de Edicio...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$290.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1830&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/sopas-y-cremas-100-placer-p-1829  "><img src="images/sopas-cremas-cien-ciento-placer-larousse.jpg" alt="Sopas y Cremas 100% Placer" title="Sopas y Cremas 100% Placer" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/sopas-y-cremas-100-placer-p-1829  ">Sopas y Cremas 100% Placer</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/sopas-y-cremas-100-placer-p-1829  ">Compra en línea el libro Sopas y Cremas 100% Placer de Larousse; ...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$290.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1829&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/cocina-en-un-dos-por-tres-100-placer-p-1828  "><img src="images/cocina-dos-tres-cien-por-ciento-placer-larousse.jpg" alt="Cocina en un Dos por Tres 100% Placer" title="Cocina en un Dos por Tres 100% Placer" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/cocina-en-un-dos-por-tres-100-placer-p-1828  ">Cocina en un Dos por Tres 100% Placer</a>
+				</div>
+				<div class="product_desc">
+          <p class="s_desc">
+            <a href="https://www.maslibros.mx/cocina-en-un-dos-por-tres-100-placer-p-1828  ">Compra en línea el libro Cocina en un Dos por Tres 100 % Placer d...</a>
+          </p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">$290.00</div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+              <a href="?products_id=1828&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+	  </td></tr></table>  </div>
+
+            </div>
+            
+            <div id="view2" class="tabcontent">
+                
+  <h2>Ofertas especiales en octubre</h2>
+
+  <div class="contentText">
+    <table border="0" width="100%" cellspacing="0" cellpadding="2"><tr><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/coleccion-misterio-6-vols-p-61  "><img src="images/coleccion-misterio-novelas.jpg" alt="Colección Misterio 6 Vols" title="Colección Misterio 6 Vols" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/coleccion-misterio-6-vols-p-61  ">Colección Misterio 6 Vols</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/coleccion-misterio-6-vols-p-61  ">EL GOLEM, del autor: Gustav Meyrink.
+
+...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,790.00</span>
+					<span class="productSpecialPrice">$990.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=61&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/el-gran-libro-de-las-puertas-p-546  "><img src="images/gran_libro_puertas_lexus.jpg" alt="El Gran Libro de las PUERTAS" title="El Gran Libro de las PUERTAS" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/el-gran-libro-de-las-puertas-p-546  ">El Gran Libro de las PUERTAS</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/el-gran-libro-de-las-puertas-p-546  ">Una extraordinaria obra llena de ideas e...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,490.00</span>
+					<span class="productSpecialPrice">$690.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=546&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/el-gran-libro-del-vidrio-p-545  "><img src="images/vidrio_gran_libro_accesorios.jpg" alt="El Gran Libro del VIDRIO" title="El Gran Libro del VIDRIO" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/el-gran-libro-del-vidrio-p-545  ">El Gran Libro del VIDRIO</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/el-gran-libro-del-vidrio-p-545  ">Compra en línea El Gran Libro del VIDRIO...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,490.00</span>
+					<span class="productSpecialPrice">$890.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=545&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td></tr><tr><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/el-gran-libro-de-la-madera-p-1261  "><img src="images/madera_gran_libro_ideas_decoracion_muebles.jpg" alt="El Gran Libro de la MADERA" title="El Gran Libro de la MADERA" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/el-gran-libro-de-la-madera-p-1261  ">El Gran Libro de la MADERA</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/el-gran-libro-de-la-madera-p-1261  ">Utilizada por el hombre a lo largo de la...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,490.00</span>
+					<span class="productSpecialPrice">$690.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=1261&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/el-gran-libro-del-hierro-y-la-forja-p-543  "><img src="images/libro_hierro_forja_alex.jpg" alt="El Gran Libro del Hierro y la Forja" title="El Gran Libro del Hierro y la Forja" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/el-gran-libro-del-hierro-y-la-forja-p-543  ">El Gran Libro del Hierro y la Forja</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/el-gran-libro-del-hierro-y-la-forja-p-543  ">Compra en línea El Gran Libro del Hierro...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,290.00</span>
+					<span class="productSpecialPrice">$690.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=543&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/la-sagrada-biblia-xp-nacar-p-72  "><img src="images/sagrada_biblia_xp_pluton_ediciones.jpg" alt="La Sagrada Biblia XP Nacar" title="La Sagrada Biblia XP Nacar" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/la-sagrada-biblia-xp-nacar-p-72  ">La Sagrada Biblia XP Nacar</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/la-sagrada-biblia-xp-nacar-p-72  ">Edición de lujo del libro santo, present...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,990.00</span>
+					<span class="productSpecialPrice">$1,690.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=72&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td></tr><tr><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/planeaciones-de-informatica-preescolar-primaria-y-secundaria-p-299  "><img src="images/planeaciones_informatica_software.jpg" alt="Planeaciones de Informática Preescolar, Primaria y Secundaria" title="Planeaciones de Informática Preescolar, Primaria y Secundaria" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/planeaciones-de-informatica-preescolar-primaria-y-secundaria-p-299  ">Planeaciones de Informática Preescolar, Primaria y Secundaria</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/planeaciones-de-informatica-preescolar-primaria-y-secundaria-p-299  ">En Mi Planeación de INFORMÁTICA encontra...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,490.00</span>
+					<span class="productSpecialPrice">$990.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=299&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/cortes-y-peinados-infantiles-con-dvd-p-357  "><img src="images/corte_peinados_infantiles_esteticas.jpg" alt="Cortes y Peinados Infantiles con DVD" title="Cortes y Peinados Infantiles con DVD" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/cortes-y-peinados-infantiles-con-dvd-p-357  ">Cortes y Peinados Infantiles con DVD</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/cortes-y-peinados-infantiles-con-dvd-p-357  ">Conoce las herramientas más importantes ...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,290.00</span>
+					<span class="productSpecialPrice">$690.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=357&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/bisuteria-artesanal-y-ecologica-con-dvd-p-542  "><img src="images/bisuteria_artesanal_ecologica_lexus.jpg" alt="Bisutería Artesanal y Ecológica con DVD" title="Bisutería Artesanal y Ecológica con DVD" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/bisuteria-artesanal-y-ecologica-con-dvd-p-542  ">Bisutería Artesanal y Ecológica con DVD</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/bisuteria-artesanal-y-ecologica-con-dvd-p-542  ">Compra en línea el libro Bisutería Artes...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,490.00</span>
+					<span class="productSpecialPrice">$890.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=542&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td></tr><tr><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/el-gran-libro-del-cuero-p-354  "><img src="images/libro_cuero_lexus.jpg" alt="El Gran Libro del CUERO" title="El Gran Libro del CUERO" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/el-gran-libro-del-cuero-p-354  ">El Gran Libro del CUERO</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/el-gran-libro-del-cuero-p-354  ">Toda la información que necesitas sobre ...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,490.00</span>
+					<span class="productSpecialPrice">$890.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=354&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/manejo-del-paciente-critico-p-78  "><img src="images/manejo_paciente_critico_librosmedicos.jpg" alt="Manejo del Paciente Crítico" title="Manejo del Paciente Crítico" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/manejo-del-paciente-critico-p-78  ">Manejo del Paciente Crítico</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/manejo-del-paciente-critico-p-78  ">Esta obra resume de forma clara y concis...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,990.00</span>
+					<span class="productSpecialPrice">$890.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=78&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/historias-y-valores-4-vols-p-1573  "><img src="images/historias_valores_euromexico_novedades.jpg" alt="Historias y Valores 4 Vols" title="Historias y Valores 4 Vols" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/historias-y-valores-4-vols-p-1573  ">Historias y Valores 4 Vols</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/historias-y-valores-4-vols-p-1573  ">Los valores que nos enseñan a ser mejore...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$2,290.00</span>
+					<span class="productSpecialPrice">$1,490.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=1573&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td></tr><tr><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/enciclopedia-de-la-musica-3-vols-p-931  "><img src="images/enciclopedia_musica_grijalbo_royceeditores.jpg" alt="Enciclopedia de la Música 3 Vols" title="Enciclopedia de la Música 3 Vols" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/enciclopedia-de-la-musica-3-vols-p-931  ">Enciclopedia de la Música 3 Vols</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/enciclopedia-de-la-musica-3-vols-p-931  ">Compra en línea la Enciclopedia de la Mú...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$1,690.00</span>
+					<span class="productSpecialPrice">$1,290.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=931&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/idea-madera-nueva-edicion-p-66  "><img src="images/idea_madera_actualizado.jpg" alt="Idea Madera Nueva Edición" title="Idea Madera Nueva Edición" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/idea-madera-nueva-edicion-p-66  ">Idea Madera Nueva Edición</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/idea-madera-nueva-edicion-p-66  ">Esta obra, dedicada al mundo de la mader...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$5,990.00</span>
+					<span class="productSpecialPrice">$2,990.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=66&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/el-nuevo-mueble-clasico-p-342  "><img src="images/nuevo_mueble_clasico_modernos.jpg" alt="El Nuevo Mueble Clásico" title="El Nuevo Mueble Clásico" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/el-nuevo-mueble-clasico-p-342  ">El Nuevo Mueble Clásico</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/el-nuevo-mueble-clasico-p-342  ">Esta obra expone a través de sus páginas...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$3,290.00</span>
+					<span class="productSpecialPrice">$1,990.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=342&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td></tr><tr><td width="33%" align="center" valign="top">
+	  <div class="centerBoxContentsNew centeredContent">
+	  		<div class="imagename">
+				<div class="product_image">
+					<a href="https://www.maslibros.mx/mis-planificaciones-didacticas-preescolar-p-275  "><img src="images/planificaciones_didacticas_evaluaciones.jpg" alt="Mis Planificaciones Didácticas Preescolar" title="Mis Planificaciones Didácticas Preescolar" width="100" height="80" /></a>
+				</div>
+				<br />
+				<div class="product_name">
+					<a href="https://www.maslibros.mx/mis-planificaciones-didacticas-preescolar-p-275  ">Mis Planificaciones Didácticas Preescolar</a>
+				</div>
+				<div class="product_desc">
+					<p class="s_desc">
+						<a href="https://www.maslibros.mx/mis-planificaciones-didacticas-preescolar-p-275  ">Compra en línea el libro Mis Planificaci...</a>
+					</p>
+				</div>
+			 </div>
+			 <div class="propricemain">
+				 <div class="prodprice">
+				 	<span class="normalprice">$990.00</span>
+					<span class="productSpecialPrice">$690.00</span>
+				 </div>
+				  <div class="productbtn">
+	  				 <div class="mj-productdetailimage">
+	  				 	<a href="?products_id=275&amp;action=buy_now">Comprar Ahora</a>
+					 </div>
+				  </div>
+			  </div>
+		  </div>
+		</td></tr></table>  </div>
+
+            </div>
+            
+        </div>
+
+</div> <!-- bodyContent //-->
+	<div id="mj-left" class="mj-grid16 mj-lspace"> <!-- mj-left starts -->
+  		<div class="ui-widget infoBoxContainer mj-categoriessidebox">  <div class="ui-widget-header infoBoxHeading">Categor&iacute;as</div>  <div class="ui-widget-content infoBoxContents"><ul><li><a href="https://www.maslibros.mx/agricultura-y-ganaderia-c-49  ">Agricultura y Ganadería<span class="mj-countcolor">&nbsp;(50)</span></a></li><li><a href="https://www.maslibros.mx/arquitectura-e-ingenieria-c-35  ">Arquitectura e Ingeniería<span class="mj-countcolor">&nbsp;(94)</span></a></li><li><a href="https://www.maslibros.mx/arte-dibujo-y-pintura-c-50  ">Arte, Dibujo y Pintura<span class="mj-countcolor">&nbsp;(35)</span></a></li><li><a href="https://www.maslibros.mx/audiolibros-c-62  ">AudioLibros<span class="mj-countcolor">&nbsp;(10)</span></a></li><li><a href="https://www.maslibros.mx/carpinteria-c-41  ">Carpintería<span class="mj-countcolor">&nbsp;(16)</span></a></li><li><a href="https://www.maslibros.mx/cuentos-y-fabulas-c-47  ">Cuentos y Fábulas<span class="mj-countcolor">&nbsp;(45)</span></a></li><li><a href="https://www.maslibros.mx/derecho-c-37  ">Derecho<span class="mj-countcolor">&nbsp;(52)</span></a></li><li><a href="https://www.maslibros.mx/diccionarios-y-enciclopedias-c-48  ">Diccionarios y Enciclopedias<span class="mj-countcolor">&nbsp;(281)</span></a></li><li><a href="https://www.maslibros.mx/documentales-c-63  ">Documentales<span class="mj-countcolor">&nbsp;(58)</span></a></li><li><a href="https://www.maslibros.mx/enfermeria-c-38  ">Enfermería<span class="mj-countcolor">&nbsp;(3)</span></a></li><li><a href="https://www.maslibros.mx/esoterismo-c-40  ">Esoterismo<span class="mj-countcolor">&nbsp;(6)</span></a></li><li><a href="https://www.maslibros.mx/gastronomia-c-36  ">Gastronomía<span class="mj-countcolor">&nbsp;(146)</span></a></li><li><a href="https://www.maslibros.mx/herreria-c-42  ">Herrería<span class="mj-countcolor">&nbsp;(5)</span></a></li><li><a href="https://www.maslibros.mx/libros-infantiles-c-51  ">Libros Infantiles<span class="mj-countcolor">&nbsp;(106)</span></a></li><li><a href="https://www.maslibros.mx/libros-tecnicos-c-53  ">Libros Técnicos<span class="mj-countcolor">&nbsp;(124)</span></a></li><li><a href="https://www.maslibros.mx/literatura-c-34  ">Literatura<span class="mj-countcolor">&nbsp;(32)</span></a></li><li><a href="https://www.maslibros.mx/manualidades-c-61  ">Manualidades<span class="mj-countcolor">&nbsp;(39)</span></a></li><li><a href="https://www.maslibros.mx/maquillaje-y-peluqueria-c-52  ">Maquillaje y Peluquería<span class="mj-countcolor">&nbsp;(13)</span></a></li><li><a href="https://www.maslibros.mx/medicina-c-39  ">Medicina<span class="mj-countcolor">&nbsp;(151)</span></a></li><li><a href="https://www.maslibros.mx/mundo-animal-c-45  ">Mundo Animal<span class="mj-countcolor">&nbsp;(10)</span></a></li><li><a href="https://www.maslibros.mx/negocios-y-marketing-c-59  ">Negocios y Marketing<span class="mj-countcolor">&nbsp;(141)</span></a></li><li><a href="https://www.maslibros.mx/psicologia-y-psiquiatria-c-54  ">Psicología y Psiquiatría<span class="mj-countcolor">&nbsp;(127)</span></a></li><li><a href="https://www.maslibros.mx/religion-c-44  ">Religión<span class="mj-countcolor">&nbsp;(45)</span></a></li><li><a href="https://www.maslibros.mx/salud-y-bienestar-c-43  ">Salud y Bienestar<span class="mj-countcolor">&nbsp;(75)</span></a></li><li><a href="https://www.maslibros.mx/software-educativo-c-60  ">Software Educativo<span class="mj-countcolor">&nbsp;(83)</span></a></li></ul></div></div>
+<div class="ui-widget infoBoxContainer mj-manufacturers">  <div class="ui-widget-header infoBoxHeading">Editoriales</div>  <div class="ui-widget-content infoBoxContents"><form name="manufacturers" action="https://www.maslibros.mx/index.php" method="get"><select name="manufacturers_id" onchange="this.form.submit();" size="1" style="width: 100%"><option value="" selected="selected">Seleccionar</option><option value="108">Alfaomega Grupo..</option><option value="94">BBC</option><option value="58">Carroggio SA de..</option><option value="113">Centro de Estud..</option><option value="19">Clase 10</option><option value="98">Comics y Cuento..</option><option value="68">Corporativo Eli..</option><option value="93">Didaco</option><option value="18">Didactimedia</option><option value="91">Discovery Chann..</option><option value="116">Diseli Editores</option><option value="102">ECOE Ediciones</option><option value="17">Ediciones Daly</option><option value="51">Ediciones de la..</option><option value="47">Ediciones Deust..</option><option value="23">Ediciones Eurom..</option><option value="115">Ediciones Folio</option><option value="106">Ediciones JOURN..</option><option value="84">Ediciones Larou..</option><option value="46">Ediciones Robin..</option><option value="109">Editora Cultura..</option><option value="85">Editorial Cordi..</option><option value="67">Editorial del V..</option><option value="83">Editorial Diama..</option><option value="31">Editorial Emán</option><option value="81">Editorial Kines..</option><option value="103">Editorial LIMUS..</option><option value="80">Editorial MACRO</option><option value="53">Editorial Maesd..</option><option value="107">Editorial Médic..</option><option value="99">Editorial Océan..</option><option value="79">Editorial Plane..</option><option value="52">Editorial RA-MA</option><option value="65">Editorial Reymo</option><option value="104">Editorial Trill..</option><option value="42">Elsevier</option><option value="101">Ergon</option><option value="78">Espasa Calpe</option><option value="54">Everest</option><option value="55">Ficheros Educat..</option><option value="88">FMR-Art’e’</option><option value="76">Fonolibros de C..</option><option value="87">Franco Maria Ri..</option><option value="114">Gallardo Edicio..</option><option value="64">Gestión 2000</option><option value="20">Gil Editores</option><option value="89">Grijalbo</option><option value="21">Grupo Clasa</option><option value="22">Grupo Cultural</option><option value="48">Grupo Dimas Edi..</option><option value="72">Grupo Editorial..</option><option value="96">Grupo Editorial..</option><option value="38">Grupo Latino Ed..</option><option value="110">Hachette Latino..</option><option value="59">Holman Bible Pu..</option><option value="120">Huellas Grupo E..</option><option value="50">Ibalpe Editores</option><option value="95">Ideas Educativa..</option><option value="25">Iure Editores</option><option value="35">Joaquín Mortiz</option><option value="119">Jurídico MX</option><option value="30">Krismar Computa..</option><option value="57">Landeira Edicio..</option><option value="61">LatinBooks</option><option value="24">Lexus Editores</option><option value="66">Libsa</option><option value="43">Lidis</option><option value="71">Lippincott Will..</option><option value="29">Marbán Libros</option><option value="36">Master Books</option><option value="70">McGraw-Hill</option><option value="49">McRae Publishin..</option><option value="28">Monsa de Edicio..</option><option value="92">National Geogra..</option><option value="112">Oxford Universi..</option><option value="27">Parramón Edicio..</option><option value="63">Pipo Club</option><option value="45">Plataforma Edit..</option><option value="56">Plazola Editore..</option><option value="44">PLM</option><option value="16">Plutón Edicione..</option><option value="82">Publications In..</option><option value="37">Rezza Editores</option><option value="60">Robin Book</option><option value="32">Royce Editores</option><option value="75">Servilibro</option><option value="73">Sigma Editores</option><option value="77">Silver Dolphin</option><option value="69">Sintec</option><option value="86">Stampley</option><option value="33">Susaeta Edicion..</option><option value="118">Taschen</option><option value="90">The History Cha..</option><option value="34">Tikal</option><option value="62">TodoLibro</option><option value="117">TusQuets Editor..</option><option value="74">Unidos por la L..</option><option value="111">Viento de Vela</option><option value="97">Visión Integral</option><option value="105">Wolters Kluwer</option><option value="26">Zamora Editores</option></select></form></div></div>
+<div class="ui-widget infoBoxContainer mj-quickfind">  <div class="ui-widget-header infoBoxHeading">B&uacute;squeda R&aacute;pida</div>  <div class="ui-widget-content infoBoxContents">    <form name="quick_find" action="https://www.maslibros.mx/advanced_search_result.php" method="get">    <input type="text" name="keywords" size="10" maxlength="30" style="width: 75%" />&nbsp;<input type="hidden" name="search_in_description" value="1" /><input type="image" src="includes/languages/espanol/images/buttons/search.png" alt="B&uacute;squeda R&aacute;pida" title=" B&uacute;squeda R&aacute;pida " /><br />Use palabras clave para encontrar el producto que busca.    </form>  </div></div>
+<div class="ui-widget infoBoxContainer mj-whatsnew">  <div class="ui-widget-header infoBoxHeading"><a href="https://www.maslibros.mx/novedades.php">Novedades</a></div>  <div class="ui-widget-content infoBoxContents" style="text-align: center;"><span class="product_image"><a href="https://www.maslibros.mx/vender-mas-con-marketing-digital-p-1836  "><img src="images/vender-mas-marketing-digital-ecoe.jpg" alt="Vender Más con Marketing Digital" title="Vender Más con Marketing Digital" width="100" height="80" /></a></span><br /><span class="product_name"><a href="https://www.maslibros.mx/vender-mas-con-marketing-digital-p-1836  ">Vender Más con Marketing Digital</a></span><br />$690.00</div></div>
+<div class="ui-widget infoBoxContainer mj-information">  <div class="ui-widget-header infoBoxHeading">Informaci&oacute;n</div>  <div class="ui-widget-content infoBoxContents">    <a href="https://www.maslibros.mx/envios.php">Env&iacute;os</a><br />    <a href="https://www.maslibros.mx/privacidad.php">Pol&iacute;tica de Privacidad</a><br />    <a href="https://www.maslibros.mx/uso.php">Condiciones de Uso</a><br />    <a href="https://www.maslibros.mx/pagos.php">Formas de Pago</a><br />    <a href="https://www.maslibros.mx/contactenos.php">Cont&aacute;ctenos</a>  </div></div>	</div> <!-- mj-left ends -->
+	<div id="mj-right" class="mj-grid16 mj-lspace mj-rspace"> <!-- mj-right starts -->
+  		<div class="ui-widget infoBoxContainer mj-shoppingcart">  <div class="ui-widget-header infoBoxHeading"><a href="https://www.maslibros.mx/carrito.php">Cesta de Compras</a></div>  <div class="ui-widget-content infoBoxContents">0 art&iacute;culos</div></div>
+<div class="ui-widget infoBoxContainer mj-bestsellers">  <div class="ui-widget-header infoBoxHeading">Los más vendidos</div>  <div class="ui-widget-content infoBoxContents"><ul class="mj-bullet2"><li><a href="https://www.maslibros.mx/coleccion-eterna-15-libros-p-56  ">Colección Eterna 15 Libros</a></li><li><a href="https://www.maslibros.mx/mi-cocina-escoffier-p-55  ">Mi Cocina Escoffier</a></li><li><a href="https://www.maslibros.mx/pev-2016-prontuario-de-especialidades-veterinarias-p-1047  ">PEV 2016 Prontuario de Especialidades Veterinarias</a></li><li><a href="https://www.maslibros.mx/plm-2015-diccionario-de-especialidades-farmaceuticas-2-vols-p-254  ">PLM 2015 Diccionario de Especialidades Farmacéuticas 2 Vols</a></li><li><a href="https://www.maslibros.mx/la-sagrada-biblia-xp-nacar-p-72  ">La Sagrada Biblia XP Nacar</a></li><li><a href="https://www.maslibros.mx/manual-del-ingeniero-de-alimentos-con-usb-p-1280  ">Manual del Ingeniero de Alimentos con USB</a></li><li><a href="https://www.maslibros.mx/a-traves-del-espejo-y-lo-que-alicia-encontro-alli-p-857  ">A Través del Espejo y lo que Alicia Encontró Allí</a></li><li><a href="https://www.maslibros.mx/codigo-nacional-de-procedimientos-penales-con-jurisprudencia-p-1633  ">Código Nacional de Procedimientos Penales con Jurisprudencia</a></li><li><a href="https://www.maslibros.mx/cuentos-clasicos-bilingues-juega-y-aprende-p-1305  ">Cuentos Clásicos Bilingües Juega y Aprende</a></li><li><a href="https://www.maslibros.mx/deaq-2016-diccionario-de-especialidades-agroquimicas-con-cd-rom-p-660  ">DEAQ 2016 Diccionario de Especialidades Agroquímicas con CD-ROM</a></li></ul></div></div>
+<div class="ui-widget infoBoxContainer mj-specialsidebox">  <div class="ui-widget-header infoBoxHeading"><a href="https://www.maslibros.mx/ofertas.php">Ofertas</a></div>  <div class="ui-widget-content infoBoxContents" style="text-align: center;"><span class="product_image"><a href="https://www.maslibros.mx/idea-madera-nueva-edicion-p-66  "><img src="images/idea_madera_actualizado.jpg" alt="Idea Madera Nueva Edición" title="Idea Madera Nueva Edición" width="100" height="80" /></a></span><br /><span class="product_name"><a href="https://www.maslibros.mx/idea-madera-nueva-edicion-p-66  ">Idea Madera Nueva Edición</a></span><br /><span class="normalprice">$5,990.00</span><span class="productSpecialPrice">$2,990.00</span></div></div>
+<div class="ui-widget infoBoxContainer mj-reviewsidebox">  <div class="ui-widget-header infoBoxHeading"><a href="https://www.maslibros.mx/comentarios.php">Comentarios</a></div>  <div class="ui-widget-content infoBoxContents"><div align="center"><a href="https://www.maslibros.mx/deaq-2016-diccionario-de-especialidades-agroquimicas-con-cd-rom-pri-660  ?reviews_id=7"><img src="images/deaq_diccionario_agroquimicas_2016.jpg" alt="DEAQ 2016 Diccionario de Especialidades Agroquímicas con CD-ROM" title="DEAQ 2016 Diccionario de Especialidades Agroquímicas con CD-ROM" width="100" height="80" /></a></div><a href="https://www.maslibros.mx/deaq-2016-diccionario-de-especialidades-agroquimicas-con-cd-rom-pri-660  ?reviews_id=7">Me interesa adquirir el libro, a donde hay que hacer el pago ..</a><br /><div align="center"><img src="images/stars_5.gif" alt="5 de 5 Estrellas!" title="5 de 5 Estrellas!" width="106" height="21" /></div></div></div>
+<div class="ui-widget infoBoxContainer mj-currenciessidebox">  <div class="ui-widget-header infoBoxHeading">Monedas</div>  <div class="ui-widget-content infoBoxContents">    <form name="currencies" action="https://www.maslibros.mx/index.php" method="get">    <select name="currency" onchange="this.form.submit();" style="width: 100%"><option value="USD">U.S. Dollar</option><option value="EUR">Euro</option><option value="MXN" selected="selected">Pesos Mexicanos</option></select></form>  </div></div>
+<div class="ui-widget infoBoxContainer mj-information">  <div class="ui-widget-header infoBoxHeading"><a href="http://perfil.mercadolibre.com.mx/ROYCESHOP" target="_blank">Opiniones en ML</a></div>  <div class="ui-widget-content infoBoxContents">  <div id="mercado">
+                <ul>
+                  <li>
+                      <p style="font-size:12px; color:gray;">Excelente comunicación y actitud de servicio, todo en tiempo como se prometió. Muy recomendable.
+                      - <i>Jaime Enríquez, Cuernavaca, Morelos, México.</i></p>
+                    </li>
+                </ul>
+            </div>
+                </div></div>
+<div class="ui-widget infoBoxContainer mj-information">  <div class="ui-widget-header infoBoxHeading">Su Compra Segura</div>  <div class="ui-widget-content infoBoxContents">  <div id="seguridad">
+                <ul>
+                  <li>
+                      <center><a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=maslibros.mx','SiteLock','width=600,height=600,left=160,top=170');" ><img alt="SiteLock" title="SiteLock" src="//shield.sitelock.com/shield/maslibros.mx"/>
+        </a><br>
+        <script language="JavaScript" type="text/javascript">
+          TrustLogo("https://www.maslibros.mx/images/comodo_secure_100x85_white.png", "CL1", "none");
+        </script>
+      </center>
+                    </li>
+                </ul>
+            </div>
+                </div></div>	</div> <!-- mj-right ends -->
+
+</div>
+</div>
+</div>
+</div>
+				
+<div id="mj-footertop">
+	<div class="mj-subcontainer">
+    	<div class="mj-brands mj-grid56 mj-lspace mj-rspace">
+        
+        	<h3>Visítenos también en </h3>
+            
+<link rel="stylesheet" href="visitenos/owl.carousel.css">
+<link rel="stylesheet" href="visitenos/owl.theme.css">
+<script src="visitenos/owl.carousel.js"></script>
+
+<style>
+#owl-demo .item{margin: 3px;} #owl-demo .item img{display: block; width: 100%; height: auto;}
+</style>
+
+<script>
+$(document).ready(function() {
+  $("#owl-demo").owlCarousel({
+      autoPlay: 3000, //Set AutoPlay to 3 seconds
+      items : 4,
+      itemsDesktop : [1199,3],
+      itemsDesktopSmall : [979,3]
+  });
+});
+</script>
+
+<div id="owl-demo">
+  <div class="item"><a href="https://www.placismo.com/" target="_blank"><img src="visitenos/tienda-online-placismo.jpg" alt="Tienda Online Placismo" title="placismo.com"></a></div>
+  <div class="item"><a href="https://www.royceeditores.com/" target="_blank"><img src="visitenos/tienda-online-royce-editores.jpg" alt="Royce Editores Tienda Online" title="royceeditores.com"></a></div>
+  <div class="item"><a href="https://www.royceshop.com/" target="_blank"><img src="visitenos/tienda-online-royceshop.jpg" alt="RoyceShop Tienda Online" title="royceshop.com"></a></div>
+  <div class="item"><a href="https://twitter.com/RoyceEditores" target="_blank"><img src="visitenos/siguenos-twitter.jpg" alt="Twitter" title="Síguenos en Twitter"></a></div>
+  <div class="item"><a href="https://www.facebook.com/RoyceEditores" target="_blank"><img src="visitenos/siguenos-facebook.jpg" alt="Facebook" title="Síguenos en Facebook"></a></div>
+  <div class="item"><a href="https://plus.google.com/+RoyceEditoresCom/posts" target="_blank"><img src="visitenos/siguenos-googlemas.jpg" alt="Google+" title="Síguenos en Google+"></a></div>
+  <div class="item"><a href="https://www.pinterest.com/royceeditores" target="_blank"><img src="visitenos/siguenos-pinterest.jpg" alt="Pinterest" title="Síguenos en Pinterest"></a></div>
+</div>            
+            		    
+		</div>
+	       	
+        <div class="mj-stayintouch mj-grid40 mj-lspace mj-rspace">
+        		<h3>¡Sea el primero en enterarse!</h3>
+                
+                <div class="mj-newsletter">
+                                                
+                        
+                        <form method="post" action="https://www.royceeditores.com/pommo/subscribe.php" target="_blank">
+
+                        <div style="font-family:Arial; color:#999999; margin-bottom:10px;">Suscríbase y reciba ofertas exclusivas y mucho más.</div>
+                        
+                        
+                        <div>
+                        <label for="email" style="font-family:Arial; color:#666666; font-size:13px;">Su Correo Electrónico AQUÍ.</label>
+                        <input type="text" size="20" maxlength="60" name="Email" id="email" class="perrito" style="width:90%;" />
+                        </div>
+                        
+                        
+                        
+                        <div class="buttons">
+                        
+                        <input type="submit" value="Suscribir" />
+                        
+                        </div>
+                        
+                        </form>
+                        
+                        
+                </div>
+                
+                <div class="mj-storelocator mj-lspace mj-rspace">
+                    <a class="mj-storetext" href="https://www.maslibros.mx/buscador_global.php">Buscador Global</a>
+                    <p><a style="margin-left:-60px;" href="https://www.maslibros.mx/buscador_global.php">Busque en todas nuestras tiendas en un sólo click.</a></p>
+                </div>
+         	</div>
+    </div>
+</div> 
+
+<div id="mj-footer"> <!-- Todo el bloque inferior -->
+	<div class="mj-subcontainer"> <!-- Comienza el contenedor -->
+        <div class="moduletable mj-grid24 mj-dotted"> <!-- Últimos productos en el pie de página -->
+        	<h3>Últimos productos</h3>
+        	<div class="custom mj-grid24 mj-dotted mj-latest">
+            	<ul class="mj-product">
+                	                                    	<li>
+                    	                    	<div class="footer_productinfo"><div class="mj-latestimage"><a href="https://www.maslibros.mx/evaluacion-financiera-de-proyectos-p-1843  "><img src="images/evaluacion-financiera-proyectos-ecoe.jpg" alt="Evaluación Financiera de Proyectos" title="Evaluación Financiera de Proyectos" width="100" height="80" /></a></div>                        <div class="mj-productname"><a href="https://www.maslibros.mx/evaluacion-financiera-de-proyectos-p-1843  ">Evaluación Financiera de Proyectos</a></div>                        <div class="mj-productdescription">Compra en l&iacute;nea el libr...<a href="https://www.maslibros.mx/evaluacion-financiera-de-proyectos-p-1843  ">más</a></div></div>                    </li>
+                                                        	<li>
+                    	                    	<div class="footer_productinfo"><div class="mj-latestimage"><a href="https://www.maslibros.mx/habilidades-gerenciales-p-1842  "><img src="images/habilidades-gerenciales-actitud.jpg" alt="Habilidades Gerenciales" title="Habilidades Gerenciales" width="100" height="80" /></a></div>                        <div class="mj-productname"><a href="https://www.maslibros.mx/habilidades-gerenciales-p-1842  ">Habilidades Gerenciales</a></div>                        <div class="mj-productdescription">Compra en l&iacute;nea el libr...<a href="https://www.maslibros.mx/habilidades-gerenciales-p-1842  ">más</a></div></div>                    </li>
+                                                        	<li>
+                    	                    	<div class="footer_productinfo"><div class="mj-latestimage"><a href="https://www.maslibros.mx/entendiendo-el-estandar-niif-para-pymes-p-1841  "><img src="images/entendiendo-estandar-niif-pymes-ecoe.jpg" alt="Entendiendo el Estándar NIIF® para Pymes" title="Entendiendo el Estándar NIIF® para Pymes" width="100" height="80" /></a></div>                        <div class="mj-productname"><a href="https://www.maslibros.mx/entendiendo-el-estandar-niif-para-pymes-p-1841  ">Entendiendo el Estándar NIIF® para Pymes</a></div>                        <div class="mj-productdescription">Las Normas Internacionales de ...<a href="https://www.maslibros.mx/entendiendo-el-estandar-niif-para-pymes-p-1841  ">más</a></div></div>                    </li>
+                                    </ul>
+            </div>
+        </div> <!-- Termina últimos productos en el pie de página -->
+        <div class="moduletable mj-grid24 mj-dotted"> <!-- Información adicional pie de página -->
+        	<h3>Información</h3>
+            	<div class="custom mj-grid24 mj-dotted">
+                    <ul class="footer-bullet">
+                    	<li><a href="https://www.maslibros.mx/somos.php">¿Quiénes Somos?</a></li>
+                        <li><a href="https://www.maslibros.mx/condiciones.php">Condiciones de Venta</a></li>
+                        <li><a href="https://www.maslibros.mx/uso.php">Condiciones de Uso</a></li>
+                        <li><a href="https://www.maslibros.mx/envios.php">Información de Entrega</a></li>
+                        <li><a href="https://www.maslibros.mx/privacidad.php">Política de Privacidad</a></li>
+                        <li><a href="https://www.maslibros.mx/reembolso.php">Política de Reembolso</a></li>
+                        <li><a href="https://www.maslibros.mx/sitemap.php">Mapa del Sitio</a></li>
+                        <li><a href="https://www.maslibros.mx/ubicacion.php">Ubicaci&oacute;n</a></li>
+                    </ul>
+				</div>
+        </div> <!-- Termina información adicional pie de página -->
+        <div class="moduletable mj-grid24 mj-dotted"> <!-- Comienza bloque contacto -->
+        	<h3>Contacto</h3>
+            <div class="custom mj-grid24 mj-dotted">
+                <div class="address">
+                    Ubicación                    <br/>
+                    <a href="https://www.maslibros.mx/ubicacion.php"><span class="small">Av. Baja California 281 5º Piso<br/>Col. Hipódromo Condesa <br/>C.P. 06100 CDMX., México.</span></a>
+                </div>
+                <div class="mail">
+                    <span class="small">Envíenos un correo electrónico a:</span>
+                    <br/>
+                    <a href="mailto:ventas@royce.com.mx">ventas@royce.com.mx</a>
+                </div>
+                <div class="phone">
+                    <span class="small">24/7 Línea de Ventas:</span>
+                    <br/>
+                    <a href="tel:5286 0992">5286 0992</a>
+                </div>
+                <div class="skype">
+                    <span class="small">M&aacute;ndenos un WhatsApp:</span>
+                    <br/>
+                    <a href="tel:+5215534338020">+52155 3433 8020</a>
+                </div>
+                <div class="social_icons">
+                    <a class="mj-feed" href="https://www.royceshop.com/blog" target="_blank" alt="Blog" title="Síguenos en nuestro Blog">RSS Feed</a>
+                    <a class="mj-twitter" href="https://www.twitter.com/RoyceEditores" target="_blank" alt="Twitter" title="Síguenos en Twitter">Twitter</a>
+                    <a class="mj-facebook" href="https://www.facebook.com/RoyceEditores" target="_blank" alt="Facebook" title="Síguenos en Facebook">Facebook</a>
+                </div>
+            </div>
+        </div> <!-- Termina bloque contacto -->
+        <div class="moduletable mj-grid24 mj-dotted mj-rspace"> <!-- Bloque formas de pago -->
+        	<h3>Formas de pago</h3>
+            <div id="mj-payment">
+                <a href="../pagos.php"><img src="images/pagos.png" alt="Múltiples formas de pago" title="Múltiples formas de pago" width="204" height="225" /></a>
+            </div>
+        </div> <!-- Termina bloque formas de pago -->
+	</div> <!-- Termina el contenedor -->
+</div> <!-- Termina todo el bloque inferior -->
+<div id="mj-copyright"> <!-- Comienza el copyright -->
+        <div class="mj-subcontainer"> <!-- Comienza el contenedor -->
+                <div class="custom mj-grid88">
+                    <p>Royce Editores &copy; Copyright 2017</p>
+                </div>
+            
+                <div class="custom mj-grid8">
+                    <p>
+                        <a id="w2b-StoTop" class="top" style="display: block;">Volver al Inicio</a>
+                    </p>
+                </div>
+        </div> <!-- Termina el contenedor -->
+    </div> <!-- Termina el copyright -->
+</div>
+</body>
+
+<div id="sitelock_shield_logo" class="fixed_btm" style="bottom:0;position:fixed;_position:absolute;right:0;"><a href="#" onClick="window.open('https://www.sitelock.com/verify.php?site=maslibros.mx','SiteLock','width=600,height=600,left=160,top=170');" ><img alt="website security" title="SiteLock" src="//shield.sitelock.com/shield/maslibros.mx"/></a></div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66729924-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script language="JavaScript">
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if 
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers) 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+function disableselect(e){
+return false
+}
+function reEnable(){
+return true
+}
+//if IE4+
+document.onselectstart=new Function ("return false")
+//if NS6
+if (window.sidebar){
+document.onmousedown=disableselect
+document.onclick=reEnable
+}
+</script>
+<script type="text/javascript">
+document.onselectstart=new Function ("return false")
+if (window.sidebar){
+document.onmousedown=function(e){
+var obj=e.target;
+if (obj.tagName.toUpperCase() == "INPUT" || obj.tagName.toUpperCase() == "TEXTAREA" || obj.tagName.toUpperCase() == "SELECT" || obj.tagName.toUpperCase() == "PASSWORD")
+return true; 
+else 
+return false;
+}}
+</script>
+
+</html>

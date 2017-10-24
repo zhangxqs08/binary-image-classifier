@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+	<title>Website - Er is een fout opgetreden - Gemeente Alphen aan den Rijn</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1, user-scalable=0" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+
+	<link rel="stylesheet" href="/styles/default/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" type="text/css" media="all" href="/styles/default/screen.css.jsp?colors=003B5D;FFFFFF;82B457;003B5D;85BCE9;003B5D;&amp;webfontheader=&amp;webfont=&amp;webfontsize=" />
+	<link rel="stylesheet" type="text/css" media="all" href="/styles/default/modules.css.jsp?colors=003B5D;FFFFFF;82B457;003B5D;85BCE9;003B5D;" />
+
+	<link rel="stylesheet" type="text/css" media="all" href="/styles/default/responsive.css.jsp?colors=003B5D;FFFFFF;82B457;003B5D;85BCE9;003B5D;" />
+
+	<link rel="stylesheet" type="text/css" media="print" href="/styles/default/print.css.jsp" />
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/styles/default/defaultcontrast.css.jsp" title="Normaal contrast" class="togglecontrast defaultcontrast" />
+	<link rel="alternate stylesheet" type="text/css" media="screen" href="/styles/default/highcontrast.css.jsp" title="Vergroot contrast" class="togglecontrast highcontrast" />
+
+	<!--[if lte IE 7.0]><link rel="stylesheet" type="text/css" media="all" href="/styles/default/ie6-7.css.jsp" /><![endif]-->
+	<!--[if IE 8.0]><link rel="stylesheet" type="text/css" media="all" href="/styles/default/ie8.css.jsp?colors=003B5D;FFFFFF;82B457;003B5D;85BCE9;003B5D;<![endif]-->
+
+	<link rel="profile" href="http://microformats.org/profile/hcard" />
+
+	<script type="text/javascript" src="/js/lib/prototype.js"></script>
+	<script type="text/javascript" src="/js/lib/scriptaculous/scriptaculous.js?load=effects,builder,dragdrop,controls,slider"></script>
+	<script type="text/javascript" src="/js/lib/modernizr.js"></script>
+	<script type="text/javascript" src="/js/custom/modernizr.custom.js"></script>
+	<script type="text/javascript" src="/js/custom/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="/js/custom/accessiblenav.js"></script>
+	<script type="text/javascript" src="/js/custom/toptasks.js"></script>
+
+	<script type="text/javascript">
+		var contextpath = "",
+			stylesPath = contextpath + "/styles/default",
+			imagegallerypath = contextpath + "/imagegallery/",
+			mapsKey = "AIzaSyAxuDQmtDUzAzd0npGqWW14t7y6JxHOa1A";
+	</script>
+
+	<script type="text/javascript" src="/js/default.js"></script>
+
+	<script type="text/javascript" src="/js/lib/date-nl-NL.js"></script>
+	<script type="text/javascript" src="/js/calendar.js"></script>
+	<script type="text/javascript" src="/js/simpleform.js"></script>
+	<script type="text/javascript" src="/js/emocracy.js"></script>
+	<script type="text/javascript" src="/js/custom/imagegallery_plugin.js"></script>
+	<script type="text/javascript" src="/js/custom/imagegallery.js"></script>
+	
+
+	<link rel="alternate" title="RSS Week in beeld" type="application/rss+xml" href="/rss.jsp?objectid=309b8685-0bc0-4268-96f9-840b27d73be6" />
+		<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+	<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+	<link rel="schema.OVERHEID" href="http://metadata.overheid.nl/terms/" />
+	<meta name="DC.title" content="Website - Er is een fout opgetreden - Gemeente Alphen aan den Rijn" />
+	<meta name="OVERHEID.organisationType" scheme="OVERHEID.organisatietype" content="gemeente" />
+	<meta name="DC.creator" scheme="OVERHEID.gemeente" content="Alphen aan den Rijn" />
+	<meta name="DC.identifier" scheme="DCTERMS.URI" content="/content.jsp?objectid=4deee489-e68f-4cbb-9315-0bac82121d00" />
+	<!-- Google Analytics -->
+		<script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+			<!-- Production code -->
+				ga('create', 'UA-15840328-1', 'auto');
+			
+			
+			ga('send', 'pageview');
+			ga('set', 'forceSSL', true);
+			ga('set', 'anonymizeIp', true);
+		</script>
+		<!-- End Google Analytics -->
+	</head>
+	<body class="no-js">
+		<div id="wrapper">
+			<div id="accessibility-tools" class="errortools"></div>
+		
+			<div class="header" id="header">
+	<div class="keyboardlinks">
+		<a class="skiplink" href="#row2" tabindex="1">Direct naar de inhoud van de pagina</a>
+		<a class="skiplink" href="#menu_wide" tabindex="1">Direct naar het hoofdmenu</a>
+		<a class="skiplink" href="#quicksearch" tabindex="1">Direct naar het zoekveld</a>
+	</div>
+	<div class="contentrow">
+		<a id="logo" href="/Inwoners" rel="home">
+		<img id="logoimg" src="/dsresource?objectid=285bee13-916a-4d7a-9926-f2660efa2607" alt="Gemeente Alphen aan den Rijn homepage" />
+		</a>
+			<div class="container-sessions" >
+				</div>
+	</div>
+</div><div class="content-wrapper content-top">
+				<div id="content" class="contentrow grid-16 error-page">
+					<h1>Pagina niet gevonden</h1><p class="description">Helaas, de door u opgevraagde pagina is niet gevonden. Deze kan zijn verplaatst of is niet langer beschikbaar.</p><h2>Probeer &eacute;&eacute;n van de volgende opties</h2><ul>
+						<li>Controleer het internetadres in de adresbalk</li>
+						<li>
+							Ga direct naar:
+							<ul class="section">
+								<li><a href="/">de homepage</a></li>
+								<li><a href="/Configuratie/Sitemap">de sitemap</a></li>
+								</ul>
+						</li>
+						<li>
+								Of voer uw zoektermen hier direct in<form method="post" action="/Configuratie/Zoekresultaten">
+									<p>
+										<input type="hidden" name="dateformat" value="dd-MM-yyyy" />
+										<input type="hidden" name="searchbase" value="0" />
+										<input type="hidden" name="searchrange" value="10" />
+										<input type="hidden" name="searchpage" value="1" />
+										<input type="hidden" name="nodelocation" value="4deee489-e68f-4cbb-9315-0bac82121d00" />
+										<label for="freetext">Zoekterm(en)</label>
+										<input type="text" class="text" name="freetext" value="" size="15" id="freetext"/>
+										<input type="submit" class="submit" name="submit-button" value="Zoek" />
+									</p>
+								</form>
+							</li>
+						</ul>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

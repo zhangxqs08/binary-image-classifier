@@ -31,15 +31,15 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 print "train shape X", X_train.shape
 print "train shape y", y_train.shape
 
-np.save("X_train.data", X_train)
-np.save("y_train.data", y_train)
-np.save("X_test.data", X_test)
-np.save("y_test.data", y_test)
+# np.save("X_train.data", X_train)
+# np.save("y_train.data", y_train)
+# np.save("X_test.data", X_test)
+# np.save("y_test.data", y_test)
 
-X_train = np.load("X_train.data.npy")
-y_train = np.load("y_train.data.npy")
-X_test = np.load("X_test.data.npy")
-y_test = np.load("y_test.data.npy")
+# X_train = np.load("X_train.data.npy")
+# y_train = np.load("y_train.data.npy")
+# X_test = np.load("X_test.data.npy")
+# y_test = np.load("y_test.data.npy")
 
 label_binarizer = LabelBinarizer()
 input_shape = (size, size, 1)

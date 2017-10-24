@@ -1,0 +1,317 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="nl" prefix="og: http://ogp.me/ns#">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<if (!wp_script_is('jquery', 'queue')){
+     wp_enqueue_script('jquery');
+}>
+
+
+
+<meta name="keywords" content="" />
+
+
+
+<link rel="Shortcut Icon" href="http://gokkast.eu/wp-content/themes/flytonictheme/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="http://gokkast.eu/wp-content/themes/flytonictheme/style.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title=" RSS Feed" href="https://gokkast.eu/feed/" />
+<link rel="pingback" href="http://gokkast.eu/xmlrpc.php" />
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+sfHover = function() {
+	if (!document.getElementsByTagName) return false;
+	var sfEls = document.getElementById("nav").getElementsByTagName("li");
+
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+//--><!]]></script>
+
+
+
+<!-- This site is optimized with the Yoast SEO plugin v3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Pagina niet gevonden -</title>
+<meta name="robots" content="noindex,follow,noodp"/>
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Pagina niet gevonden -" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//platform.twitter.com' />
+<link rel='dns-prefetch' href='//apis.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://gokkast.eu/wp-content/plugins/piwikproxy/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "8"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0];
+    g.type="text/javascript"; g.async=true; g.defer=true; g.src=u+"piwik.php"; s.parentNode.insertBefore(g,s);
+  })();
+
+</script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/gokkast.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='gdsr_style_main-css'  href='http://gokkast.eu/wp-content/plugins/gd-star-rating/css/gdsr.css.php?t=1398421787&#038;s=a10i10m20k20c05r05%23121620243046%23121620243240%23s1pchristmas%23s1pcrystal%23s1pdarkness%23s1poxygen%23s1goxygen_gif%23s1pplain%23s1ppumpkin%23s1psoft%23s1pstarrating%23s1pstarscape%23t1pclassical%23t1pstarrating%23t1gstarrating_gif%23lsgflower&#038;o=off&#038;ver=1.9.22' type='text/css' media='all' />
+<link rel='stylesheet' id='gdsr_style_xtra-css'  href='http://gokkast.eu/wp-content/gd-star-rating/css/rating.css?ver=1.9.22' type='text/css' media='all' />
+<link rel='stylesheet' id='tfg_style-css'  href='http://gokkast.eu/wp-content/plugins/twitter-facebook-google-plusone-share/tfg_style.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='columns-css'  href='http://gokkast.eu/wp-content/plugins/columns/columns.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://gokkast.eu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='DOPWGG_JScrollPaneStyle-css'  href='http://gokkast.eu/wp-content/plugins/dopwgg/libraries/gui/css/jquery.jscrollpane.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='DOPWGG_WallGridGalleryStyle-css'  href='http://gokkast.eu/wp-content/plugins/dopwgg/assets/gui/css/jquery.dop.WallGridGallery.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://gokkast.eu/wp-content/plugins/olevmedia-shortcodes/assets/css/font-awesome.min.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='omsc-shortcodes-css'  href='http://gokkast.eu/wp-content/plugins/olevmedia-shortcodes/assets/css/shortcodes.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='omsc-shortcodes-tablet-css'  href='http://gokkast.eu/wp-content/plugins/olevmedia-shortcodes/assets/css/shortcodes-tablet.css?ver=4.8.2' type='text/css' media='screen and (min-width: 768px) and (max-width: 959px)' />
+<link rel='stylesheet' id='omsc-shortcodes-mobile-css'  href='http://gokkast.eu/wp-content/plugins/olevmedia-shortcodes/assets/css/shortcodes-mobile.css?ver=4.8.2' type='text/css' media='screen and (max-width: 767px)' />
+<link rel='stylesheet' id='ssb_style-css'  href='http://gokkast.eu/wp-content/plugins/social-share-boost/css/style.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css-css'  href='http://gokkast.eu/wp-content/themes/flytonictheme/includes/custom.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='media-css-css'  href='http://gokkast.eu/wp-content/themes/flytonictheme/media.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://gokkast.eu/wp-content/plugins/tablepress/css/default.min.css?ver=1.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://gokkast.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://gokkast.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://gokkast.eu/wp-content/plugins/gd-star-rating/js/gdsr.js?ver=1.9.22'></script>
+<script type='text/javascript' src='http://gokkast.eu/wp-content/plugins/wonderplugin-gridgallery/engine/wonderplugingridlightbox.js?ver=2.0C'></script>
+<script type='text/javascript' src='http://gokkast.eu/wp-content/plugins/wonderplugin-gridgallery/engine/wonderplugingridgallery.js?ver=2.0C'></script>
+<script type='text/javascript' src='http://gokkast.eu/wp-content/themes/flytonictheme/js/selectnav.js?ver=4.8.2'></script>
+<link rel='https://api.w.org/' href='https://gokkast.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gokkast.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://gokkast.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+<script type="text/javascript">
+//<![CDATA[
+var gdsr_cnst_nonce = "6e530c65f0";
+var gdsr_cnst_ajax = "http://gokkast.eu/wp-content/plugins/gd-star-rating/ajax.php";
+var gdsr_cnst_button = 1;
+var gdsr_cnst_cache = 0;
+// ]]>
+</script>
+<!--[if IE]><style type="text/css">.ratemulti .starsbar .gdcurrent { -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; filter: alpha(opacity=70); }</style><![endif]-->
+</head>
+<body class="custom">
+
+ <div id="header">
+  <div id="header-left">
+      <a href="https://gokkast.eu">
+   <img alt="" src="https://gokkast.eu/wp-content/uploads/2017/05/gokkast-eu_logo-300x33.png" /></a>
+    </div> <!--End of Header Left-->
+
+ <div id="header-middle">
+   
+ </div><!--End of Header Middle-->
+ 
+  <div id="header-right">
+
+    <form class="topsearchform" method="get" action="https://gokkast.eu">
+    <input class="topsearchinput" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search'}" type="text"  name="s" />
+    </form>
+
+
+
+
+
+  </div><!--End of Header Right-->
+
+  
+</div><!--End of Header-->
+
+<div id="main">
+
+<div id="navbar" class="navigation"><ul id="nav" class="menu"><li id="menu-item-458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-458"><a href="https://gokkast.eu/">Home</a></li>
+<li id="menu-item-808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-808"><a href="http://simply-wild.gokkast.eu/">Simply Wild: Nederland top gokkast!</a></li>
+<li id="menu-item-899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899"><a href="http://www.agog.nl/">Gokverslaving</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://gokkast.eu/contact/">Contact</a></li>
+</ul></div><!--End of Nav-->
+
+<div id="content" class="c-s">
+
+<div id="middlecontent">
+
+
+		<h2 class="center">Page not found or has been removed.  Please browse one of our other pages.</h2>
+
+</div>
+
+
+<!-- begin sidebar -->
+
+
+<div id="sidebar1" class="sidebar">
+
+<div class="block"><h2>Starburst gokkast</h2>			<div class="textwidget"><a href="https://gokkast.eu/starburst-en-andere-gokkasten-bij-Oranje-Casino" target="_blank" rel="nofollow"><img class="aligncenter size-full wp-image-951" src="https://gokkast.eu/wp-content/uploads/2014/11/starburst_oranje_casino.png" alt="" width="250" height="250" /></a></div>
+		</div><div class="block"><h2>Live roulette</h2>			<div class="textwidget"><a href="https://gokkast.eu/live-roulette-bij-Oranje-Casino-preview" target="_blank" rel="nofollow"><img class="aligncenter size-full wp-image-952" src="https://gokkast.eu/wp-content/uploads/2014/11/roulette-oranje-casino.gif" alt="roulette oranje casino" width="250" height="250" /></a></div>
+		</div><div class="block"><h2>Gonzo&#8217;s Quest slot</h2>			<div class="textwidget"><a href="https://gokkast.eu/speel-videoslots-bij-Oranje-Casino" target="_blank" rel="nofollow"><img class="aligncenter size-full wp-image-948" src="https://gokkast.eu/wp-content/uploads/2014/11/oranje-casino-slots.gif" alt="" width="250" height="250" /></a></div>
+		</div>  
+  
+</div><!-- End of Sidebar -->
+  
+  
+ 
+
+         <div style="clear:both;"></div>
+
+  </div><!--End of Content-->
+
+</div><!--End of Main-->
+
+<div id="footer">
+
+    <div id="topfooter"> 
+ 
+   <div class="footerwidget">
+
+ <h2>Divers:</h2>			<div class="textwidget"><p>Smartphone of tablet:<br />
+~<a href="http://iphone.gokkast.eu/">iPhone</a><br />
+~<a href="http://android.gokkast.eu/">Android</a></p>
+<p>Overig:<br />
+~<a href="http://funtastic-casino.gokkast.eu/">Funtastic Casino</a><br />
+~<a href="http://flamingo-casino.gokkast.eu/">Flamingo Casino</a><br />
+~<a href="http://random-bells.gokkast.eu/">Random Bells</a><br />
+~<a href="http://fair-play.gokkast.eu/">Fair Play</a><br />
+~<a href="http://astra.gokkast.eu/">Astra</a><br />
+~<a href="http://super-bells.gokkast.eu/">Super Bells</a><br />
+~<a href="http://barcrest.gokkast.eu/">Barcrest</a><br />
+~<a href="https://gokkast.eu/gokverslaving/">Gokverslaving</a><br />
+~<a href="https://gokkast.eu/online-casino/">Gokken & online casino's</a><br />
+~<a href="http://harrys-super-15.gokkast.eu/">Harry's Super 15</a><br />
+~<a href="http://jokers-casino.gokkast.eu/">Jokers Casino</a><br />
+~<a href="http://miljoenenjacht.gokkast.eu/">Miljoenenjacht gokkast</a><br />
+~<a href="http://multi-winner.gokkast.eu/">Multi Winner</a><br />
+~<a href="http://red-green-peppers.gokkast.eu/">Red Green Peppers</a></p>
+<p>Roulette:<br />
+~<a href="http://rood-zwart-roulette-systeem.gokkast.eu/">Verdubbel systeem</a><br />
+~<a href="http://megastar-roulette.gokkast.eu/">Megastar Roulette</a><br />
+~<a href="http://interblock-roulette.gokkast.eu/">Interblock Roulette</a><br />
+~<a href="http://alfastreet-roulette.gokkast.eu/">Alfastreet machine</a><br />
+~<a href="http://karma-roulette.gokkast.eu/">Karma automaat</a><br />
+~<a href="http://octavia-roulette.gokkast.eu/">Octavia</a><br />
+~<a href="http://omega-roulette.gokkast.eu/">Omega meerspeler</a></p>
+</div>
+		    
+</div><!-- End of footerwidget1 -->
+
+
+<div class="footerwidget">
+
+ <h2>Populaire gokkasten:</h2>			<div class="textwidget"><p>~<a href="http://simply-wild.gokkast.eu/">Simply Wild</a><br />
+~<a href="http://caribbean-adventure.gokkast.eu/">Caribbean Adventure</a><br />
+~<a href="http://bars-and-sevens.gokkast.eu/ ">Bars ’n’ Sevens</a><br />
+~<a href="https://gokkast.eu/mega-moolah/">Mega Moolah</a><br />
+~<a href="https://gokkast.eu/all-stars/">All Stars</a><br />
+~<a href="https://gokkast.eu/marvel-mystery-jackpot/">Marvel Mystery Jackpot</a><br />
+~<a href="https://gokkast.eu/andy-capp/">Andy Capp</a><br />
+~<a href="https://gokkast.eu/tower-of-power/">Tower of Power</a></p>
+</div>
+		    
+</div><!-- End of footerwidget2 -->
+
+
+<div class="footerwidget">
+
+ 
+  <h2>Recent Topics</h2>
+     <ul>
+	    <li><a href="https://gokkast.eu/pacific-attack/">Pacific Attack</a></li>
+     <li><a href="https://gokkast.eu/wolverine/">Wolverine</a></li>
+     <li><a href="https://gokkast.eu/the-amazing-spiderman/">The Amazing Spiderman</a></li>
+     <li><a href="https://gokkast.eu/jack-and-the-beanstalk/">Jack and the Beanstalk</a></li>
+     <li><a href="https://gokkast.eu/fruit-shop/">Fruit Shop</a></li>
+ 
+     </ul>
+      
+</div><!-- End of footerwidget3 -->
+
+
+<div class="footerwidget">
+
+ <h2>Video gokkasten</h2>			<div class="textwidget"><p>~<a href="http://call-of-duty.gokkast.eu/">Call of Duty</a><br />
+~<a href="http://ghost-pirates.gokkast.eu/">Ghost Pirates</a><br />
+~<a href="http://simsalabim.gokkast.eu/">Simsalabim</a><br />
+~<a href="http://piggy-riches.gokkast.eu/">Piggy Riches</a><br />
+~<a href="http://funky-seventies.gokkast.eu/">Funky Seventies</a><br />
+~<a href="http://terminator-2.gokkast.eu/">Terminator 2</a><br />
+~<a href="https://gokkast.eu/meer-video-gokkasten/">Meer slots</a></p>
+</div>
+		    
+</div><!-- End of footerwidget4 -->
+  
+ 
+
+       
+  </div><!--End of Top Footer-->
+  
+  
+  <div id="bottomfooter" align="center">
+
+  Gokkast.eu
+  
+  </div><!--End of Footer Bottom -->
+
+</div><!--End of Footer -->
+
+<script type="text/javascript">jQuery(function(){omShortcodes.init(["buttons","tooltips","toggle","tabs","responsivebox","counter"]);});</script><div id="wondergridgallerylightbox_options" data-skinsfoldername="skins/default/"  data-jsfolder="http://gokkast.eu/wp-content/plugins/wonderplugin-gridgallery/engine/" style="display:none;"></div><script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://apis.google.com/js/plusone.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://gokkast.eu/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/gokkast.eu\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Graag verifi\u00ebren dat je geen robot bent."}},"sending":"Verzenden ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://gokkast.eu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5'></script>
+<script type='text/javascript' src='http://gokkast.eu/wp-content/plugins/dopwgg/libraries/js/jquery.mousewheel.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://gokkast.eu/wp-content/plugins/dopwgg/libraries/js/jquery.jscrollpane.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://gokkast.eu/wp-content/plugins/dopwgg/assets/js/jquery.dop.WallGridGallery.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://gokkast.eu/wp-content/plugins/olevmedia-shortcodes/assets/js/shortcodes.js?ver=1.1.9'></script>
+<script type='text/javascript' src='http://gokkast.eu/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+
+<script type="text/javascript" src="http://gokkast.eu/wp-content/themes/flytonictheme/js/selectnav.js"></script>
+<script type="text/javascript">selectnav('nav', {
+  label: 'Select page...',
+  nested: true,
+  indent: ' -'
+}
+); </script>
+
+
+
+</body>
+</html>
+
+
+
+ 
+
+
+
+
+

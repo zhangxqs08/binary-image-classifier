@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Page not found</title>
+<meta name="Description" content="The requested page is not found" />
+<meta content="noindex" name="robots" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="author" content="D.J. de Bruin" />
+<link href="/site/css/eng-style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="content mar_auto verdana">
+<div class="main">
+<div class="left_block left" id="l1">
+<br />
+<h3 class="big_title">The page you were trying to reach was not found</h3>
+<p>You may have selected an outdated link or typed the page address (URL) incorrectly.</p>
+<br />
+<ul>
+<li>
+<a href="http://www.myshop.com/">Visit Home Page van www.myshop.com</a>
+</li>
+<li>
+<a href="mailto:support@mijnwinkel.nl?subject=question to myShop.com (from notfound)">Send a mail to support@mijnwinkel.nl</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

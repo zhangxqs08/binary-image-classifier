@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html>
+<head>
+<base href="http://www.bravedesign.uk.com/"><!--[if lte IE 6]></base><![endif]-->
+<title>Page not found &raquo; Brave Design</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="themes/brave/css/preloader.css">
+<link rel="stylesheet" href="themes/brave/css/bootstrap.min.css">
+<link rel="stylesheet" href="themes/brave/css/font-awesome.min.css">
+<link rel="stylesheet" href="themes/brave/css/animate.css">
+<link rel="stylesheet" href="themes/brave/css/style.css">
+<link rel="icon" type="image/png" href="themes/brave/images/favicon.png">
+</head>
+<body>
+<div class="preloader"></div>
+
+<header class="header header-light header-left navbar-fixed-top no-change-bgcolor">
+	<nav class="navbar container">
+
+	
+		<div class="col-sm-12">
+			<a class="navbar-brand pull-right" href="http://www.bravedesign.uk.com/"><img src="themes/brave/images/logo-brave-design.png" width="200" alt="Brave Design"></a>
+				<button class="navbar-toggle collapsed" data-target="#navbar" data-toggle="collapse" type="button">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<div class="pull-left left-menu">
+				<div id="navbar" class="navbar-collapse collapse pull-left">
+					<ul class="nav navbar-nav">
+						
+							
+								<li class=" ">
+									<a href="/">Home</a>
+									
+								</li>
+							
+						
+							
+								<li class="dropdown ">
+									<a href="/about-us/">About Us</a>
+									
+										<ul class="dropdown-menu">
+											
+												<li>
+													<a href="/about-us/why-choose-us/">Why Choose Us</a>
+													
+												</li>
+											
+												<li>
+													<a href="/about-us/our-facilities/">Our Facilities</a>
+													
+												</li>
+											
+												<li>
+													<a href="/about-us/environmental-concerns/">Environmental Concerns</a>
+													
+												</li>
+											
+												<li>
+													<a href="/about-us/our-services/">Our Services</a>
+													
+												</li>
+											
+												<li>
+													<a href="/about-us/how-we-do-it/">How We Do it</a>
+													
+												</li>
+											
+										</ul>
+									
+								</li>
+							
+						
+							
+								<li class="dropdown ">
+									<a href="/products/">Products</a>
+									
+										<ul class="dropdown-menu">
+											
+												<li>
+													<a href="/products/selecting-your-product/">Selecting Your Product</a>
+													
+												</li>
+											
+												<li class="dropdown">
+													<a href="/products/bedrooms/">Bedrooms</a>
+													
+														<ul class="dropdown-menu">
+															
+																<li><a href="/products/bedrooms/classic-range/">Classic Range</a></li>
+															
+																<li><a href="/products/bedrooms/banbury-range/">Banbury Range</a></li>
+															
+																<li><a href="/products/bedrooms/marseille-range/">Marseille Range</a></li>
+															
+																<li><a href="/products/bedrooms/roma-range/">Roma Range</a></li>
+															
+																<li><a href="/products/bedrooms/milan-range/">Milan Range</a></li>
+															
+																<li><a href="/products/bedrooms/turin-range/">Turin Range</a></li>
+															
+																<li><a href="/products/bedrooms/linea-range/">Linea Range</a></li>
+															
+														</ul>
+													
+												</li>
+											
+												<li class="dropdown">
+													<a href="/products/lounge/">Lounge</a>
+													
+														<ul class="dropdown-menu">
+															
+																<li><a href="/products/lounge/lucerne-range/">Lucerne Range</a></li>
+															
+																<li><a href="/products/lounge/imola-range/">Imola Range</a></li>
+															
+														</ul>
+													
+												</li>
+											
+												<li class="dropdown">
+													<a href="/products/dementia/">Dementia</a>
+													
+														<ul class="dropdown-menu">
+															
+																<li><a href="/products/dementia/harley-range/">Harley Range</a></li>
+															
+														</ul>
+													
+												</li>
+											
+												<li class="dropdown">
+													<a href="/products/challenging-behaviour/">Challenging Behaviour</a>
+													
+														<ul class="dropdown-menu">
+															
+																<li><a href="/products/challenging-behaviour/indi-struct/">INDI-STRUCT</a></li>
+															
+														</ul>
+													
+												</li>
+											
+												<li>
+													<a href="/products/accessories/">Accessories</a>
+													
+												</li>
+											
+												<li>
+													<a href="/products/bathrooms/">Bathrooms</a>
+													
+												</li>
+											
+										</ul>
+									
+								</li>
+							
+						
+							
+								<li class=" ">
+									<a href="/contact/">Contact</a>
+									
+								</li>
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+						
+							<li><a href="/register/?BackURL=/downloads/">Register</a></li>
+							<li><a href="/Security/login?BackURL=/downloads/">Log-In</a></li>
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+	</nav>
+</header>
+
+<div class="wrapper border">
+	<a id="scroll-anchor"></a>
+
+	<div class="headcontent">
+	<div class="container">
+		<div class="col-sm-5"><h1>Page not found</h1></div>
+		<div class="col-sm-7 text-right">
+			<ol class="breadcrumb">
+				<li><a href="http://www.bravedesign.uk.com/">Home</a></li>
+				
+					
+						
+							<li class="active">Page not found</li>
+						
+					
+				
+			</ol>
+		</div>
+	</div>
+</div>
+	<div class="container padding">
+	
+	<div class="col-sm-6">
+		
+		<p>Sorry, it seems you were trying to access a page that doesn't exist.</p><p>Please check the spelling of the URL you were trying to access and try again.</p>
+	</div>
+	<div class="col-sm-6">
+		
+	</div>
+</div>
+
+	
+		<div class="container inforow solid-color sm-padding">
+<div class="col-sm-5"><img title="" src="assets/SiteBanners/brochure-image.jpg" alt="brochure image"></div>
+<div class="col-sm-7 no-padding-left">
+<h1 class="painted">Download our Brochure</h1>
+<p>We specialise in producing contract furniture specifically designed and exclusively supplied to contract distributers and care home suppliers.</p>
+<p><a class="btn btn-primary " title="Brave Brochure" href="/assets/Brochures/Brave-Brochure-2014.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>Download Now [PDF]</a></p>
+<!--<p><a class="btn btn-primary " href="/Assets/Images/Photos/edu32.jpg#"><i class="fa fa-book"></i>View Flipbook</a></p>--></div>
+</div>
+		<div class="container inforow solid-color-INDI sm-padding">
+<div class="col-sm-5"><img title="" src="assets/SiteBanners/brochure-image-INDI.jpg" alt="brochure image indi-struct"></div>
+<div class="col-sm-7 no-padding-left">
+<h1>INDI-STRUCT Brochure</h1>
+<p>The INDI-STRUCT Range has been specifically designed to offer you a complete furniture solution for all different aspects of challenging behaviour.</p>
+<p><a class="btn btn-primary " title="INDI STRUCT Brochure" href="/assets/Brochures/INDI-STRUCT-Brochure-PDF.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>Download Now [PDF]</a></p>
+<!--<p><a class="btn btn-primary " href="/Assets/Images/Photos/edu32.jpg#"><i class="fa fa-book"></i>View Flipbook</a></p>--></div>
+</div>
+	
+</div>
+
+<footer class="footer footer-dark">
+	<div class="container">
+		<div class="row inforow frow-1">
+			<div class="col-md-3 col-sm-6">
+				<h4>About Us</h4>
+				<p>We specialise in producing contract furniture specifically designed and exclusively supplied to contract distributers and care home suppliers.</p>
+			</div>
+
+			<div class="col-md-3 col-sm-6">
+				<h4>Contact</h4>
+				<address>
+<p><strong>Brave Design Ltd</strong><br> 5 Brindley Road<br> Reginald Road Industrial Estate <br> St Helens<br> WA9 4HY<br><br> Tel: 01744 816883<br> Fax: 01744 810030<br><a href="mailto:info@bravedesign.uk.com">info@bravedesign.uk.com</a><br><br> OFFICE HOURS:<br> Monday - Thursday 8am - 4.30pm<br> Friday - 8am - 3.30pm</p>
+<p><img title="" src="assets/Uploads/_resampled/ResizedImage2525-icon-uk-manufactured.png" alt="icon uk manufactured" height="25" width="25"> Proudly manufactured in the UK</p>
+</address>
+			</div>
+
+			<div class="col-md-3 col-sm-6">
+				<h4>Site Links</h4>
+				<ul>
+					
+						
+							<li><a href="/">Home</a></li>
+						
+					
+						
+							<li><a href="/about-us/">About Us</a></li>
+						
+					
+						
+							<li><a href="/products/">Products</a></li>
+						
+					
+						
+							<li><a href="/contact/">Contact</a></li>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+				</ul>
+			</div>
+
+			<div class="col-md-3 col-sm-6">
+				<h4>Product Categories</h4>
+				<nav class="latest-works">
+					
+						<a href="/products/bedrooms/"><img src="assets/ProductRangeImages/range-type-bedroom.jpg" alt="Bedrooms"></a>
+					
+						<a href="/products/lounge/"><img src="assets/ProductRangeImages/range-type-lounge-2.jpg" alt="Lounge"></a>
+					
+						<a href="/products/dementia/"><img src="assets/ProductRangeImages/range-type-dementia.jpg" alt="Dementia"></a>
+					
+						<a href="/products/challenging-behaviour/"><img src="assets/ProductRangeImages/range-type-challenging-behaviour.jpg" alt="Challenging Behaviour"></a>
+					
+						<a href="/products/accessories/"><img src="assets/FeaturedImages/Table-cameo-roomset.jpg " alt="Accessories"></a>
+					
+						<a href="/products/bathrooms/"><img src="assets/FeaturedImages/Vanity-roomset.jpg " alt="Bathrooms"></a>
+					
+				</nav>
+			</div>
+		</div>
+
+		<hr>
+
+		<div class="row frow-3">
+			<div class="col-md-5">
+				<p class="copyright">&copy; 2017 Brave Design. All Rights Reserved</p>
+			</div>
+			<div class="col-md-7 text-right">
+			
+				
+				<div style="margin-top:0px;">
+				<ul class="legal">
+					<li><a href="/privacy-policy/">Privacy Policy</a></li>
+					<li><a href="/terms-of-use/">Terms Of Use</a></li>
+					<li><a href="/cookie-policy/">Cookie Policy</a></li>
+				</ul>
+				</div>
+			</div>
+
+<div class="col-md-12 text-center">
+			<a href="http://www.ina4.com" target="_blank" class="ina-4-link"><img style="vertical-align: middle" src="themes/brave/images/ina4-logo.png" alt="Website design by ina4.com" title="Website design by ina4.com" width="16" border="0" height="14">&nbsp;
+						Website design - ina4.com</a>
+						</div>
+		</div>
+	</div>
+</footer>
+
+<a href="/Assets/Images/Photos/edu32.jpg#" class="scrolltop"><i></i></a>
+
+<script src="/cookielaw/cookielaw.js"></script>
+<script src="themes/brave/js/jquery-2.1.3.min.js"></script>
+<script src="themes/brave/js/bootstrap.min.js"></script>
+<script src="themes/brave/js/plugins.js"></script>
+<script src="themes/brave/js/custom.js"></script>
+<script src="//maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=1"></script>
+
+<script>
+$(document).ready(function() {
+	$('#MemberLoginForm_LoginForm_action_dologin, #Form_RegisterForm_action_doRegister, #MemberLoginForm_LostPasswordForm_action_forgotPassword, #ChangePasswordForm_ChangePasswordForm_action_doChangePassword').addClass('btn btn-primary');
+});
+</script>
+</body>
+</html>

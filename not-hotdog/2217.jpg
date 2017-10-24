@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Swiss Colony</title>
+<script language="JavaScript">
+	function redirect_page()
+	{	
+		var url = "";
+	
+        if (url == ""){
+            url = "/";
+        }
+		window.location.href = url;
+	}
+</script>
+</head>
+<body onLoad='redirect_page()'>
+<p>&nbsp;</p>
+</body>
+</html>

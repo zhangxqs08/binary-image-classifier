@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="nl" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="nl" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="nl" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="nl" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+			
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="http://www.petervanwoerden.nl/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="http://www.petervanwoerden.nl/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<title>Pagina niet gevonden - Peter van Woerden, architect</title>
+          <script>
+            (function(d){
+              var js, id = 'powr-js', ref = d.getElementsByTagName('script')[0];
+              if (d.getElementById(id)) {return;}
+              js = d.createElement('script'); js.id = id; js.async = true;
+              js.src = '//www.powr.io/powr.js';
+              js.setAttribute('powr-token','LJK0upSWwQ1486396165');
+              js.setAttribute('external-type','wordpress');
+              ref.parentNode.insertBefore(js, ref);
+            }(document));
+          </script>
+          
+<!-- This site is optimized with the Yoast SEO plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Pagina niet gevonden - Peter van Woerden, architect" />
+<meta property="og:site_name" content="Peter van Woerden, architect" />
+<meta property="fb:admins" content="100002311156292" />
+<meta property="og:image" content="http://www.facebook.com/petervanwoerden" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Peter van Woerden, architect &raquo; Feed" href="http://www.petervanwoerden.nl/feed" />
+<link rel="alternate" type="application/rss+xml" title="Peter van Woerden, architect &raquo; Reactiesfeed" href="http://www.petervanwoerden.nl/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.petervanwoerden.nl\/wp-includes\/js\/wp-emoji-release.min.js?ver=ee7a694cf294bca66bed81cc6744deab"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi v.3.0.51" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='essential-grid-plugin-settings-css'  href='http://www.petervanwoerden.nl/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=2.1.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&#038;ver=ee7a694cf294bca66bed81cc6744deab' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-raleway-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=ee7a694cf294bca66bed81cc6744deab' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-droid-serif-css'  href='http://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=ee7a694cf294bca66bed81cc6744deab' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-play-css'  href='http://fonts.googleapis.com/css?family=Play:400,700&#038;subset=latin,cyrillic-ext,cyrillic,greek-ext,greek,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='http://www.petervanwoerden.nl/wp-content/themes/Divi/style.css?ver=3.0.51' type='text/css' media='all' />
+<link rel='stylesheet' id='new-royalslider-core-css-css'  href='http://www.petervanwoerden.nl/wp-content/plugins/new-royalslider/lib/royalslider/royalslider.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rsDefaultInv-css-css'  href='http://www.petervanwoerden.nl/wp-content/plugins/new-royalslider/lib/royalslider/skins/default-inverted/rs-default-inverted.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='visible_nearby_simple-css-css'  href='http://www.petervanwoerden.nl/wp-content/plugins/new-royalslider/lib/royalslider/templates-css/rs-visible-nearby-simple.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='http://www.petervanwoerden.nl/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0.51' type='text/css' media='all' />
+<link rel='stylesheet' id='cf-front-css'  href='http://www.petervanwoerden.nl/wp-content/plugins/caldera-forms/assets/build/css/caldera-forms-front.min.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='http://www.petervanwoerden.nl/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0.51' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://www.petervanwoerden.nl/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=3.0.51' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css'  href='http://www.petervanwoerden.nl/wp-content/plugins/addthis-follow/frontend/build/addthis_wordpress_public.min.css?ver=ee7a694cf294bca66bed81cc6744deab' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.petervanwoerden.nl/wp-includes/css/dashicons.min.css?ver=ee7a694cf294bca66bed81cc6744deab' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.petervanwoerden.nl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.petervanwoerden.nl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.petervanwoerden.nl/wp-includes/wlwmanifest.xml" /> 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />		<style id="theme-customizer-css">
+					@media only screen and ( min-width: 767px ) {
+				body, .et_pb_column_1_2 .et_quote_content blockquote cite, .et_pb_column_1_2 .et_link_content a.et_link_main_url, .et_pb_column_1_3 .et_quote_content blockquote cite, .et_pb_column_3_8 .et_quote_content blockquote cite, .et_pb_column_1_4 .et_quote_content blockquote cite, .et_pb_blog_grid .et_quote_content blockquote cite, .et_pb_column_1_3 .et_link_content a.et_link_main_url, .et_pb_column_3_8 .et_link_content a.et_link_main_url, .et_pb_column_1_4 .et_link_content a.et_link_main_url, .et_pb_blog_grid .et_link_content a.et_link_main_url, body .et_pb_bg_layout_light .et_pb_post p,  body .et_pb_bg_layout_dark .et_pb_post p { font-size: 15px; }
+				.et_pb_slide_content, .et_pb_best_value { font-size: 17px; }
+			}
+										h1, h2, h3, h4, h5, h6 { color: #282828; }
+								body { line-height: 1.4em; }
+							.woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #ff6500 !important; }
+			#et_search_icon:hover, .mobile_menu_bar:before, .mobile_menu_bar:after, .et_toggle_slide_menu:after, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .nav-single a, .posted_in a { color: #ff6500; }
+			.et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .comment-reply-link, .form-submit .et_pb_button, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .et_pb_contact p input[type="checkbox"]:checked + label i:before { color: #ff6500; }
+			.footer-widget h4 { color: #ff6500; }
+			.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #ff6500; }
+			.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content, .et_pb_post_slider.et_pb_bg_layout_dark, .et_slide_in_menu_container, .et_pb_contact p input[type="radio"]:checked + label i:before { background-color: #ff6500; }
+							.container, .et_pb_row, .et_pb_slider .et_pb_container, .et_pb_fullwidth_section .et_pb_title_container, .et_pb_fullwidth_section .et_pb_title_featured_container, .et_pb_fullwidth_header:not(.et_pb_fullscreen) .et_pb_fullwidth_header_container { max-width: 960px; }
+			.et_boxed_layout #page-container, .et_fixed_nav.et_boxed_layout #page-container #top-header, .et_fixed_nav.et_boxed_layout #page-container #main-header, .et_boxed_layout #page-container .container, .et_boxed_layout #page-container .et_pb_row { max-width: 1120px; }
+							a { color: #ff6500; }
+											.nav li ul { border-color: #ff8930; }
+							#top-header, #et-secondary-nav li ul { background-color: #ffffff; }
+								#top-header, #top-header a { color: #444444; }
+							#et-secondary-nav li ul a { color: #dd9933; }
+											#top-header, #top-header a, #et-secondary-nav li li a, #top-header .et-social-icon a:before {
+									font-size: 16px;
+															}
+							#top-menu li a { font-size: 15px; }
+			body.et_vertical_nav .container.et_search_form_container .et-search-form input { font-size: 15px !important; }
+		
+		
+					#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a,
+			.et_color_scheme_red #top-menu li.current-menu-ancestor > a, .et_color_scheme_red #top-menu li.current-menu-item > a,
+			.et_color_scheme_pink #top-menu li.current-menu-ancestor > a, .et_color_scheme_pink #top-menu li.current-menu-item > a,
+			.et_color_scheme_orange #top-menu li.current-menu-ancestor > a, .et_color_scheme_orange #top-menu li.current-menu-item > a,
+			.et_color_scheme_green #top-menu li.current-menu-ancestor > a, .et_color_scheme_green #top-menu li.current-menu-item > a { color: #ff8930; }
+							#main-footer { background-color: #3f3f3f; }
+											#main-footer .footer-widget h4 { color: #ff8930; }
+							.footer-widget li:before { border-color: #ff6500; }
+						#footer-widgets .footer-widget li:before { top: 9.75px; }									body .et_pb_button,
+			.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt,
+			.woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message a.button.wc-forward
+			{
+									 font-size: 18px;
+																	border-width: 1px !important;
+																							}
+			body.et_pb_button_helper_class .et_pb_button,
+			.woocommerce.et_pb_button_helper_class a.button.alt, .woocommerce-page.et_pb_button_helper_class a.button.alt, .woocommerce.et_pb_button_helper_class button.button.alt, .woocommerce-page.et_pb_button_helper_class button.button.alt, .woocommerce.et_pb_button_helper_class input.button.alt, .woocommerce-page.et_pb_button_helper_class input.button.alt, .woocommerce.et_pb_button_helper_class #respond input#submit.alt, .woocommerce-page.et_pb_button_helper_class #respond input#submit.alt, .woocommerce.et_pb_button_helper_class #content input.button.alt, .woocommerce-page.et_pb_button_helper_class #content input.button.alt,
+			.woocommerce.et_pb_button_helper_class a.button, .woocommerce-page.et_pb_button_helper_class a.button, .woocommerce.et_pb_button_helper_class button.button, .woocommerce-page.et_pb_button_helper_class button.button, .woocommerce.et_pb_button_helper_class input.button, .woocommerce-page.et_pb_button_helper_class input.button, .woocommerce.et_pb_button_helper_class #respond input#submit, .woocommerce-page.et_pb_button_helper_class #respond input#submit, .woocommerce.et_pb_button_helper_class #content input.button, .woocommerce-page.et_pb_button_helper_class #content input.button {
+									color: #424242 !important;
+							}
+							body .et_pb_button:after,
+			.woocommerce a.button.alt:after, .woocommerce-page a.button.alt:after, .woocommerce button.button.alt:after, .woocommerce-page button.button.alt:after, .woocommerce input.button.alt:after, .woocommerce-page input.button.alt:after, .woocommerce #respond input#submit.alt:after, .woocommerce-page #respond input#submit.alt:after, .woocommerce #content input.button.alt:after, .woocommerce-page #content input.button.alt:after,
+			.woocommerce a.button:after, .woocommerce-page a.button:after, .woocommerce button.button:after, .woocommerce-page button.button:after, .woocommerce input.button:after, .woocommerce-page input.button:after, .woocommerce #respond input#submit:after, .woocommerce-page #respond input#submit:after, .woocommerce #content input.button:after, .woocommerce-page #content input.button:after
+			{
+									font-size: 28.8px;
+											}
+				
+		
+									body #page-container .et_slide_in_menu_container { background: rgba(255,255,255,0.95); }
+							.et_slide_in_menu_container #mobile_menu_slide li span.et_mobile_menu_arrow:before, .et_slide_in_menu_container #mobile_menu_slide li a { color: #ff6500; }
+							.et_slide_in_menu_container #mobile_menu_slide li.current-menu-item span.et_mobile_menu_arrow:before, .et_slide_in_menu_container #mobile_menu_slide li.current-menu-item a { color: #ff6500; }
+							.et_slide_in_menu_container .et_slide_menu_top, .et_slide_in_menu_container .et_slide_menu_top a, .et_slide_in_menu_container .et_slide_menu_top input { color: #ff6500; }
+			.et_slide_in_menu_container .et_slide_menu_top .et-search-form input, .et_slide_in_menu_container .et_slide_menu_top .et-search-form button#searchsubmit_header:before { color: #ff6500; }
+			.et_slide_in_menu_container .et_slide_menu_top .et-search-form input::-webkit-input-placeholder { color: #ff6500; }
+			.et_slide_in_menu_container .et_slide_menu_top .et-search-form input::-moz-placeholder { color: #ff6500; }
+			.et_slide_in_menu_container .et_slide_menu_top .et-search-form input:-ms-input-placeholder { color: #ff6500; }
+			.et_header_style_fullscreen .et_slide_in_menu_container span.mobile_menu_bar.et_toggle_fullscreen_menu:before { color: #ff6500; }
+			.et_header_style_fullscreen .et_slide_menu_top .et-search-form { border-color: #ff6500; }
+																				
+		@media only screen and ( min-width: 981px ) {
+												.et_pb_section { padding: 0% 0; }
+					.et_pb_section.et_pb_section_first { padding-top: inherit; }
+					.et_pb_fullwidth_section { padding: 0; }
+													.et_pb_row { padding: 0% 0; }
+																								#logo { max-height: 60%; }
+				.et_pb_svg_logo #logo { height: 60%; }
+																												.et-fixed-header#top-header, .et-fixed-header#top-header #et-secondary-nav li ul { background-color: #ffffff; }
+													.et-fixed-header #top-menu li a { font-size: 15px; }
+													.et-fixed-header #top-menu li.current-menu-ancestor > a,
+				.et-fixed-header #top-menu li.current-menu-item > a { color: #ff8930 !important; }
+										.et-fixed-header#top-header a { color: #444444; }
+			
+					}
+					@media only screen and ( min-width: 1200px) {
+				.et_pb_row { padding: 0px 0; }
+				.et_pb_section { padding: 0px 0; }
+				.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper { padding-top: 0px; }
+				.et_pb_section.et_pb_section_first { padding-top: inherit; }
+				.et_pb_fullwidth_section { padding: 0; }
+			}
+		
+		@media only screen and ( max-width: 980px ) {
+																h1 { font-size: 27px; }
+				h2, .product .related h2, .et_pb_column_1_2 .et_quote_content blockquote p { font-size: 23px; }
+				h3 { font-size: 19px; }
+				h4, .et_pb_circle_counter h3, .et_pb_number_counter h3, .et_pb_column_1_3 .et_pb_post h2, .et_pb_column_1_4 .et_pb_post h2, .et_pb_blog_grid h2, .et_pb_column_1_3 .et_quote_content blockquote p, .et_pb_column_3_8 .et_quote_content blockquote p, .et_pb_column_1_4 .et_quote_content blockquote p, .et_pb_blog_grid .et_quote_content blockquote p, .et_pb_column_1_3 .et_link_content h2, .et_pb_column_3_8 .et_link_content h2, .et_pb_column_1_4 .et_link_content h2, .et_pb_blog_grid .et_link_content h2, .et_pb_column_1_3 .et_audio_content h2, .et_pb_column_3_8 .et_audio_content h2, .et_pb_column_1_4 .et_audio_content h2, .et_pb_blog_grid .et_audio_content h2, .et_pb_column_3_8 .et_pb_audio_module_content h2, .et_pb_column_1_3 .et_pb_audio_module_content h2, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2 { font-size: 16px; }
+				.et_pb_slider.et_pb_module .et_pb_slides .et_pb_slide_description .et_pb_slide_title { font-size: 41px; }
+				.woocommerce ul.products li.product h3, .woocommerce-page ul.products li.product h3, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2, .et_pb_column_1_4 .et_pb_audio_module_content h2 { font-size: 14px; }
+										.et_pb_section { padding: 0px 0; }
+				.et_pb_section.et_pb_section_first { padding-top: inherit; }
+				.et_pb_section.et_pb_fullwidth_section { padding: 0; }
+										.et_pb_row, .et_pb_column .et_pb_row_inner { padding: 20px 0; }
+					}
+		@media only screen and ( max-width: 767px ) {
+							body, .et_pb_column_1_2 .et_quote_content blockquote cite, .et_pb_column_1_2 .et_link_content a.et_link_main_url, .et_pb_column_1_3 .et_quote_content blockquote cite, .et_pb_column_3_8 .et_quote_content blockquote cite, .et_pb_column_1_4 .et_quote_content blockquote cite, .et_pb_blog_grid .et_quote_content blockquote cite, .et_pb_column_1_3 .et_link_content a.et_link_main_url, .et_pb_column_3_8 .et_link_content a.et_link_main_url, .et_pb_column_1_4 .et_link_content a.et_link_main_url, .et_pb_blog_grid .et_link_content a.et_link_main_url { font-size: 13px; }
+				.et_pb_slider.et_pb_module .et_pb_slides .et_pb_slide_content, .et_pb_best_value { font-size: 14px; }
+										h1 { font-size: 26px; }
+				h2, .product .related h2, .et_pb_column_1_2 .et_quote_content blockquote p { font-size: 22px; }
+				h3 { font-size: 18px; }
+				h4, .et_pb_circle_counter h3, .et_pb_number_counter h3, .et_pb_column_1_3 .et_pb_post h2, .et_pb_column_1_4 .et_pb_post h2, .et_pb_blog_grid h2, .et_pb_column_1_3 .et_quote_content blockquote p, .et_pb_column_3_8 .et_quote_content blockquote p, .et_pb_column_1_4 .et_quote_content blockquote p, .et_pb_blog_grid .et_quote_content blockquote p, .et_pb_column_1_3 .et_link_content h2, .et_pb_column_3_8 .et_link_content h2, .et_pb_column_1_4 .et_link_content h2, .et_pb_blog_grid .et_link_content h2, .et_pb_column_1_3 .et_audio_content h2, .et_pb_column_3_8 .et_audio_content h2, .et_pb_column_1_4 .et_audio_content h2, .et_pb_blog_grid .et_audio_content h2, .et_pb_column_3_8 .et_pb_audio_module_content h2, .et_pb_column_1_3 .et_pb_audio_module_content h2, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2 { font-size: 15px; }
+				.et_pb_slider.et_pb_module .et_pb_slides .et_pb_slide_description .et_pb_slide_title { font-size: 39px; }
+				.woocommerce ul.products li.product h3, .woocommerce-page ul.products li.product h3, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2, .et_pb_column_1_4 .et_pb_audio_module_content h2 { font-size: 13px; }
+													.et_pb_row, .et_pb_column .et_pb_row_inner { padding: 8px 0; }
+					}
+	</style>
+
+	
+					<style class="et_heading_font">
+				h1, h2, h3, h4, h5, h6 {
+					font-family: 'Play', Helvetica, Arial, Lucida, sans-serif;				}
+				</style>
+							<style class="et_body_font">
+				body, input, textarea, select {
+					font-family: 'Play', Helvetica, Arial, Lucida, sans-serif;				}
+				</style>
+							<style class="et_primary_nav_font">
+				#main-header,
+				#et-top-navigation {
+					font-family: 'Play', Helvetica, Arial, Lucida, sans-serif;				}
+				</style>
+			
+	
+	<style id="module-customizer-css">
+		.et_pb_blurb h4 { font-size: 20px; }
+.et_pb_toggle.et_pb_toggle_item h5 { font-size: 22px; }
+.et_pb_toggle.et_pb_toggle_item .et_pb_toggle_title:before { font-size: 20px; }
+	</style>
+
+	<link rel="shortcut icon" href="http://www.petervanwoerden.nl/wp-content/uploads/2010/10/favi.jpg" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://www.petervanwoerden.nl/wp-content/uploads/2013/08/achtergrond.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+<link rel="icon" href="http://www.petervanwoerden.nl/wp-content/uploads/2010/10/favi.jpg" sizes="32x32" />
+<link rel="icon" href="http://www.petervanwoerden.nl/wp-content/uploads/2010/10/favi.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.petervanwoerden.nl/wp-content/uploads/2010/10/favi.jpg" />
+<meta name="msapplication-TileImage" content="http://www.petervanwoerden.nl/wp-content/uploads/2010/10/favi.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+Je kunt hier je eigen CSS toevoegen.
+
+Klik op het help icoon om meer te leren.
+*/
+
+h2 {
+font-size: 150%;
+}
+h3 {
+font-size: 120%;
+font-style: italic
+}
+.esg-filter-wrapper {
+    display: inline-block;
+    margin-bottom: 25px;
+}
+.et_pb_widget {
+    float: none;
+}
+.et_pb_fullscreen_nav_container .et-pb-icon {
+    font-size: 48px;
+	font-weight: bold;
+}		</style>
+	</head>
+<body class="error404 custom-background et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_pb_gutter et_pb_gutters2 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_expand et_pb_footer_columns3 et_header_style_fullscreen et_header_style_left et_right_sidebar et_divi_theme unknown">
+	<div id="page-container">
+
+	
+			<div class="et_slide_in_menu_container">
+							<span class="mobile_menu_bar et_toggle_fullscreen_menu"></span>
+			
+						
+						
+			<div class="et_pb_fullscreen_nav_container">
+				
+				<ul id="mobile_menu_slide" class="et_mobile_menu">
+
+				<li id="menu-item-5196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-5196"><a href="http://www.petervanwoerden.nl"><span class="et-pb-icon et-waypoint et_pb_animation_top et-animated"></span></a></li>
+<li id="menu-item-4360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-4360"><a title="Projecten van Peter van Woerden" href="http://www.petervanwoerden.nl/">Projecten</a>
+<ul  class="sub-menu">
+	<li id="menu-item-4352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4352"><a href="http://www.petervanwoerden.nl/restauratie">Restauratie</a></li>
+	<li id="menu-item-4351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4351"><a href="http://www.petervanwoerden.nl/herbestemming">Herbestemming</a></li>
+	<li id="menu-item-4348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4348"><a href="http://www.petervanwoerden.nl/verbouw">Verbouw</a></li>
+	<li id="menu-item-4349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4349"><a href="http://www.petervanwoerden.nl/nieuwbouw">Nieuwbouw</a></li>
+	<li id="menu-item-4350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4350"><a href="http://www.petervanwoerden.nl/interieur">Interieur</a></li>
+</ul>
+</li>
+<li id="menu-item-4345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4345"><a href="http://www.petervanwoerden.nl/de-werkwijze-van-de-architect">Werkwijze</a></li>
+<li id="menu-item-5248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5248"><a href="http://www.petervanwoerden.nl/samenwerking-in-de-architectuur">Samenwerking</a></li>
+<li id="menu-item-5234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5234"><a href="http://www.petervanwoerden.nl/offerte-aanvragen-bij-peter-van-woerden">Offerte aanvragen</a></li>
+<li id="menu-item-4411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4411"><a href="http://www.petervanwoerden.nl/nieuws-van-peter-van-woerden-architect">Nieuws</a></li>
+<li id="menu-item-4354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4354"><a href="http://www.petervanwoerden.nl/contact">Adres en contact</a></li>
+
+				</ul>
+			</div>
+		</div>
+	
+		<header id="main-header" data-height-onload="66">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="http://www.petervanwoerden.nl/">
+						<img src="http://www.petervanwoerden.nl/wp-content/uploads/2013/08/banner.png" alt="Peter van Woerden, architect" id="logo" data-height-percentage="60" />
+					</a>
+				</div>
+				<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+					
+					
+											<span class="mobile_menu_bar et_pb_header_toggle et_toggle_fullscreen_menu"></span>
+					
+					
+									</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="http://www.petervanwoerden.nl/">
+					<input type="search" class="et-search-field" placeholder="Zoek &hellip;" value="" name="s" title="Zoek naar:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
+<div id="main-content">
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+				<article id="post-0" class="et_pb_post not_found post-4863 post type-post status-publish format-standard has-post-thumbnail hentry category-alle category-interieur">
+					<div class="entry">
+<!--If no results are found-->
+	<h1>Geen Resultaten Gevonden</h1>
+	<p>De pagina die u zocht kon niet gevonden worden. Probeer uw zoekopdracht te verfijnen of gebruik de bovenstaande navigatie om deze post te vinden.</p>
+</div>
+<!--End if no results are found-->				</article> <!-- .et_pb_post -->
+			</div> <!-- #left-area -->
+
+					</div> <!-- #content-area -->
+	</div> <!-- .container -->
+</div> <!-- #main-content -->
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+	<div class="footer-widget"><div id="caldera_forms_widget-9" class="fwidget et_pb_widget widget_caldera_forms_widget"><h4 class="title">Neem contact op:</h4><div class="caldera-grid" id="caldera_form_1" data-cf-ver="1.5.1" data-cf-form-id="CF57298e0f55a80"><div id="caldera_notices_1" data-spinner="http://www.petervanwoerden.nl/wp-admin/images/spinner.gif"></div><form data-instance="1" class="CF57298e0f55a80 caldera_forms_form cfajax-trigger" method="POST" enctype="multipart/form-data" role="form" id="CF57298e0f55a80_1" data-target="#caldera_notices_1" data-template="#cfajax_CF57298e0f55a80-tmpl" data-cfajax="CF57298e0f55a80" data-load-element="_parent" data-load-class="cf_processing" data-post-disable="0" data-action="cf_process_ajax_submit" data-request="http://www.petervanwoerden.nl/cf-api/CF57298e0f55a80" data-hiderows="true">
+<input type="hidden" id="_cf_verify_CF57298e0f55a80" name="_cf_verify" value="5b68d9a67b"  data-nonce-time="1508798442" /><input type="hidden" name="_wp_http_referer" value="/restauratie/Groenmarkt/p1.jpg" /><input type="hidden" name="_cf_frm_id" value="CF57298e0f55a80">
+<input type="hidden" name="_cf_frm_ct" value="1">
+<input type="hidden" name="cfajax" value="CF57298e0f55a80">
+<input type="hidden" name="_cf_cr_pst" value="4863">
+<div class="hide" style="display:none; overflow:hidden;height:0;width:0;">
+<label>Company</label><input type="text" name="company" value="" autocomplete="off">
+</div><div id="CF57298e0f55a80_1-row-1"  class="row  single"><div  class="col-xs-12  single"><div role="field" data-field-wrapper="fld_8768091" class="form-group">
+	<label id="fld_8768091Label" for="fld_8768091_1" class="control-label screen-reader-text sr-only">Naam</label>
+	<div class="">
+		<input placeholder="Naam"  required type="text" data-field="fld_8768091" class=" form-control" id="fld_8768091_1" name="fld_8768091" value="" data-type="text" aria-required="true"   aria-labelledby="fld_8768091Label" >			</div>
+</div>
+<div role="field" data-field-wrapper="fld_6009157" class="form-group">
+	<label id="fld_6009157Label" for="fld_6009157_1" class="control-label screen-reader-text sr-only">Email Address</label>
+	<div class="">
+		<input placeholder="Email Address"  required type="email" data-field="fld_6009157" class=" form-control" id="fld_6009157_1" name="fld_6009157" value="" data-type="email" aria-required="true"   aria-labelledby="fld_6009157Label" >			</div>
+</div>
+<div role="field" data-field-wrapper="fld_7683514" class="form-group">
+	<label id="fld_7683514Label" for="fld_7683514_1" class="control-label screen-reader-text sr-only">Uw vraag of opmerking</label>
+	<div class="">
+		<textarea name="fld_7683514" value="" data-field="fld_7683514" class="form-control" id="fld_7683514_1" rows="7"  required="required"  aria-labelledby="fld_7683514Label" ></textarea>
+			</div>
+</div>
+<div role="field" data-field-wrapper="fld_7908577" class="form-group">
+<div class="">
+	<input  class="btn btn-default" type="submit" name="fld_7908577" id="fld_7908577_1" value="Verzenden" data-field="fld_7908577"   aria-labelledby="fld_7908577Label">
+</div>
+</div>
+	<input class="button_trigger_1" type="hidden" name="fld_7908577" id="fld_7908577_1_btn" value="" data-field="fld_7908577"  />
+</div></div></form>
+</div>
+</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-4" class="fwidget et_pb_widget widget_text"><h4 class="title">Postadres</h4>			<div class="textwidget"><p>Molenweg 40<br />
+7431 BK  Diepenveen</p>
+</div>
+		</div> <!-- end .fwidget --><div id="text-5" class="fwidget et_pb_widget widget_text"><h4 class="title">Bezoekadres</h4>			<div class="textwidget"><p>Dorpsstraat 16<br />
+7431 CD  Diepenveen</p>
+</div>
+		</div> <!-- end .fwidget --><div id="text-6" class="fwidget et_pb_widget widget_text"><h4 class="title">Telefoonnummer</h4>			<div class="textwidget"><p>0570-593141</p>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget">
+                <div id="addthis_tool_by_class_name_widget-3" class="fwidget et_pb_widget widget_addthis_tool_by_class_name_widget">
+                <!-- Widget added by an AddThis plugin -->
+                    <!-- widget name: AddThis Tool -->
+                    <h4 class="title">Deze pagina delen?</h4>
+                    <div class="addthis_inline_share_toolbox addthis_tool"></div>
+                <!-- End of widget -->
+                </div> <!-- end .fwidget -->
+            
+                <div id="addthis_tool_by_class_name_widget-2" class="fwidget et_pb_widget widget_addthis_tool_by_class_name_widget">
+                <!-- Widget added by an AddThis plugin -->
+                    <!-- widget name: AddThis Tool -->
+                    <h4 class="title">Volg mij op social media</h4>
+                    <div class="addthis_horizontal_follow_toolbox addthis_tool"></div>
+                <!-- End of widget -->
+                </div> <!-- end .fwidget -->
+            <div id="text-7" class="fwidget et_pb_widget widget_text"><h4 class="title">BNA erkend bureau</h4>			<div class="textwidget"><a href="http://www.petervanwoerden.nl/bna-erkend-bureau"><img class="alignleft size-thumbnail wp-image-5223" src="http://www.petervanwoerden.nl/wp-content/uploads/2017/03/bna-logo-150x100.png" alt="" width="120" height="80"/></a></div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+</div>	<!-- .container -->
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+
+</ul>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<script data-cfasync="false" type="text/javascript"></script><style type="text/css" id="et-builder-page-custom-style">
+				 .et_pb_bg_layout_dark { color: #ffffff !important; } .page.et_pb_pagebuilder_layout #main-content { background-color: rgba(255,255,255,0); } .et_pb_section { background-color: #ffffff; }
+			</style><link rel='stylesheet' id='addthis_output-css'  href='http://www.petervanwoerden.nl/wp-content/plugins/addthis/css/output.css?ver=ee7a694cf294bca66bed81cc6744deab' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=3.0.51'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-admin/admin-ajax.php?action=addthis_global_options_settings&#038;ver=ee7a694cf294bca66bed81cc6744deab'></script>
+<script type='text/javascript' src='https://s7.addthis.com/js/300/addthis_widget.js?ver=ee7a694cf294bca66bed81cc6744deab#pubid=ra-4ffc2945105cb30a'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=3.0.51'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/themes/Divi/js/custom.js?ver=3.0.51'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=3.0.51'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=3.0.51'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=3.0.51'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_pb_custom = {"ajaxurl":"http:\/\/www.petervanwoerden.nl\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/www.petervanwoerden.nl\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/www.petervanwoerden.nl\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"1f2e1382b7","subscription_failed":"Kijk dan de onderstaande velden in om ervoor te zorgen u de juiste informatie.","et_ab_log_nonce":"5027d4c899","fill_message":"Alsjeblieft, vul op de volgende gebieden:","contact_error_message":"Gelieve de volgende fouten te verbeteren:","invalid":"Ongeldig e-mail","captcha":"Captcha","prev":"Vorig","previous":"Vorige","next":"Volgende","wrong_captcha":"U heeft het verkeerde nummer in de captcha ingevoerd.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"4863","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=3.0.51'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/plugins/cookie-control/js/cookieControl-7.min.js?ver=ee7a694cf294bca66bed81cc6744deab'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-includes/js/wp-embed.min.js?ver=ee7a694cf294bca66bed81cc6744deab'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/plugins/caldera-forms/assets/build/js/jquery-baldrick.min.js?ver=1.5.1'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/plugins/caldera-forms/assets/build/js/ajax-core.min.js?ver=1.5.1'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/plugins/caldera-forms/assets/build/js/parsley.min.js?ver=1.5.1'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/plugins/caldera-forms/assets/js/i18n/nl.js?ver=1.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CF_API_DATA = {"rest":{"root":"http:\/\/www.petervanwoerden.nl\/wp-json\/cf-api\/v2\/","tokens":{"nonce":"http:\/\/www.petervanwoerden.nl\/wp-json\/cf-api\/v2\/tokens\/form"},"nonce":"aec2b374d9"},"nonce":{"field":"_cf_verify"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/plugins/caldera-forms/assets/build/js/caldera-forms-front.min.js?ver=1.5.1'></script>
+<script type='text/javascript' src='http://www.petervanwoerden.nl/wp-content/plugins/new-royalslider/lib/royalslider/jquery.royalslider.min.js?ver=3.1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CF_API_DATA = {"rest":{"root":"http:\/\/www.petervanwoerden.nl\/wp-json\/cf-api\/v2\/","tokens":{"nonce":"http:\/\/www.petervanwoerden.nl\/wp-json\/cf-api\/v2\/tokens\/form"},"nonce":"aec2b374d9"},"nonce":{"field":"_cf_verify"}};
+var CFFIELD_CONFIG = {"1":{"fld_7908577":{"type":"button","id":"fld_7908577_1","default":false,"form_id":"CF57298e0f55a80","form_id_attr":"caldera_form_1"}}};
+/* ]]> */
+</script>
+<script>	
+	window.addEventListener("load", function(){
+
+		jQuery(document).on('click dblclick', '#fld_7908577_1', function( e ){
+			jQuery('#fld_7908577_1_btn').val( e.type ).trigger('change');
+		});
+
+	});
+</script>
+<script> setTimeout(function(){window.Parsley.setLocale('nl'); }, 2000 );</script>
+<script type="text/javascript">
+//<![CDATA[
+
+cookieControl({
+
+t: {
+    title: '<p>Deze site gebruikt cookies.</p>',
+    intro: '<p>Deze site gebruikt cookies om de site beter te maken. Ik waardeer het zeer als u dit gebruik toestaat.</p>',
+    full: '<p>Deze site gebruikt cookies om te zien hoe de pagina gebruikt wordt en om de pagina extra functionaliteit te geven. De volgende cookies worden gebruikt: Add this, Google analytics. Voor meer info klik op Privacy beleid hierboven.</p><p>Read more about our <a href="http://www.petervanwoerden.nl/privacy" title="Read our privacy policy">privacy policy.</a></p>',
+    
+    ias: 'Informatie en instellingen',
+    on: 'Sta cookies toe',
+    off: 'Sta cookies niet toe',
+    bs: 'Browser instellingen',
+    rm: 'Lees meer...',
+    rl: 'Lees minder...',
+    ab: 'Over deze tool',
+    c: 'Ik vind het prima.'
+    },
+
+
+position:CookieControl.POS_LEFT,
+style:CookieControl.STYLE_TRIANGLE,
+theme:CookieControl.THEME_LIGHT,
+
+branding: true,
+hex: {
+        branding: '#ff6500',
+        buttons: '#32796D',
+        links: '#454545'
+      },
+
+startOpen: true,
+autoHide: 7000,
+onlyHideIfConsented: false,
+alwaysShow: false,
+
+subdomains: false,
+protectedCookies: [],
+
+apiKey: '50820ede9de77fa104713bc1b7029087312f6364',
+product: CookieControl.PROD_FREE,
+
+consentModel: CookieControl.MODEL_IMPLICIT,
+   
+    onAccept:function(){ccAnalytics()},
+    onReady:function(){},
+    onCookiesAllowed:function(){ccAnalytics()},
+    onCookiesNotAllowed:function(){},
+    countries:''
+
+});
+    
+
+function ccAnalytics() {
+	}
+//]]>
+
+</script>
+<!--wp_footer--></body>
+</html>

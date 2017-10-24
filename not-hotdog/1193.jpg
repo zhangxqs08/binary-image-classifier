@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Page not found | Safe Place for Pets</title>
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Safe Place for Pets &raquo; Feed" href="http://www.safeplacepets.org/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.safeplacepets.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.safeplacepets.org/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mashsb-styles-css'  href='http://www.safeplacepets.org/wp-content/plugins/mashsharer/assets/css/mashsb.min.css?ver=3.4.5' type='text/css' media='all' />
+<style id='mashsb-styles-inline-css' type='text/css'>
+.mashsb-count {color:#cccccc;}@media only screen and (min-width:568px){.mashsb-buttons a {min-width: 177px;}}
+</style>
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.safeplacepets.org/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='pojo-a11y-css'  href='http://www.safeplacepets.org/wp-content/plugins/pojo-accessibility/assets/css/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pojo-css-framework-css'  href='http://www.safeplacepets.org/wp-content/themes/toscana/assets/bootstrap/css/bootstrap.min.css?ver=3.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.safeplacepets.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-css'  href='http://www.safeplacepets.org/wp-content/plugins/pojo-lightbox/assets/photoswipe/photoswipe.min.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-skin-css'  href='http://www.safeplacepets.org/wp-content/plugins/pojo-lightbox/assets/photoswipe/default-skin/default-skin.min.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pojo-base-style-css'  href='http://www.safeplacepets.org/wp-content/themes/toscana/core/assets/css/style.min.css?ver=1.7.10' type='text/css' media='all' />
+<link rel='stylesheet' id='pojo-style-css'  href='http://www.safeplacepets.org/wp-content/themes/toscana-child/assets/css/style.css?ver=1.7.10' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mashsb = {"shares":"0","round_shares":"1","animate_shares":"0","dynamic_buttons":"0","share_url":"http:\/\/www.safeplacepets.org\/Animal_Files\/pet_profiles\/Bonita\/Bonita.jpg","title":"","image":"","desc":"","hashtag":"","subscribe":"content","subscribe_url":"","activestatus":"1","singular":"0","twitter_popup":"1","refresh":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/plugins/mashsharer/assets/js/mashsb.min.js?ver=3.4.5'></script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.safeplacepets.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.safeplacepets.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.safeplacepets.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Playfair+Display:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"><style type="text/css">body{background-color: rgba(255, 255, 255, 1);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: 300; font-size: 18px;text-transform: none;letter-spacing: 0px;font-style: normal;line-height: 1.7;}#header, .sticky-header{background-color: rgba(245, 245, 245, 1);background-position: top center;background-repeat: repeat-x;background-size: auto;background-attachment: scroll;}div.logo-text a{color: #ffffff; font-family: 'Raleway', Arial, sans-serif; font-weight: normal; font-size: 30px;text-transform: normal;letter-spacing: 0px;font-style: normal;line-height: 1em;}#header .logo{margin-top: 60px;margin-bottom: 100px;}#header .nav-main .sf-menu{margin-bottom: 20px;}.sf-menu a, .mobile-menu a{color: #000000; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 14px;text-transform: uppercase;letter-spacing: 1px;font-style: normal;line-height: 43px;}.sf-menu a:hover,.sf-menu li.active a, .sf-menu li.current-menu-item > a,.sf-menu .sfHover > a,.sf-menu .sfHover > li.current-menu-item > a,.sf-menu li.current-menu-ancestor > a,.mobile-menu a:hover,.mobile-menu li.current-menu-item > a{color: #981b1e;}.nav-main .sf-menu .sub-menu{background-color: #981b1e;}.sf-menu .sub-menu li a{color: #ffffff; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 13px;text-transform: uppercase;letter-spacing: 1px;font-style: normal;line-height: 46px;}.nav-main .sf-menu .sub-menu li:hover > a,.nav-main .sf-menu .sub-menu li.current-menu-item > a{color: #000000;}#title-bar .title-bar-default{padding-top: 60px;padding-bottom: 20px;}#title-bar.title-bar-style-custom_bg .title-bar-default{background-color: rgba(255, 255, 255, 1);background-position: center center;background-repeat: repeat;background-size: cover;background-attachment: scroll;border-color: #eeeeee;}#title-bar .title-primary{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: 700; font-size: 34px;text-transform: none;letter-spacing: 0em;font-style: none;line-height: 1.7px;}#title-bar div.breadcrumbs, #title-bar div.breadcrumbs a{color: #000000; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 15px;letter-spacing: -0.1px;font-style: normal;}a,#sidebar .menu li a:hover, #sidebar .sub-menu li a:hover, #sidebar .sub-page-menu li a:hover,#sidebar .menu li.current_page_item > a, #sidebar .sub-menu li.current_page_item > a, #sidebar .sub-page-menu li.current_page_item > a, #sidebar .menu li.current-menu-item > a, #sidebar .sub-menu li.current-menu-item > a, #sidebar .sub-page-menu li.current-menu-item > a{color: #981b1e;}a:hover{color: #494949;}::selection{color: #ffffff;background: #981b1e;}::-moz-selection{color: #ffffff;background: #981b1e;}h1{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: bold; font-size: 48px;text-transform: uppercase;letter-spacing: 0.3px;font-style: normal;line-height: 1.2;}h2{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: normal; font-size: 30px;text-transform: none;letter-spacing: 0px;font-style: normal;line-height: 1.5em;}h3{color: #f4f4f4; font-family: 'Raleway', Arial, sans-serif; font-weight: bold; font-size: 25px;text-transform: uppercase;letter-spacing: 0px;font-style: normal;line-height: 2em;}h4{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: bold; font-size: 18px;text-transform: capitalize;letter-spacing: 1px;font-style: normal;line-height: 22px;}h5{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: bold; font-size: 20px;text-transform: capitalize;font-style: italic;line-height: 25px;}h6{color: #000000; font-family: 'Playfair Display', Arial, sans-serif; font-weight: bold; font-size: 18px;text-transform: none;letter-spacing: 0px;font-style: italic;line-height: 18px;}h3.media-heading{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: 300; font-size: 28px;text-transform: uppercase;letter-spacing: 0px;font-style: normal;line-height: 35px;}h4.grid-heading{color: #981b1e; font-family: 'Raleway', Arial, sans-serif; font-weight: 700; font-size: 21px;text-transform: uppercase;letter-spacing: 0.8px;font-style: normal;line-height: 26px;}.gallery-item h4.grid-heading{color: #981b1e; font-family: 'Raleway', Arial, sans-serif; font-weight: 700; font-size: 17px;text-transform: uppercase;letter-spacing: 0.8px;font-style: normal;line-height: 25px;}.gallery-item.square-item h4.grid-heading{color: #981b1e; font-family: 'Raleway', Arial, sans-serif; font-weight: 700; font-size: 18px;text-transform: uppercase;letter-spacing: 0.8px;font-style: normal;line-height: 1;}.gallery-item h4.grid-heading small{color: #c6c6c6; font-family: 'Raleway', Arial, sans-serif; font-weight: normal; font-size: 14px;text-transform: capitalize;letter-spacing: 0px;font-style: normal;line-height: 25px;}.media .entry-meta > span{color: #eeeeee; font-family: 'Raleway', Arial, sans-serif; font-weight: 400; font-size: 13px;text-transform: capitalize;letter-spacing: 0px;font-style: normal;line-height: 18px;}.grid-item .entry-meta > span{color: #eeeeee; font-family: 'Playfair Display', Arial, sans-serif; font-weight: normal; font-size: 13px;text-transform: capitalize;letter-spacing: 0px;font-style: italic;line-height: 40px;}.entry-post .entry-meta > span{color: #981b1e; font-family: 'Playfair Display', Arial, sans-serif; font-weight: bold; font-size: 18px;text-transform: capitalize;letter-spacing: 0px;font-style: italic;line-height: 20px;}.list-item .entry-excerpt{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: 300; font-size: 14px;text-transform: none;letter-spacing: 0px;font-style: normal;line-height: 21px;}.grid-item .entry-excerpt{color: #eeeeee; font-family: 'Raleway', Arial, sans-serif; font-weight: normal; font-size: 15px;text-transform: none;font-style: normal;line-height: 25px;}#primary #breadcrumbs,#primary #breadcrumbs a{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: normal; font-size: 15px;text-transform: none;letter-spacing: -0.2px;font-style: normal;line-height: 40px;}nav.post-navigation a,.author-info .author-link,#primary .entry-tags a,.pojo-loadmore-wrap .button, .pojo-loadmore-wrap .pojo-loading, .pojo-loading-wrap .button, .pojo-loading-wrap .pojo-loading,input[type="submit"],.button,.pagination > li > a, .pagination > li > span{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: normal; font-size: 16px;text-transform: uppercase;letter-spacing: 0px;font-style: normal;line-height: 20px;}.category-filters li a{color: #981b1e; font-family: 'Raleway', Arial, sans-serif; font-weight: normal; font-size: 15px;text-transform: capitalize;letter-spacing: 0px;font-style: normal;line-height: 1em;}#sidebar{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: 300; font-size: 14px;text-transform: none;letter-spacing: 0px;font-style: normal;line-height: 1.6em;}#sidebar a{color: #981b1e;}#sidebar a:hover{color: #4f4f4f;}#sidebar .widget-title{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: bold; font-size: 15px;text-transform: uppercase;letter-spacing: 2px;font-style: normal;line-height: 2em;}#footer{background-color: #ffffff;color: #161616; font-family: 'Raleway', Arial, sans-serif; font-weight: 300; font-size: 14px;text-transform: none;letter-spacing: 0px;font-style: normal;line-height: 20px;}#footer a{color: #981b1e;}#footer a:hover{color: #981b1e;}#sidebar-footer h5.widget-title{color: #000000; font-family: 'Raleway', Arial, sans-serif; font-weight: 400; font-size: 21px;text-transform: none;font-style: normal;line-height: 1;}#copyright{background-color: #ffffff;color: #0a0a0a; font-family: 'Raleway', Arial, sans-serif; font-weight: 700; font-size: 13px;text-transform: normal;letter-spacing: 0.1px;font-style: normal;line-height: 65px;}#copyright a{color: #981b1e;}#copyright a:hover{color: #666666;}#pojo-scroll-up{width: 50px;height: 50px;line-height: 50px;background-color: rgba(0, 0, 0, 1);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;}#pojo-scroll-up a{color: #eeeeee;}#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay{background-color: #ffffff;}#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay p.pojo-a11y-toolbar-title{color: #333333;}#pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a{color: #ffffff;background-color: #981b1e;}#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a.active{background-color: #ffffff;color: #981b1e;}.image-link .overlay-image{background: rgba(152, 27, 30, 0.8);}#sidebar-footer .box-top-border, #sidebar-footer .widget, body.rtl #sidebar-footer .widget{border-color: #eeeeee;}#copyright .box-top-border{border-color: #efefef;}.navbar-toggle{border-color: #000000;}.icon-bar{background-color: #000000;}.sf-menu .sub-menu:before{border-right-color: #981b1e;}body.rtl .sf-menu .sub-menu:before{border-left-color: #981b1e;}#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items.pojo-a11y-links{border-color: #981b1e;}body.pojo-a11y-focusable a:focus{outline-style: solid !important;outline-width: 1px !important;outline-color: #000000 !important;}#pojo-a11y-toolbar{top: 100px !important;}			ul.social-links li a {background-color: #981b1e;}
+			ul.social-links li a:hover {background-color: #ffffff;}
+			nav.post-navigation {border-top-color: #000000;}
+			.grid-item .inbox, .product .inbox {background-color: #000000;}
+			.align-pagination .pagination > li > a {color: #ffffff; }
+			.align-pagination .pagination .active a,.align-pagination .pagination > li > a:hover {color: #981b1e; }
+			.pojo-loadmore-wrap .button,.pojo-loadmore-wrap .pojo-loading,.pojo-loading-wrap .button,.pojo-loading-wrap .pojo-loading {background-color: #000000; border-color: #000000; color: #ffffff;}
+			.pojo-loadmore-wrap .button:hover,.pojo-loading-wrap .button:hover, {background-color: #000000; border-color: #ffffff; color: #000000;}
+			.image-link .overlay-image + .overlay-title .fa {color: #000000;}
+			.author-info {background-color: #981b1e;color: #000000;}
+			.author-info .author-link, .author-info h4 {color: #000000;}
+			#primary .entry-tags a {background-color: #981b1e;border-color: #981b1e;color: #000000;}
+			#primary .entry-tags a:hover {background-color: #000000;color: #981b1e;border-color: #981b1e; }
+			.category-filters li a:hover, .category-filters li .active {background-color: #000000; }
+			.commentlist .comment-author .comment-reply-link {color: #981b1e;}
+			.woocommerce span.onsale, .woocommerce-page span.onsale {background: #981b1e; }
+			.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce #respond input#submit,.woocommerce #content input.button,.woocommerce-page a.button,
+			.woocommerce-page button.button,.woocommerce-page input.button,.woocommerce-page #respond input#submit,.woocommerce-page #content input.button {border-color: #981b1e; color: #981b1e; }
+			.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce #respond input#submit:hover,.woocommerce #content input.button:hover,.woocommerce-page a.button:hover,
+			.woocommerce-page button.button:hover,.woocommerce-page input.button:hover,.woocommerce-page #respond input#submit:hover,.woocommerce-page #content input.button:hover {background:#981b1e; border-color: #981b1e; color: #000000;}
+			.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page a.button.alt,
+			.woocommerce-page button.button.alt,.woocommerce-page input.button.alt,.woocommerce-page #respond input#submit.alt,.woocommerce-page #content input.button.alt {background: #981b1e; border-color: #981b1e; color: #000000; }
+			.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt:hover,.woocommerce #content input.button.alt:hover,.woocommerce-page a.button.alt:hover,
+			.woocommerce-page button.button.alt:hover,.woocommerce-page input.button.alt:hover,	.woocommerce-page #respond input#submit.alt:hover,.woocommerce-page #content input.button.alt:hover {border-color: #981b1e; color: #981b1e; }
+			 .woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+			 .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a,
+			 .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a,
+			 .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a,
+			 .woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,
+			 .woocommerce-page div.product .woocommerce-tabs ul.tabs li a:hover,
+			 .woocommerce #content div.product .woocommerce-tabs ul.tabs li a:hover,
+			 .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a:hover {color: #981b1e;}
+			 .woocommerce div.product .woocommerce-tabs ul.tabs li.active:before,
+			 .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active:before,
+			 .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active:before,
+			 .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active:before,
+			 .woocommerce div.product .woocommerce-tabs ul.tabs li.active:after,
+			 .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active:after,
+			 .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active:after,
+			 .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active:after {border-color: #981b1e;}
+			 .woocommerce div.product .woocommerce-tabs ul.tabs li:hover:before,
+			 .woocommerce-page div.product .woocommerce-tabs ul.tabs li:hover:before,
+			 .woocommerce #content div.product .woocommerce-tabs ul.tabs li:hover:before,
+			 .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li:hover:before,
+			 .woocommerce div.product .woocommerce-tabs ul.tabs li:hover:after,
+			 .woocommerce-page div.product .woocommerce-tabs ul.tabs li:hover:after,
+			 .woocommerce #content div.product .woocommerce-tabs ul.tabs li:hover:after,
+			 .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li:hover:after {border-color: #981b1e;}
+			input[type="submit"],.button,.button.size-small,.button.size-large,.button.size-xl,.button.size-xxl {background-color: #981b1e; border-color: #981b1e; color: #000000;}
+			input[type="submit"]:hover,.button:hover,.button.size-small:hover,.button.size-large:hover,.button.size-xl:hover, .button.size-xxl:hover {background: #000000; border-color: #981b1e; color: #981b1e;}@media (max-height: 600px) { #pojo-a11y-toolbar { top: 50px !important } }.details {line-height: 22px;}
+.form {padding-top: 30px;}
+#header .logo {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.sf-menu a {
+line-height: 35px
+}
+
+#title-bar .title-primary {
+line-height: 1.3 !important;
+}</style>
+		<meta name="generator" content="Powered by Slider Revolution 5.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://www.safeplacepets.org/wp-content/uploads/2017/05/spfp-dashicon.png" sizes="32x32" />
+<link rel="icon" href="http://www.safeplacepets.org/wp-content/uploads/2017/05/spfp-dashicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.safeplacepets.org/wp-content/uploads/2017/05/spfp-dashicon.png" />
+<meta name="msapplication-TileImage" content="http://www.safeplacepets.org/wp-content/uploads/2017/05/spfp-dashicon.png" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+a.elementor-post__thumbnail__link  {
+margin-bottom: 0px !important;
+}
+.elementor-post__text {
+  margin-top: 0px !important;
+}
+
+.entry-content h2 a {
+color: #981B20 !important;
+}		</style>
+		<link rel="stylesheet" href="http://www.safeplacepets.org/wp-content/themes/toscana-child/style.css">
+</head>
+<body class="error404 layout-full-width elementor-default">
+<!--[if lt IE 7]><p class="chromeframe">Your browser is <em>ancient!</em>
+	<a href="http://browsehappy.com/">Upgrade to a different browser</a> or
+	<a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.
+</p><![endif]-->
+
+<div id="container">
+				<header id="header" class="align-center" role="banner">
+			<div class="container">
+				<div class="logo">
+											<div class="logo-img">
+							<a href="http://www.safeplacepets.org/" rel="home"><img src="http://www.safeplacepets.org/wp-content/uploads/2017/05/safe_place_for_pets_logo_stacked.png" alt="Safe Place for Pets" class="logo-img-primary" /></a>
+						</div>
+					
+										<button type="button" class="navbar-toggle visible-xs" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+									</div>
+				<nav class="nav-main" role="navigation">
+					<div class="navbar-collapse collapse">
+													<ul id="menu-main" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-welcome-center first-item menu-item-3801"><a href="http://www.safeplacepets.org/"><span>Welcome Center</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-about-us menu-item-5365"><a href="http://www.safeplacepets.org/about-us/"><span>About Us</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-board-of-directors menu-item-5851"><a href="http://www.safeplacepets.org/board-of-directors/"><span>Board of Directors</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-partners menu-item-5878"><a href="http://www.safeplacepets.org/partners/"><span>Partners</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-faq menu-item-5358"><a href="http://www.safeplacepets.org/faq/"><span>FAQ</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-adopt menu-item-5385"><a href="http://www.safeplacepets.org/adopt/"><span>Adopt</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-what-we-do menu-item-5308"><a href="http://www.safeplacepets.org/what-we-do/"><span>What We Do</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-adopt menu-item-5741"><a href="http://www.safeplacepets.org/adopt/"><span>Adopt</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wellness-program menu-item-5900"><a href="http://www.safeplacepets.org/wellness-program/"><span>Wellness Program</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-pet-directive menu-item-7464"><a href="http://www.safeplacepets.org/pet-directive/"><span>Pet Directive</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-success-stories menu-item-6048"><a href="http://www.safeplacepets.org/success-stories/"><span>Success Stories</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-memorials menu-item-5740"><a href="http://www.safeplacepets.org/memorials/"><span>Memorials</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-get-involved menu-item-5404"><a href="http://www.safeplacepets.org/get-involved/"><span>Get Involved</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-volunteer menu-item-5407"><a href="http://www.safeplacepets.org/volunteer/"><span>Volunteer</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-foster menu-item-6044"><a href="http://www.safeplacepets.org/foster/"><span>Foster</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-events menu-item-5381"><a href="http://www.safeplacepets.org/events/"><span>Events</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-donate menu-item-5732"><a href="http://www.safeplacepets.org/donate/"><span>Donate</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent active menu-blog menu-item-5387"><a href="http://www.safeplacepets.org/blog/"><span>Blog</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-contact-us menu-item-5361"><a href="http://www.safeplacepets.org/contact-us/"><span>Contact Us</span></a></li>
+</ul><ul id="menu-main-1" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home first-item menu-item-3801"><a href="http://www.safeplacepets.org/"><span>Welcome Center</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5365"><a href="http://www.safeplacepets.org/about-us/"><span>About Us</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5851"><a href="http://www.safeplacepets.org/board-of-directors/"><span>Board of Directors</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5878"><a href="http://www.safeplacepets.org/partners/"><span>Partners</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5358"><a href="http://www.safeplacepets.org/faq/"><span>FAQ</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5385"><a href="http://www.safeplacepets.org/adopt/"><span>Adopt</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5308"><a href="http://www.safeplacepets.org/what-we-do/"><span>What We Do</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5741"><a href="http://www.safeplacepets.org/adopt/"><span>Adopt</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5900"><a href="http://www.safeplacepets.org/wellness-program/"><span>Wellness Program</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7464"><a href="http://www.safeplacepets.org/pet-directive/"><span>Pet Directive</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6048"><a href="http://www.safeplacepets.org/success-stories/"><span>Success Stories</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5740"><a href="http://www.safeplacepets.org/memorials/"><span>Memorials</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5404"><a href="http://www.safeplacepets.org/get-involved/"><span>Get Involved</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5407"><a href="http://www.safeplacepets.org/volunteer/"><span>Volunteer</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6044"><a href="http://www.safeplacepets.org/foster/"><span>Foster</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5381"><a href="http://www.safeplacepets.org/events/"><span>Events</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5732"><a href="http://www.safeplacepets.org/donate/"><span>Donate</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent active menu-item-5387"><a href="http://www.safeplacepets.org/blog/"><span>Blog</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5361"><a href="http://www.safeplacepets.org/contact-us/"><span>Contact Us</span></a></li>
+</ul>											</div>
+				</nav><!--/#nav-menu -->
+				<div class="widget-header hidden-xs">
+					<section id="wp_editor_widget-2" class="widget WP_Editor_Widget"><div class="widget-inner"><h5 class="widget-title"><span>OUR MISSION</span></h5><p style="text-align: center;"><em>Finding forever homes for pets of terminally ill people and partnering with the terminally ill to keep their pets at home.</em></p>
+</div></section>				</div>
+			</div><!-- /.container -->
+		</header>
+					<div class="sticky-header">
+				<div class="container">
+					<div class="logo">
+													<div class="logo-img">
+								<a href="http://www.safeplacepets.org/" rel="home"><img src="http://www.safeplacepets.org/wp-content/uploads/2017/07/safe_place_for_pets_logo_horizontal.png" alt="Safe Place for Pets" class="logo-img-secondary" /></a>
+							</div>
+						
+													<button type="button" class="navbar-toggle visible-xs" data-toggle="collapse" data-target=".navbar-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+											</div>
+					<nav class="nav-main" role="navigation">
+						<div class="navbar-collapse collapse">
+															<ul id="menu-main-2" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home first-item menu-item-3801"><a href="http://www.safeplacepets.org/"><span>Welcome Center</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5365"><a href="http://www.safeplacepets.org/about-us/"><span>About Us</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5851"><a href="http://www.safeplacepets.org/board-of-directors/"><span>Board of Directors</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5878"><a href="http://www.safeplacepets.org/partners/"><span>Partners</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5358"><a href="http://www.safeplacepets.org/faq/"><span>FAQ</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5385"><a href="http://www.safeplacepets.org/adopt/"><span>Adopt</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5308"><a href="http://www.safeplacepets.org/what-we-do/"><span>What We Do</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5741"><a href="http://www.safeplacepets.org/adopt/"><span>Adopt</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5900"><a href="http://www.safeplacepets.org/wellness-program/"><span>Wellness Program</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7464"><a href="http://www.safeplacepets.org/pet-directive/"><span>Pet Directive</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6048"><a href="http://www.safeplacepets.org/success-stories/"><span>Success Stories</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5740"><a href="http://www.safeplacepets.org/memorials/"><span>Memorials</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5404"><a href="http://www.safeplacepets.org/get-involved/"><span>Get Involved</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5407"><a href="http://www.safeplacepets.org/volunteer/"><span>Volunteer</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6044"><a href="http://www.safeplacepets.org/foster/"><span>Foster</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5381"><a href="http://www.safeplacepets.org/events/"><span>Events</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5732"><a href="http://www.safeplacepets.org/donate/"><span>Donate</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent active menu-item-5387"><a href="http://www.safeplacepets.org/blog/"><span>Blog</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5361"><a href="http://www.safeplacepets.org/contact-us/"><span>Contact Us</span></a></li>
+</ul><ul id="menu-main-3" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home first-item menu-item-3801"><a href="http://www.safeplacepets.org/"><span>Welcome Center</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5365"><a href="http://www.safeplacepets.org/about-us/"><span>About Us</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5851"><a href="http://www.safeplacepets.org/board-of-directors/"><span>Board of Directors</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5878"><a href="http://www.safeplacepets.org/partners/"><span>Partners</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5358"><a href="http://www.safeplacepets.org/faq/"><span>FAQ</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5385"><a href="http://www.safeplacepets.org/adopt/"><span>Adopt</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5308"><a href="http://www.safeplacepets.org/what-we-do/"><span>What We Do</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5741"><a href="http://www.safeplacepets.org/adopt/"><span>Adopt</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5900"><a href="http://www.safeplacepets.org/wellness-program/"><span>Wellness Program</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7464"><a href="http://www.safeplacepets.org/pet-directive/"><span>Pet Directive</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6048"><a href="http://www.safeplacepets.org/success-stories/"><span>Success Stories</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5740"><a href="http://www.safeplacepets.org/memorials/"><span>Memorials</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5404"><a href="http://www.safeplacepets.org/get-involved/"><span>Get Involved</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5407"><a href="http://www.safeplacepets.org/volunteer/"><span>Volunteer</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6044"><a href="http://www.safeplacepets.org/foster/"><span>Foster</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5381"><a href="http://www.safeplacepets.org/events/"><span>Events</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5732"><a href="http://www.safeplacepets.org/donate/"><span>Donate</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent active menu-item-5387"><a href="http://www.safeplacepets.org/blog/"><span>Blog</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5361"><a href="http://www.safeplacepets.org/contact-us/"><span>Contact Us</span></a></li>
+</ul>													</div>
+					</nav><!--/#nav-menu -->
+				</div><!-- /.container -->
+			</div><div class="sticky-header-running"></div>
+			
+		
+	<div id="primary">
+		<div class="container">
+			<div id="content" class="row">
+		<section id="main" class="col-sm-12 col-md-12 full-width" role="main">
+		<article id="post-0" class="post no-results not-found hentry">
+		<div class="entry-page">
+							<h1>404</h1>
+				<h2>Not Found</h2>
+				<h3>Sorry, this page could not be found!</h3>
+				<form role="search" method="get" class="form form-search" action="http://www.safeplacepets.org/">
+	<input type="search" title="Search" name="s" value="" placeholder="Search" class="field search-field">
+	<button value="Search" class="search-submit" type="submit"><i class="fa fa-search"></i></button>
+</form>					</div>
+	</article><!-- #post-0 -->
+		</section><!-- section#main -->
+				</div><!-- #content -->
+		</div><!-- .container -->
+	</div><!-- #primary -->
+
+			<footer id="footer" role="contentinfo">
+						<div id="copyright">
+				<div class="container">
+					<div class="box-top-border">
+						<div class="pull-left-copyright">
+													</div>
+						<div class="pull-right-copyright">
+							©2017 Safe Place for Pets						</div>
+					</div>
+				</div><!-- .container -->
+			</div>
+		</footer>
+	
+</div><!-- #container -->
+		<script type="text/javascript">//<![CDATA[
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-102034250-1']);
+			_gaq.push(['_trackPageview']);
+			(function (){
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+			})();
+			//]]></script>
+			<div id="pojo-scroll-up" class="pojo-scroll-up-right" data-offset="50" data-duration="750" style="font-size: 36px;border-radius: 6px">
+			<div class="pojo-scroll-up-inner">
+				<a class="pojo-scroll-up-button" href="javascript:void(0);" title="Scroll to top">
+					<span class="fa fa-chevron-up"></span><span class="sr-only">Scroll to top</span>
+				</a>
+			</div>
+		</div>
+				<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+			<div class="pswp__bg"></div>
+			<div class="pswp__scroll-wrap">
+				<div class="pswp__container">
+					<div class="pswp__item"></div>
+					<div class="pswp__item"></div>
+					<div class="pswp__item"></div>
+				</div>
+				<div class="pswp__ui pswp__ui--hidden">
+					<div class="pswp__top-bar">
+						<div class="pswp__counter"></div>
+						<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+						<button class="pswp__button pswp__button--share" title="Share"></button>
+						<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+						<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+						<div class="pswp__preloader">
+							<div class="pswp__preloader__icn">
+								<div class="pswp__preloader__cut">
+									<div class="pswp__preloader__donut"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+						<div class="pswp__share-tooltip"></div>
+					</div>
+
+					<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+					</button>
+					<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+					</button>
+					<div class="pswp__caption">
+						<div class="pswp__caption__center"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/plugins/pojo-forms/assets/js/app.min.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PojoA11yOptions = {"focusable":"","remove_link_target":"","add_role_links":"1","enable_save":"1","save_expiration":"12"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/plugins/pojo-accessibility/assets/js/app.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/themes/toscana/assets/bootstrap/js/bootstrap.min.js?ver=3.2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Pojo = {"ajaxurl":"http:\/\/www.safeplacepets.org\/wp-admin\/admin-ajax.php","css_framework_type":"bootstrap","superfish_args":{"delay":150,"animation":{"opacity":"show","height":"show"},"speed":"fast"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/themes/toscana/assets/js/frontend.min.js?ver=1.7.10'></script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/themes/toscana/core/assets/masterslider/masterslider.min.js?ver=2.9.5'></script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/plugins/pojo-lightbox/assets/photoswipe/photoswipe.min.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/plugins/pojo-lightbox/assets/photoswipe/photoswipe-ui-default.min.js?ver=4.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PojoLightboxOptions = {"script_type":"photoswipe","smartphone":"","woocommerce":"","lightbox_args":{"loop":true,"closeOnScroll":true,"closeOnVerticalDrag":true,"escKey":true,"arrowKeys":true,"history":true,"captionEl":true,"closeEl":true,"fullscreenEl":true,"zoomEl":true,"counterEl":true,"arrowEl":true,"shareEl":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/plugins/pojo-lightbox/assets/js/app.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-content/plugins/pojo-news-ticker/assets/js/app.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://www.safeplacepets.org/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+		<a id="pojo-a11y-skip-content" class="pojo-skip-link pojo-skip-content" tabindex="1" accesskey="s" href="#content">Skip to content</a>
+				<nav id="pojo-a11y-toolbar" class="pojo-a11y-toolbar-right" role="navigation">
+			<div class="pojo-a11y-toolbar-toggle">
+				<a class="pojo-a11y-toolbar-link pojo-a11y-toolbar-toggle-link" href="javascript:void(0);" title="Accessibility Tools">
+					<span class="sr-only">Open toolbar</span>
+					<i class="fa fa-wheelchair"></i>
+				</a>
+			</div>
+			<div class="pojo-a11y-toolbar-overlay">
+				<div class="pojo-a11y-toolbar-inner">
+					<p class="pojo-a11y-toolbar-title">Accessibility Tools</p>
+					
+					<ul class="pojo-a11y-toolbar-items pojo-a11y-tools">
+																			<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-plus" data-action="resize-plus" data-action-group="resize" tabindex="-1">
+									Increase Text								</a>
+							</li>
+							
+							<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-minus" data-action="resize-minus" data-action-group="resize" tabindex="-1">
+									Decrease Text								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-grayscale" data-action="grayscale" data-action-group="schema" tabindex="-1">
+									Grayscale								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-high-contrast" data-action="high-contrast" data-action-group="schema" tabindex="-1">
+									High Contrast								</a>
+							</li>
+						
+						<li class="pojo-a11y-toolbar-item">
+							<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-negative-contrast" data-action="negative-contrast" data-action-group="schema" tabindex="-1">
+								Negative Contrast							</a>
+						</li>
+
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-light-background" data-action="light-background" data-action-group="schema" tabindex="-1">
+									Light Background								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-links-underline" data-action="links-underline" data-action-group="toggle" tabindex="-1">
+									Links Underline								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-readable-font" data-action="readable-font" data-action-group="toggle" tabindex="-1">
+									Readable Font								</a>
+							</li>
+																		<li class="pojo-a11y-toolbar-item">
+							<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-reset" data-action="reset" tabindex="-1">
+								Reset							</a>
+						</li>
+					</ul>
+									</div>
+			</div>
+		</nav>
+		</body>
+</html>

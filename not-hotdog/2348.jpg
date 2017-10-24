@@ -1,0 +1,1714 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+    <meta http-equiv="content-language" content="en">
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="keywords" content="Roche Bobois - Interior Design - Contemporary Furniture - Mobilier Design - Roche Bobois - Meubles Design - Canap&eacute;s design ">
+    <meta name="description" content="French designer furniture company, Roche Bobois celebrates 50 years as the unparalleled international leader in high end design.">
+    <base href="https://www.roche-bobois.com/"></base>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=places"></script>
+    <script src="https://www.roche-bobois.com/js/vendor.min.js?v=1.4.3885"></script>
+    <script src="https://www.roche-bobois.com/js/script.min.js?v=1.4.3885"></script>
+    <title>Roche Bobois Paris - Interior design &amp; Contemporary furniture</title>
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-DZ/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-DZ" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-CI/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-CI" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-MU/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-MU" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-MA/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-MA" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-ZA/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-ZA" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-TN/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-TN" />
+    <link rel="alternate" href="https://www.roche-bobois.com/es-AR/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="es-AR" />
+    <link rel="alternate" href="https://www.roche-bobois.com/es-CL/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="es-CL" />
+    <link rel="alternate" href="https://www.roche-bobois.com/es-CO/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="es-CO" />
+    <link rel="alternate" href="https://www.roche-bobois.com/es-PE/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="es-PE" />
+    <link rel="alternate" href="https://www.roche-bobois.com/es-VE/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="es-VE" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-ZZ/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-ZZ" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-BE/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-BE" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-BE/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-BE" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-CY/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-CY" />
+    <link rel="alternate" href="https://www.roche-bobois.com/de-DE/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="de-DE" />
+    <link rel="alternate" href="https://www.roche-bobois.com/es-ES/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="es-ES" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-FR/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-FR" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-GP/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-GP" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-RE/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-RE" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-GR/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-GR" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-IE/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-IE" />
+    <link rel="alternate" href="https://www.roche-bobois.com/it-IT/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="it-IT" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-LU/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-LU" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-MC/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-MC" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-NL/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-NL" />
+    <link rel="alternate" href="https://www.roche-bobois.com/de-AT/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="de-AT" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-ZZ/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-ZZ" />
+    <link rel="alternate" href="https://www.roche-bobois.com/es-ZZ/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="es-ZZ" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-PT/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-PT" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-RO/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-RO" />
+    <link rel="alternate" href="https://www.roche-bobois.com/de-CH/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="de-CH" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-CH/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-CH" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-TR/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-TR" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-UA/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-UA" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-GB/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-GB" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-BH/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-BH" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-IR/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-IR" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-IL/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-IL" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-JO/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-JO" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-KW/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-KW" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-LB/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-LB" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-QA/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-QA" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-SA/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-SA" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-AE/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-AE" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-CA/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-CA" />
+    <link rel="alternate" href="https://www.roche-bobois.com/fr-CA/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="fr-CA" />
+    <link rel="alternate" href="https://www.roche-bobois.com/es-MX/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="es-MX" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-US/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-US" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-CN/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-CN" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-HK/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-HK" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-IN/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-IN" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-JP/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-JP" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-KZ/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-KZ" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-PH/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-PH" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-KR/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-KR" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-VN/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-VN" />
+    <link rel="alternate" href="https://www.roche-bobois.com/es-GT/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="es-GT" />
+    <link rel="alternate" href="https://www.roche-bobois.com/es-PA/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="es-PA" />
+    <link rel="alternate" href="https://www.roche-bobois.com/es-DO/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="es-DO" />
+    <link rel="alternate" href="https://www.roche-bobois.com/en-RU/static/404?q=L3NpdGUtaXQvaW1hZ2VzL2NhbmFwZWxpdDIuanBn" hreflang="en-RU" />
+    <link rel="shortcut icon" href="layout/favicon.ico?v=1.4.3885">
+    <link rel="stylesheet" type="text/css" href="layout/css/style.min.css?v=1.4.3885" media="all">
+    <link rel="stylesheet" type="text/css" href="layout/css/sitemap.min.css?v=1.4.3885" media="all">
+    <link rel="stylesheet" type="text/css" href="layout/css/print.min.css?v=1.4.3885" media="print">
+    <style type="text/css">.bgdark {background: #18161B;} .bgdark, .bgdark p, .bgdark li, .bgdark label {color: #fff;}</style>
+</head>
+<body class="rub-home">
+<script>        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-62859981-1', 'auto');ga('send', 'pageview');
+</script><script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-59GFDT');
+</script>
+<script>
+        xtnv = document;xtsd = "http://logi12";xtsite = "257785";xtpage = "index";xtdmc = "";xtprm = "";
+</script>
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-59GFDT" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+<iframe src="https://5012101.fls.doubleclick.net/activityi;src=5012101;type=1;cat=visit0;u1=[Visites];ord=[SessionID]?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+
+    <div class="page" id="page">
+        <div class="header">
+            <div class="header-inner">
+                <div class="row">
+                    <a class="logo sprite logo-rochebobois-white" href="https://www.roche-bobois.com/en-ZZ"><span>Roche Bobois</span></a>
+                    <div class="tools">
+                        <ul class="user-nav">
+                            <li class="user-nav-selection" title="Your wishlist">
+                                <a href="https://www.roche-bobois.com/en-ZZ/my-account/selection">
+                                    <span class="sprite icon-nav-fav-small"></span>
+                                    <span class="label">Your wishlist</span>
+                                                                    </a>
+                                <span class="sep">|</span>
+                            </li>
+                            <li class="user-nav-account" title="Your account">
+                                <a href="https://www.roche-bobois.com/en-ZZ/my-account"  onclick="rb.MegaMenu.show(this, 'login'); return false;">
+                                    <span class="sprite  icon-nav-account-small"></span>
+                                    <span class="label">Your account</span>
+                                </a>
+                                <span class="sep">|</span>
+                            </li>
+                        </ul>
+                        <div class="search" title="Search">
+                            <button class="ok">
+                                <span class="sprite icon-search-white"></span>
+                                <span class="label">Roche Bobois</span>
+                            </button>
+                        </div>
+                        <form class="search-field" action="https://www.roche-bobois.com/en-ZZ/search" method="GET">
+                            <input class="inpt" autocomplete="off" id="search-input-header" name="q" type="text" placeholder="Search..." onkeyup="rb.header.Search.suggest(this, 'header');"/>
+                            <button class="ok"><span class="sprite icon-search-white"></span><span class="label">Roche Bobois</span></button>
+                            <div id="suggestions-header" class="suggestionsBox" style="display: none;">
+                                <div class="search-suggest" id="search-suggest-header" style="color:#FFF;"></div>
+                            </div>
+                        </form>
+                    </div>
+                    <ul class="main-nav">
+                        <li class="mv-item mv-item-mahjong"><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/mah-jong-sofa-an-iconic-sofa">Mah Jong</a></li>
+                        <li class="mv-item mv-item-products"><a href="https://www.roche-bobois.com/en-ZZ/products" onclick="rb.MegaMenu.show(this, 'products'); return false;">Products</a></li>
+                        <li class="mv-item mv-item-designers"><a href="https://www.roche-bobois.com/en-ZZ/designers">Designers</a></li>
+                        <li class="mv-item mv-item-mag"><a href="https://www.roche-bobois.com/en-ZZ/le-mag">Le Mag</a></li>
+                        <li class="mv-item mv-item-rochebobois mv-item-active"><a href="https://www.roche-bobois.com/en-ZZ/static/history" onclick="rb.MegaMenu.show(this, 'rochebobois'); return false;">Roche Bobois</a></li>
+                        <li class="mv-item mv-item-news"><a href="https://www.roche-bobois.com/en-ZZ/news">News</a></li>
+                        <li class="mv-item mv-item-store"><a href="https://www.roche-bobois.com/en-ZZ/showrooms" onclick="rb.MegaMenu.show(this, 'store'); return false;">Showrooms</a></li>
+                    </ul>
+                    <span class="indicator"></span>
+                    <div class="mobile-buttons">
+                        <form class="mb-form" action="https://www.roche-bobois.com/en-ZZ/showrooms" method="GET" onsubmit="return rb.store.FindStore.checkForm(this);" title="Showrooms">
+                            <input type="hidden" name="lat" value="">
+                            <input type="hidden" name="lng" value="">
+                            <input type="hidden" name="country" value="">
+                            <button><span class="icon nav-picto-map"></span></button>
+                        </form>
+                        <a class="mb-item" title="Search" href="https://www.roche-bobois.com/en-ZZ/search"><span class="icon nav-picto-search"></span></a>
+                        <a class="mb-item mb-item-options" title="More options"><span class="icon nav-picto-more"></span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+         <div class="lgform" id="lgform">
+             <div class="lgform-inner">
+                 <form action="module/common/ajax/info_panel_helper.php" id="lgForm-form" method="get" onsubmit="return submitInfoPanel()">
+                 <input type="hidden" name="action" value="select-language">
+                 <input type="hidden" name="page" value="aHR0cHMlM0ElMkYlMkZ3d3cucm9jaGUtYm9ib2lzLmNvbSUyRmVuLVpaJTJGc3RhdGljJTJGNDA0JTNGcSUzREwzTnBkR1V0YVhRdmFXMWhaMlZ6TDJOaGJtRndaV3hwZERJdWFuQm4=">
+                     <div class="form-el msg">
+                         <p class="info"><span class="icon icon-infobig"></span>There is a specific version available for your country: </p>
+                     <input type="hidden" name="country" value="en-US">
+                     </div>
+                 <div class="form-el">
+                     <div class="cb-item">
+                         <label><input type="radio" name="conf-option" id="conf-option" value="" checked>Change to this version: USA</label>
+                     </div>
+                 </div>
+                 <div class="form-el" style="padding-left: 30px;">
+                     <div class="cb-item">
+                         <label style="font-style: italic; color: #898787; font-size: 11px;"><input type="checkbox" name="conf-auto-select" id="conf-auto-select" value="1" checked>Save your choice</label>
+                     </div>
+                 </div>
+                 <div class="form-el">
+                     <div class="cb-item">
+                         <label><input type="radio" name="conf-option" id="conf-option" value="conf-hide">Continue with the current version</label>
+                     </div>
+                 </div>
+                     <div class="submit">
+                         <button type="submit" class="button button-a button-confirm"><span class="label">Submit</span></button>
+                     </div>
+                 </form>
+             </div>
+         </div>
+        <div class="mega-menu mm-produit" style="display: none;">
+            <div class="row mm-inner">
+                <div class="mm-inner2">
+                    <button class="button button-icon button-close"><div class="iconsvg icon-close"></div></button>
+                    <ul class="nav">
+                         <li class="col col-2 nav-item nav-item-0">
+                             <div class="nav-item-inner">
+                                 <a class="title" href="https://www.roche-bobois.com/en-ZZ/products/sofas">Living room</a>
+                                 <ul class="subnav">
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/sofas"><span class="label">SOFAS & SOFA BEDS</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/armchairs"><span class="label">ARMCHAIRS</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/cocktails-tables"><span class="label">COCKTAIL TABLES</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/tv-units"><span class="label">TV UNITS</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/bookcases-and-cabinets"><span class="label">BOOKCASES, CABINETS</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/consoles-occasional-furniture"><span class="label">CONSOLES, OCCASIONAL FURNITURE</span></a></li>
+                                 </ul>
+                             </div>
+                         </li>
+                         <li class="col col-2 nav-item nav-item-1">
+                             <div class="nav-item-inner">
+                                 <a class="title" href="https://www.roche-bobois.com/en-ZZ/products/tables">Dining room</a>
+                                 <ul class="subnav">
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/chairs-stools-benches"><span class="label">CHAIRS, STOOLS, BENCHES</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/tables"><span class="label">TABLES</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/sideboards-columns-china-units"><span class="label">DINING ROOM STORAGE</span></a></li>
+                                 </ul>
+                                 <span class="sep" style="margin:10px 0px;"></span>
+                                 <a class="title" href="https://www.roche-bobois.com/en-ZZ/products/desks">DESKS</a>
+                                 <ul class="subnav">
+                                     <li class="show-mobile"><a href="https://www.roche-bobois.com/en-ZZ/products/desks"><span class="label">DESKS</span></a></li>
+                                 </ul>
+                             </div>
+                         </li>
+                         <li class="col col-2 nav-item nav-item-2">
+                             <div class="nav-item-inner">
+                                 <a class="title" href="https://www.roche-bobois.com/en-ZZ/products/other-bedroom-furniture">Bedroom</a>
+                                 <ul class="subnav">
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/beds"><span class="label">BEDS</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/wardrobes"><span class="label">WARDROBES</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/other-bedroom-furniture"><span class="label">OTHER BEDROOM FURNITURE</span></a></li>
+                                 </ul>
+                                 <span class="sep" style="margin:10px 0px;"></span>
+                                 <a class="title" href="https://www.roche-bobois.com/en-ZZ/products/outdoor-furniture">OUTDOOR FURNITURE</a>
+                                 <ul class="subnav">
+                                     <li class="show-mobile"><a href="https://www.roche-bobois.com/en-ZZ/products/outdoor-furniture"><span class="label">OUTDOOR FURNITURE</span></a></li>
+                                 </ul>
+                             </div>
+                         </li>
+                         <li class="col col-2 nav-item nav-item-3">
+                             <div class="nav-item-inner">
+                                 <a class="title" href="https://www.roche-bobois.com/en-ZZ/products/rugs">Other products</a>
+                                 <ul class="subnav">
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/other-furniture"><span class="label">OTHER FURNITURE</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/lamps"><span class="label">LIGHTING</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/cushions"><span class="label">CUSHIONS</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/rugs"><span class="label">RUGS</span></a></li>
+                                     <li><a href="https://www.roche-bobois.com/en-ZZ/products/home-furnishings"><span class="label">HOME FURNISHINGS</span></a></li>
+                                 </ul>
+                             </div>
+                         </li>
+                        <li class="col col-2 nav-item nav-item-4 nav-item-collections">
+                            <div class="nav-item-inner">
+                                <ul class="subnav subnav-first">
+                                    <li><a href="https://www.roche-bobois.com/en-ZZ/new-collection/"><span class="icon icon-arrow"></span><span class="label">New collection</span></a></li>
+                                </ul>
+                                <ul class="subnav subnav-first">
+                                    <li><a href="https://www.roche-bobois.com/en-ZZ/collections/mah-jong-collection"><span class="icon icon-arrow"></span><span class="label">Le Mah Jong </span></a></li>
+                                </ul>
+                                <ul class="subnav subnav-first">
+                                    <li><a href="https://www.roche-bobois.com/en-ZZ/collections/jean-paul-gaultier"><span class="icon icon-arrow"></span><span class="label">Jean Paul GAULTIER</span></a></li>
+                                </ul>
+                                <span class="sep"></span>
+                                <ul class="subnav">
+                                    <li><a href="http://3dstudio.roche-bobois.com/planner/UI/Pages/VPUI.htm?Lang=en-GB" target="_blank"><span class="icon icon-arrow"></span><span class="label">3D Planner</span></a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="col col-2 nav-item-lemag">
+                            <div class="nav-item-inner">
+                                <div class="lemag-item anim">
+                                    <a class="col col-1 col-image" href="https://www.roche-bobois.com/en-ZZ/le-mag/tendances-automne-hiver-2017" title="AUTUMN WINTER 2017 TRENDS">
+<span class="imgc ">
+<span class="img"  data-path="https://media.roche-bobois.com/is/image/rochebobois/" data-img-1920="2017-09-29_09-41-35_mah_jong_yoru_sp?resMode=sharp2&amp;qlt=80&amp;fit=crop,1&amp;cropN=0.08549,0.21000,0.84294,0.60571|1,1,5906,4044" id="img-27378-59ee659602994" data-bgcolor="white"><span class="hover-mask"></span>
+    <img  title="." alt=".">
+    <noscript><img src="https://media.roche-bobois.com/is/image/rochebobois/2017-09-29_09-41-35_mah_jong_yoru_sp?resMode=sharp2&qlt=80&fit=crop,1&cropN=0.08549,0.21000,0.84294,0.60571&wid=59" /></noscript>
+</span>
+<script>imgrdy(document.getElementById("img-27378-59ee659602994"));</script>
+</span>
+                                    </a>
+                                    <div class="col col-1 col-content">
+                                          <h3 class="title-lemag"><span class="iconsvg icon-lemagbyrochebobois"></span></h3>
+                                          <h4 class="title">AUTUMN WINTER 2017 TRENDS</h4>
+                                          <h5 class="subtitle">.</h5>
+                                          <div class="descr">
+                                              <p></p>
+                                              <a href="https://www.roche-bobois.com/en-ZZ/le-mag/tendances-automne-hiver-2017" class="button button-link"><span class="iconsvg icon-arrow"></span><span class="label">Read this article in Le Mag</span></a>
+                                          </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="mega-menu mm-magasin hide-mobile" style="display: none;">
+            <div class="row mm-inner">
+                <div class="mm-inner2">
+                    <button class="button button-icon button-close"><div class="iconsvg icon-close"></div></button>
+                    <div class="col col-7 col-intro">
+                        <div class="mm-m-intro">
+                            <a class="button button-link" href="https://www.roche-bobois.com/en-ZZ/showrooms" style="margin-left:2em;padding-top:0px;margin-top:3px;display:initial;">
+                                <span class="iconsvg icon-arrow"></span>
+                                <span class="label">See all showrooms</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col col-5 col-action hbox">
+                        <form class="form-mag" action="https://www.roche-bobois.com/en-ZZ/showrooms" method="GET" onsubmit="return rb.store.FindStore.checkForm(this);">
+                            <input type="text" style="display:none;" name="lat" value="">
+                            <input type="text" style="display:none;" name="lng" value="">
+                            <input type="text" style="display:none;" name="country" value="">
+                            <button class="button button-a tf-magasin">
+                                <span class="iconsvg icon-map-marker"></span>
+                                <span class="label">Find your nearest showroom</span>
+                            </button>
+                        </form>
+                        <span class="or">or</span>
+                        <form class="form-cp" action="https://www.roche-bobois.com/en-ZZ/showrooms" method="get">
+                            <input type="text" style="display:none;" name="lat" id="lat-search-input-headerpage" />
+                            <input type="text" style="display:none;" name="lng" id="lng-search-input-headerpage" />
+                            <input type="text" style="display:none;" name="country" id="country-search-input-headerpage" />
+                            <span class="textfield tf-cp">
+                                <input class="inpt" type="text" id="search-input-headerpage" name="s" placeholder="Enter a town/city or postcode" value="">
+                            </span>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mega-menu mm-login mmc" style="display: none;">
+            <div class="row mm-inner">
+                <div class="mm-inner2">
+                    <button class="button button-icon button-close"><div class="iconsvg icon-close"></div></button>
+                    <div class="col col-6 col-form">
+                        <div class="">
+                            <div class="col col-1 col-spacer col-form-1"></div>
+                            <div class="col col-4 col-form-2">
+                                <div class="form-connect">
+                                    <div class="form-connect-item fs-connexion">
+                    <h3>Log in</h3>
+                    <p>Don't have an account? <a href="https://www.roche-bobois.com/en-ZZ/my-account/subscribe" class="link">Sign up</a></p>
+                                    </div>
+                                    <div class="form-connect-item fs-fb">
+                                        <h3>Sign up using your Facebook or Google+ account</h3>
+                                        <div class="cols buttons-social">
+                                            <div class="col col-3">
+                                                <a class="button button-facebook" href="javascript:void(0);" onclick="getFacebookLogin();"><span class="iconsvg icon-facebook"></span><span class="label">Sign in with Facebook</span></a>
+                                            </div>
+                                            <div class="col col-3">
+                                                <a class="button button-googleplus" href="javascript:void(0);" onclick="getGooglePlusLogin();"><span class="iconsvg icon-googleplus"></span><span class="label">Sign in with Google+</span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-connect-item fs-mail">
+                                        <h3>Use your email address</h3>
+                                        <form class="form form-login" role="form" action="module/account/save_connexion.php" method="post" onsubmit="return check_form(g_oCheckFormHeaderConf);">
+                                            <div class="col col-3">
+                                                <div class="form-group">
+                                                    <div class="label">
+                                                        <label for="email">Email address</label>
+                                                    </div>
+                                                    <div class="value">
+                                                        <div class="form-el">
+                                                            <input class="inpt" name="caccount_email" id="haccount_email" type="text" placeholder="Email address@">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col col-3">
+                                                <div class="form-group form-item form-item-pwd">
+                                                    <div class="label">
+                                                        <label for="password">Password: </label>
+                                                    </div>
+                                                    <div class="value">
+                                                        <div class="form-el">
+                                                            <input class="inpt" name="caccount_password" type="password" id="haccount_password" value="" autocomplete="off"/>
+                                                            <div class="button button-togglepwd" onclick="rb.Login.togglePassword('#haccount_password', this); return false;" data-trad-show="Show" data-trad-hide="Hide">
+                                                               <span class="label">Show</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group form-item form-item-forgetpassword">
+                                                    <p>Forgot your password? <a href="https://www.roche-bobois.com/en-ZZ/my-account/lost_password">Click here</a></p>
+
+                                                    <div class="hbox">
+                                                        <button type="submit" class="button button-a button-connect"><span class="label">Log in</span></button>
+                                                        <span class="cb-item">
+                                                            <input type="checkbox" id="remember" checked="checked" />
+                                                            <label for="remember">Remember me</label>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                        <script>
+                                            var g_oCheckFormHeaderConf = {
+                                                trad: {
+                                                    'mandatory': 'Required field'
+                                                },
+                                                fields: {
+                                                    'haccount_email': {
+                                                        type: 'string', mandatory: true,
+                                                        validation: [
+                                                            {type: 'mandatory', errorMessage: 'Please enter your email address'},
+                                                            {type: 'email', errorMessage: 'Invalid email address'}
+                                                        ]
+                                                    },
+                                                    'haccount_password': {
+                                                        type: 'string',
+                                                        mandatory: true,
+                                                        validation: [
+                                                            {type: 'mandatory', errorMessage: 'Please enter your password'},
+                                                            {type: 'minSize', errorMessage: 'The password must contain at least 8 characters', minSize: 8},
+                                                            {type: 'maxSize', errorMessage: 'The password must contain at most 20 characters', maxSize: 20}
+                                                        ]
+                                                    }
+                                                }
+                                            };
+                                        </script>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col col-1 col-spacer col-form-3"></div>
+                        </div>
+                    </div>
+                    <div class="col col-6 col-message">
+                        <div class="icon icon-mm-c-arrow-top"></div>
+                        <div class="icon icon-mm-c-arrow-right"></div>
+                        <div class="col col-1 col-spacer col-message-1"></div>
+                        <div class="col col-1 col-spacer col-message-2"></div>
+                        <div class="col col-2 col-message-3">
+                            <div class="message">
+                                <p class="p">By creating an account with us you can: </p>
+                                <ul class="list">
+                                    <li>
+                                        <h4>&bull; Create your own customised wishlists</h4>
+                                        <p></p>
+                                    </li>
+                                    <li>
+                                        <h4>&bull; Edit your personal information</h4>
+                                        <p></p>
+                                    </li>
+                                    <li>
+                                        <h4>&bull; Speak with one of our consultants</h4>
+                                        <p>Receive information and newsletters from Roche Bobois </p>
+                                    </li>
+                                </ul>
+                                <span class="imgc">
+                                <span class="img" data-path="https://media.roche-bobois.com/is/image/rochebobois/"
+                                    data-img-1920="connexion_image01?resMode=sharp2&amp;fmt=png-alpha|2,3"
+                                    data-img-1680="connexion_image01?resMode=sharp2&amp;fmt=png-alpha|2,3"
+                                    data-img-1280="connexion_image01?resMode=sharp2&amp;fmt=png-alpha|2,3"
+                                    data-img-1024="connexion_image01?resMode=sharp2&amp;fmt=png-alpha|2,3"
+                                    id="img-headerprod" data-bgcolor="white"><span class="hover-mask"></span>
+                                    <img>
+                                    <noscript><img src="https://media.roche-bobois.com/is/image/rochebobois/connexion_image01?resMode=sharp2&amp;fmt=png-alpha" /></noscript>
+                                    </span>
+                                <script>imgrdy(document.getElementById("img-headerprod"));</script>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="col col-1 col-spacer col-message-4"></div>
+                        <div class="col col-1 col-spacer col-message-5"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="mega-menu mm-connected" style="display: none;">
+            <div class="row mm-inner">
+                <div class="mm-inner2">
+                    <button class="button button-icon button-close"><div class="iconsvg icon-close"></div></button>
+                    <ul class="mm-c-nav">
+                        <li class="col mm-c-nav-item">
+                            <a class="mm-c-nav-item-a"  href="https://www.roche-bobois.com/en-ZZ/my-account">
+                                <h3>Dashboard</h3>
+                                <p>Dashboard description</p>
+                            </a>
+                        </li>
+                        <li class="col mm-c-nav-item">
+                            <a class="mm-c-nav-item-a" href="https://www.roche-bobois.com/en-ZZ/my-account/info">
+                                <h3>Personal information</h3>
+                                <p>Change your email address or password</p>
+                            </a>
+                        </li>
+                        <li class="col mm-c-nav-item">
+                            <a class="mm-c-nav-item-a" href="https://www.roche-bobois.com/en-ZZ/my-account/preferences">
+                                <h3>Account settings</h3>
+                                <p></p>
+                            </a>
+                        </li>
+                        <li class="col mm-c-nav-item">
+                            <a class="mm-c-nav-item-a" href="https://www.roche-bobois.com/en-ZZ/my-account/mailbox">
+                                <h3>Inbox</h3>
+                                <p></p>
+                            </a>
+                        </li>
+                        <li class="col mm-c-nav-item">
+                            <a class="mm-c-nav-item-a" href="https://www.roche-bobois.com/en-ZZ/my-account/selection">
+                                <h3>Wishlists</h3>
+                                <p>Manage your wishlists</p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="mega-menu mm-rochebobois" style="display: none;">
+            <div class="row mm-inner">
+                <div class="mm-inner2">
+                    <button class="button button-icon button-close"><div class="iconsvg icon-close"></div></button>
+                    <ul class="mm-rb-nav">
+                        <li class="col mm-rb-nav-item">
+                            <a class="mm-rb-nav-item-a" href="https://www.roche-bobois.com/en-ZZ/static/history">
+                                <p class="title">History</p>
+                                <p>A family history</p>
+                            </a>
+                        </li>
+                        <li class="col mm-rb-nav-item">
+                            <a class="mm-rb-nav-item-a" href="https://www.roche-bobois.com/en-ZZ/rochebobois/values">
+                                <p class="title">Values</p>
+                                <p>Create an "art de vivre"</p>
+                            </a>
+                        </li>
+                        <li class="col mm-rb-nav-item">
+                            <a class="mm-rb-nav-item-a" href="https://www.roche-bobois.com/en-ZZ/static/virtual-museum">
+                                <p class="title">Virtual Museum</p>
+                                <p>50 years of iconic pieces</p>
+                            </a>
+                        </li>
+                        <li class="col mm-rb-nav-item">
+                            <a class="mm-rb-nav-item-a" href="https://www.roche-bobois.com/en-ZZ/rochebobois/eco-design">
+                                <p class="title">Eco-design</p>
+                                <p>Environmentally conscious design
+</p>
+                            </a>
+                        </li>
+                        <li class="col mm-rb-nav-item">
+                            <a class="mm-rb-nav-item-a" href="https://www.roche-bobois.com/en-ZZ/rochebobois/collections-en">
+                                <p class="title">Collections</p>
+                                <p>Contemporains et Nouveaux Classiques</p>
+                            </a>
+                        </li>
+                        <li class="col mm-rb-nav-item">
+                            <a class="mm-rb-nav-item-a" href="https://www.roche-bobois.com/en-ZZ/rochebobois/mah-jong-sofa-an-iconic-sofa">
+                                <p class="title">Mah Jong Sofa</p>
+                                <p>An iconic sofa</p>
+                            </a>
+                        </li>
+                        <li class="col mm-rb-nav-item">
+                            <a class="mm-rb-nav-item-a" href="https://www.roche-bobois.com/en-ZZ/rochebobois/catalogues">
+                                <p class="title">Catalogues</p>
+                                <p>Catalogues
+</p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <form id="store-coordinates" method="GET" action="https://www.roche-bobois.com/en-ZZ/showrooms" style="display:none;">
+            <input type="hidden" value="" id="store-coordinates-input" name="s">
+            <input type="hidden" value="" name="lat" id="store-coordinates-lat" />
+            <input type="hidden" value="" name="lng" id="store-coordinates-lng" />
+            <input type="hidden" value="" name="country" id="store-coordinates-country" />
+        </form>
+        <div class="container c">
+
+            <div class="row row-sitemap page-margin-top page-margin-bottom">
+                <div class="row margin-l-bottom">
+                    <h3 class="title">Requested page does not exist</h3>
+                    <div class="cols">
+                        <div class="col col-3 col-768-4">
+                            <h4 class="subtitle">Roche Bobois</h4>
+                            <ul>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/static/history">History</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/values">Values</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/static/virtual-museum">Virtual Museum</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/eco-design">Eco-design</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/collections-en">Collections</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/mah-jong-sofa-an-iconic-sofa">Mah Jong Sofa</a></li>
+                            </ul>
+                        </div>
+                        <div class="col col-3 col-768-4">
+                            <h4 class="subtitle">Roche Bobois</h4>
+                            <ul>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers">All designers (42)</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/roberto-tapinassi-maurizio-manzoni">Roberto Tapinassi & Maurizio Manzoni</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/antoine-fritsch-vivien-durisotti">Antoine Fritsch & Vivien Durisotti</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/alnoor"> Alnoor</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/bina-baitel">Bina Baitel</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/maurice-barilone">Maurice Barilone</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/fabrice-berrux">Fabrice Berrux</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/rene-bouchara">René Bouchara</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/philippe-bouix">Philippe Bouix</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/stephen-burks">Stephen Burks</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/alessandro-busana">Alessandro Busana</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/christophe-delcourt">Christophe Delcourt</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/marco-fumagalli">Marco Fumagalli</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/jean-paul-gaultier">Jean Paul Gaultier</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/eric-gizard">Eric Gizard</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/luigi-gorgoni">Luigi Gorgoni</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/toni-grilo">Toni Grilo</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/hans-hopfer">Hans Hopfer</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/massimo-iosa-ghini">Massimo Iosa Ghini</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/ora-ito">Ora Ito</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/sacha-lakic">Sacha Lakic</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/sophie-larger">Sophie Larger</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/stephane-lebrun">Stéphane Lebrun</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/jose-levy">José Lévy</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/johan-lindsten">Johan Lindsten</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/mauro-lipparini">Mauro Lipparini</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/cecile-maia-pujol">Cécile Maia Pujol</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/hitoshi-makino">Hitoshi Makino</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/jean-francois-marchou">Jean-François Marchou</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/vanessa-mitrani">Vanessa  Mitrani</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/erwan-peron">Erwan Péron</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/thierry-picassette">Thierry Picassette</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/aime-cecil-pierre-dubois">Aimé Cécil & Pierre Dubois</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/jean-michel-policar">Jean-Michel Policar</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/cedric-ragot">Cédric Ragot</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/fred-rieffel">Fred Rieffel</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/daniel-rode">Daniel Rode</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/nicolas-stadler">Nicolas Stadler</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/kenzo-takada">Kenzo Takada</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/renaud-thiry">Renaud Thiry</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/song-wen-zhong">Song Wen Zhong</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/carlo-zerbaro">Carlo Zerbaro</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/designers/marcello-ziliani">Marcello Ziliani</a></li>
+                            </ul>
+                        </div>
+                        <div class="col col-3 col-768-4 last-col-768">
+                            <h4 class="subtitle">Le Mag</h4>
+                            <ul>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag">All articles (61)</a></li>                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/bubble_-designed-by-sacha-lakic">BUBBLE, DESIGNED BY SACHA LAKIC</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/tendances-automne-hiver-2017">AUTUMN WINTER 2017 TRENDS</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/exposition-matthieu-ricard">Matthieu Ricard Exhibition</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/kenzo-takada">Kenzo Takada</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/roche-bobois-angouleme-2017">Roche Bobois partner of the Angoulême Film Festival</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/mystical-symbolism-exhibition">Mystical Symbolism exhibition</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/saint-tropez">At the Saint Tropez Harbour</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/inauguration-la-galerie-roche-bobois">La Galerie Roche Bobois</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/new-ipad-app-for-roche-bobois-catalogues">IPad app Roche Bobois catalogues</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/roche-bobois-tokyo">Roche Bobois Tokyo</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/french-design">“NO TASTE FOR BAD TASTE” exhibition</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/international-milan-fair-2017">INTERNATIONAL MILAN FAIR 2017</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/_la-bella-macchina_-event-in-palm-beach">La Bella Macchina event in Palm Beach</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/art-life-hong-kong">Art & Life Charity Hong Kong</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/new-york_s-armory-show-2017">New York's Armory Show 2017</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/legend">Legend</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/a-collection-signed-by-jean-nouvel">A COLLECTION SIGNED BY JEAN NOUVEL</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/art-basel-miami-2016">ART BASEL MIAMI 2016</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/artesania-de-vivir">MEXICAN POPULAR ART IN THE SPOTLIGHT</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/expo-yuna-yagi">YUNA YAGI: ROCHE BOBOIS GUEST ARTIST</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/langham-hotel-ny">Roche Bobois in the skies of New York</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/exhibition-encuentros-con-la-moda-espanola">SPANISH FASHION DESIGNERS “DRESS” THE MAH JONG</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/monaco-yacht-show">MONACO YACHT SHOW 2016</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/mah-jong-an-icon">Mah Jong: an icon</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/autumn-winter-trends-2016">Autumn-Winter Trends 2016</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/festival-film-francophone">Roche Bobois partner of the Angoulême Film Festival</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/christian-lacroix-maison">CHRISTIAN LACROIX MAISON FOR ROCHE BOBOIS</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/homage-sonia-rykiel">An homage to Sonia Rykiel</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/design-farnese-rome">DESIGN@FARNESE</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/inex-brussels">INEX Brussels : Street art exhibition</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/designersdays-2016">DESIGNER'S DAYS 2016</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/a-complete-collection-for-outdoor-living">A complete collection for outdoor living</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/furtif-desk">Furtif desk</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/international-milan-fair-2016">INTERNATIONAL MILAN FAIR 2016</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/tribute-to-vladimir-kagan">TRIBUTE TO VLADIMIR KAGAN</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/dining-by-design-2016">Dining by Design 2016</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/roche-bobois-and-artreview-charity-art-exhibition">Roche Bobois and ArtReview Charity Art Exhibition</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/winners-roche-bobois-design-award">ROCHE BOBOIS DESIGN AWARD – THE WINNERS</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/trends-spring-summer-2016">Trends Spring Summer 2016</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/steinway-_-sons-reveals-its-new-model-at-roche-bobois">Steinway & Sons reveals its new model at Roche Bobois</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/discover-the-new-roche-bobois-tv-advert">DISCOVER THE NEW ROCHE BOBOIS TV ADVERT</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/discover-behind-the-scenes-footage-of-the-roche-bobois-advertisement_">Discover behind the scenes footage of the Roche Bobois advertisement</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/aaron-axelrod-performance">Aaron Axelrod performance</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/roche-bobois-design-award">ROCHE BOBOIS DESIGN AWARD</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/roche-bobois-furnishes-the-rachel-zoe-ss16-fashion-show_">Roche Bobois Furnishes the Rachel Zoe SS16 Fashion Show.</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/art-basel-miami-2015">ART BASEL MIAMI 2015</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/new-roche-bobois-film-2016">New Roche Bobois film 2016</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/video-expo-inexterieur">INexterieur Exhibition</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/mah-jong-performance">Mah Jong Performance</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/inexterieur-street-art-inside">PARIS: A CONTEMPORARY ART EXHIBITION  AT ROCHE BOBOIS.</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/tribute-to-cedric-ragot">TRIBUTE TO CEDRIC RAGOT</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/trends-autumn-winter-2015">TRENDS AUTUMN WINTER 2015</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/jean-paul-gaultier-exhibition-in-munich">Jean Paul Gaultier Retrospective Exhibition in Munich</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/a-new-showroom-paris_">A new showroom in paris!</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/34th-copa-del-rey-sailing">34th Copa del Rey, sailing event</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/opening-in-pasadena">GRAND OPENING IN PASADENA, CALIFORNIA</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/expo-milano-2015">Expo Milano 2015</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/opening-in-florida">Opening in Aventura, Florida</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/opening-bucharest">Opening of our 1st showroom in Bucharest</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/micka-master-of-the-optical-illusion">Micka: Master of the Optical Illusion</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/le-mag/roche-bobois-innovation-high-tech-3d-fabric">Roche Bobois innovation: High tech 3D fabric</a></li>
+                            </ul>
+                        </div>
+                        <div class="break hide-gt-768"></div><? // Break tous les 3 items (780) ?>
+                        <div class="col col-3 col-768-4 last-col-1920">
+                            <h4 class="subtitle">News</h4>
+                            <ul>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news">All news (61)</a></li>                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/roche-bobois-furnishes-international-architectural-firm">Roche Bobois Furnishes Lounge in International Architectural Firm, Gensler</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/roche-bobois-manhasset-showroom-moves-to-new-location">Roche Bobois Manhasset Showroom Moves to New Location</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/hong-kong-reinterprets-the-brand-s-iconic-mah-jong-sofa">Hong Kong reinterprets the brand’s iconic Mah Jong sofa</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/hong-kong-reinterprets-the-brand-s-iconic-mah-jong-sofa-showroom">Hong Kong reinterprets the brand’s iconic Mah Jong sofa</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/roche-bobois-at-the-saint-tropez-harbour">Roche Bobois at the Saint Tropez Harbour</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/reopening-night-in-amsterdam">Reopening night in Amsterdam</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/opening-shenzen-2">Opening of the 2nd Roche Bobois showroom in Shenzhen, China</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/golf-tournament-surrey-uk-2017">Golf tournament at the Saint George’s Hill Golf Club, Surrey – UK</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/opening-of-the-first-roche-bobois-showroom-in-japan">Opening of the first Roche Bobois showroom in Japan</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/roche-bobois-celebrates-its-first-anniversary-in-south-korea">Roche Bobois Celebrates its First Anniversary in South Korea</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/roche-bobois-sets-up-in-japan">Roche Bobois sets up in Japan</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/roche-bobois-sets-up-in-japan-tokyo">Roche Bobois sets up in Japan</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/roche-bobois-celebrates-20-years-in-lebanon">ROCHE BOBOIS CELEBRATES 20 YEARS IN LEBANON</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/10-th-anniversary-of-roche-bobois-in-kazakhstan">10th anniversary of Roche Bobois in Kazakhstan</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/10th-anniversary-of-roche-bobois-in-kazakhstan">10th anniversary of Roche Bobois in Kazakhstan</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/exclusive-recital-in-partnership-with-steinway-sons-munich-germany">Exclusive recital in partnership with Steinway & Sons</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/closing-evening-of-_encuentros-con-la-moda-espanola_">Closing evening of Encuentros con la moda española</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/roche-bobois-invited-to-art-night">Roche Bobois invited to Art Night</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/discover-the-roche-bobois-tv-advert">DISCOVER THE ROCHE BOBOIS TV ADVERT</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/new-roche-bobois-catalogues-ipad-app">NEW ROCHE BOBOIS CATALOGUES IPAD APP</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/opening-in-paramus-new-jersey">Opening in Paramus – New Jersey</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/roche-bobois-wandsworth-london-re-opens-after-major-refurbishment">Re-Opening after major refurbishment</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/art-basel-miami">Art Basel Miami</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/for-the-70th-anniversary-of-unesco-roche-bobois-decorates-the-delegates-lounge-at-the-organisation-s-headquarters">Roche Bobois decorates the Delegates Lounge at UNESCO’s headquarters</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/jean-paul-gaultier-retrospective-exhibition-munich">Jean Paul Gaultier retrospective exhibition in Munich</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/34th-copa-del-rey-sailing-event-showroom">34th Copa del Rey, sailing event </a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/34th-copa-del-rey-sailing-event">34th Copa del Rey, sailing event </a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/1st-showroom-in-chongqing-southern-china-showroom">1st showroom in Chongqing – Southern China</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/grand-opening-in-pasadena-california-usa-showroom">Grand Opening in Pasadena, California (USA)</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/1st-showroom-in-chongqing-southern-china">1st showroom in Chongqing – Southern China</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/grand-opening-in-pasadena-california-usa">Grand Opening in Pasadena, California (USA)</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/opening-in-birmingham-detroit-michigan-usa-showroom">Opening in Birmingham (Detroit – Michigan – USA)</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/opening-in-birmingham-detroit–michigan–usa">Opening in Birmingham (Michigan, USA)</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/news/opening-of-our-1st-showroom-in-bucharest">Opening of our 1st showroom in Bucharest</a></li>
+                            </ul>
+                        </div>
+                        <div class="break hide-lt-1024"></div><? // Break tous les 4 items (1920) ?>
+                    </div>
+                </div>
+
+
+
+                <div class="row margin-l-bottom">
+                    <h3 class="title">Products</h3>
+                    <div class="cols">
+                        <div class="col col-3  col-768-4 ">
+                            <h4 class="subtitle">Living room</h4>
+                            <ul>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/sofas">SOFAS & SOFA BEDS</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/armchairs">ARMCHAIRS</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/cocktails-tables">COCKTAIL TABLES</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/tv-units">TV UNITS</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/bookcases-and-cabinets">BOOKCASES, CABINETS</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/consoles-occasional-furniture">CONSOLES, OCCASIONAL FURNITURE</a></li>
+                            </ul>
+                        </div>
+                        <div class="col col-3  col-768-4 ">
+                            <h4 class="subtitle">Dining room</h4>
+                            <ul>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/chairs-stools-benches">CHAIRS, STOOLS, BENCHES</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/tables">TABLES</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/sideboards-columns-china-units">DINING ROOM STORAGE</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/desks">DESKS</a></li>
+                            </ul>
+                        </div>
+                        <div class="col col-3  col-768-4  last-col-768 ">
+                            <h4 class="subtitle">Bedroom</h4>
+                            <ul>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/beds">BEDS</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/wardrobes">WARDROBES</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/other-bedroom-furniture">OTHER BEDROOM FURNITURE</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/outdoor-furniture">OUTDOOR FURNITURE</a></li>
+                            </ul>
+                        </div>
+<div class="break hide-gt-768"></div>                        <div class="col col-3  col-768-4  last-col-1920 ">
+                            <h4 class="subtitle">Other products</h4>
+                            <ul>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/other-furniture">OTHER FURNITURE</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/lamps">LIGHTING</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/cushions">CUSHIONS</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/rugs">RUGS</a></li>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/products/home-furnishings">HOME FURNISHINGS</a></li>
+                            </ul>
+                        </div>
+<div class="break hide-lt-1024"></div>                        <div class="col col-3 col-768-4">
+                            <h4 class="subtitle">Autre</h4>
+                            <ul>
+                                <li><a href="https://www.roche-bobois.com/en-ZZ/new-collection/">New collection</a></li>
+                                
+                                    <li><a href="https://www.roche-bobois.com/en-ZZ/collections/mah-jong-collection">Le Mah Jong </li>
+                                    <li><a href="https://www.roche-bobois.com/en-ZZ/collections/jean-paul-gaultier">Jean Paul GAULTIER</li>
+                                <li><a href="#">Browse catalogues</a></li>
+                                <li><a href="http://3dstudio.roche-bobois.com/planner/UI/Pages/VPUI.htm">3D Planner</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+                <div class="row margin-l-bottom">
+                    <h3 class="title">Showrooms</h3>
+                    <div class="cols">
+                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Algérie</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/alger">Alger</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Argentina</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/buenos-aires">Buenos Aires - Cerrito</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/puerto-madero-1">Buenos Aires - Puerto Madero 1</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/puerto-madero-2">Buenos Aires - Puerto Madero 2</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Bahrain (Kingdom of)</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/manama">Manama</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4  last-col-1920 ">
+                        <h4 class="subtitle">Belgie</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/anvers-1">Antwerpen - Leopoldstraat</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/bruxelles">Bruxelles - Uccle</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/liege">Liège</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Belgique</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/anvers-1">Antwerpen - Leopoldstraat</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/bruxelles">Bruxelles - Uccle</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/liege">Liège</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Canada (english)</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/brossard">Brossard - Dix30</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/calgary">Calgary</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/laval">Laval</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/montreal">Montreal</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/quebec">Quebec</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/toronto">Toronto</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/vancouver">Vancouver</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Canada (français)</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/brossard">Brossard - Dix30</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/calgary">Calgary</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/laval">Laval</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/montreal">Montreal</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/quebec">Quebec</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/toronto">Toronto</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/vancouver">Vancouver</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-1920 ">
+                        <h4 class="subtitle">Chile</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/santiago">Santiago</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/santiago-costanera">Santiago - Casa Costanera</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">China</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/beijing">Beijing - Easyhome</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/chengdu">Chengdu</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/chongqing">Chongqing</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/dalian">Dalian</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/shanghai-hongqiao">Shanghai - Hongqiao</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/shanghai-huaihai">Shanghai - Huaihai</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/shenzhen">Shenzhen</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/shenzhen-2">Shenzhen 2</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/zhengzhou">Zhengzhou</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Colombia</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/bogota">Bogotá</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Côte d'Ivoire</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/abidjan">Abidjan</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768  last-col-1920 ">
+                        <h4 class="subtitle">Cyprus</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/limassol">Limassol</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/nicosia">Nicosia</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div><div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Deutschland</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/berlin">Berlin - Stilwerk</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/dusseldorf">Düsseldorf - Stilwerk</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/francfort">Frankfurt - Hanauer Landstraße</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/hambourg">Hamburg - Stilwerk</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/munich-2">München - Thierschstraße</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/munich-1">München - Von-der-Tann-Straße</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/nuernberg-erlangen">Nürnberg - Wetterkreuz</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/stuttgart">Stuttgart - Paulinenstraße</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">España</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/adeje">Adeje</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/alicante">Alicante</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/barcelona">Barcelona</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/bilbao">Bilbao</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/girona">Girona</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/la-coruna">La Coruña</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/las-palmas">Las Palmas De Gran Canaria</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/logrono">Logroño</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/madrid">Madrid</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/marbella">Marbella</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/mallorca-contemporaneos">Palma de Mallorca</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/pamplona">Pamplona</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/santa-cruz-de-tenerife">Santa Cruz de Tenerife</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/sevilla">Sevilla</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/valencia">Valencia</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/valladolid-contemporaneos">Valladolid - Contemporáneos</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/valladolid-nouveaux-classiques">Valladolid - nouveaux classiques</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/vigo">Vigo</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/zaragoza">Zaragoza</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">France</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/gap">05 - Gap</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/antibes">06 - Antibes - Vallauris</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/nice">06 - Nice</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/marseille-2">13 - Marseille - Plan de Campagne</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/marseille-1">13 - Marseille - Prado</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/caen">14 - Caen - Mondeville</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/angouleme">16 - Angoulême - Fléac</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/la-rochelle">17 - La Rochelle - Puilboreau</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/brive">19 - Brive - Malemort</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/ajaccio">20 - Ajaccio</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/bastia-contemporains">20 - Bastia - Contemporains</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/bastia-nouveaux-classiques">20 - Bastia - Nouveaux classiques </a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/dijon">21 - Dijon - Quetigny</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/st-brieuc">22 - St-Brieuc - Langueux</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/besancon">25 - Besançon - Miserey Salines</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/valence">26 - Valence</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/chartres">28 - Chartres</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/brest">29 - Brest</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/quimper">29 - Quimper</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/toulouse">31 - Toulouse - Portet-sur-Garonne</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/bordeaux">33 - Bordeaux</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/merignac">33 - Bordeaux - Merignac</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/montpellier">34 - Montpellier - Lattes</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/rennes">35 - Rennes</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/tours">37 - Tours - Chambray-les-Tours</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/grenoble">38 - Grenoble - Saint-Egrève</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/st-etienne">42 - St-Etienne</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/nantes">44 - Nantes - Orvault</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/orleans">45 - Orléans - Fleury-les-Aubrais</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/agen">47 - Agen - Boe</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/angers">49 - Angers</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/reims">51 - Reims</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/nancy">54 - Nancy - Laxou</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/lorient">56 - Lorient</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/metz">57 - Metz</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/lille">59 - Lille</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/lille-seclin">59 - Lille-Seclin</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/saint-maximin">60 - Saint-Maximin</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/le-touquet">62 - Le Touquet</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/clermont-ferrand">63 - Clermont-Ferrand</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/biarritz">64 - Biarritz - Bidart</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/pau">64 - Pau</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/perpignan">66 - Perpignan</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/strasbourg">67 - Strasbourg - Lampertheim</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/colmar">68 - Colmar</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/mulhouse">68 - Mulhouse</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/lyon">69 - Lyon</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/le-mans">72 - Le Mans - La Chapelle Saint Aubin</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/annecy-contemporains">74 - Annecy - Contemporains</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/annecy-nouveaux-classiques">74 - Annecy - Nouveaux classiques </a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/thonon-les-bains-contemporains">74 - Thonon - Contemporains </a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/thonon-les-bains-nouveaux-classiques">74 - Thonon - Nouveaux classiques</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/paris-12-contemporains">75 - Paris 12 - Contemporains</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/paris-12-nouveaux-classiques">75 - Paris 12 - nouveaux classiques</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/paris-14">75 - Paris 14</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/paris-17-contemporains">75 - Paris 17 - Contemporains</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/paris-17-nouveaux-classiques">75 - Paris 17 - nouveaux classiques</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/paris-3">75 - Paris 3 - Bd de Sébastopol</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/paris-7-contemporains">75 - Paris 7 - Contemporains</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/paris-7-nouveaux-classiques">75 - Paris 7 - nouveaux classiques</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/le-havre">76 - Le Havre</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/rouen">76 - Rouen - Barentin</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/val-d-europe">77 - Marne-la-Vallée - Val d'Europe</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/coignieres">78 - Coignières</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/orgeval">78 - Orgeval</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/versailles">78 - Versailles</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/amiens">80 - Amiens</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/albi">81 - Albi - Puygouzon</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/toulon">83 - Toulon</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/avignon">84 - Avignon - Montfavet</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/la-roche-sur-yon">85 - La Roche-sur-Yon</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/limoges">87 - Limoges</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/belfort">90 - Belfort</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/athis-mons">91 - Athis-Mons</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/st-genevieve">91 - Sainte-Geneviève-Des-Bois</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/suresnes">92 - Suresnes</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/rosny">93 - Rosny-sous-Bois - Domus</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/herblay">95 - Herblay - Montigny</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4  last-col-1920 ">
+                        <h4 class="subtitle">France (Guadeloupe)</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/jarry">Jarry</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">France (La Réunion)</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/la-reunion">Saint-Denis de la Réunion</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Greece</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/alimos">Athens - Alimos</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/athenes-1">Athens - Halandri</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Guatemala</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/guatemala">Ciudad de Guatemala</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-1920 ">
+                        <h4 class="subtitle">Hong Kong</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/hong-kong">Hong Kong</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Ile Maurice</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/grand-baie">Grand Baie</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">India</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/mumbai">Mumbai - Parel</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/new-delhi">New Delhi</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Iran</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/tehran">Tehran</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768  last-col-1920 ">
+                        <h4 class="subtitle">Ireland</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/dublin">Dublin</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div><div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Israel</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/herzliya">Tel-Aviv - Herzliya</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Italia</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/bassano">Bassano Del Grappa</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/bologna">Bologna</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/cagliari">Cagliari</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/firenze">Firenze</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/milano-1">Milano - Molino Delle Armi</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/milano-2">Milano - Risorgimento</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/monza">Monza</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/napoli-1">Napoli - Jannelli</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/padova">Padova</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/palermo">Palermo</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/perugia">Perugia - Bastia Umbra</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/roma-2">Roma - Prati Fiscali</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/salerno">Salerno</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/torino">Torino</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/treviso">Treviso</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/verona">Verona</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Japan</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/tokyo">Tokyo</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4  last-col-1920 ">
+                        <h4 class="subtitle">Jordan</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/amman">Amman</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Kazakhstan</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/almaty">Almaty</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Kuwait</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/shuwaikh">Shuwaikh</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Lebanon</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/beyrouth">Beirut</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-1920 ">
+                        <h4 class="subtitle">Luxembourg</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/bertrange">Luxembourg - Bertrange</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Maroc</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/casablanca">Casablanca</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/rabat">Rabat</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">México</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/mexico-polanco">México - Polanco</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/mexico-san-jeronimo">México - San Jerónimo</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/mexico-santa-fe">México - Santa Fé</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/monterrey">Monterrey</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Monaco</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/monaco">Monaco - La Galerie</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768  last-col-1920 ">
+                        <h4 class="subtitle">Netherlands</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/amsterdam">Amsterdam</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div><div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Österreich</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/vienne-nouveaux-classiques">Wien - Helferstorferstraße</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/vienne">Wien - Wipplingerstraße</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Panamá</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/panama">Panamá Ciudad</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Perú</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/lima">Lima</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4  last-col-1920 ">
+                        <h4 class="subtitle">Philippines</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/manille">Manila - Makati</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Portugal</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/lisbonne">Lisboa</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Qatar</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/doha">Doha</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">República Dominicana</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/santo-domingo">Santo Domingo</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-1920 ">
+                        <h4 class="subtitle">România</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/bucharest">Bucuresti</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Russia</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/ekaterinburg">Ekaterinburg</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/moscou-crocus">Moscow - Crocus</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/moscou-grand">Moscow - Grand</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Saudi Arabia (Kingdom of)</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/jeddah">Jeddah</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/riyadh">Riyadh</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Schweiz</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/fribourg">Fribourg - Avry-sur-Matran</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/geneve-nouveaux-classiques">Genève - Av. Pictet-de-Rochemont</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/geneve">Genève - Rue du Rhone</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/lausanne">Lausanne - Crissier</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/zurich">Zürich</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768  last-col-1920 ">
+                        <h4 class="subtitle">South Africa</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/cape-town">Cape Town</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/johannesbourg">Johannesburg</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div><div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">South Korea</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/busan">Busan</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/seoul">Seoul - Nonhyeon Showroom</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/seoul-2">Seoul - Shinsegae Department Store</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Suisse (français)</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/fribourg">Fribourg - Avry-sur-Matran</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/geneve-nouveaux-classiques">Genève - Av. Pictet-de-Rochemont</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/geneve">Genève - Rue du Rhone</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/lausanne">Lausanne - Crissier</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/zurich">Zürich</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Tunisie</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/tunis">Tunis</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4  last-col-1920 ">
+                        <h4 class="subtitle">Turkey</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/istanbul">Istanbul</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Ukraine</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/kiev">Kiev</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">United Arab Emirates</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/dubai">Dubai</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">United Kingdom</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/london-chelsea">London - Chelsea</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/londres-finchley-road">London - Hampstead 1</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/london-finchley-road-nouveaux-classiques">London - Hampstead 2</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/london-harrods">London - Harrods 1</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/londres-harrods-nouveaux-classiques">London - Harrods 2</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/london-wandsworth">London - Wandsworth</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/manchester">Manchester</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/walton-on-thames">Walton on Thames - Surrey</a></li>
+                        </ul>
+                    </div>
+                    <div class="col col-3  col-768-4  last-col-1920 ">
+                        <h4 class="subtitle">USA</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/phoenix-scottsdale">AZ - Scottsdale</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/costa-mesa">CA - Costa Mesa</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/los-angeles-west-hollywood">CA - Los Angeles</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/los-angeles-pasadena">CA - Pasadena</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/san-diego-la-jolla">CA - San Diego - La Jolla</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/san-francisco">CA - San Francisco</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/denver">CO - Denver - Littleton [Closed]</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/washington">DC - Washington</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/miami-aventura">FL - Aventura</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/miami-coral-gables">FL - Miami - Coral Gables</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/miami-design-district">FL - Miami - Design District</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/palm-beach">FL - Palm Beach</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/atlanta">GA - Atlanta</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/chicago">IL - Chicago</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/boston-downtown">MA - Boston</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/natick">MA - Natick</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/birmingham-michigan">MI - Birmingham</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/paramus">NJ - Paramus</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/manhasset">NY - Manhasset</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/new-york-midtown">NY - New York - Madison Avenue</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/new-york-upper-east-side">NY - New York - Upper East Side</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/new-york-upper-west-side">NY - New York - Upper West Side</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/columbus">OH - Columbus</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/portland">OR - Portland</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/philadelphia">PA - Philadelphia</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/san-juan-puerto-rico">PR - San Juan</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/dallas">TX - Dallas</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/houston">TX - Houston</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/seattle">WA - Seattle</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-lt-1024"></div>                    <div class="col col-3  col-768-4  last-col-768 ">
+                        <h4 class="subtitle">Venezuela</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/caracas">Caracas</a></li>
+                        </ul>
+                    </div>
+<div class="break hide-gt-768"></div>                    <div class="col col-3  col-768-4 ">
+                        <h4 class="subtitle">Vietnam</h4>
+                        <ul>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/hanoi">Hanoi</a></li>
+                <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms/ho-chi-minh-city">Ho Chi Minh</a></li>
+                        </ul>
+                    </div>
+
+                    </div>
+                </div>
+            </div>
+<div class="row row-breadcrumb">
+    <div class="breadcrumb valign-middle">
+        <div class="bc-inner">
+        <a class="button hide-gt-320 " href="javascript: history.back();"><span class="label">...</span></a>
+       <a class="button" href="https://www.roche-bobois.com/en-ZZ"><span class="icontxt icon-arrow2"></span><span class="label">Home</span>       </a>        </div>
+    </div>
+</div></div>
+        <div class="gototop">
+            <div class="gototop-inner">
+                <div class="row">
+                    <a class="button" href="#" onclick="rb.helper.WinScrollHelper.scrollToTop(); return false;">
+                        <span class="icontxt icon-top"></span><span class="label">Back to the top </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <div class="footer-top">
+                <div class="footer-top-inner">
+                    <div class="row">
+                        <div class="cols footer-top-cols">
+                            <div class="col col-12 col-store">
+                                <div class="col col-2 col-findStore">
+                                    <form class="findStore" action="https://www.roche-bobois.com/en-ZZ/showrooms" method="GET" onsubmit="return rb.store.FindStore.checkForm(this);">
+                                        <input type="hidden" name="lat" value="">
+                                        <input type="hidden" name="lng" value="">
+                                        <input type="hidden" name="country" value="">
+                                        <button class="findstr-bt">
+                                            <span class="findStore-inner">
+                                                <span class="iconsvg icon-map-marker"></span>
+                                                                                                <p>Find a showroom<strong>Roche Bobois</strong></p>
+                                                                                            </span>
+                                        </button>
+                                    </form>
+                                </div>
+                                <div class="col col-4 col-follow">
+                                    <div class="col col-6 col-social">
+                                         <div class="social">
+                                            <p>Follow us on: </p>
+                                            <ul class="social-inner">
+                                               <li class="social-item social-item-facebook"><a href="https://www.facebook.com/RocheBoboisParis" target="_blank"><span class="iconsvg icon-facebook"><span>Facebook</span></span></a></li>
+                                               <li class="social-item social-item-pinterest"><a href="https://www.pinterest.com/rochebobois/" target="_blank"><span class="iconsvg icon-pinterest"><span>Pinterest</span></span></a></li>
+                                               <li class="social-item social-item-youtube"><a href="https://www.youtube.com/user/RocheBoboisParis" target="_blank"><span class="iconsvg icon-youtube"><span>YouTube</span></span></a></li>
+                                               <li class="social-item social-item-instagram"><a href="https://instagram.com/rochebobois/" target="_blank"><span class="iconsvg icon-instagram"><span>Instagram</span></span></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col col-6 col-lastNews">
+                                         <div class="lastNews">
+                                            <p>Be the first to hear <br class="show-1920-inline" /> about the latest news from Roche Bobois</p>
+                                            <div class="newsletter" id="ftNewsletter" data-url="module/common/ajax/newsletterSave.json.php">
+                                                <div class="newsletter-message"></div>
+                                                <div class="textfield">
+                                                    <input class="inpt" type="text" id="footer-mail" placeholder="Your email address..." />
+                                                    <button class="button button-a" onclick="rb.footer.Newsletter.submit($('#footer-mail')[0].value);"><span class="label">OK</span></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col col-12 col-services hide-mobile">
+                                <div class="col col-3 col-serv">
+                                    <h4 class="title">Services</h4>
+                                    <ul class="list list-a">                                        <li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/delivery">Delivery</a></li>
+                                        <li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/financing">Financing</a></li>
+                                        <li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/warranty">Warranty</a></li>
+                                        <li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/wedding-registry">Wedding registry</a></li>
+                                    </ul>
+                                    <ul class="list list-b">
+                                        <li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/maintenance-guide">Maintenance guide</a></li>
+                                        <li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/catalogues">Catalogues</a></li>
+                                        <li class="hide-lt-1024"><a target="_blank" href="http://3dstudio.roche-bobois.com/planner/UI/Pages/VPUI.htm?Lang=en-GB" data-hide-burger="1">3D planner</a></li>
+                                </div>
+                                <div class="col col-3 col-pro">
+                                    <h4 class="title">Corporate</h4>
+                                    <ul class="list">
+<li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/vacancies">Careers</a></li>
+<li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/becoming-a-roche-bobois-franchisee">Becoming a Roche Bobois franchisee</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col col-6 col-pres">
+<h4 class="title">Roche Bobois. Celebrating French art de vivre around the world</h4><p>Roche Bobois is a world leader in furniture design and distribution. Working closely with renowned designers such as Ora Ito, Cédric Ragot, Sacha Lakic, Christophe Delcourt and Stephen Burks and with Haute Couture fashion houses such as Jean Paul Gaultier, Missoni Home and Christian Lacroix Maison, Roche Bobois offers a broad range of exclusive made-to-order designs, manufactured with a high level of customisation in small European workshops. Browse our full collection of premium-quality furniture, including sofas, armchairs, cocktail tables, dining chairs, sideboards, beds, wardrobes, storage and accessories including lighting, cushions and rugs on <span style="white-space: nowrap;"><a href="http://www.roche-bobois.com">roche-bobois.com</a></span> or in any of our 250 showrooms around the world.</p>                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-foot">
+                <div class="footer-foot-inner">
+                    <div class="row">
+                        <div class="col col-links">
+                            <div class="links valign-middle">
+                                <ul class="links-inner">
+                                        <li><a href="https://www.roche-bobois.com/en-ZZ/static/contact">contact </a><span class="sep">|</span></li>
+                                        <li><a href="https://www.roche-bobois.com/en-ZZ/showrooms">All stores </a><span class="sep">|</span></li>
+                                        <li><a href="https://www.roche-bobois.com/en-ZZ/rochebobois/legal-notices">Legal Notices </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col col-country">
+                            <form class="search" action="https://www.roche-bobois.com/en-ZZ/search" method="GET">
+                                <div class="textfield textfield-b">
+                                    <input class="inpt" type="text" name="q" autocomplete="off" placeholder="Search for a product">
+                                    <button class="button button-icon"><span class="icon icon-search-white"></span><span class="label">OK</span></button>
+                                </div>
+                            </form>
+                            <div class="country" id="ftCountry" data-url="module/common/ajax/getLanguageNav.html.php?counIdx=39" style="font-size:smaller;">
+                                <div class="cb-footer cb-country" onclick="rb.footer.LanguageNav.toggle();">
+                                    <span class="cb-label">Change your country<span class="show-mobile-inline">:&nbsp;</span></span>
+                                    <a href="javascript: void(0);" class="cb-inner" style="margin:0px; padding:0px;text-align:center;padding-right:1em;">
+                                        <span class="label">Other (english)</span>
+                                        <button class="button">
+                                            <span class="icon icon-comboboxarrow"></span>
+                                            <span class="label">OK</span>
+                                        </button>
+                                    </a>
+                                </div>
+                                <div class="hide-mobile hide-gt-320 hide-print">
+                                    <a href="https://www.roche-bobois.com/fr-DZ/">Algérie</a>
+                                    <a href="https://www.roche-bobois.com/es-AR/">Argentina</a>
+                                    <a href="https://www.roche-bobois.com/fr-ZZ/">Autres (français)</a>
+                                    <a href="https://www.roche-bobois.com/en-BH/">Bahrain (Kingdom of)</a>
+                                    <a href="https://www.roche-bobois.com/en-BE/">Belgie</a>
+                                    <a href="https://www.roche-bobois.com/fr-BE/">Belgique</a>
+                                    <a href="https://www.roche-bobois.com/en-CA/">Canada (english)</a>
+                                    <a href="https://www.roche-bobois.com/fr-CA/">Canada (français)</a>
+                                    <a href="https://www.roche-bobois.com/es-CL/">Chile</a>
+                                    <a href="https://www.roche-bobois.com/en-CN/">China</a>
+                                    <a href="https://www.roche-bobois.com/es-CO/">Colombia</a>
+                                    <a href="https://www.roche-bobois.com/fr-CI/">Côte d'Ivoire</a>
+                                    <a href="https://www.roche-bobois.com/en-CY/">Cyprus</a>
+                                    <a href="https://www.roche-bobois.com/de-DE/">Deutschland</a>
+                                    <a href="https://www.roche-bobois.com/es-ES/">España</a>
+                                    <a href="https://www.roche-bobois.com/fr-FR/">France</a>
+                                    <a href="https://www.roche-bobois.com/fr-GP/">France (Guadeloupe)</a>
+                                    <a href="https://www.roche-bobois.com/fr-RE/">France (La Réunion)</a>
+                                    <a href="https://www.roche-bobois.com/en-GR/">Greece</a>
+                                    <a href="https://www.roche-bobois.com/es-GT/">Guatemala</a>
+                                    <a href="https://www.roche-bobois.com/en-HK/">Hong Kong</a>
+                                    <a href="https://www.roche-bobois.com/fr-MU/">Ile Maurice</a>
+                                    <a href="https://www.roche-bobois.com/en-IN/">India</a>
+                                    <a href="https://www.roche-bobois.com/en-IR/">Iran</a>
+                                    <a href="https://www.roche-bobois.com/en-IE/">Ireland</a>
+                                    <a href="https://www.roche-bobois.com/en-IL/">Israel</a>
+                                    <a href="https://www.roche-bobois.com/it-IT/">Italia</a>
+                                    <a href="https://www.roche-bobois.com/en-JP/">Japan</a>
+                                    <a href="https://www.roche-bobois.com/en-JO/">Jordan</a>
+                                    <a href="https://www.roche-bobois.com/en-KZ/">Kazakhstan</a>
+                                    <a href="https://www.roche-bobois.com/en-KW/">Kuwait</a>
+                                    <a href="https://www.roche-bobois.com/en-LB/">Lebanon</a>
+                                    <a href="https://www.roche-bobois.com/fr-LU/">Luxembourg</a>
+                                    <a href="https://www.roche-bobois.com/fr-MA/">Maroc</a>
+                                    <a href="https://www.roche-bobois.com/es-MX/">México</a>
+                                    <a href="https://www.roche-bobois.com/fr-MC/">Monaco</a>
+                                    <a href="https://www.roche-bobois.com/en-NL/">Netherlands</a>
+                                    <a href="https://www.roche-bobois.com/de-AT/">Österreich</a>
+                                    <a href="https://www.roche-bobois.com/en-ZZ/">Other (english)</a>
+                                    <a href="https://www.roche-bobois.com/es-ZZ/">Otros (español)</a>
+                                    <a href="https://www.roche-bobois.com/es-PA/">Panamá</a>
+                                    <a href="https://www.roche-bobois.com/es-PE/">Perú</a>
+                                    <a href="https://www.roche-bobois.com/en-PH/">Philippines</a>
+                                    <a href="https://www.roche-bobois.com/en-PT/">Portugal</a>
+                                    <a href="https://www.roche-bobois.com/en-QA/">Qatar</a>
+                                    <a href="https://www.roche-bobois.com/es-DO/">República Dominicana</a>
+                                    <a href="https://www.roche-bobois.com/en-RO/">România</a>
+                                    <a href="https://www.roche-bobois.com/en-RU/">Russia</a>
+                                    <a href="https://www.roche-bobois.com/en-SA/">Saudi Arabia (Kingdom of)</a>
+                                    <a href="https://www.roche-bobois.com/de-CH/">Schweiz</a>
+                                    <a href="https://www.roche-bobois.com/en-ZA/">South Africa</a>
+                                    <a href="https://www.roche-bobois.com/en-KR/">South Korea</a>
+                                    <a href="https://www.roche-bobois.com/fr-CH/">Suisse (français)</a>
+                                    <a href="https://www.roche-bobois.com/fr-TN/">Tunisie</a>
+                                    <a href="https://www.roche-bobois.com/en-TR/">Turkey</a>
+                                    <a href="https://www.roche-bobois.com/en-UA/">Ukraine</a>
+                                    <a href="https://www.roche-bobois.com/en-AE/">United Arab Emirates</a>
+                                    <a href="https://www.roche-bobois.com/en-GB/">United Kingdom</a>
+                                    <a href="https://www.roche-bobois.com/en-US/">USA</a>
+                                    <a href="https://www.roche-bobois.com/es-VE/">Venezuela</a>
+                                    <a href="https://www.roche-bobois.com/en-VN/">Vietnam</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="cookie_spacer"></div>
+        </div>
+    </div>
+
+    <div class="mobile-nav">
+        <div class="mobile-nav-inner">
+            <ul class="user-nav">
+                <li class="user-nav-selection">
+                    <a href="https://www.roche-bobois.com/en-ZZ/my-account/selection" title="Your wishlist">
+                        <span class="sprite icon-nav-fav"></span>
+                        <span class="label"></span>
+                        <span class="cnt">(0)</span>
+                    </a>
+                    <span class="sep">|</span>
+                </li>
+                <li class="user-nav-account">
+                    <a href="https://www.roche-bobois.com/en-ZZ/my-account" title="Your account">
+                    <span class="sprite icon-nav-account"></span>
+                    <span class="label"></span></a>
+                    <span class="sep">|</span>
+                </li>
+            </ul>
+            
+            <form class="search" action="https://www.roche-bobois.com/en-ZZ/search" method="GET">
+                <div class="textfield textfield-b">
+                    <input class="inpt" autocomplete="off" id="search-input-footer" name="q" type="text" placeholder="Search..." onkeyup="rb.header.Search.suggest(this, 'footer');"/>
+                    <button class="button" title="Search"><span class="icon icon-search-white-small"></span></button>
+                    <div id="suggestions-footer" class="suggestionsBox" style="display: none;">
+                        <div class="search-suggest" id="search-suggest-footer" style="color:#FFF;"></div>
+                    </div>
+                </div>
+            </form>
+            <div class="nav-container">
+                <div class="nav-container-a">
+                    <div class="scroll-inner">
+                        <div class="scroll-inner2">
+                        </div>
+                    </div>
+                </div>
+                <div class="nav-container-b">
+                    <div class="scroll-inner">
+                        <div class="scroll-inner2">
+                        </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="cookies_notifier" id="cookies_notifier">
+        <div class="cn-inner">
+            By using this website, you authorise the use of cookies for statistical purposes and to improve your navigation experience            <div class="cn">
+                <a href="https://www.roche-bobois.com/en-ZZ/static/cookie-disclaimer">Find out more</a>
+                <a href="javascript:setCookieUsageAccepted()">Close</a>
+            </div>
+        </div>
+    </div>
+    <script>
+        function setCookieUsageAccepted()
+        {
+            $('#cookies_notifier').hide();
+            $('.cookie_spacer').remove();
+            $.ajax({
+                url: 'https://www.roche-bobois.com/module/common/ajax/acceptCookies.php',
+                dataType: 'json',
+                method: 'POST'
+            });
+        }
+    </script>
+</body>
+    <script>
+        var g_oCommonJsConf = {
+            storehead: {
+                options: {
+                    language : ['en'],
+                    types: ['geocode']
+                }
+            },
+            google: {
+              clientId: '731404918951-bcsp724j58136nto7nk6gtruat9kf2ks.apps.googleusercontent.com',
+              scopes: 'https://www.googleapis.com/auth/userinfo.email',
+              apiKey: 'ildm8I39VIPKH42n0H6blAaO'
+            },
+            fblogin: {
+                sdk: '//connect.facebook.net/en_ZZ/sdk.js',
+                appId: '1463092973987568',
+                scope: 'email',
+                apiversion: 'v2.4',
+                url: 'module/common/ajax/connexionFB.php'
+            }
+            , trad: {"geolocError":"Geolocation acceptance is mandatory for this feature","geolocUnavailable":"Position unavailable","back":"Return"}        };
+
+        function switchLanguage(country)
+        {
+            $.ajax({
+                url: 'module/common/ajax/info_panel_helper.php',
+                dataType: 'json',
+                method: 'GET',
+                data: {
+                    page: 'aHR0cHMlM0ElMkYlMkZ3d3cucm9jaGUtYm9ib2lzLmNvbSUyRmVuLVpaJTJGc3RhdGljJTJGNDA0JTNGcSUzREwzTnBkR1V0YVhRdmFXMWhaMlZ6TDJOaGJtRndaV3hwZERJdWFuQm4=',
+                    country: country,
+                    action: 'switch-language'
+                },
+                success: function(p_oJsonData) {
+                    if (p_oJsonData.success) {
+                        top.document.location.href=p_oJsonData.url;
+                    }
+                }
+            });
+        }
+        function submitInfoPanel()
+        {
+            var oForm = $('#lgForm-form');
+            $.ajax({
+                url: oForm.attr('action'),
+                dataType: 'json',
+                method: oForm.attr('method'),
+                data: oForm.serializeArray(),
+                success: function(p_oJsonData) {
+                    if (!p_oJsonData.hide)
+                    {
+                        document.location.href=p_oJsonData.url;
+                    }
+                    else
+                    {
+                        $('#lgform').hide();
+                        if (finalizeHideInfoPanel)
+                        {
+                            finalizeHideInfoPanel();
+                        }
+                    }
+                }
+            });
+            return false;
+        }
+    </script>
+  <script src="js/sitemap.min.js?v=1.4.3885"></script>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 978268588;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+        <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/978268588/?value=0&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+    <script>
+        $(function() {
+            if (rdy) {
+                rdy.forEach(function(f) {
+                    if (typeof f == 'function') {
+                        f();
+                    }
+                });
+            }
+        });
+    </script>
+</html>

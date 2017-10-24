@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="sv-SE" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>404 Not Found | Kringloop Transport</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://kringloop.nu/xmlrpc.php">
+    
+<!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
+<!-- /SEO Ultimate -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Kringloop Transport &raquo; flöde" href="http://kringloop.nu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Kringloop Transport &raquo; kommentarsflöde" href="http://kringloop.nu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/kringloop.nu\/wp-includes\/js\/wp-emoji-release.min.js?ver=09511a7eae9b1f705c639d0c17cfbf19"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sugarspice-fonts-css'  href='//fonts.googleapis.com/css?family=Niconne%7CPT%2BSerif%3A400%2C700%7CRaleway%3A400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=09511a7eae9b1f705c639d0c17cfbf19' type='text/css' media='all' />
+<link rel='stylesheet' id='sugarspice-style-css'  href='http://kringloop.nu/wp-content/themes/sugar-and-spice/style.css?ver=09511a7eae9b1f705c639d0c17cfbf19' type='text/css' media='all' />
+<link rel='stylesheet' id='sugarspice-responsive-css'  href='http://kringloop.nu/wp-content/themes/sugar-and-spice/responsive.css?ver=09511a7eae9b1f705c639d0c17cfbf19' type='text/css' media='all' />
+<link rel='stylesheet' id='sugarspice-icofont-css'  href='http://kringloop.nu/wp-content/themes/sugar-and-spice/fonts/icofont.css?ver=09511a7eae9b1f705c639d0c17cfbf19' type='text/css' media='all' />
+<script type='text/javascript' src='http://kringloop.nu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://kringloop.nu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://kringloop.nu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://kringloop.nu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://kringloop.nu/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//kringloop.nu/?wordfence_logHuman=1&hid=51E69522E5A310ED5D3F5BED32676276');
+</script>
+<style>
+a, a:visited { color:#F9AA89; }
+.entry-meta a { color:#797979; }
+#nav-wrapper .ribbon-left, #nav-wrapper .ribbon-right { background-image: url("http://kringloop.nu/wp-content/themes/sugar-and-spice/images/ribbon-orange.png"); }a:hover, a:focus, nav#main-nav > ul > li > a:hover { color: rgba(249, 170, 137, 0.7); }nav#main-nav > ul > li.current_page_item > a, nav#main-nav > ul > li.current_page_ancestor > a, nav#main-nav > ul > li.current-menu-item > a { color:#F9AA89; }
+.widget-title em { color:#F66B40; }
+.widget_calendar table td#today { background:#F66B40; }
+blockquote cite { color:#F9AA89; }
+blockquote { border-left-color: #F66B40;} {}
+.button:hover, button:hover, a.social-icon:hover , input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover { background: rgba(249, 170, 137, 0.7);} </style>
+
+<!-- Dynamic Widgets by QURL - http://www.qurl.nl //-->
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://kringloop.nu/wp-content/themes/sugar-and-spice/images/bg.png'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
+</head>
+
+<body class="error404 custom-background">
+<div id="page" class="hfeed site">
+		<header id="header" class="site-header" role="banner">
+		<div class="site-branding">
+
+        
+        <h1 class="site-title"><a href="http://kringloop.nu/" rel="home">Kringloop Transport</a></h1>
+        <h2 class="site-description">Enkelt att flytta. Möbler, Flyttstäd.</h2>
+        
+                
+		</div>
+        <div id="nav-wrapper">
+            <div class="ribbon-left"></div>
+            <nav id="main-nav" class="main-navigation" role="navigation">
+                <div class="skip-link"><a class="screen-reader-text" href="#content">Skip to content</a></div>
+                                    <ul id="nav">
+                        <li class="page_item page-item-8"><a href="http://kringloop.nu/integritetspolicy/">Integritetspolicy</a></li>
+<li class="page_item page-item-13"><a href="http://kringloop.nu/kontakt/">Kontakt</a></li>
+<li class="page_item page-item-10"><a href="http://kringloop.nu/om-oss/">Om oss</a></li>
+                    </ul>
+                            </nav><!-- #site-navigation -->
+            <div class="ribbon-right"></div>
+        </div>
+	</header><!-- #header -->
+
+	<div id="main" class="site-main">
+ 
+	<div id="primary" class="content-area">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+					<form role="search" method="get" class="search-form" action="http://kringloop.nu/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>
+
+							<div class="widget widget_recent_entries">		<h2 class="widgettitle">Senaste inläggen</h2>		<ul>
+					<li>
+				<a href="http://kringloop.nu/varfor-skrota-bilen-inte-innebar-nagot-daligt/">Varför skrota bilen inte innebär något dåligt</a>
+						</li>
+					<li>
+				<a href="http://kringloop.nu/skrota-bilen-for-miljon/">Skrota bilen för miljön</a>
+						</li>
+					<li>
+				<a href="http://kringloop.nu/frigor-kapital-med-factoring/">Frigör kapital med factoring</a>
+						</li>
+					<li>
+				<a href="http://kringloop.nu/a-great-speaker/">The day I discovered what was a great speaker</a>
+						</li>
+					<li>
+				<a href="http://kringloop.nu/intresse-for-bygg-och-teknik/">Intresse för bygg och teknik</a>
+						</li>
+				</ul>
+		</div>		
+										<div class="widget widget_categories">
+						<h2 class="widgettitle">Most Used Categories</h2>
+						<ul>
+							<li class="cat-item cat-item-1"><a href="http://kringloop.nu/category/uncategorized/" >Möbler</a> (2)
+</li>
+	<li class="cat-item cat-item-2"><a href="http://kringloop.nu/category/avfall/" >Avfall</a> (2)
+</li>
+	<li class="cat-item cat-item-8"><a href="http://kringloop.nu/category/business/" >Business</a> (2)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://kringloop.nu/category/ror-sanitet/" >Rör &amp; sanitet</a> (1)
+</li>
+	<li class="cat-item cat-item-9"><a href="http://kringloop.nu/category/bilar/" >Bilar</a> (1)
+</li>
+						</ul>
+					</div><!-- .widget -->
+					
+					<div class="widget widget_archive"><h2 class="widgettitle">Arkiv</h2><p>Try looking in the monthly archives. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Arkiv</label>
+		<select id="archives-dropdown--1" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Välj månad</option>
+				<option value='http://kringloop.nu/2017/04/'> april 2017 </option>
+	<option value='http://kringloop.nu/2016/01/'> januari 2016 </option>
+	<option value='http://kringloop.nu/2015/12/'> december 2015 </option>
+	<option value='http://kringloop.nu/2015/11/'> november 2015 </option>
+	<option value='http://kringloop.nu/2014/10/'> oktober 2014 </option>
+	<option value='http://kringloop.nu/2014/05/'> maj 2014 </option>
+
+		</select>
+		</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Taggar</h2><div class="tagcloud"><a href='http://kringloop.nu/tag/alvenius/' class='tag-link-7 tag-link-position-1' title='1 ämne' style='font-size: 8pt;'>Alvenius</a>
+<a href='http://kringloop.nu/tag/branslesmart/' class='tag-link-3 tag-link-position-2' title='1 ämne' style='font-size: 8pt;'>Bränslesmart</a></div>
+</div>
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+	</div><!-- #primary -->
+                        
+        <div id="sidebar" class="widget-area" role="complementary">
+        
+            		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title"><span>Senaste inläggen</span></h3>		<ul>
+					<li>
+				<a href="http://kringloop.nu/varfor-skrota-bilen-inte-innebar-nagot-daligt/">Varför skrota bilen inte innebär något dåligt</a>
+						</li>
+					<li>
+				<a href="http://kringloop.nu/skrota-bilen-for-miljon/">Skrota bilen för miljön</a>
+						</li>
+					<li>
+				<a href="http://kringloop.nu/frigor-kapital-med-factoring/">Frigör kapital med factoring</a>
+						</li>
+					<li>
+				<a href="http://kringloop.nu/a-great-speaker/">The day I discovered what was a great speaker</a>
+						</li>
+					<li>
+				<a href="http://kringloop.nu/intresse-for-bygg-och-teknik/">Intresse för bygg och teknik</a>
+						</li>
+				</ul>
+		</aside>		<aside id="archives-2" class="widget widget_archive"><h3 class="widget-title"><span>Arkiv</span></h3>		<ul>
+			<li><a href='http://kringloop.nu/2017/04/'>april 2017</a></li>
+	<li><a href='http://kringloop.nu/2016/01/'>januari 2016</a></li>
+	<li><a href='http://kringloop.nu/2015/12/'>december 2015</a></li>
+	<li><a href='http://kringloop.nu/2015/11/'>november 2015</a></li>
+	<li><a href='http://kringloop.nu/2014/10/'>oktober 2014</a></li>
+	<li><a href='http://kringloop.nu/2014/05/'>maj 2014</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title"><span>Kategorier</span></h3>		<ul>
+	<li class="cat-item cat-item-2"><a href="http://kringloop.nu/category/avfall/" >Avfall</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://kringloop.nu/category/bilar/" >Bilar</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://kringloop.nu/category/business/" >Business</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://kringloop.nu/category/uncategorized/" >Möbler</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://kringloop.nu/category/ror-sanitet/" >Rör &amp; sanitet</a>
+</li>
+		</ul>
+</aside>        
+        </div><!-- #sidebar -->
+        
+            </div><!-- #main -->
+                </div><!-- #page -->
+
+        <footer id="footer" class="site-footer" role="contentinfo">
+                        <div class="site-info">
+                                <a href="http://wordpress.org/" rel="generator">Proudly powered by WordPress</a>
+                <span class="sep"> | </span>
+                Theme: Sugar &amp; Spice by <a href="http://webtuts.pl" rel="designer">WebTuts</a>.            </div><!-- .site-info -->
+        </footer>
+
+<script type='text/javascript' src='http://kringloop.nu/wp-content/themes/sugar-and-spice/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://kringloop.nu/wp-content/themes/sugar-and-spice/js/modernizr.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://kringloop.nu/wp-content/themes/sugar-and-spice/js/tinynav.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://kringloop.nu/wp-content/themes/sugar-and-spice/js/jquery.flexslider-min.js?ver=2.2.0'></script>
+<script type='text/javascript' src='http://kringloop.nu/wp-includes/js/wp-embed.min.js?ver=09511a7eae9b1f705c639d0c17cfbf19'></script>
+        <script>
+
+        jQuery(document).ready(function($) {
+            $('.widget-title').each(function() {
+                var $this = $(this);
+                $this.html($this.html().replace(/(\S+)\s*$/, '<em>$1</em>'));
+            });
+            $('#reply-title').addClass('section-title').wrapInner('<span></span>');
+
+            if( $('.flexslider').length ) {
+                $('.flexslider').flexslider({ directionNav: false, pauseOnAction: false, });
+                $('.flex-control-nav').each(function(){
+                    var $this = $(this);
+                    var width = '-'+ ($this.width() / 2) +'px';
+                    console.log($this.width());
+                    $this.css('margin-left', width);
+                });
+            }
+
+            $("#nav").tinyNav({header: 'Menu'});
+        });
+        </script>
+    
+</body>
+</html>

@@ -1,0 +1,680 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- BEGIN TEMPLATE: STANDARD_ERROR -->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" lang="es" id="vbulletin_html">
+<head>
+<base href="http://foro.acuarios.es/" /><!--[if IE]></base><![endif]-->
+	<!-- BEGIN TEMPLATE: headinclude -->
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://foro.acuarios.es" />
+
+<meta name="generator" content="vBulletin 4.2.2" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+	<link rel="Shortcut Icon" href="http://foro.acuarios.es/favicon.ico" type="image/x-icon" />
+
+
+		<meta name="keywords" content="acuarios, peces, españa, español, foro, agua dulce, agua salada, acuarios marinos, pez,tropicales,foro, plantas,enfermo, acuariofilia,acuariofilo,agua fria,acuarismo, algas,filtro,filtracion,alimento,papilla, peceras, cria,reproduccion,decoracion,bombas,accesorios,enfermedad,enfermedades,filtro,filtración,parásitos,botia,coridora,disco,escalar,guppy,neon, pez globo, gobio, artemia, foro acuarios acuariofilia, foro acuarios acuariofilia, Killis peces exposición acuarios Majadahonda SEK, General, Concursos Fotográficos, Primer concurso fotográfico de acuarios.esconcurso fotos acuarios fotográfico acuario" />
+		<meta name="description" content="Este es un foro de discusión sobre peces y acuarios en castellano. Aquí encontrarás toda la ayuda que necesites para montar, mantener tu acuario o cuidar de tus peces." />
+
+
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"Este sitio utiliza cookies propias y de Google Adsense (en usuarios no registrados) para mostrar la publicidad y costear los gastos de mantenimiento del foro.","dismiss":"Entendido","learnMore":"Quiero mas información","link":"http://foro.acuarios.es/faq.php?faq=cookies","theme":"dark-top"};
+</script>
+
+<script type="text/javascript" src="/cookieconsent2-master/cookieconsent.js"></script>
+<!-- End Cookie Consent plugin -->
+
+
+
+	<!-- BEGIN TEMPLATE: facebook_opengraph -->
+<meta property="fb:app_id" content="116554613361" />
+<meta property="og:site_name" content="foro de peces y acuarios" />
+<meta property="og:description" content="Este es un foro de discusión sobre peces y acuarios en castellano. Aquí encontrarás toda la ayuda que necesites para montar, mantener tu acuario o cuidar de tus peces." />
+<meta property="og:url" content="http://foro.acuarios.es" />
+<meta property="og:type" content="website" />
+
+<!-- END TEMPLATE: facebook_opengraph -->
+
+
+
+	
+		<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js&amp;2.9.0/build/connection/connection-min.js"></script>
+	
+
+<script type="text/javascript">
+<!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="http://foro.acuarios.es/clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="http://foro.acuarios.es/clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'http://yui.yahooapis.com/2.9.0/build';
+		var yuicombopath = 'http://yui.yahooapis.com/combo';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="http://yui.yahooapis.com/2.9.0/build/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=0390dab28b7ab3f14375cad4e05f34cd&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://foro.acuarios.es";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "attachment";
+	var RELPATH = "attachment.php?attachmentid=5207&amp;thumb=1&amp;stc=1";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://foro.acuarios.es/";
+// -->
+</script>
+<script type="text/javascript" src="http://foro.acuarios.es/clientscript/vbulletin-core.js?v=422"></script>
+
+
+
+	<link rel="alternate" type="application/rss+xml" title="foro de peces y acuarios Feed RSS" href="http://foro.acuarios.es/external.php?type=RSS2" />
+	
+
+
+
+	<link rel="stylesheet" type="text/css" href="http://foro.acuarios.es/clientscript/vbulletin_css/style00003l/main-rollup.css?d=1455773565" />
+        
+
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://foro.acuarios.es/clientscript/vbulletin_css/style00003l/popupmenu-ie.css?d=1455773565" />
+	<link rel="stylesheet" type="text/css" href="http://foro.acuarios.es/clientscript/vbulletin_css/style00003l/vbulletin-ie.css?d=1455773565" />
+	<link rel="stylesheet" type="text/css" href="http://foro.acuarios.es/clientscript/vbulletin_css/style00003l/vbulletin-chrome-ie.css?d=1455773565" />
+	<link rel="stylesheet" type="text/css" href="http://foro.acuarios.es/clientscript/vbulletin_css/style00003l/vbulletin-formcontrols-ie.css?d=1455773565" />
+	<link rel="stylesheet" type="text/css" href="http://foro.acuarios.es/clientscript/vbulletin_css/style00003l/editor-ie.css?d=1455773565" />
+	<![endif]-->
+
+
+
+
+<!-- END TEMPLATE: headinclude -->
+        <!-- twitter app card start-->
+        <!-- https://dev.twitter.com/docs/cards/types/app-card -->
+        <meta name="twitter:card" content="app" />
+    
+        <meta name="twitter:app:id:iphone" content="307880732" />
+        <meta name="twitter:app:url:iphone" content="tapatalk://foro.acuarios.es?location=index" />
+        <meta name="twitter:app:id:ipad" content="307880732" />
+        <meta name="twitter:app:url:ipad" content="tapatalk://foro.acuarios.es?location=index" />
+        
+        <meta name="twitter:app:id:googleplay" content="com.quoord.tapatalkpro.activity" />
+        <meta name="twitter:app:url:googleplay" content="tapatalk://foro.acuarios.es?location=index" />
+        
+    <!-- twitter app card -->
+    
+        <!-- Tapatalk Banner&Welcome head start -->
+        <link href="http://foro.acuarios.es/mobiquo/smartbanner/appbanner.css" rel="stylesheet" type="text/css" media="screen" />
+        <script type="text/javascript">
+            var is_mobile_skin     = 0;
+            var app_ios_id         = "";
+            var app_android_id     = "";
+            var app_kindle_url     = "";
+            var app_banner_message = "";
+            var app_forum_name     = "foro de peces y acuarios";
+            var app_location_url   = "tapatalk://foro.acuarios.es?location=index";
+            var app_board_url      = "http%3A%2F%2Fforo.acuarios.es";
+            var functionCallAfterWindowLoad = 0;
+            
+            var app_forum_code = "c34cc8ac93dbab3aea17c1bf89efd873";
+            var app_referer = "http%3A%2F%2Fforo.acuarios.es%2Fattachment.php%3Fattachmentid%3D5207%26thumb%3D1%26stc%3D1";
+            var app_welcome_url = "http://foro.acuarios.es/mobiquo/smartbanner/welcome.php";
+            var app_welcome_enable = "1";
+        </script>
+        <script src="http://foro.acuarios.es/mobiquo/smartbanner/appbanner.js" type="text/javascript"></script>
+        <!-- Tapatalk Banner head end-->
+    
+        <!-- App Indexing for Google Search -->
+        <link href="http://foro.acuarios.es/android-app://tapatalk-byo/foro.acuarios.es%3Flocation%3Dindex" rel="alternate" />
+        
+	<meta name="robots" content="noindex,follow" />
+
+	<title>foro de peces y acuarios</title>
+	
+	<script type="text/javascript" src="http://foro.acuarios.es/clientscript/vbulletin_md5.js?v=422"></script>
+
+	
+<!-- BEGIN TEMPLATE: headinclude_bottom -->
+<link rel="stylesheet" type="text/css" href="http://foro.acuarios.es/clientscript/vbulletin_css/style00003l/additional.css?d=1455773565" />
+
+<!-- END TEMPLATE: headinclude_bottom -->
+
+<script type="text/javascript"><!--
+window.google_analytics_uacct = 'UA-131852-4'; window.google_analytics_domain_name='.acuarios.es'; var _gaq = _gaq || []; _gaq.push(['_setDomainName', '.acuarios.es'], ['_setAccount', 'UA-131852-4'], ['_setVar', 'usergroup-1-Unregistered / Not Logged In'], ['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();
+//--></script>
+</head>
+<body>
+
+
+<!-- Tapatalk Detect body start -->
+<style type="text/css">
+.ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page 
+{
+top:auto;
+}
+</style>
+<script type="text/javascript">tapatalkDetect()</script>
+<!-- Tapatalk Detect banner body end -->
+
+<!-- BEGIN TEMPLATE: header -->
+<div class="above_body"> <!-- closing tag is in template navbar -->
+<div id="header" class="floatcontainer doc_header">
+	<div><a name="top" href="http://foro.acuarios.es/forum.php" class="logo-image"><img src="http://foro.acuarios.es/images/misc/foro_acuarios.png" alt="foro de peces y acuarios - Desarrollado por vBulletin" /></a></div>
+	<div id="toplinks" class="toplinks">
+		
+			<ul class="nouser">
+			
+				<li><a href="http://foro.acuarios.es/register.php" rel="nofollow">Registrarse</a></li>
+			
+				<li><a rel="help" href="http://foro.acuarios.es/faq.php">Ayuda</a></li>
+				<li>
+			<script type="text/javascript" src="http://foro.acuarios.es/clientscript/vbulletin_md5.js?v=422"></script>
+			<form id="navbar_loginform" action="http://foro.acuarios.es/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+				<fieldset id="logindetails" class="logindetails">
+					<div>
+						<div>
+					<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="Usuario" />
+					<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Contraseña" style="display:none;" />
+					<input type="submit" class="loginbutton" tabindex="104" value="Iniciar sesión" title="Escribe tu nombre de usuario y contraseña en los campos para iniciar la sesión, o pulsa el botón 'registrarse' para crearte un perfil." accesskey="s" />
+						</div>
+					</div>
+				</fieldset>
+				<div id="remember" class="remember">
+					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> ¿Recordarme?</label>
+				</div>
+
+				<input type="hidden" name="s" value="0390dab28b7ab3f14375cad4e05f34cd" />
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="login" />
+				<input type="hidden" name="vb_login_md5password" />
+				<input type="hidden" name="vb_login_md5password_utf" />
+			</form>
+			<script type="text/javascript">
+			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'Usuario')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='Usuario';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+			</script>
+				</li>
+				
+					<!-- BEGIN TEMPLATE: facebook_header -->
+<li id="fb_headerbox" class="hidden">
+
+	<a id="fb_loginbtn" href="http://foro.acuarios.es/attachments/compra-venta-acuarios/5207d1203599477t-vendo-acuario-300-litroa-mueble-madera-madrid-dscn1658.jpg#"><img src="http://foro.acuarios.es/images/misc/facebook_login.gif" alt="La Plataforma Facebook" /></a>
+
+</li>
+
+<!-- END TEMPLATE: facebook_header -->
+				
+			</ul>
+		
+	</div>
+	<div class="ad_global_header">
+		<!-- BEGIN TEMPLATE: ad_global_header1 -->
+ 
+<!-- END TEMPLATE: ad_global_header1 -->
+		<!-- BEGIN TEMPLATE: ad_global_header2 -->
+<div id="ad_global_header2"><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="publiTop"></span></div>
+<!-- END TEMPLATE: ad_global_header2 -->
+	</div>
+	<hr />
+</div>
+<!-- END TEMPLATE: header -->
+
+<!-- BEGIN TEMPLATE: navbar -->
+<div id="navbar" class="navbar">
+	<ul id="navtabs" class="navtabs floatcontainer">
+		
+		<!-- BEGIN TEMPLATE: navbar_tabs -->
+
+	
+		<li  id="vbtab_whatsnew">
+			<a class="navtab" href="http://foro.acuarios.es/activity.php">What's New?</a>
+		</li>
+		
+		
+
+	
+		<li  id="vbtab_cms">
+			<a class="navtab" href="http://www.acuarios.es/content/">Articles</a>
+		</li>
+		
+		
+
+	
+		<li class="selected" id="vbtab_forum">
+			<a class="navtab" href="http://foro.acuarios.es/forum.php">Forum</a>
+		</li>
+		
+		
+			<ul class="floatcontainer">
+				
+					
+						
+							<li id="vbflink_newposts"><a rel="nofollow" href="http://foro.acuarios.es/search.php?do=getnew&amp;contenttype=vBForum_Post">New Posts</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_faq"><a href="http://foro.acuarios.es/faq.php">FAQ</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_calendar"><a href="http://foro.acuarios.es/calendar.php">Calendar</a></li>
+						
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_community">
+							<a href="javascript://" class="popupctrl">Community</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbclink_groups"><a href="http://foro.acuarios.es/groups/">Groups</a></li>
+								
+									<li id="vbclink_albums"><a href="http://foro.acuarios.es/members/albums.html">Albums</a></li>
+								
+									<li id="vbclink_members"><a href="http://foro.acuarios.es/members/list/">Member List</a></li>
+								
+							</ul>
+						</li>
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_actions">
+							<a href="javascript://" class="popupctrl">Forum Actions</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbalink_mfr"><a rel="nofollow" href="http://foro.acuarios.es/forumdisplay.php?do=markread&amp;markreadhash=guest">Mark Forums Read</a></li>
+								
+							</ul>
+						</li>
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_qlinks">
+							<a href="javascript://" class="popupctrl">Quick Links</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbqlink_posts"><a href="http://foro.acuarios.es/search.php?do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
+								
+									<li id="vbqlink_leaders"><a href="http://foro.acuarios.es/showgroups.php">View Site Leaders</a></li>
+								
+							</ul>
+						</li>
+					
+				
+			</ul>
+		
+
+	
+		<li  id="vbtab_blog">
+			<a class="navtab" href="http://foro.acuarios.es/blogs/">Blogs</a>
+		</li>
+		
+		
+
+<!-- END TEMPLATE: navbar_tabs -->
+		
+	</ul>
+	
+		<div id="globalsearch" class="globalsearch">
+			<form action="http://foro.acuarios.es/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
+				
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="process" />
+				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+				<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+			</form>
+			<ul class="navbar_advanced_search">
+				<li><a href="http://foro.acuarios.es/search.php" accesskey="4">Búsqueda avanzada</a></li>
+				
+			</ul>
+		</div>
+	
+</div>
+</div><!-- closing div for above_body -->
+
+<div class="body_wrapper">
+<div id="breadcrumb" class="breadcrumb">
+	<ul class="floatcontainer">
+		<li class="navbithome"><a href="http://foro.acuarios.es/forum.php" accesskey="1"><img src="http://foro.acuarios.es/images/misc/navbit-home.png" alt="Inicio" /></a></li>
+		
+		<!-- BEGIN TEMPLATE: navbar_link -->
+
+	<li class="navbit lastnavbit"><span>Aviso del foro</span></li>
+
+<!-- END TEMPLATE: navbar_link -->
+	</ul>
+	<hr />
+</div>
+
+<!-- BEGIN TEMPLATE: ad_navbar_below -->
+ 
+<!-- END TEMPLATE: ad_navbar_below -->
+<!-- BEGIN TEMPLATE: ad_global_below_navbar -->
+<table style="width: 100%;">
+<tr><td> <div id="publiMini"></div> </td><td style="width:320px"><!-- SiteSearch Google -->
+<form method="get" action="http://www.google.es/custom" target="_top">
+<table border="0" bgcolor="#ffffff">
+<tr><td nowrap="nowrap" valign="top" align="left" height="32">
+<a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'www.google.com', '/']);" rel="nofollow" href="http://www.google.com/">
+Google</a>
+</td>
+<td nowrap="nowrap">
+<input type="hidden" name="domains" value="acuarios.es"></input>
+<label for="sbi" style="display: none">Introduzca los términos de búsqueda.</label>
+<input type="text" name="q" size="31" maxlength="255" value="" id="sbi"></input>
+<label for="sbb" style="display: none">Envíe el formulario de búsqueda</label>
+<input type="submit" name="sa" value="Buscar" id="sbb"></input>
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td nowrap="nowrap">
+<table>
+<tr>
+<td>
+<input type="radio" name="sitesearch" value="" id="ss0"></input>
+<label for="ss0" title="Buscar en la web"><font size="-1" color="#000000">Web</font></label></td>
+<td>
+<input type="radio" name="sitesearch" value="acuarios.es" checked id="ss1"></input>
+<label for="ss1" title="Buscar acuarios.es"><font size="-1" color="#000000">acuarios.es</font></label></td>
+</tr>
+</table>
+<input type="hidden" name="client" value="pub-7370753099251034"></input>
+<input type="hidden" name="forid" value="1"></input>
+<input type="hidden" name="channel" value="7504361373"></input>
+<input type="hidden" name="ie" value="ISO-8859-1"></input>
+<input type="hidden" name="oe" value="ISO-8859-1"></input>
+<input type="hidden" name="safe" value="active"></input>
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1"></input>
+<input type="hidden" name="hl" value="es"></input>
+</td></tr></table>
+</form>
+<!-- SiteSearch Google --></td></tr>
+</table>
+
+<center>
+<table style="clear:none;">
+<tr>
+
+  
+    <!--Publicidad para usuarios no registrados:-->
+      <td><script>
+function allowAds() {
+}
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- foro-acuarios-nuevo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-7370753099251034"
+     data-ad-slot="6675376890"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+      <td><script>
+function allowAds() {
+}
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- foro-acuarios-nuevo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-7370753099251034"
+     data-ad-slot="6675376890"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+  
+
+</tr>
+</table>
+</center>
+
+<!-- END TEMPLATE: ad_global_below_navbar -->
+
+
+
+<!-- END TEMPLATE: navbar -->
+
+<div class="standard_error">
+	<h2 class="blockhead">Aviso del foro</h2>
+	
+		<div class="blockbody formcontrols">
+			<div class="blockrow restore">El Archivo adjunto especificado es inválido. Si has seguido un enlace válido, por favor notifica al <a href="http://foro.acuarios.es/sendmessage.php">administrador</a></div>
+		</div>
+	
+</div>
+
+
+
+<!-- BEGIN TEMPLATE: footer -->
+
+<div style="clear: left">
+  <!-- BEGIN TEMPLATE: ad_footer_start -->
+ 
+<!-- END TEMPLATE: ad_footer_start -->
+  <!-- BEGIN TEMPLATE: ad_global_above_footer -->
+<div id="ad_global_above_footer">
+  <div id="publiFooter"></div>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="/publi/run.php"></script>
+  
+</div>
+<!-- END TEMPLATE: ad_global_above_footer -->
+</div>
+
+<div id="footer" class="floatcontainer footer">
+
+	<form action="http://foro.acuarios.es/forum.php" method="get" id="footer_select" class="footer_select">
+
+		
+			<select name="styleid" onchange="switch_id(this, 'style')">
+				<optgroup label="Elegir estilo"><option class="hidden"></option></optgroup>
+				
+					
+					<optgroup label="&nbsp;Standard Styles">
+									
+					<!-- BEGIN TEMPLATE: option -->
+
+	<option value="3" class="" selected="selected">-- vB4 Default Style</option>
+
+<!-- END TEMPLATE: option --><!-- BEGIN TEMPLATE: option -->
+
+	<option value="6" class="" >---- Verde II</option>
+
+<!-- END TEMPLATE: option -->
+					
+					</optgroup>
+										
+				
+				
+					
+					<optgroup label="&nbsp;Mobile Styles">
+					
+					<!-- BEGIN TEMPLATE: option -->
+
+	<option value="8" class="" >-- Default Mobile Style</option>
+
+<!-- END TEMPLATE: option -->
+					
+					</optgroup>
+										
+				
+			</select>	
+		
+		
+		
+			<select name="langid" onchange="switch_id(this, 'lang')">
+				<optgroup label="Elegir idioma">
+					<!-- BEGIN TEMPLATE: option -->
+
+	<option value="1" class="" >-- English (US)</option>
+
+<!-- END TEMPLATE: option --><!-- BEGIN TEMPLATE: option -->
+
+	<option value="3" class="" selected="selected">-- Español (ES)</option>
+
+<!-- END TEMPLATE: option -->
+				</optgroup>
+			</select>
+		
+	</form>
+
+	<ul id="footer_links" class="footer_links">
+		<li><a href="http://foro.acuarios.es/sendmessage.php" rel="nofollow" accesskey="9">Contáctenos</a></li>
+		<li><a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'www.acuarios.es', '']);" href="http://www.acuarios.es">foro acuarios.es</a></li>
+		
+		
+		<li><a href="http://foro.acuarios.es/archive/">Archivo</a></li>
+		
+		
+		
+		<li><a rel="nofollow" href="http://foro.acuarios.es/attachment.php?attachmentid=5207&amp;thumb=1&amp;stc=1#top" onclick="document.location.hash='top'; return false;">Arriba</a></li>
+	</ul>
+	
+	
+	
+	
+	<script type="text/javascript">
+	<!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+	</script>
+        
+</div>
+</div> <!-- closing div for body_wrapper -->
+
+<div class="below_body">
+<div id="footer_time" class="shade footer_time">El huso horario es GMT +2. La hora actual es: <span class="time">23:14</span>.</div>
+
+<div id="footer_copyright" class="shade footer_copyright">
+	<!-- Do not remove this copyright notice -->
+	Powered by vBulletin&reg; Latest version<br />Copyright &copy;2000 - 2017, Jelsoft Enterprises Ltd.
+<br />Traducción por vBulletin Hispano.
+
+	<!-- Do not remove this copyright notice -->	
+</div>
+<div id="footer_morecopyright" class="shade footer_morecopyright">
+	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+	
+	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+	(c) 2006-2012 acuarios.es
+	
+</div>
+<!-- BEGIN TEMPLATE: ad_footer_end -->
+
+<!-- END TEMPLATE: ad_footer_end --> 
+
+	<!-- BEGIN TEMPLATE: facebook_footer -->
+<div id="fb-root"></div>
+<script type="text/javascript" src="http://foro.acuarios.es/clientscript/vbulletin_facebook.js?v=422"></script>
+
+<script type="text/javascript">
+<!--
+	loadFacebookAPI('es_ES');
+	function fbAsyncInit()
+	{
+		vBfb = new vB_Facebook({
+			appid : "116554613361",
+			connected : 0,
+			active : 0,
+			autoreg : 1,
+			feed_newthread : 1,
+			feed_postreply : 1,
+			feed_blogentry : 1,
+			feed_blogcomment : 1,
+			feed_newarticle : 1,
+			feed_articlecomment : 1
+		});
+	}
+// -->
+</script>
+<!-- END TEMPLATE: facebook_footer -->
+
+</div>
+<a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'www.ajo.es', '/guilfred.php']);" rel="nofollow" href="http://www.ajo.es/guilfred.php"><!-- party-specified --></a>
+
+<a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'www.ajo.es', '/guilfred.php']);" rel="nofollow" href="http://www.ajo.es/guilfred.php"><img src="http://foro.acuarios.es/party-specified.gif" height="1" width="1" border="0"></a>
+
+
+<!-- END TEMPLATE: footer -->
+<br /><div style="z-index:3" class="smallfont" align="center"><a href="http://foro.acuarios.es/archive/f-172.html">1</a> <a href="http://foro.acuarios.es/archive/f-1.html">2</a> <a href="http://foro.acuarios.es/archive/f-19.html">3</a> <a href="http://foro.acuarios.es/archive/f-35.html">4</a> <a href="http://foro.acuarios.es/archive/f-28.html">5</a> <a href="http://foro.acuarios.es/archive/f-2.html">6</a> <a href="http://foro.acuarios.es/archive/f-8.html">7</a> <a href="http://foro.acuarios.es/archive/f-29.html">8</a> <a href="http://foro.acuarios.es/archive/f-10.html">9</a> <a href="http://foro.acuarios.es/archive/f-175.html">10</a> <a href="http://foro.acuarios.es/archive/f-11.html">11</a> <a href="http://foro.acuarios.es/archive/f-13.html">12</a> <a href="http://foro.acuarios.es/archive/f-12.html">13</a> <a href="http://foro.acuarios.es/archive/f-61.html">14</a> <a href="http://foro.acuarios.es/archive/f-22.html">15</a> <a href="http://foro.acuarios.es/archive/f-70.html">16</a> <a href="http://foro.acuarios.es/archive/f-74.html">17</a> <a href="http://foro.acuarios.es/archive/f-67.html">18</a> <a href="http://foro.acuarios.es/archive/f-94.html">19</a> <a href="http://foro.acuarios.es/archive/f-59.html">20</a> <a href="http://foro.acuarios.es/archive/f-100.html">21</a> <a href="http://foro.acuarios.es/archive/f-62.html">22</a> <a href="http://foro.acuarios.es/archive/f-63.html">23</a> <a href="http://foro.acuarios.es/archive/f-79.html">24</a> <a href="http://foro.acuarios.es/archive/f-34.html">25</a> <a href="http://foro.acuarios.es/archive/f-52.html">26</a> <a href="http://foro.acuarios.es/archive/f-176.html">27</a> <a href="http://foro.acuarios.es/archive/f-96.html">28</a> <a href="http://foro.acuarios.es/archive/f-53.html">29</a> <a href="http://foro.acuarios.es/archive/f-38.html">30</a> <a href="http://foro.acuarios.es/archive/f-39.html">31</a> <a href="http://foro.acuarios.es/archive/f-40.html">32</a> <a href="http://foro.acuarios.es/archive/f-41.html">33</a> <a href="http://foro.acuarios.es/archive/f-42.html">34</a> <a href="http://foro.acuarios.es/archive/f-43.html">35</a> <a href="http://foro.acuarios.es/archive/f-44.html">36</a> <a href="http://foro.acuarios.es/archive/f-3.html">37</a> <a href="http://foro.acuarios.es/archive/f-20.html">38</a> <a href="http://foro.acuarios.es/archive/f-30.html">39</a> <a href="http://foro.acuarios.es/archive/f-23.html">40</a> <a href="http://foro.acuarios.es/archive/f-24.html">41</a> <a href="http://foro.acuarios.es/archive/f-31.html">42</a> <a href="http://foro.acuarios.es/archive/f-32.html">43</a> <a href="http://foro.acuarios.es/archive/f-25.html">44</a> <a href="http://foro.acuarios.es/archive/f-88.html">45</a> <a href="http://foro.acuarios.es/archive/f-89.html">46</a> <a href="http://foro.acuarios.es/archive/f-90.html">47</a> <a href="http://foro.acuarios.es/archive/f-102.html">48</a> <a href="http://foro.acuarios.es/archive/f-103.html">49</a> <a href="http://foro.acuarios.es/archive/f-4.html">50</a> <a href="http://foro.acuarios.es/archive/f-80.html">51</a> <a href="http://foro.acuarios.es/archive/f-84.html">52</a> <a href="http://foro.acuarios.es/archive/f-14.html">53</a> <a href="http://foro.acuarios.es/archive/f-15.html">54</a> <a href="http://foro.acuarios.es/archive/f-16.html">55</a> <a href="http://foro.acuarios.es/archive/f-179.html">56</a> <a href="http://foro.acuarios.es/archive/f-81.html">57</a> <a href="http://foro.acuarios.es/archive/f-82.html">58</a> <a href="http://foro.acuarios.es/archive/f-83.html">59</a> <a href="http://foro.acuarios.es/archive/f-118.html">60</a> <a href="http://foro.acuarios.es/archive/f-119.html">61</a> <a href="http://foro.acuarios.es/archive/f-120.html">62</a> <a href="http://foro.acuarios.es/archive/f-121.html">63</a> <a href="http://foro.acuarios.es/archive/f-122.html">64</a> <a href="http://foro.acuarios.es/archive/f-123.html">65</a> <a href="http://foro.acuarios.es/archive/f-105.html">66</a> <a href="http://foro.acuarios.es/archive/f-124.html">67</a> <a href="http://foro.acuarios.es/archive/f-106.html">68</a> <a href="http://foro.acuarios.es/archive/f-33.html">69</a> <a href="http://foro.acuarios.es/archive/f-135.html">70</a> <a href="http://foro.acuarios.es/archive/f-126.html">71</a> <a href="http://foro.acuarios.es/archive/f-125.html">72</a> <a href="http://foro.acuarios.es/archive/f-133.html">73</a> <a href="http://foro.acuarios.es/archive/f-131.html">74</a> <a href="http://foro.acuarios.es/archive/f-132.html">75</a> <a href="http://foro.acuarios.es/archive/f-129.html">76</a> <a href="http://foro.acuarios.es/archive/f-128.html">77</a> <a href="http://foro.acuarios.es/archive/f-127.html">78</a> <a href="http://foro.acuarios.es/archive/f-107.html">79</a> <a href="http://foro.acuarios.es/archive/f-108.html">80</a> <a href="http://foro.acuarios.es/archive/f-109.html">81</a> <a href="http://foro.acuarios.es/archive/f-21.html">82</a> <a href="http://foro.acuarios.es/archive/f-5.html">83</a> <a href="http://foro.acuarios.es/archive/f-7.html">84</a> <a href="http://foro.acuarios.es/archive/f-26.html">85</a> <a href="http://foro.acuarios.es/archive/f-86.html">86</a> <a href="http://foro.acuarios.es/archive/f-85.html">87</a> <a href="http://foro.acuarios.es/archive/f-87.html">88</a> <a href="http://foro.acuarios.es/archive/f-92.html">89</a> <a href="http://foro.acuarios.es/archive/f-91.html">90</a> <a href="http://foro.acuarios.es/archive/f-167.html">91</a> <a href="http://foro.acuarios.es/archive/f-117.html">92</a> <a href="http://foro.acuarios.es/archive/f-51.html">93</a> <a href="http://foro.acuarios.es/archive/f-18.html">94</a> <a href="http://foro.acuarios.es/archive/f-17.html">95</a> <a href="http://foro.acuarios.es/archive/f-139.html">96</a> <a href="http://foro.acuarios.es/archive/f-140.html">97</a> <a href="http://foro.acuarios.es/archive/f-141.html">98</a> <a href="http://foro.acuarios.es/archive/f-142.html">99</a> <a href="http://foro.acuarios.es/archive/f-143.html">100</a> <a href="http://foro.acuarios.es/archive/f-144.html">101</a> <a href="http://foro.acuarios.es/archive/f-145.html">102</a> <a href="http://foro.acuarios.es/archive/f-146.html">103</a> <a href="http://foro.acuarios.es/archive/f-147.html">104</a> <a href="http://foro.acuarios.es/archive/f-148.html">105</a> <a href="http://foro.acuarios.es/archive/f-149.html">106</a> <a href="http://foro.acuarios.es/archive/f-150.html">107</a> <a href="http://foro.acuarios.es/archive/f-151.html">108</a> <a href="http://foro.acuarios.es/archive/f-152.html">109</a> <a href="http://foro.acuarios.es/archive/f-153.html">110</a> <a href="http://foro.acuarios.es/archive/f-154.html">111</a> <a href="http://foro.acuarios.es/archive/f-157.html">112</a> <a href="http://foro.acuarios.es/archive/f-158.html">113</a> <a href="http://foro.acuarios.es/archive/f-159.html">114</a> <a href="http://foro.acuarios.es/archive/f-155.html">115</a> <a href="http://foro.acuarios.es/archive/f-160.html">116</a> <a href="http://foro.acuarios.es/archive/f-162.html">117</a> <a href="http://foro.acuarios.es/archive/f-161.html">118</a> <a href="http://foro.acuarios.es/archive/f-156.html">119</a> <a href="http://foro.acuarios.es/archive/f-163.html">120</a> <a href="http://foro.acuarios.es/archive/f-165.html">121</a> <a href="http://foro.acuarios.es/archive/f-164.html">122</a> <a href="http://foro.acuarios.es/archive/f-166.html">123</a> <a href="http://foro.acuarios.es/archive/f-111.html">124</a> <a href="http://foro.acuarios.es/archive/f-182.html">125</a> <a href="http://foro.acuarios.es/archive/f-136.html">126</a> <a href="http://foro.acuarios.es/archive/f-174.html">127</a> <a href="http://foro.acuarios.es/archive/f-114.html">128</a> <a href="http://foro.acuarios.es/archive/f-27.html">129</a> <a href="http://foro.acuarios.es/archive/f-134.html">130</a> </div>
+</body>
+</html>
+<!-- END TEMPLATE: STANDARD_ERROR -->

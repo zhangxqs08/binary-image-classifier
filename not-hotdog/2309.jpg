@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head >
+<meta charset="UTF-8" />
+<title>Page not found</title>		<meta name="robots" content="noodp,noydir" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Chessie&#039;s Upholstery &raquo; Feed" href="http://www.paulchessie.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Chessie&#039;s Upholstery &raquo; Comments Feed" href="http://www.paulchessie.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.paulchessie.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='parallax-pro-theme-css'  href='http://www.paulchessie.com/wp-content/themes/parallax-pro/style.css?ver=1.0' type='text/css' media='all' />
+<style id='parallax-pro-theme-inline-css' type='text/css'>
+.home-section-1 { background-image: url(http://www.paulchessie.com/wp-content/uploads/2014/03/forest-green-upholstery-texture-fredericton-16001.jpg); }.home-section-3 { background-image: url(http://www.paulchessie.com/wp-content/uploads/2014/03/forest-green-upholstery-texture-fredericton-1600.jpg); }.home-section-5 { background-image: url(http://www.paulchessie.com/wp-content/uploads/2014/03/forest-green-upholstery-texture-fredericton-16002.jpg); }
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://www.paulchessie.com/wp-includes/css/dashicons.min.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='parallax-google-fonts-css'  href='//fonts.googleapis.com/css?family=Montserrat%7CSorts+Mill+Goudy&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='http://www.paulchessie.com/wp-content/plugins/simple-social-icons/css/style.css?ver=1.0.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.paulchessie.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.paulchessie.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.paulchessie.com/wp-content/themes/genesis/lib/js/html5shiv.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://www.paulchessie.com/wp-content/themes/parallax-pro/js/responsive-menu.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='http://www.paulchessie.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.paulchessie.com/xmlrpc.php?rsd" />
+<!-- <meta name="NextGEN" version="2.2.10" /> -->
+<link rel="icon" href="http://www.paulchessie.com/wp-content/themes/parallax-pro/images/favicon.ico" />
+<link rel="pingback" href="http://www.paulchessie.com/xmlrpc.php" />
+<style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover { background-color: #fff !important; border-radius: 60px; color: #000 !important; border: 0px #ffffff solid !important; font-size: 30px; padding: 15px; }  .simple-social-icons ul li a:hover { background-color: #f04848 !important; border-color: #ffffff !important; color: #ffffff !important; }</style></head>
+<body class="error404 content-sidebar parallax-pro-green" itemscope itemtype="https://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.paulchessie.com/">Chessie&#039;s Upholstery</a></p><p class="site-description" itemprop="description">Professional Upholstery Services In New Brunswick</p></div><div class="widget-area header-widget-area"><section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><nav class="nav-header" itemscope itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-header" class="menu genesis-nav-menu"><li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://www.paulchessie.com/about/" itemprop="url"><span itemprop="name">About</span></a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://www.paulchessie.com/contact/" itemprop="url"><span itemprop="name">Contact</span></a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-92"><a href="http://www.paulchessie.com/fredericton-upholstery-services/" itemprop="url"><span itemprop="name">Services</span></a>
+<ul  class="sub-menu">
+	<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://www.paulchessie.com/furniture/" itemprop="url"><span itemprop="name">Furniture</span></a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302"><a href="http://www.paulchessie.com/fabrics/" itemprop="url"><span itemprop="name">Fabrics</span></a></li>
+	<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://www.paulchessie.com/cushions/" itemprop="url"><span itemprop="name">Cushions</span></a></li>
+	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://www.paulchessie.com/commercial/" itemprop="url"><span itemprop="name">Commercial</span></a></li>
+</ul>
+</li>
+<li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-273"><a href="http://www.paulchessie.com/furniture-gallery/" itemprop="url"><span itemprop="name">Galleries</span></a>
+<ul  class="sub-menu">
+	<li id="menu-item-329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-329"><a href="http://www.paulchessie.com/furniture-gallery/#jump3" itemprop="url"><span itemprop="name">Chairs</span></a></li>
+	<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330"><a href="http://www.paulchessie.com/furniture-gallery/#jump4" itemprop="url"><span itemprop="name">Sofas</span></a></li>
+	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-332"><a href="http://www.paulchessie.com/furniture-gallery/#jump6" itemprop="url"><span itemprop="name">Commercial</span></a></li>
+</ul>
+</li>
+</ul></nav></div></section>
+</div></div></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="entry"><h1 class="entry-title">Not found, error 404</h1><div class="entry-content"><p>The page you are looking for no longer exists. Perhaps you can return back to the site's <a href="http://www.paulchessie.com/">homepage</a> and see if you can find what you are looking for. Or, you can try finding it by using the search form below.</p><form class="search-form" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" method="get" action="http://www.paulchessie.com/" role="search"><meta itemprop="target" content="http://www.paulchessie.com/?s={s}"/><input itemprop="query-input" type="search" name="s" placeholder="Search this website &#x2026;" /><input type="submit" value="Search"  /></form><h4>Pages:</h4><ul><li class="page_item page-item-70"><a href="http://www.paulchessie.com/about/">About</a></li>
+<li class="page_item page-item-16"><a href="http://www.paulchessie.com/contact/">Contact</a></li>
+<li class="page_item page-item-274"><a href="http://www.paulchessie.com/cushions/">Cushions</a></li>
+<li class="page_item page-item-276"><a href="http://www.paulchessie.com/fabrics/">Fabrics</a></li>
+<li class="page_item page-item-8"><a href="http://www.paulchessie.com/furniture/">Furniture Upholstery Services</a></li>
+<li class="page_item page-item-76"><a href="http://www.paulchessie.com/fredericton-upholstery-services/">Services</a></li>
+<li class="page_item page-item-5"><a href="http://www.paulchessie.com/commercial/">Commercial Upholstery Services</a></li>
+<li class="page_item page-item-12"><a href="http://www.paulchessie.com/furniture-gallery/">All Galleries</a></li>
+</ul></div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="https://schema.org/WPSideBar"><section id="pages-2" class="widget widget_pages"><div class="widget-wrap"><h4 class="widget-title widgettitle">Pages</h4>
+		<ul>
+			<li class="page_item page-item-70"><a href="http://www.paulchessie.com/about/">About</a></li>
+<li class="page_item page-item-5"><a href="http://www.paulchessie.com/commercial/">Commercial Upholstery Services</a></li>
+<li class="page_item page-item-16"><a href="http://www.paulchessie.com/contact/">Contact</a></li>
+<li class="page_item page-item-274"><a href="http://www.paulchessie.com/cushions/">Cushions</a></li>
+<li class="page_item page-item-276"><a href="http://www.paulchessie.com/fabrics/">Fabrics</a></li>
+<li class="page_item page-item-8"><a href="http://www.paulchessie.com/furniture/">Furniture Upholstery Services</a></li>
+<li class="page_item page-item-76"><a href="http://www.paulchessie.com/fredericton-upholstery-services/">Services</a></li>
+		</ul>
+		</div></section>
+</aside></div></div><footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap"><nav class="nav-secondary" itemscope itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-top" class="menu genesis-nav-menu menu-secondary"><li id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-125"><a href="http://www.paulchessie.com/" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="http://www.paulchessie.com/about/" itemprop="url"><span itemprop="name">About</span></a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://www.paulchessie.com/contact/" itemprop="url"><span itemprop="name">Contact</span></a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="http://www.paulchessie.com/furniture/" itemprop="url"><span itemprop="name">Furniture</span></a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="http://www.paulchessie.com/commercial/" itemprop="url"><span itemprop="name">Commercial</span></a></li>
+<li id="menu-item-272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272"><a href="http://www.paulchessie.com/furniture-gallery/" itemprop="url"><span itemprop="name">Galleries</span></a></li>
+</ul></div></nav><div class="creds"><p>Copyright &copy; 2017 &middot; <a href="http://paulchessie.com">Chessies Upholstery</a> &middot; <a href="https://plus.google.com/111139361598992946057?rel=author">Google</a> &middot; Developed by <a href="http://nictechdesigns.com" title="Bob Gillespie">Bob Gillespie</a></p></div><p></p></div></footer></div><script type='text/javascript' src='http://www.paulchessie.com/wp-content/themes/parallax-pro/js/jquery.scrollTo.min.js?ver=1.4.5-beta'></script>
+<script type='text/javascript' src='http://www.paulchessie.com/wp-content/themes/parallax-pro/js/jquery.localScroll.min.js?ver=1.2.8b'></script>
+<script type='text/javascript' src='http://www.paulchessie.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+</body></html>

@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="UTF-8" />
+<title>Nothing found for  Pics Greentable JPG</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://cayusewa.com/gold/wp-content/themes/twentyten-cayuse/style.css" />
+<link rel="pingback" href="http://cayusewa.com/gold/xmlrpc.php" />
+   <script type="text/javascript">
+        
+    function setCookie(c_name,value,exdays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate() + exdays);
+var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+document.cookie=c_name + "=" + c_value;
+} 
+
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+{
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="Cayuse Western Americana &raquo; Feed" href="http://cayusewa.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cayuse Western Americana &raquo; Comments Feed" href="http://cayusewa.com/comments/feed/" />
+<link rel='stylesheet' id='login-with-ajax-css'  href='http://cayusewa.com/gold/wp-content/plugins/login-with-ajax/widget/widget.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsc-thickbox-css'  href='http://cayusewa.com/gold/wp-content/plugins/wp-e-commerce/wpsc-core/js/thickbox.css?ver=3.8.7.4.472259' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsc-theme-css-css'  href='http://cayusewa.com/gold/wp-content/themes/twentyten-cayuse/wpsc-default.css?ver=3.8.7.4.472259' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsc-theme-css-compatibility-css'  href='http://cayusewa.com/gold/wp-content/plugins/wp-e-commerce/wpsc-theme/compatibility.css?ver=3.8.7.4.472259' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-e-commerce-dynamic-css'  href='http://cayusewa.com/gold/index.php?wpsc_user_dynamic_css=true&#038;category&#038;ver=3.8.7.4.472259' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://cayusewa.com/gold/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsc-gold-cart-css'  href='http://cayusewa.com/gold/wp-content/plugins/gold_cart_plugin2/css/gold_cart.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.lightbox.min.css-css'  href='http://cayusewa.com/gold/wp-content/plugins/wp-jquery-lightbox/styles/lightbox.min.css?ver=1.3.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/login-with-ajax/widget/login-with-ajax.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/wp-e-commerce/wpsc-core/js/wp-e-commerce.js?ver=3.8.7.4.472259'></script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/wp-e-commerce/wpsc-core/js/jquery.infieldlabel.min.js?ver=3.8.7.4.472259'></script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/wp-e-commerce/wpsc-core/js/ajax.js?ver=3.8.7.4.472259'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpsc_ajax = {"ajaxurl":"http:\/\/cayusewa.com\/gold\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cayusewa.com/gold/index.php?wpsc_user_dynamic_js=true&#038;ver=3.8.7.4.472259'></script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/wp-e-commerce/wpsc-admin/js/jquery.livequery.js?ver=1.0.3'></script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/wp-e-commerce/wpsc-core/js/user.js?ver=3.8.7.4472259'></script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/wp-e-commerce/wpsc-core/js/thickbox.js?ver=Instinct_e-commerce'></script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-includes/js/jquery/jquery.query.js?ver=2.1.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPSC_GoldCart = {"thickboxFix":"1","displayMode":"default","productListClass":"wpsc_default_product_list"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/gold_cart_plugin2/js/gold_cart.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.3.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cayusewa.com/gold/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cayusewa.com/gold/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.2" />
+
+<!-- All in One SEO Pack 1.6.15.2 by Michael Torbert of Semper Fi Web Design[142,190] -->
+<!-- /all in one seo pack -->
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-26736234-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+	<link rel='alternate' type='application/rss+xml' title='Cayuse Western Americana Product List RSS' href='http://cayusewa.com/gold?wpsc_action=rss'/><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #666; }
+</style>
+<!-- Google Analytics Tracking by Google Analyticator 6.3.4: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-26736234-1']);
+        _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google 
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+
+<body class="error404 custom-background">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=135138186591499";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+            <div style="position:absolute;top: 35px; right: 10px;"><div class="fb-like" data-href="http://cayusewa.com" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div></div> 
+                                    <div id="logininfo">
+            <a href="/login/">Member Login</a>             </div>
+            
+            <div id="brandingheaderleft">
+            <a href="http://cayusewa.com/gallery/"><img src="http://cayusewa.com/gold/wp-content/images/cayuselogo.png" alt="cayuse western americana" title="cayuse western americana" /></a>
+            </div> 
+            <div id="brandingheaderright">
+            Fine Cowboy, Native American, and National Park Antiques
+            </div>
+										<img src="http://cayusewa.com/gold/wp-content/uploads/2011/11/newbeltheader4.png" width="940" height="110" alt="" />
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-header"><ul id="menu-top-nav" class="menu"><li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="http://cayusewa.com/gallery/">Gallery</a></li>
+<li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-584"><a href="http://cayusewa.com/events/">Events /</a></li>
+<li id="menu-item-4167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4167"><a href="http://cayusewa.com/blog/">Blog /</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="http://cayusewa.com/about/">About /</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9"><a href="http://cayusewa.com/">Home /</a></li>
+</ul></div>			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+ 
+	<div id="container">
+		<div id="content" role="main">
+<img src="http://cayusewa.com/gold/wp-content/uploads/2011/04/jessspearhorses.jpg" />
+			<div id="post-0" class="post error404 not-found">
+            <br/>
+  
+				<h1 class="entry-title" style="text-align:center;color: #FFF; text-shadow: 1px 1px 5px #666;margin-top:-330px;">The page you are looking for has been moved or deleted</h1>
+				<div class="entry-content">
+					<p style="margin: 20px;text-align: center;margin-bottom:210px;"> You will now be automatically re-directed to our Gallery page. (if you are not redirected in 10 seconds, <a href="/gallery/">click here</a>)</p>
+					
+                 
+                             <div style="margin: 30px 35px 10px; background: #9ACCCD; padding: 10px; display: block; float: left;"> 
+         <h1 style="color: #000 !important; text-shadow: inset 1px 1px 5px #666; text-align:center;">New Items</h1>          
+ 
+
+<div id="shopdisplaytable">
+
+<table>
+<tr>
+<td>
+<a href="http://cayusewa.com/items/belts-and-buckles/newmans-floral-scalloped-buckle/" title="Click to view Buckle and Belt Deposit for Denis" rel="bookmark"><div id="shopdisplayh"><img src="http://cayusewa.com/gold/wp-content/uploads/2014/01/NEWMAN08_1-150x115.jpg" alt="" width="220" height="" border="0" /></div></a>
+</td>
+</tr>
+<tr>
+<td>
+<div id="shopdisplaytext"><h1> Buckle and Belt Deposit for Denis</h1></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+<div id="shopdisplaytable">
+
+<table>
+<tr>
+<td>
+<a href="http://cayusewa.com/items/artifacts/sioux-pommel-bags/" title="Click to view Sioux Pommel Bags" rel="bookmark"><div id="shopdisplayh"><img src="http://cayusewa.com/gold/wp-content/uploads/2017/08/pommel-bags-gray-150x115.jpg" alt="" width="220" height="" border="0" /></div></a>
+</td>
+</tr>
+<tr>
+<td>
+<div id="shopdisplaytext"><h1> Sioux Pommel Bags</h1></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+<div id="shopdisplaytable">
+
+<table>
+<tr>
+<td>
+<a href="http://cayusewa.com/items/belts-and-buckles/steer-rider-buckle/" title="Click to view Steer Rider Buckle" rel="bookmark"><div id="shopdisplayh"><img src="http://cayusewa.com/gold/wp-content/uploads/2017/07/weste1..07-150x115.jpg" alt="" width="220" height="" border="0" /></div></a>
+</td>
+</tr>
+<tr>
+<td>
+<div id="shopdisplaytext"><h1> Steer Rider Buckle</h1></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+<div id="shopdisplaytable">
+
+<table>
+<tr>
+<td>
+<a href="http://cayusewa.com/items/skiing-climbing-and-mountain-sports/vintage-childs-handmade-skis/" title="Click to view Vintage Child&#8217;s Handmade Skis" rel="bookmark"><div id="shopdisplayh"><img src="http://cayusewa.com/gold/wp-content/uploads/2017/06/UNK486-150x115.jpg" alt="" width="220" height="" border="0" /></div></a>
+</td>
+</tr>
+<tr>
+<td>
+<div id="shopdisplaytext"><h1> Vintage Child&#8217;s Handmade Ski</h1></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+<div id="shopdisplaytable">
+
+<table>
+<tr>
+<td>
+<a href="http://cayusewa.com/items/hunting-and-fishing/swiss-army-hand-forged-crampons/" title="Click to view Swiss Army Hand Forged Crampons" rel="bookmark"><div id="shopdisplayh"><img src="http://cayusewa.com/gold/wp-content/uploads/2017/05/DEF2791-150x115.jpg" alt="" width="220" height="" border="0" /></div></a>
+</td>
+</tr>
+<tr>
+<td>
+<div id="shopdisplaytext"><h1> Swiss Army Hand Forged Crampons</h1></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+			</div>
+            
+                    
+				</div><!-- .entry-content -->
+			</div><!-- #post-0 -->
+
+		</div><!-- #content -->
+	</div><!-- #container -->
+	<script type="text/javascript">
+		// focus on search field after it has loaded
+		document.getElementById('s') && document.getElementById('s').focus();
+	</script>
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+<div id="searchform">
+
+<form role="search" method="get" action="http://cayusewa.com/">
+    <fieldset style="border: 0px; width: 800;">
+        <input type="text"  name="s" id="search" value="Search" onfocus="if(this.value == this.defaultValue) this.value = ''"/>
+        <input type="image" alt="Search" src="/gold/wp-content/images/go.jpg" />
+    </fieldset>
+</form>
+
+</div>
+
+
+			<div id="access1" role="navigation" style="position:relative;"> 
+                        <div class="menu-header1"><ul id="menu-bottom-nav" class="menu"><li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-276"><a href="http://cayusewa.com/items/checkout/">View Cart</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="http://cayusewa.com/email-list/">Email List</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="http://cayusewa.com/events/">Events</a></li>
+<li id="menu-item-4172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4172"><a href="http://cayusewa.com/appraisals/">Appraisals</a></li>
+<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-583"><a href="http://cayusewa.com/contact/">Contact</a></li>
+<li id="menu-item-2992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2992"><a href="http://cayusewa.com/items/">Shop Now</a></li>
+</ul></div>                        
+			</div><!-- #access -->
+
+			
+
+		</div><!-- #colophon -->
+        
+	</div><!-- #footer -->
+
+
+</div><!-- #wrapper -->
+
+<div id="verybottom">	
+
+    					<div id="access2" role="navigation" style="position: realtive; z-index: 101;">
+                        <div class="menu-header2"><ul id="menu-very-bottom-nav" class="menu"><li id="menu-item-3779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3779"><a href="http://cayusewa.com/shippingandreturns/">Shipping &amp; Returns</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://cayusewa.com/terms-and-conditions/">Terms &amp; Conditions |</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://cayusewa.com/privacy-policy/">Privacy Policy |</a></li>
+</ul></div>						</div><!-- #access --><div style="
+					color:#999;
+					font-size: 9px;
+					font-style:italic;
+                    text-align:right;
+                    padding-right: 10px;">All Content © 1997-2017 by Cayuse Western Americana                    <br/>
+                    <br/>
+                  <span id="siteseal" style="position:absolute; bottom:auto; left: 47%;"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=7TT9weOpC4UmA0xUzO3jmYHWrrZGk8gSnWPH3rBVJJjYXEazt1Y7YLqwTx"></script><br/></span>
+  				</div>
+  
+</div>
+
+
+
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.18'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/cayusewa.com\/gold\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JQLBSettings = {"fitToScreen":"0","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"0","loopImages":"","resizeCenter":"","marginSize":"","linkTarget":"_self","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","prevLinkText":"\u00ab Previous","nextLinkText":"Next \u00bb","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cayusewa.com/gold/wp-content/plugins/wp-jquery-lightbox/jquery.lightbox.min.js?ver=1.3.4.1'></script>
+</body>
+<!-- Tracking tag. Place in the <body> section of webpage -->
+<!-- Privacy policy at http://tag.brandcdn.com/privacy -->
+<script type="text/javascript" src="http://tag.brandcdn.com/autoscript/Cayuse_Western_Americana.js"></script>
+
+</html>

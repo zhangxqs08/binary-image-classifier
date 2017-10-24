@@ -1,0 +1,1155 @@
+<!DOCTYPE html>
+<html lang='ja' prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#'>
+<head>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<title>ビューハウス（株）｜群馬県でデザイン住宅ならLIFE LABEL（ライフレーベル）</title>
+<meta content='デザイン住宅ならビューハウス（株）。ZERO-CUBEをはじめとしたデザイン住宅の商品紹介や施工事例、イベント情報紹介などお役立ちコンテンツが盛りだくさん。LIFE LABEL（ライフレーベル）はあなたにぴったりな群馬県の相談窓口をご紹介します。' name='description'>
+<meta content='デザイン住宅, 住宅, 群馬県, ビューハウス（株）' name='keywords'>
+<link href='http://lifelabel-stores.jp/byu-hausu/' rel='canonical'>
+<link href='/favicon.ico' rel='shortcut icon' type='image/vnd.microsoft.ico'>
+<!--[ OGP ]>  <![endif]-->
+<meta content='ビューハウス（株）｜群馬県でデザイン住宅をお探しなら' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='デザイン住宅ならビューハウス（株）。ZERO-CUBEをはじめとしたデザイン住宅の商品紹介や施工事例、イベント情報紹介などお役立ちコンテンツが盛りだくさん。LIFE LABEL（ライフレーベル）はあなたにぴったりな群馬県の相談窓口をご紹介します。' property='og:description'>
+<meta content='http://lifelabel-stores.jp/byu-hausu/' property='og:url'>
+<meta content='/storesite/lp2/img/ph_hero_01.jpg' property='og:image'>
+<meta content='ビューハウス（株）' property='og:site_name'>
+<!-- /[ OGP ] -->
+<link href='/css/common.css' rel='stylesheet' type='text/css'>
+<link href='/storesite/common/css/lp.css' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create','UA-36358669-43','auto');
+ga('send','pageview');
+</script>
+
+
+<script src="//maps.google.com/maps/api/js?v=3&amp;key=AIzaSyAj84JvCemUQfZ1XLtxWytgDPUrQU695mU"></script>
+
+<script>
+  function googlemapInitialize() {
+  var latlng = new google.maps.LatLng(36.314176893781,139.183766953647); /* 経度、緯度 */
+  var myOptions = {
+  zoom: 16,
+  center: latlng,
+  mapTypeId: google.maps.MapTypeId.ROADMAP
+  };
+  var map = new google.maps.Map(document.getElementById('mapCanvas'), myOptions);
+  var icon = new google.maps.MarkerImage('/storesite/common/img/ico_pin_01.png',
+  new google.maps.Size(26,31),
+  new google.maps.Point(0,0)
+  );
+  var markerOptions = {
+  position: latlng,
+  map: map,
+  icon: icon
+  };
+  var marker = new google.maps.Marker(markerOptions);
+  }
+</script>
+</head>
+<body class='pageLP' onload='googlemapInitialize();'>
+<div class='container' id='top'>
+<header class='lpHeader'>
+<div class='inner'>
+<h1>ビューデザイン建築設計事務所</h1>
+<ul class='sectionLink'>
+<li>
+<a class='scroll' href='#product'>商品紹介</a>
+</li>
+<li>
+<a class='scroll' href='#catalog'>施工事例</a>
+</li>
+<li>
+<a class='scroll' href='#voice'>お客様の声</a>
+</li>
+</ul>
+<div class='modCallToAction'>
+<div class='unit'>
+<p class='tell'>0120-220801</p>
+<div class='modGroupBtn'>
+<a class='modBtn btn4' href='https://lifelabel.jp/store_inquery?ref=LP&amp;store=11301' target='_blank'>お問い合わせ・来店予約</a>
+<a class='modBtn btn1' href='https://lifelabel.jp/request?ref=LP&amp;store=11301' target='_blank'>資料請求</a>
+<!-- /.modGroupBtn -->
+</div>
+<!-- /.unit -->
+</div>
+<!-- /.modCallToAction -->
+</div>
+<!-- /.inner -->
+</div>
+<!-- /.lpHeader -->
+</header>
+<main class='lpMain'>
+<div class='lpMainInner'>
+<div class='blockMainVisual' id='product'>
+<ul class='sliderMain'>
+<li>
+<a class="lpTriggerModal" data-modal="lpModalAlert" data-url="https://lifelabel.jp/lineup/zero-cube-malibu" href="#"><img alt="ZERO-CUBE MALIBU" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/2/0f2fed7c-d716-4c27-8fa3-1b9c7bf27f8c.jpg" />
+</a></li>
+<li>
+<a class="lpTriggerModal" data-modal="lpModalAlert" data-url="https://lifelabel.jp/lineup/zero-cube" href="#"><img alt="ZERO-CUBE+FUN" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/4/c88393c9-1792-4944-989b-b42e0a7c4f9d.jpg" />
+</a></li>
+<li>
+<a class="lpTriggerModal" data-modal="lpModalAlert" data-url="https://lifelabel.jp/lineup/zero-cube-stepfloor" href="#"><img alt="ZERO-CUBE STEPFLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/6/7a044e38-23cd-4523-a1ae-5b715ccaa067.jpg" />
+</a></li>
+<li>
+<a class="lpTriggerModal" data-modal="lpModalAlert" data-url="https://lifelabel.jp/lineup/zero-cube-kai" href="#"><img alt="ZERO-CUBE KAI" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/7/be2242c3-9797-4d3a-ba3e-cb9ddde5c832.jpg" />
+</a></li>
+<li>
+<a class="lpTriggerModal" data-modal="lpModalAlert" data-url="https://lifelabel.jp/lineup/zero-cube-simple-style" href="#"><img alt="ZERO-CUBE SIMPLE STYLE" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/8/ed243099-3f0d-44ef-99c0-4206df40a1cb.jpg" />
+</a></li>
+<li>
+<a class="lpTriggerModal" data-modal="lpModalAlert" data-url="https://lifelabel.jp/lineup/hyva-and-style" href="#"><img alt="HYVA AND STYLE" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/10/61367d34-6c15-48fa-90c8-5f43a2086e85.jpg" />
+</a></li>
+<li>
+<a class="lpTriggerModal" data-modal="lpModalAlert" data-url="https://lifelabel.jp/lineup/nordic-house" href="#"><img alt="NORDIC HOUSE" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/11/bdb9470c-a2ae-4ae5-b221-6d4b92c82cd3.jpg" />
+</a></li>
+<li>
+<a class="lpTriggerModal" data-modal="lpModalAlert" data-url="https://lifelabel.jp/lineup/blanc-ange" href="#"><img alt="Blanc Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/12/6996132f-231e-48d3-85bb-2f2de4dfa4bc.jpg" />
+</a></li>
+<li>
+<a class="lpTriggerModal" data-modal="lpModalAlert" data-url="https://lifelabel.jp/lineup/blossom03" href="#"><img alt="BLOSSOM03" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/13/43b9523b-0c0c-44b4-8e3e-5e7bb7e7bbae.jpg" />
+</a></li>
+<li>
+<a class="lpTriggerModal" data-modal="lpModalAlert" data-url="https://lifelabel.jp/lineup/shiki-hiraya" href="#"><img alt="四季HIRAYA" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/14/17d5e83e-cde5-4712-8a9c-7e19e2b5dd58.jpg" />
+</a></li>
+</ul>
+<div class='sliderNav'>
+<div class='thumb'>
+<p class='photo'>
+<img alt="ZERO-CUBE MALIBU" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/2/0f2fed7c-d716-4c27-8fa3-1b9c7bf27f8c.jpg" />
+</p>
+<dl>
+<dt>ZERO-CUBE MALIBU</dt>
+<dd>本体価格：1,600万円</dd>
+</dl>
+</div>
+<div class='thumb'>
+<p class='photo'>
+<img alt="ZERO-CUBE+FUN" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/4/c88393c9-1792-4944-989b-b42e0a7c4f9d.jpg" />
+</p>
+<dl>
+<dt>ZERO-CUBE+FUN</dt>
+<dd>本体価格：1,000万円</dd>
+</dl>
+</div>
+<div class='thumb'>
+<p class='photo'>
+<img alt="ZERO-CUBE STEPFLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/6/7a044e38-23cd-4523-a1ae-5b715ccaa067.jpg" />
+</p>
+<dl>
+<dt>ZERO-CUBE STEPFLOOR</dt>
+<dd>本体価格：1,200万円</dd>
+</dl>
+</div>
+<div class='thumb'>
+<p class='photo'>
+<img alt="ZERO-CUBE KAI" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/7/be2242c3-9797-4d3a-ba3e-cb9ddde5c832.jpg" />
+</p>
+<dl>
+<dt>ZERO-CUBE KAI</dt>
+<dd>本体価格：1,200万円〜</dd>
+</dl>
+</div>
+<div class='thumb'>
+<p class='photo'>
+<img alt="ZERO-CUBE SIMPLE STYLE" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/8/ed243099-3f0d-44ef-99c0-4206df40a1cb.jpg" />
+</p>
+<dl>
+<dt>ZERO-CUBE SIMPLE STYLE</dt>
+<dd>本体価格：900万円</dd>
+</dl>
+</div>
+<div class='thumb'>
+<p class='photo'>
+<img alt="HYVA AND STYLE" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/10/61367d34-6c15-48fa-90c8-5f43a2086e85.jpg" />
+</p>
+<dl>
+<dt>HYVA AND STYLE</dt>
+<dd>本体価格：1,200万円</dd>
+</dl>
+</div>
+<div class='thumb'>
+<p class='photo'>
+<img alt="NORDIC HOUSE" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/11/bdb9470c-a2ae-4ae5-b221-6d4b92c82cd3.jpg" />
+</p>
+<dl>
+<dt>NORDIC HOUSE</dt>
+<dd>本体価格：1,300万円</dd>
+</dl>
+</div>
+<div class='thumb'>
+<p class='photo'>
+<img alt="Blanc Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/12/6996132f-231e-48d3-85bb-2f2de4dfa4bc.jpg" />
+</p>
+<dl>
+<dt>Blanc Ange</dt>
+<dd>本体価格：1,200万円</dd>
+</dl>
+</div>
+<div class='thumb'>
+<p class='photo'>
+<img alt="BLOSSOM03" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/13/43b9523b-0c0c-44b4-8e3e-5e7bb7e7bbae.jpg" />
+</p>
+<dl>
+<dt>BLOSSOM03</dt>
+<dd>本体価格：1,600万円</dd>
+</dl>
+</div>
+<div class='thumb'>
+<p class='photo'>
+<img alt="四季HIRAYA" src="https://llcsv-prd.s3.amazonaws.com/uploads/brand/image/14/17d5e83e-cde5-4712-8a9c-7e19e2b5dd58.jpg" />
+</p>
+<dl>
+<dt>四季HIRAYA</dt>
+<dd>本体価格：1,500万円</dd>
+</dl>
+</div>
+</div>
+</div>
+
+<div class='blockLpHero' id='product'>
+<img alt='' src='/storesite/lp2/img/ph_hero_01.jpg'>
+<!-- /.blockLpHero -->
+</div>
+
+<section class='blockLpMovie'>
+<h2 class='modHeading2'>
+CM動画
+<span>MOVIE</span>
+</h2>
+<div class='movie'>
+<a class='triggerMovie' href='#'>
+<figure>
+<img alt='LIFE LABEL Concept movie' src='/img/dummy/ph_lp_movie_01.jpg'>
+</figure>
+<p class='link'>1000万円からはじめる家づくり。(90秒)</p>
+</a>
+<!-- /.movie -->
+</div>
+</section>
+
+<div class='blockLpFeature'>
+<div class='slide unitConcept'>
+<p class='photo'>
+<img alt='' src='/storesite/lp2/img/ph_concept_01.png'>
+</p>
+<div class='text'>
+<h3 class='modHeading2'>
+コンセプト
+<span>CONCEPT</span>
+</h3>
+<p class='summary'>
+<em>わたしたちにちょうどいい家。</em>
+<br>
+1,000万円からはじまる、新しい家づくりのカタチができました。
+<br>
+洗練されたシンプルな住宅をベースに、「+FUN」のオプションであなただけのコダワリを追加していく、
+<br>
+新しい発想のセミオーダー型デザイン住宅。
+</p>
+<dl class='box'>
+<dt><span>ZERO-CUBE+FUN</span>（3LDKタイプ）
+</dt>
+<dd>
+本体価格：
+<strong>1,000</strong>
+万円(税抜)
+</dd>
+</dl>
+<!-- /.text -->
+</div>
+<!-- /.unitConcept -->
+</div>
+<div class='slide unitPlan'>
+<p class='photo'>
+<img alt='' src='/storesite/lp2/img/ph_plan_01.png'>
+</p>
+<div class='text'>
+<h3 class='modHeading2'>
+プラン・間取り
+<span>PLAN</span>
+</h3>
+<p class='summary'>
+シンプルな箱型フォルムに、
+<br>
+正方形の大きな窓が特徴。
+<br>
+あなたの個性に
+<br>
+フィットするデザイン。
+</p>
+<!-- /.text -->
+</div>
+<!-- /.unitConcept -->
+</div>
+<div class='slide unitOption'>
+<div class='options'>
+<div class='option'>
+<a class='lpTriggerModal' data-modal='lpModalAlert' data-url='https://lifelabel.jp/lineup/zero-cube/' href='#'>
+<p class='photo'>
+<img alt='' src='/storesite/lp2/img/ph_option_01.png'>
+</p>
+<p class='link'>
+1階に1部屋プラス
+<br>
+<span>+BOX</span>
+</p>
+</a>
+<!-- /.option -->
+</div>
+<div class='option'>
+<a class='lpTriggerModal' data-modal='lpModalAlert' data-url='https://lifelabel.jp/lineup/zero-cube/' href='#'>
+<p class='photo'>
+<img alt='+SKY BALCONY' src='/storesite/lp2/img/ph_option_02.png'>
+</p>
+<p class='link'>
+屋上バルコニーをプラス
+<br>
+<span>+SKY BALCONY</span>
+</p>
+</a>
+<!-- /.option -->
+</div>
+<div class='option'>
+<a class='lpTriggerModal' data-modal='lpModalAlert' data-url='https://lifelabel.jp/lineup/zero-cube/' href='#'>
+<p class='photo'>
+<img alt='+STRAGE' src='/storesite/lp2/img/ph_option_03.png'>
+</p>
+<p class='link'>
+中2階の大型収納空間
+<br>
+<span>+STRAGE</span>
+</p>
+</a>
+<!-- /.option -->
+</div>
+<!-- /.options -->
+</div>
+<div class='text'>
+<h3 class='modHeading2'>
+オプション
+<span>+FUN</span>
+</h3>
+<p class='summary'>
+1000万円の
+<br>
+スタイリッシュな家を
+<br>
+ベースにこだわりや
+<br>
+楽しみをプラスする、
+<br>
+住まいの新発想。
+</p>
+<p class='btnMoreView'>
+<a class='lpTriggerModal' data-modal='lpModalAlert' data-url='https://lifelabel.jp/lineup/zero-cube/' href='#'>もっと見る</a>
+</p>
+<!-- /.text -->
+</div>
+<!-- /.unitOption -->
+</div>
+<!-- /.blockLpFeature -->
+</div>
+
+<section class='blockLpList'>
+<h2 class='modHeading2'>
+お知らせ
+<span>INFORMATION</span>
+</h2>
+<div class='unitInfoList'>
+<ul>
+<li>
+<article class='item'>
+<a class="blockLink" href="javascript:void(0)"><p class='date'>2017.07.31</p>
+<h3 class='heading'>お盆期間中の営業のお知らせ</h3>
+<p class="summary">お盆期間〔（８月１３日（日）～８月１６日（水）〕の営業は下記の通りです。</p>
+
+<p class="summary">■８月１３日（日）～８月１５日（火）・・・通常営業（営業時間9：00-20：00）
+<br />■８月１６日（水）・・・定休日</p>
+
+<p class="summary">モデルハウスのご見学を一度はしてみたい・・・、1000万円台の家ってどんな家？など、日頃から住宅関してお考えの事がありましたら、ご家族の皆様が集まる機会が多いこの期間に是非弊社までお越しください。ご家族そろってのお越しをスタッフ一同心よりお待ち申しげております。</p>
+</a></article>
+</li>
+<li>
+<article class='item'>
+<a class="blockLink" href="javascript:void(0)"><p class='date'>2017.06.27</p>
+<h3 class='heading'>【ZERO-CUBE　回　ＫＡＩ　モデルハウス閉鎖のお知らせ】</h3>
+<p class="summary">ZERO-CUBE　回　ＫＡＩ（みどり市笠懸町）はモデルハウスとして公開しておりましたが、誠に勝手ながら売却の為、モデルハウスとしての公開を下記期日をもちまして終了させていただきます。</p>
+
+<p class="summary">公開終了日：2017年7月9日（日）18：00</p>
+
+<p class="summary">ご見学を検討いただきましたお客様におかれましては、誠にご不便をおかけいたしますが何卒ご理解下さいますようお願い申し上げます。</p>
+</a></article>
+</li>
+</ul>
+</div>
+</section>
+
+
+<section class='blockLpCatalog' id='catalog'>
+<h2 class='modHeading2'>
+施工事例
+<span>HOME CATALOG</span>
+</h2>
+<!-- 事例4つ以上のときはカルーセル -->
+<div class='catalogSlider'>
+<ul class='group'>
+<li class='item'>
+<a class="gallery" href="#modalCatalog157"><img alt="ZERO-CUBE+FUN（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/157/middle_072c1104-fc88-4a42-b0b0-1f3e6ce71bbc.jpg" />
+<span class='caption'>ZERO-CUBE+FUN（本部事例）</span>
+</a></li>
+<li class='item'>
+<a class="gallery" href="#modalCatalog158"><img alt="ZERO-CUBE MINI（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/158/middle_d1080c22-1469-4324-9cdf-f1edcfe05020.jpg" />
+<span class='caption'>ZERO-CUBE MINI（本部事例）</span>
+</a></li>
+<li class='item'>
+<a class="gallery" href="#modalCatalog159"><img alt="ZERO-CUBE+BOX（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/159/middle_eb513952-a21b-4a95-a91a-f40e42c9a513.jpg" />
+<span class='caption'>ZERO-CUBE+BOX（本部事例）</span>
+</a></li>
+<li class='item'>
+<a class="gallery" href="#modalCatalog160"><img alt="ZERO-CUBE+SKYBALCONY（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/160/middle_c2503017-c0f1-4c9c-a39a-ad96acebc22e.jpg" />
+<span class='caption'>ZERO-CUBE+SKYBALCONY（本部事例）</span>
+</a></li>
+<li class='item'>
+<a class="gallery" href="#modalCatalog204"><img alt="【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/204/middle_71aad1a7-7064-492d-8628-8966e65f7941.jpg" />
+<span class='caption'>【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR</span>
+</a></li>
+<li class='item'>
+<a class="gallery" href="#modalCatalog533"><img alt="【太田市N様邸】Blanc　Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/533/middle_1593913f-40be-41ff-987b-8de813440ced.JPG" />
+<span class='caption'>【太田市N様邸】Blanc　Ange</span>
+</a></li>
+<li class='item'>
+<a class="gallery" href="#modalCatalog571"><img alt="【伊勢崎市K様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/571/middle_ec781252-bf25-45fd-b3d9-1f43c6bd1179.JPG" />
+<span class='caption'>【伊勢崎市K様邸】ZERO-CUBE+BOX</span>
+</a></li>
+<li class='item'>
+<a class="gallery" href="#modalCatalog625"><img alt="【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/625/middle_0ab927c0-f508-4af1-85d8-83e98d2a8371.jpg" />
+<span class='caption'>【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM</span>
+</a></li>
+<li class='item'>
+<a class="gallery" href="#modalCatalog631"><img alt="【太田市Y様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/631/middle_97e5f3ed-24d7-429b-b4a2-eab4d3303dd9.jpg" />
+<span class='caption'>【太田市Y様邸】ZERO-CUBE+BOX</span>
+</a></li>
+</ul>
+</div>
+</section>
+<div class='modalCatalog' id='modalCatalog157'>
+<div class='modalContent'>
+<div class='group'>
+<div class='photo'>
+<ul>
+<li>
+<img alt="ZERO-CUBE+FUN（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/157/072c1104-fc88-4a42-b0b0-1f3e6ce71bbc.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+FUN（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/157/0a056c9b-d7bd-4655-984c-5060d5011e60.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+FUN（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/157/c82ba9cb-389d-47b6-9c44-f43a682f9515.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+FUN（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/157/6ea52ad0-6c4e-48e7-a3d6-9564ae8d8db7.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+FUN（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/157/656bd451-8d9f-4e42-8d84-8409f86b47fa.jpg" />
+</li>
+</ul>
+</div>
+<div class='text'>
+<h3 class='heading'>ZERO-CUBE+FUN（本部事例）</h3>
+<p>ZERO-CUBEの標準型。シンプルな立方体のファサードは街の中でも目をひきます。
+<br />床材やドアなどは、無垢調の木目を生かした温かみのある雰囲気に仕上げ、家具とのマッチングも意識してコーディネートをしました。</p>
+
+<p>リビングダイニングの最大の特徴は、対面式のキッチンとリビングin階段。
+<br />家事をしながらも家族の様子がわかるのは安心ですね。料理の味見など会話も弾みます！また、リビングを通らないと2階へ上がれないので、おのずと家族とのコミュニケーションの機会が増えます。
+<br />生活動線を考え尽くした住宅です。</p>
+</div>
+</div>
+<ul class='thumbs'>
+<li>
+<img alt="ZERO-CUBE+FUN（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/157/072c1104-fc88-4a42-b0b0-1f3e6ce71bbc.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+FUN（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/157/0a056c9b-d7bd-4655-984c-5060d5011e60.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+FUN（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/157/c82ba9cb-389d-47b6-9c44-f43a682f9515.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+FUN（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/157/6ea52ad0-6c4e-48e7-a3d6-9564ae8d8db7.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+FUN（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/157/656bd451-8d9f-4e42-8d84-8409f86b47fa.jpg" />
+</li>
+</ul>
+</div>
+</div>
+
+<div class='modalCatalog' id='modalCatalog158'>
+<div class='modalContent'>
+<div class='group'>
+<div class='photo'>
+<ul>
+<li>
+<img alt="ZERO-CUBE MINI（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/158/d1080c22-1469-4324-9cdf-f1edcfe05020.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE MINI（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/158/9d575ca1-c4c1-4568-8c69-152d8d63b906.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE MINI（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/158/c15c1b2c-b4b4-4f4d-acc8-fbc0a846a21e.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE MINI（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/158/f9ca15b4-e589-4e38-9dd9-d11f8d6785d4.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE MINI（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/158/c38db6f9-c0f0-41c8-a419-2b299144e9ee.jpg" />
+</li>
+</ul>
+</div>
+<div class='text'>
+<h3 class='heading'>ZERO-CUBE MINI（本部事例）</h3>
+<p>ZERO-CUBEの特徴を生かしたまま、狭小の土地でもしっかり収まるスリムな住宅です。</p>
+
+<p>生活の中心であるリビングダイニングは、ZERO-CUBEと同様に対面式のキッチンから見渡せます。
+<br />シンプルな直方体だからこそ、無駄がなく狭小を感じさせない広々設計です！</p>
+
+<p>寝室も、プライベートに配慮をしながらも明るいお部屋に。</p>
+</div>
+</div>
+<ul class='thumbs'>
+<li>
+<img alt="ZERO-CUBE MINI（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/158/d1080c22-1469-4324-9cdf-f1edcfe05020.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE MINI（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/158/9d575ca1-c4c1-4568-8c69-152d8d63b906.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE MINI（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/158/c15c1b2c-b4b4-4f4d-acc8-fbc0a846a21e.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE MINI（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/158/f9ca15b4-e589-4e38-9dd9-d11f8d6785d4.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE MINI（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/158/c38db6f9-c0f0-41c8-a419-2b299144e9ee.jpg" />
+</li>
+</ul>
+</div>
+</div>
+
+<div class='modalCatalog' id='modalCatalog159'>
+<div class='modalContent'>
+<div class='group'>
+<div class='photo'>
+<ul>
+<li>
+<img alt="ZERO-CUBE+BOX（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/159/eb513952-a21b-4a95-a91a-f40e42c9a513.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+BOX（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/159/1d5fceb6-353a-4167-9aa4-84912887c6c8.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+BOX（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/159/4998b1ea-13b4-4913-8dd7-e46427e9dcb9.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+BOX（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/159/85473e0c-83b4-444d-ad78-5844a6480be1.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+BOX（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/159/379ff92c-c20a-4ad3-a2e2-5a4dd5cf955e.jpg" />
+</li>
+</ul>
+</div>
+<div class='text'>
+<h3 class='heading'>ZERO-CUBE+BOX（本部事例）</h3>
+<p>ZERO-CUBEに+FUNのオプションで、部屋を一つ追加！
+<br />1Fダイニングのとなりに和室がつきました。外にはウッドデッキも付くので、お子さんの遊び場や日向ぼっこにちょうど良いです。</p>
+
+<p>+BOXの上は、バルコニーとして使用できます。チェアを置いて読書なんて素敵ですね。もちろん洗濯物を干すことも出ます。2Fの主寝室へとつながるので、取り込んだお洋服もすぐにクローゼットへ収納できます。</p>
+</div>
+</div>
+<ul class='thumbs'>
+<li>
+<img alt="ZERO-CUBE+BOX（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/159/eb513952-a21b-4a95-a91a-f40e42c9a513.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+BOX（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/159/1d5fceb6-353a-4167-9aa4-84912887c6c8.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+BOX（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/159/4998b1ea-13b4-4913-8dd7-e46427e9dcb9.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+BOX（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/159/85473e0c-83b4-444d-ad78-5844a6480be1.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+BOX（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/159/379ff92c-c20a-4ad3-a2e2-5a4dd5cf955e.jpg" />
+</li>
+</ul>
+</div>
+</div>
+
+<div class='modalCatalog' id='modalCatalog160'>
+<div class='modalContent'>
+<div class='group'>
+<div class='photo'>
+<ul>
+<li>
+<img alt="ZERO-CUBE+SKYBALCONY（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/160/c2503017-c0f1-4c9c-a39a-ad96acebc22e.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+SKYBALCONY（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/160/1027fb93-d380-4206-8c36-ee59650310ab.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+SKYBALCONY（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/160/e16542ab-7c4b-433b-8aba-1ad792577b94.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+SKYBALCONY（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/160/6a842f08-4db1-4669-9595-a71a738ba4d7.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+SKYBALCONY（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/160/44e70f51-ba4b-4857-808c-dee7ed37d03a.jpg" />
+</li>
+</ul>
+</div>
+<div class='text'>
+<h3 class='heading'>ZERO-CUBE+SKYBALCONY（本部事例）</h3>
+<p>+SKYBALCONYは、ZERO-CUBEの上部が丸々ワンフロア屋上になる+FUNのオプション。</p>
+
+<p>晴れた日は友人を呼んでバーベキューをしたり、家族で手軽にお家キャンプなんていうのもできてしまいます！プライベートが確保された屋外スペースですので、人目も気にせず楽しめます。</p>
+
+<p>1Fのダイニングから見上げると、とても高い吹き抜けになるのでより一層の開放感があります。</p>
+</div>
+</div>
+<ul class='thumbs'>
+<li>
+<img alt="ZERO-CUBE+SKYBALCONY（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/160/c2503017-c0f1-4c9c-a39a-ad96acebc22e.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+SKYBALCONY（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/160/1027fb93-d380-4206-8c36-ee59650310ab.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+SKYBALCONY（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/160/e16542ab-7c4b-433b-8aba-1ad792577b94.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+SKYBALCONY（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/160/6a842f08-4db1-4669-9595-a71a738ba4d7.jpg" />
+</li>
+<li>
+<img alt="ZERO-CUBE+SKYBALCONY（本部事例）" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/160/44e70f51-ba4b-4857-808c-dee7ed37d03a.jpg" />
+</li>
+</ul>
+</div>
+</div>
+
+<div class='modalCatalog' id='modalCatalog204'>
+<div class='modalContent'>
+<div class='group'>
+<div class='photo'>
+<ul>
+<li>
+<img alt="【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/204/71aad1a7-7064-492d-8628-8966e65f7941.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/204/0c504f19-9670-422f-9fb4-e0d2dc536c45.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/204/24c4e8bb-579c-49c2-a84f-e11592ba1140.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/204/105edcfe-53f4-43db-b7e9-349558e41c6d.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/204/69be17d1-86e9-4c6f-ac36-30fcb929f7ca.jpg" />
+</li>
+</ul>
+</div>
+<div class='text'>
+<h3 class='heading'>【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR</h3>
+<p>自由な発想で暮らすステップフロアの家。外観はシンプル、フロアで仕切った居住空間は広く明るくモダン。いつもとは違った風景が見えてきます。リビングから一段上がったダイニングは、家族との団らんはもちろん、友達を呼んで語らいたくなる、カフェのようなお洒落なスタイルです。</p>
+</div>
+</div>
+<ul class='thumbs'>
+<li>
+<img alt="【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/204/71aad1a7-7064-492d-8628-8966e65f7941.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/204/0c504f19-9670-422f-9fb4-e0d2dc536c45.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/204/24c4e8bb-579c-49c2-a84f-e11592ba1140.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/204/105edcfe-53f4-43db-b7e9-349558e41c6d.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市O様邸】ZERO-CUBE　STEP-FLOOR" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/204/69be17d1-86e9-4c6f-ac36-30fcb929f7ca.jpg" />
+</li>
+</ul>
+</div>
+</div>
+
+<div class='modalCatalog' id='modalCatalog533'>
+<div class='modalContent'>
+<div class='group'>
+<div class='photo'>
+<ul>
+<li>
+<img alt="【太田市N様邸】Blanc　Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/533/1593913f-40be-41ff-987b-8de813440ced.JPG" />
+</li>
+<li>
+<img alt="【太田市N様邸】Blanc　Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/533/6bb1797b-7369-4d42-bf22-004a1d1ca6f2.JPG" />
+</li>
+<li>
+<img alt="【太田市N様邸】Blanc　Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/533/40102c50-054c-443a-94b2-5ed469f39290.JPG" />
+</li>
+<li>
+<img alt="【太田市N様邸】Blanc　Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/533/597e1083-f7db-4a8e-ae00-836a9dc57406.JPG" />
+</li>
+<li>
+<img alt="【太田市N様邸】Blanc　Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/533/ec1e661e-9ef4-4a90-9808-22907cf5afc4.JPG" />
+</li>
+</ul>
+</div>
+<div class='text'>
+<h3 class='heading'>【太田市N様邸】Blanc　Ange</h3>
+<p>フランス語で「白い天使」という意味のブランアンジュ。玄関のアールドアから始まり、ニッチ、ユーティリティの小窓、リビングの下がり壁など、南欧テイストを醸し出すアイテムが盛りだくさんです。木のぬくもりを感じることができるキッチンと洗面化粧台が親しみやすい南欧テイストを演出、同時に上質感と風格を感じさせてくれます。
+</p>
+</div>
+</div>
+<ul class='thumbs'>
+<li>
+<img alt="【太田市N様邸】Blanc　Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/533/1593913f-40be-41ff-987b-8de813440ced.JPG" />
+</li>
+<li>
+<img alt="【太田市N様邸】Blanc　Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/533/6bb1797b-7369-4d42-bf22-004a1d1ca6f2.JPG" />
+</li>
+<li>
+<img alt="【太田市N様邸】Blanc　Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/533/40102c50-054c-443a-94b2-5ed469f39290.JPG" />
+</li>
+<li>
+<img alt="【太田市N様邸】Blanc　Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/533/597e1083-f7db-4a8e-ae00-836a9dc57406.JPG" />
+</li>
+<li>
+<img alt="【太田市N様邸】Blanc　Ange" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/533/ec1e661e-9ef4-4a90-9808-22907cf5afc4.JPG" />
+</li>
+</ul>
+</div>
+</div>
+
+<div class='modalCatalog' id='modalCatalog571'>
+<div class='modalContent'>
+<div class='group'>
+<div class='photo'>
+<ul>
+<li>
+<img alt="【伊勢崎市K様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/571/ec781252-bf25-45fd-b3d9-1f43c6bd1179.JPG" />
+</li>
+<li>
+<img alt="【伊勢崎市K様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/571/6260507c-f8e7-44ae-9dbc-b971e9f2b348.JPG" />
+</li>
+<li>
+<img alt="【伊勢崎市K様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/571/cd63341e-8b25-4090-939f-e291a6f660a6.JPG" />
+</li>
+<li>
+<img alt="【伊勢崎市K様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/571/d0dd467b-d19e-4c4f-93f2-6f41b3e9df3d.JPG" />
+</li>
+<li>
+<img alt="【伊勢崎市K様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/571/45c26397-fda0-4046-bd54-b94817fe256b.JPG" />
+</li>
+</ul>
+</div>
+<div class='text'>
+<h3 class='heading'>【伊勢崎市K様邸】ZERO-CUBE+BOX</h3>
+<p>1000万円のスタイリッシュな家をベースにこだわりや楽しみをプラス。オーダー感覚で居住空間を拡大したり、先進設備をプラスしたりと、豊富なラインアップをご用意しています。K様は洋室・ウッドデッキ・ルーフバルコニーをプラス。１階は広く明るいダイニングを中心に、対面式キッチン、バスルーム、トイレなどを１か所に集中配置。家事動線を配慮した機能的な間取りです。休日に家族でバーベキューが楽しめるウッドデッキや開放感あふれる大型ルーフバルコニーで快適な+αのプライベートゾーンが誕生しました。</p>
+</div>
+</div>
+<ul class='thumbs'>
+<li>
+<img alt="【伊勢崎市K様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/571/ec781252-bf25-45fd-b3d9-1f43c6bd1179.JPG" />
+</li>
+<li>
+<img alt="【伊勢崎市K様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/571/6260507c-f8e7-44ae-9dbc-b971e9f2b348.JPG" />
+</li>
+<li>
+<img alt="【伊勢崎市K様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/571/cd63341e-8b25-4090-939f-e291a6f660a6.JPG" />
+</li>
+<li>
+<img alt="【伊勢崎市K様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/571/d0dd467b-d19e-4c4f-93f2-6f41b3e9df3d.JPG" />
+</li>
+<li>
+<img alt="【伊勢崎市K様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/571/45c26397-fda0-4046-bd54-b94817fe256b.JPG" />
+</li>
+</ul>
+</div>
+</div>
+
+<div class='modalCatalog' id='modalCatalog625'>
+<div class='modalContent'>
+<div class='group'>
+<div class='photo'>
+<ul>
+<li>
+<img alt="【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/625/0ab927c0-f508-4af1-85d8-83e98d2a8371.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/625/c50a422e-a372-4b12-9dcd-d9b2a99d764c.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/625/b694b83d-8d22-4b9f-8286-651984a646bf.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/625/c3d69551-90e0-4dd4-8811-98c02b383b5f.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/625/401d935f-0a7c-4195-9ec3-dba011876fba.jpg" />
+</li>
+</ul>
+</div>
+<div class='text'>
+<h3 class='heading'>【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM</h3>
+<p>四角いフォルムに小さな窓が整然と並んだ外観は無駄な凹凸をそぎ落としたスタイリッシュなデザイン。コンクリートの打ち放し風の外壁がシンプルでシャープな洗練された美しさを一層引き立てています。
+<br />１階は中庭を中心にパブリック、２階は吹き抜けを囲んでプライベートな居室をまとめ、フレキシブルな動線を実現。視線も動作も行き止まることのない回遊する間取りと、仕切りの少ないオープンな設計が、空間に広がりと快適性を生み出しています。住まいの真ん中にある吹き抜けによって１階と２階が一体化したのびやかな空間は開放感がいっぱい。外観からは想像できない快適な採光・通風を確保できる居住空間が実現しました。</p>
+</div>
+</div>
+<ul class='thumbs'>
+<li>
+<img alt="【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/625/0ab927c0-f508-4af1-85d8-83e98d2a8371.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/625/c50a422e-a372-4b12-9dcd-d9b2a99d764c.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/625/b694b83d-8d22-4b9f-8286-651984a646bf.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/625/c3d69551-90e0-4dd4-8811-98c02b383b5f.jpg" />
+</li>
+<li>
+<img alt="【伊勢崎市Y様邸】ZERO-CUBE　回KAI　ACT2CUSTOM" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/625/401d935f-0a7c-4195-9ec3-dba011876fba.jpg" />
+</li>
+</ul>
+</div>
+</div>
+
+<div class='modalCatalog' id='modalCatalog631'>
+<div class='modalContent'>
+<div class='group'>
+<div class='photo'>
+<ul>
+<li>
+<img alt="【太田市Y様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/631/97e5f3ed-24d7-429b-b4a2-eab4d3303dd9.jpg" />
+</li>
+<li>
+<img alt="【太田市Y様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/631/a581144d-0f23-4017-acb8-0b51d356ff6e.jpg" />
+</li>
+<li>
+<img alt="【太田市Y様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/631/3f9ebb20-eb80-4171-8c16-9e1b119e59a4.jpg" />
+</li>
+<li>
+<img alt="【太田市Y様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/631/2e5f119c-a571-4cc6-9312-47ba22efbbd4.jpg" />
+</li>
+<li>
+<img alt="【太田市Y様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/631/de10de82-13c5-442f-bc3d-92e0dcf1638b.jpg" />
+</li>
+</ul>
+</div>
+<div class='text'>
+<h3 class='heading'>【太田市Y様邸】ZERO-CUBE+BOX</h3>
+<p>1000万円のスタイリッシュな家をベースにこだわりや楽しみをプラス。オーダー感覚で居住空間を拡大したり、先進設備をプラスしたりと、豊富なラインアップをご用意しています。K様は洋室・ウッドデッキ・ルーフバルコニーをプラス。１階は広く明るいダイニングを中心に、対面式キッチン、バスルーム、トイレなどを１か所に集中配置。家事動線を配慮した機能的な間取りです。休日に家族でバーベキューが楽しめるウッドデッキや開放感あふれる大型ルーフバルコニーを採用。快適な+αのプライベートゾーンが誕生しました。</p>
+</div>
+</div>
+<ul class='thumbs'>
+<li>
+<img alt="【太田市Y様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_1/631/97e5f3ed-24d7-429b-b4a2-eab4d3303dd9.jpg" />
+</li>
+<li>
+<img alt="【太田市Y様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_2/631/a581144d-0f23-4017-acb8-0b51d356ff6e.jpg" />
+</li>
+<li>
+<img alt="【太田市Y様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_3/631/3f9ebb20-eb80-4171-8c16-9e1b119e59a4.jpg" />
+</li>
+<li>
+<img alt="【太田市Y様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_4/631/2e5f119c-a571-4cc6-9312-47ba22efbbd4.jpg" />
+</li>
+<li>
+<img alt="【太田市Y様邸】ZERO-CUBE+BOX" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_construction/image_5/631/de10de82-13c5-442f-bc3d-92e0dcf1638b.jpg" />
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class='blockLpGallery'>
+<ul class='sliderMain'>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_main_01.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_main_02.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_main_03.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_main_04.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_main_05.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_main_06.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_main_07.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_main_08.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_main_09.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_main_10.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_main_11.jpg" />
+</li>
+</ul>
+<ul class='sliderNav'>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_thum_01.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_thum_02.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_thum_03.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_thum_04.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_thum_05.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_thum_06.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_thum_07.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_thum_08.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_thum_09.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_thum_10.jpg" />
+</li>
+<li>
+<img alt="" src="https://lifelabel.jp/storesite/lp2/img/ph_thum_11.jpg" />
+</li>
+</ul>
+</div>
+
+<section class='blockLpList'>
+<div class='unitInfoList'>
+<ul class='lpListBanner'>
+<li>
+<a target="_blank" href="http://www.viewhouse.co.jp/"><img alt="土地探しはこちらから" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_banner/image/173/mult_49917c42-94af-4105-8396-4995d1e03ff5.jpg" />
+</a></li>
+<li>
+<a target="_blank" href="http://www.justyhouse.jp/index.html"><img alt="企画型注文住宅　JUSTY　HOUSE" src="https://llcsv-prd.s3.amazonaws.com/uploads/site_banner/image/174/mult_11ff7451-0d88-41e7-9a16-02e84d83d7c4.jpg" />
+</a></li>
+</ul>
+</div>
+</section>
+
+<ul class='modSocialList'>
+<li>
+<a href='https://twitter.com/view_HOUSE' target='_blank'>
+<img alt='公式Twitter' src='/storesite/common/img/btn_twitter_01.png'>
+</a>
+</li>
+<li>
+<a href='https://www.facebook.com/viewhouse.japan/' target='_blank'>
+<img alt='公式Facebook' src='/storesite/common/img/btn_facebook_01.png'>
+</a>
+</li>
+<li>
+<a href='https://www.instagram.com/view_house/' target='_blank'>
+<img alt='公式Instagram' src='/storesite/common/img/btn_instagram_01.png'>
+</a>
+</li>
+<li>
+<a href='https://lifelabel.jp/mail?ref=LP&amp;store=11301' target='_blank'>
+<img alt='メルマガ' src='/storesite/common/img/btn_mailmagazine_01.png'>
+</a>
+</li>
+</ul>
+</div>
+</main>
+<div class='lpSub'>
+<div class='lpSubInner'>
+<section class='blockConsulCompany'>
+<div class='innerConsulCompany'>
+<h2 class='heading'>ビューデザイン建築設計事務所</h2>
+<table class='modTable tableData'>
+<tr>
+<th>住所</th>
+<td>群馬県伊勢崎市連取町1979番地3</td>
+</tr>
+<tr>
+<th>TEL</th>
+<td>0120-220801 / FAX　0270-75-3323</td>
+</tr>
+<tr>
+<th>営業時間</th>
+<td>9：00－20：00</td>
+</tr>
+<tr>
+<th>定休日</th>
+<td>水曜日</td>
+</tr>
+<tr>
+<th>担当エリア</th>
+<td>伊勢崎市、みどり市、桐生市、太田市、館林市、邑楽郡板倉町、邑楽郡明和町、邑楽郡千代田町、邑楽郡大泉町、邑楽郡邑楽町</td>
+</tr>
+</table>
+<div class='map'>
+<div id='mapCanvas'>
+<!-- /#mapCanvas -->
+</div>
+<!-- /.map -->
+</div>
+<p class='linkGooglemap'>
+<a href='https://maps.google.com/maps?q=36.314176893781,139.183766953647' target='_blank'>GoogleMapで見る</a>
+</p>
+<div class='modCallToAction'>
+<p class='lead'>ご相談は無料です。お気軽にお問い合わせください。</p>
+<p class='tell'>0120-220801</p>
+<div class='modGroupBtn'>
+<a class='modBtn btn4' href='https://lifelabel.jp/store_inquery?ref=LP&amp;store=11301' target='_blank'>お問い合わせ・来店予約</a>
+<a class='modBtn btn1' href='https://lifelabel.jp/request?ref=LP&amp;store=11301' target='_blank'>資料請求</a>
+<!-- /.modGroupBtn -->
+</div>
+<!-- /.modCallToAction -->
+</div>
+<!-- /.innerConsulCompany -->
+</div>
+<div class='blockLpNotes'>
+<dl class='box box1'>
+<dt>建設地域が寒冷地域・多雪地域となる場合、同地域向けの仕様変更を標準で付帯しております。別途費用が必要な場合がございますので、詳細はお問い合わせください。</dt>
+<dd>※別途費用：基礎工事・付加断熱工事・その他当該地域の法令による仕様変更などに対する追加費用です。</dd>
+</dl>
+<dl class='box box2'>
+<dt>建設地が、準防火地域・建築基準法22条指定区域（市街地周辺で火災の危険を防除するために、定められた地域）となる場合、 同地域向けの仕様変更を標準で付帯しております。別途費用が必要な場合がございますので、詳細はお問い合わせください。</dt>
+<dd>※別途費用：基礎工事・付加断熱工事・その他当該地域の法令による仕様変更などに対する追加費用です。</dd>
+</dl>
+<ul>
+<li>掲載画像はイメージです。表示イメージは実際の商品と異なる場合がございます。</li>
+<li>掲載商品に関する付帯費用につきましては、地域、気候、その他の理由により変動することがございます。内容につきましては施工エリアの代理店にてお問い合わせください。</li>
+<li>仕様内容は諸事情により、変更となる場合がございます。</li>
+<li>本体価格については、消費税を含まない商品本体の価格であり建築する際には付帯工事や登録に係る手数料等、別途費用が必要となります。</li>
+<li>家具・調度品・植栽等は本体費用に含まれておりません。</li>
+</ul>
+<!-- /.blockLpNotes -->
+</div>
+</section>
+<!-- /.lpSubInner -->
+</div>
+<!-- /.lpSub -->
+</div>
+<div class='lpFooter'>
+<div class='inner'>
+<p class='pagetop'>
+<a class='scroll' href='#top'>ページの先頭へ</a>
+</p>
+<p class='lead'>
+ビューデザイン建築設計事務所は、
+<br>
+「LIFE LABEL」の加盟店です。
+</p>
+<p class='logo'>
+<a class='lpTriggerModal' data-modal='lpModalAlertHome' href='https://lifelabel.jp/'>
+<img alt='LIFE LABEL' src='/storesite/common/img/logo_01.png'>
+</a>
+</p>
+<p class='link'>
+<a class='lpTriggerModal' data-modal='lpModalAlertHome' href='https://lifelabel.jp/'>LIFE LABEL公式サイトはこちら</a>
+</p>
+<p class='copyright'>
+<small>Copyright © BETSUDAI. All Rights Reserved.</small>
+</p>
+<!-- /.inner -->
+</div>
+<!-- /.lpFooter -->
+</div>
+<!-- /.container -->
+</div>
+<!--[Modal]>  <![endif]-->
+<div class='lpModal' id='lpModalAlert'>
+<div class='modalContent'>
+<p class='lead'>
+LIFE LABEL公式商品ページへ移動します。
+<br>
+移動する前にこの店舗をお気に入りに追加しますか？
+</p>
+<ul class='actions'>
+<li class='bookmark'>
+<a class='btnBookmark' href='javascript:void(0);' onclick="setFav(88, 'ビューデザイン建築設計事務所');"><i></i>お気に入り窓口に追加
+<span>済み</span>
+</a>
+</li>
+<li>
+<a class='move' href='https://lifelabel.jp/lineup/' target='_blank'>商品ページへ移動</a>
+</li>
+</ul>
+<!-- /.modalContent -->
+</div>
+<!-- /.modal -->
+</div>
+<div class='lpModal' id='lpModalAlertHome'>
+<div class='modalContent'>
+<p class='lead'>
+LIFE LABEL公式商品ページへ移動します。
+<br>
+移動する前にこの店舗をお気に入りに追加しますか？
+</p>
+<ul class='actions'>
+<li class='bookmark'>
+<a class='btnBookmark' href='javascript:void(0);' onclick="setFav(88, 'ビューデザイン建築設計事務所');"><i></i>お気に入り窓口に追加
+<span>済み</span>
+</a>
+</li>
+<li>
+<a class='move' href='https://lifelabel.jp/' target='_blank'>LIFE LABEL公式サイトへ移動</a>
+</li>
+</ul>
+<!-- /.modalContent -->
+</div>
+<!-- /.modal -->
+</div>
+<div class='modalMovie' id='modalMovie'>
+<iframe allowfullscreen='' data-src='https://www.youtube.com/embed/bWKz-CKw2N8?rel=0&amp;showinfo=0&amp;autoplay=1' frameborder='0' height='480' width='853'></iframe>
+<!-- /.modalMovie -->
+</div>
+<!--[/Modal]>  <![endif]-->
+<!--[ SCRIPTS ]>  <![endif]-->
+<script src='//code.jquery.com/jquery-2.2.0.min.js'></script>
+<!-- LP -->
+<script src='/storesite/common/js/lib/featherlight.min.js'></script>
+<script src='/storesite/common/js/lib/featherlight.gallery.min.js'></script>
+<script src='/storesite/common/js/lib/slick.min.js'></script>
+<script src='/storesite/common/js/lib/jquery.dotdotdot.min.js'></script>
+<script src='/storesite/common/js/app.js'></script>
+<input type="hidden" name="fav_store_id" id="fav_store_id" value="88" />
+<input type="hidden" name="fav_store_name" id="fav_store_name" value="ビューデザイン建築設計事務所" />
+<script src='/js/fav.js'></script>
+<!-- /[ SCRIPTS ] -->
+</body>
+</html>

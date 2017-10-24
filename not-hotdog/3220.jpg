@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>404 - 404 - Page Not Found</title>
+	<link rel="stylesheet" href="http://www.homefurnishingswadebridge.co.uk//templates/system/css/error.css" type="text/css"/>
+</head>
+<body>
+		<script type="text/javascript">
+		window.location.replace("http://www.homefurnishingswadebridge.co.uk/404?uri=aHR0cDovL3d3dy5ob21lZnVybmlzaGluZ3N3YWRlYnJpZGdlLmNvLnVrL2ltYWdlcy9iZWRyb29tLmpwZw==&lang=en");
+	</script>
+
+
+</body>
+</html>

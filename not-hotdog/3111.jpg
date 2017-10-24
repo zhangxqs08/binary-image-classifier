@@ -1,0 +1,1400 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da"
+      lang="da">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>404 Not Found 1 | Klassik.dk - Nordens største udvalg inden for danske møbelklassikere</title>
+<!-- META FOR IOS & HANDHELD -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes"/>
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-touch-fullscreen" content="YES" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1059.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<!-- //META FOR IOS & HANDHELD -->
+<meta name="description" content="Page description" />
+<meta name="keywords" content="Page keywords" />
+
+<meta property="og:title" content="404 Not Found 1 | Klassik.dk - Nordens største udvalg inden for danske møbelklassikere">
+<meta property="og:image" content="http://klassik.dk/skin/frontend/default/jm_mago/images/klassik_logo_800_fb_sq.png"/>
+<meta property="og:url" content="http://klassik.dk/custom/265_265/img6440.jpg"/>
+
+<meta name="twitter:title" content="404 Not Found 1 | Klassik.dk - Nordens største udvalg inden for danske møbelklassikere" />
+<meta name="twitter:description" content="Page description" />
+<meta name="twitter:image" content="http://klassik.dk/skin/frontend/default/jm_mago/images/klassik_logo_800_fb_sq.png" />
+
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="format-detection" content="telephone=no" />
+<link rel="icon" href="http://cdn.klassik.dk/media/favicon/default/favicon-logo.png" type="image/x-icon" />
+<link rel="shortcut icon" href="http://cdn.klassik.dk/media/favicon/default/favicon-logo.png" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+	//<![CDATA[
+    var BLANK_URL = 'http://klassik.dk/js/blank.html';
+    var BLANK_IMG = 'http://klassik.dk/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+
+<script type="text/javascript">
+	//<![CDATA[
+	// document.write('<link rel="stylesheet" type="text/css" href="http://klassik.dk/skin/frontend/base/default/css/css3.css" media="all" \/>');
+	document.write('<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:200normal,200italic,300normal,300italic,400normal,400italic,600normal,600italic,700normal,700italic,900normal,900italic|Droid+Serif:400normal,400italic,600normal,600italic,700normal,700italic,900normal,900italic;subset=all">');
+	//]]>
+</script>
+
+
+
+<link rel="stylesheet" type="text/css" href="http://cdn.klassik.dk/media/css/83c5f6806d0ba9809c4d1e73c60da66c.css" />
+<link rel="stylesheet" type="text/css" href="http://cdn.klassik.dk/media/css/d65b02cb94af091fd8ac08f68c78ebd8.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://cdn.klassik.dk/media/css/ad5b7969b9db76489b36a88fcd5220f7.css" media="only screen and (max-width:719px)" />
+<link rel="stylesheet" type="text/css" href="http://cdn.klassik.dk/media/css/df4d40a759acc6b1a5bd3989c3c80e82.css" media="only screen and (max-width:479px)" />
+<link rel="stylesheet" type="text/css" href="http://cdn.klassik.dk/media/css/77f56d985748d0340c7efc96ec01d178.css" media="only screen and (min-width:720px) and (max-width: 879px)" />
+<link rel="stylesheet" type="text/css" href="http://cdn.klassik.dk/media/css/5e7d9fa3009af6d9f65f2b2499136681.css" media="only screen and (min-width:880px) and (max-width: 1235px)" />
+<link rel="stylesheet" type="text/css" href="http://cdn.klassik.dk/media/css/59eefb797d7cf15339670a5b48c2851f.css" media="only screen and (min-width:1236px) and (max-width: 1585px)" />
+<link rel="stylesheet" type="text/css" href="http://cdn.klassik.dk/media/css/febb4a2d845cd22d2e273b2ec9808cc4.css" media="only screen and (min-width:1586px) and (max-width: 1890px)" />
+<link rel="stylesheet" type="text/css" href="http://cdn.klassik.dk/media/css/9f056871ce124a7e3967d7fda274d650.css" media="only screen and (min-width:1891px)" />
+<link rel="stylesheet" type="text/css" href="http://cdn.klassik.dk/media/css/648c0dfb35cc5871bbd38e5bca542d94.css" media="print" />
+<script type="text/javascript" src="http://klassik.dk/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/varien/js.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/varien/form.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/varien/product.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/varien/configurable.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/calendar/calendar.js"></script>
+<script type="text/javascript" src="http://klassik.dk/js/calendar/calendar-setup.js"></script>
+<script type="text/javascript" src="http://klassik.dk/skin/frontend/base/default/js/hm/minicart.js"></script>
+<script type="text/javascript" src="http://klassik.dk/skin/frontend/base/default/ajaxcart/growler.js"></script>
+<script type="text/javascript" src="http://klassik.dk/skin/frontend/base/default/ajaxcart/modalbox.js"></script>
+<script type="text/javascript" src="http://klassik.dk/skin/frontend/base/default/ajaxcart/ajaxcart.js"></script>
+<script type="text/javascript" src="http://klassik.dk/skin/frontend/base/default/js/bundle.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://cdn.klassik.dk/media/css/a50994ccef52d4f084ef53adbc0488fd.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://klassik.dk/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://klassik.dk/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://klassik.dk/skin/frontend/default/jm_mago/css/text_fade.css" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.klassik.dk';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["IE","PA","HK","MO"];
+//]]>
+</script>
+
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+//<![CDATA[
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = 'http://google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+            var _gaq = _gaq || [];
+
+            _gaq.push(["_setAccount", "UA-22375430-1"], ["_trackPageview","/custom/265_265/img6440.jpg"]);
+
+
+            if(Ajax.Responders){
+                Ajax.Responders.register({
+                  onComplete: function(response){
+                    if(!response.url.include("progress") && !response.url.include("getAdditional")){
+                        if(response.url.include("saveOrder")){
+                            _gaq.push(["_trackPageview", "/custom/265_265/img6440.jpg"+ "/opc-review-placeOrderClicked"]);
+                        }else if(accordion.currentSection){
+                            _gaq.push(["_trackPageview", "/custom/265_265/img6440.jpg/"+ accordion.currentSection]);
+                        }
+                    }
+                  }
+                });
+            }
+
+//]]>
+</script>
+
+<!-- END GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+  var baseurl = "http://klassik.dk/"
+</script>
+
+  <script type="text/javascript" src="http://klassik.dk/skin/frontend/default/default/wavethemes/jmbasetheme/js/jquery.js"></script>
+    
+  
+
+<script type="text/javascript" src="http://klassik.dk/skin/frontend/default/default/wavethemes/jmbasetheme/js/jmbasetheme.js"></script>
+<script type="text/javascript">
+    ja = jQuery.noConflict();
+    ja(document).ready(function() {
+          var test = new ja.fn.jmbasetheme({
+              ismobile:0,
+              istable:0,
+              productgridimagewidth:190,
+              productgridimageheight:290,
+              productlistimageheight:290,
+              productlistimagewidth:190,
+              productgridnumbercolumn:4,
+              productgridimagewidthtabletportrait:298,
+              productgridimageheighttabletportrait:298,
+              productlistimagewidthtabletportrait:298,
+              productlistimageheighttabletportrait:298,
+              productgridnumbercolumntabletportrait:2,
+              productlistimagewidthmobileportrait:298,
+              productlistimageheightmobileportrait:298,
+              productgridimageheightmobileportrait:298,
+              productgridimagewidthmobileportrait:298,
+              productgridnumbercolumnmobileportrait:2,
+
+          });
+  
+  });
+</script>
+
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"HTML tags are not allowed":"HTML tags er ikke tilladt","Please select an option.":"V\u00e6lg venligst en af mulighederne.","This is a required field.":"Feltet skal udfyldes.","Please enter a valid number in this field.":"Indtast venligst kun heltal i dette felt.","The value is not within the specified range.":"V\u00e6rdien er ikke inden for det angivne interval.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.":"Feltet m\u00e5 kun indeholde heltal, ung\u00e5 venligst mellemrum eller andre karakterer s\u00e5som punktum og komma.","Please use letters only (a-z or A-Z) in this field.":"Brug kun bogstaver (a-z or A-Z) i dette felt.","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Brug kun bogstaver (a-z) eller heltal (0-9) eller underscore (_) i dette felt., f\u00f8rste karakter skal v\u00e6re et bogstav.","Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.":"Brug kun bogstaver (a-z eller A-Z) eller tal (0-9) i dette felt. Ingen mellemrum eller andre tegn.","Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.":"Brug kun bogstaver (a-z eller A-Z) eller tal (0-9) eller mellemrum og # i dette felt.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Indtast venligst et gyldigt telefonnummer, eks. (+45) 10 10 10 10","Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.":"Indtast et gyldigt faxnummer. F.eks. 12 34 56 78","Please enter a valid date.":"Indtast venligst en gyldig dato.","Please enter a valid email address. For example johndoe@domain.com.":"Ugyldig e-mailadresse","Please use only visible characters and spaces.":"Brug kun synlige tegn og mellemrum.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.":"Indtast venligst 6 eller flere karakterer. Mellemrum f\u00f8r og efter ignoreres.","Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.":"Indtast mindst 7 tegn. Adgangskoden skal indeholde b\u00e5de tal og bogstaver.","Please make sure your passwords match.":"Verificer venligst at dine kodeord er ens.","Please enter a valid URL. Protocol is required (http:\/\/, https:\/\/ or ftp:\/\/)":"Indtast en gyldig URL. Protokol er obligatorisk (http:\/\/, https:\/\/ eller ftp:\/\/)","Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel\/example-page\".":"Indtast en gyldig URL-n\u00f8gle. F.eks. \"min-side\", \"min-side.html\" eller \"min-side\/min-underside\".","Please enter a valid XML-identifier. For example something_1, block5, id-4.":"Indtast et gyldigt XML-id. F.eks. blok_1, block5, id-4.","Please enter a valid social security number. For example 123-45-6789.":"Indtast venligst et gyldigt CPR-nummer, eks. 190570-2369.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Indtast venligst et gyldigt postnummer, eks. 6430 eller 8000.","Please enter a valid zip code.":"Indtast venligst et gyldigt postnummer.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"Brug venligst dette datoformat: dd\/mm\/yyyy, eks. 17\/03\/2006 for d. 17. marts 2006.","Please enter a valid $ amount. For example $100.00.":"V\u00e6lg venligst et gyldigt bel\u00f8b i kr. For eksempel kr. 100,00.","Please select one of the above options.":"V\u00e6lg venligst en af mulighederne ovenfor","Please select one of the options.":"V\u00e6lg venligst en af mulighederne","Please select State\/Province.":"V\u00e6lg venligst region","Please enter a number greater than 0 in this field.":"Indtast venligst et tal st\u00f8rre end 0.","Please enter a number 0 or greater in this field.":"Indtast et tal 0 eller st\u00f8rre i dette felt.","Please enter a valid credit card number.":"Indtast venligst et gyldigt kreditkortnummer.","Credit card number does not match credit card type.":"Kortnummer stemmer ikke overens med korttype.","Card type does not match credit card number.":"Korttype stemmer ikke overens med kortnummer.","Incorrect credit card expiration date.":"Forkert udl\u00f8bsdato for kort.","Please enter a valid credit card verification number.":"Indtast venligst en gyldig verifikationskode (CVC).","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Feltet m\u00e5 kun indeholde bogstaver (a-z or A-Z), tal (0-9) eller underscore (_), og f\u00f8rste tegn skal v\u00e6re et bogstav.","Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.":"Angiv venligst en gyldig CSS-l\u00e6ngde. For eksempel 100px, 77pt, 20em, .5ex eller 50%.","Text length does not satisfy specified text range.":"Tekstl\u00e6ngden er ikke inden for det angivne interval.","Please enter a number lower than 100.":"Indtast venligst et tal mindre end 100.","Please select a file":"V\u00e6lg venligst en fil","Please enter issue number or start date for switch\/solo card type.":"Indtast udstedelsesnummer eller startdato for switch\/solo korttypen.","Please wait, loading...":"Vent venligst, henter data...","This date is a required value.":"Denne dato skal udfyldes.","Please enter a valid day (1-%d).":"Indtast en gyldig dag (1-%d).","Please enter a valid month (1-12).":"Indtast venligst en gyldigt m\u00e5ned (1-12).","Please enter a valid year (1900-%d).":"Indtast venligst et gyldigt \u00e5rstal (1900-%d).","Please enter a valid full date":"Indtast venligst en komplet gyldig dato","Complete":"Fuldendt","Add Products":"Tilf\u00f8j produkter","Please choose to register or to checkout as a guest":"V\u00e6lg om du vil registrere dig eller bestille som g\u00e6st","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.":"Din ordre kan ikke gennemf\u00f8res da der ikke er nogen tilg\u00e6ngelige leveringsmetoder. Kontroller din leveringsadresse.","Please specify payment method.":"V\u00e6lg en betalingsmetode.","Your order cannot be completed at this time as there is no payment methods available for it.":"Din ordre kan ikke gennemf\u00f8res da der ikke er nogen tilg\u00e6ngelige betalingsmetoder."});
+        //]]></script><link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" type="text/css" href="http://klassik.dk/skin/frontend/default/jm_mago/css/text_fade.css">
+
+<meta name="google-site-verification" content="hzNSIOsm3wmbkMVcGy3z-_H3ClD9bg6qdRTqu1s5NZs" />
+
+
+	<script type="text/javascript" src="http://klassik.dk/skin/frontend/default/jm_mago/js/jquery/plugins/colorbox/jquery.colorbox.js"></script>
+	<script type="text/javascript" src="http://klassik.dk/skin/frontend/default/jm_mago/js/jm.script.js"></script>
+<script type="text/javascript" src="http://klassik.dk/skin/frontend/default/jm_mago/js/touchmenu.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://klassik.dk/skin/frontend/default/jm_mago/js/jquery/plugins/jquery.mediaqueries.js"></script>
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="http://klassik.dk/skin/frontend/default/default/wavethemes/jmbasetheme/css/settings.css.php?profile=default" /></head>
+
+<body id="bd" class=" cms-index-noroute cms-no-route">
+        <div id="v-cookielaw"
+         class="v-bar v-yellow-alert v-top"
+         style="display: none">
+        <div class="v-message">
+            Denne webshop bruger cookies. Ved at forsætte dit besøg på siden, accepterer du denne siden brug af cookies.        </div>
+        <div class="v-actions">
+            <a href="javascript:cookieLawAccept();" class="v-button v-accept">
+                Accepter            </a>
+            <a href="http://klassik.dk/privacy-policy-cookie-restriction-mode/" class="v-button">
+                Mere information            </a>
+        </div>
+    </div>
+    <script type="text/javascript">
+        function cookieLawAccept() {
+            if (365) {
+                var d = new Date();
+                d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000)
+            )
+                ;
+            } else {
+                var d = null;
+            }
+            Mage.Cookies.set('cookielaw', '1', d);
+            document.getElementById('v-cookielaw').style.display = 'none';
+        }
+
+        if (!Mage.Cookies.get('cookielaw')) document.getElementById('v-cookielaw').style.display = '';
+
+            </script>
+<div id="ja-wrapper">
+	    <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>Det lader til at JavaScript er deaktiveret i din browser.</strong><br />
+                    Du skal have JavaScript slået til i din browser for at kunne bruge alle funktionerne på dette website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <!-- BEGIN: HEADER -->
+	<div id="ja-header" class="wrap">
+	<div class="main clearfix"><div class="inner clearfix">
+			<h3 id="logo">
+				<a href="http://klassik.dk/" title="" style="background-image: url(http://klassik.dk/skin/frontend/default/jm_mago/images/klassik_logo_800.png);">
+									</a>
+			</h3>
+
+			<div id="top_image_mobile"><img src="/skin/frontend/default/jm_mago/images/top_image2.png"></div>
+			<style>
+				/*@media only screen and (min-width: 1000px) {
+					.custoooom {
+						border: 2px solid red; padding: 10px; position: absolute;
+						width: 370px;
+						left: 280px;
+						top: 50px;
+						color: #000;
+						text-align: center;
+						text-transform: uppercase; font-size: 12px;
+						font-weight: 500;
+					}
+				}
+
+				@media only screen and (max-width: 999px) {
+					.custoooom {
+						border: 2px solid red;
+						padding: 10px;
+						width: 100%;
+						max-width: 370px;
+						color: #000;
+						text-align: center;
+						text-transform: uppercase;
+						font-size: 12px;
+						font-weight: 500;
+						margin: 0 auto;
+						margin-top: 100px;
+						box-sizing: border-box;
+					}*/
+
+					#ja-mainnav {
+						margin-top: 20px;
+					}
+				}
+			</style>
+			
+			<div id="ja-quickaccess" class="quick-access has-toggle">
+				<div class="btn-toggle quickaccess-toggle">
+					<span>&nbsp;</span><strong>Quick Access</strong>
+				</div>
+				<div class="inner-toggle clearfix">
+										<div class="shop-access">
+							<ul class="links">
+										
+<li id="minicart">
+  <div id="minicart-link">
+   <a href="/checkout/cart"><div class="minicart-icon">
+    <img src="http://klassik.dk/skin/frontend/default/jm_mago/images/kurv.png"/>
+    </a>
+    </div>
+    <div class="minicart-count"><a href="/checkout/cart" class="cartgo">0 varer</a></div>
+    <!--<div class="minicart-amount"><a href="http://klassik.dk/checkout/cart/">Indkøbskurv: <span class="price">0,00 DKK </span></a></div>-->
+  </div>
+  <div id="minicart-panel" style="display:none;">
+    <div class="block block-cart">
+        <div class="block-title">
+        <strong><span>Indkøbskurv</span></strong>
+    </div>
+    <div class="block-content">
+        
+                <p class="empty">Din indkøbskurv er tom.</p>
+    	
+	    </div>
+</div>
+  </div>
+</li>
+  					
+
+
+		<li>
+			<a href="http://instagram.com/klassikcopenhagen/" target="_blank">
+				<img title="instagram" src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/instagram.svg" class="soc_icon">
+			</a>
+		</li>
+		<li>
+			<a href="https://dk.pinterest.com/klassikcph" target="_blank">
+				<img title="pinterest" src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/pinterest.svg" class="soc_icon_sm">
+			</a>
+		</li>
+		<li>
+			<a href="https://www.facebook.com/pages/Klassik-Moderne-M%C3%B8belkunst/104911329581453" target="_blank">
+				<img title="facebook" src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/fb.svg" class="soc_icon_sm">
+			</a>
+		</li>
+		<li>
+			<a href="https://certifikat.emaerket.dk/klassik.dk" target="_blank">
+				<img src="http://klassik.dk/skin/frontend/default/jm_mago/images/banners/e-maketer_icon.png" height="30px" id="maerket_b"/>
+			</a>
+		</li>
+	</ul>
+						<div class="form-language">
+    <select id="select-language" title="" onchange="window.location.href=this.value" class="flags">
+                       <option value="http://klassik.dk/" style="background-image:url('http://klassik.dk/skin/frontend/base/default/images/flags/flag_default.gif');" selected="selected">DK</option>
+                       <option value="http://en.klassik.dk/" style="background-image:url('http://klassik.dk/skin/frontend/base/default/images/flags/flag_en.gif');">EN</option>
+        </select>
+</div>
+					</div>
+					<!-- BEGIN: TOP IMAGE -->
+					<div id="top_image"><img src="/skin/frontend/default/jm_mago/images/top_image2.png" width="320px"></div>
+					<!-- END: TOP IMAGE -->
+					<style>
+						#ja-header .main, #ja-footer .main { background: none !important;}
+						#top_image {float: right;}
+						h3#logo, div#logo-text{margin:-15px 0 0; }
+						#logo img{  width: 250px; }
+					</style>
+
+
+				</div>
+			</div>
+
+			
+			<div id="ja-mainnav" class="has-toggle">
+				<div class="mobile-cart" style="display: none;">
+						<ul class="links">
+										
+<li id="minicart">
+  <div id="minicart-link">
+   <a href="/checkout/cart"><div class="minicart-icon">
+    <img src="http://klassik.dk/skin/frontend/default/jm_mago/images/kurv.png"/>
+    </a>
+    </div>
+    <div class="minicart-count"><a href="/checkout/cart" class="cartgo">0 varer</a></div>
+    <!--<div class="minicart-amount"><a href="http://klassik.dk/checkout/cart/">Indkøbskurv: <span class="price">0,00 DKK </span></a></div>-->
+  </div>
+  <div id="minicart-panel" style="display:none;">
+    <div class="block block-cart">
+        <div class="block-title">
+        <strong><span>Indkøbskurv</span></strong>
+    </div>
+    <div class="block-content">
+        
+                <p class="empty">Din indkøbskurv er tom.</p>
+    	
+	    </div>
+</div>
+  </div>
+</li>
+  					
+
+
+		<li>
+			<a href="http://instagram.com/klassikcopenhagen/" target="_blank">
+				<img title="instagram" src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/instagram.svg" class="soc_icon">
+			</a>
+		</li>
+		<li>
+			<a href="https://dk.pinterest.com/klassikcph" target="_blank">
+				<img title="pinterest" src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/pinterest.svg" class="soc_icon_sm">
+			</a>
+		</li>
+		<li>
+			<a href="https://www.facebook.com/pages/Klassik-Moderne-M%C3%B8belkunst/104911329581453" target="_blank">
+				<img title="facebook" src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/fb.svg" class="soc_icon_sm">
+			</a>
+		</li>
+		<li>
+			<a href="https://certifikat.emaerket.dk/klassik.dk" target="_blank">
+				<img src="http://klassik.dk/skin/frontend/default/jm_mago/images/banners/e-maketer_icon.png" height="30px" id="maerket_b"/>
+			</a>
+		</li>
+	</ul>
+				</div>
+				<div class="btn-toggle menu-toggle" id="toggl_menu">
+					<span>&nbsp;</span><strong>Menu</strong>
+				</div>
+				<div class="inner-toggle clearfix" id="ja-mainnav-inner">
+					<div class=" jm-megamenu clearfix" id="jm-megamenu">
+<ul class="megamenu level0"><li  class="mega first haschild"><a href="http://klassik.dk/om-klassik"  class="mega first haschild" id="menu26" title="Om Klassik"><span class="menu-title">Om Klassik</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap" id="childcontent26">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="http://klassik.dk/butikken"  class="mega first" id="menu81" title="Butikken"><span class="menu-title">Butikken</span></a></li><li  class="mega"><a href="http://klassik.dk/klassik-handelsbetingelser"  class="mega" id="menu83" title="Handelsbetingelser"><span class="menu-title">Handelsbetingelser</span></a></li><li  class="mega last"><a href="http://klassik.dk/presse"  class="mega last" id="menu84" title="Presse"><span class="menu-title">Presse</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="http://klassik.dk/mobler"  class="mega haschild" id="menu2" title="Møbler"><span class="menu-title">Møbler</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap" id="childcontent2">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first mobile-menu-item"><a href="http://klassik.dk/mobler"  class="mega first mobile-menu-item" id="menu224" title="Alle"><span class="menu-title">Alle</span></a></li><li  class="mega"><a href="http://klassik.dk/shop/Laenestole"  class="mega" id="menu67" title="Lænestole"><span class="menu-title">Lænestole</span></a></li><li  class="mega"><a href="http://klassik.dk/shop/Sofaer-2"  class="mega" id="menu19" title="Sofaer"><span class="menu-title">Sofaer</span></a></li><li  class="mega"><a href="http://klassik.dk/shop/Stole-4"  class="mega" id="menu10" title="Stole"><span class="menu-title">Stole</span></a></li><li  class="mega"><a href="http://klassik.dk/mobler/sofaborde"  class="mega" id="menu20" title="Sofaborde"><span class="menu-title">Sofaborde</span></a></li><li  class="mega"><a href="http://klassik.dk/mobler/borde"  class="mega" id="menu21" title="Borde"><span class="menu-title">Borde</span></a></li><li  class="mega"><a href="http://klassik.dk/mobler/opbevaring"  class="mega" id="menu22" title="Opbevaring"><span class="menu-title">Opbevaring</span></a></li><li  class="mega"><a href="http://klassik.dk/mobler/skriveborde"  class="mega" id="menu210" title="Skriveborde"><span class="menu-title">Skriveborde</span></a></li><li  class="mega"><a href="http://klassik.dk/diverse/hynder"  class="mega" id="menu23" title="Hynder"><span class="menu-title">Hynder</span></a></li><li  class="mega last"><a href="http://klassik.dk/mobler/diverse"  class="mega last" id="menu69" title="Diverse"><span class="menu-title">Diverse</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="http://klassik.dk/belysning"  class="mega haschild" id="menu7" title="Belysning"><span class="menu-title">Belysning</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap" id="childcontent7">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first mobile-menu-item"><a href="http://klassik.dk/belysning"  class="mega first mobile-menu-item" id="menu225" title="Alle"><span class="menu-title">Alle</span></a></li><li  class="mega"><a href="http://klassik.dk/belysning/bordlamper"  class="mega" id="menu70" title="Bordlamper"><span class="menu-title">Bordlamper</span></a></li><li  class="mega"><a href="http://klassik.dk/belysning/loftsbelysning"  class="mega" id="menu71" title="Loftsbelysning"><span class="menu-title">Loftsbelysning</span></a></li><li  class="mega"><a href="http://klassik.dk/belysning/gulvlamper"  class="mega" id="menu72" title="Gulvlamper"><span class="menu-title">Gulvlamper</span></a></li><li  class="mega last"><a href="http://klassik.dk/belysning/vaeglamper"  class="mega last" id="menu73" title="Væglamper"><span class="menu-title">Væglamper</span></a></li></ul></div></div>
+</div></div></li><li  class="mega"><a href="http://klassik.dk/kunst"  class="mega" id="menu24" title="Kunst"><span class="menu-title">Kunst</span></a></li><li  class="mega haschild"><a href="http://klassik.dk/keramik-og-glas"  class="mega haschild" id="menu43" title="Kunsthåndværk"><span class="menu-title">Kunsthåndværk</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap" id="childcontent43">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first mobile-menu-item"><a href="http://klassik.dk/kunsthandvaerk"  class="mega first mobile-menu-item" id="menu226" title="Alle"><span class="menu-title">Alle</span></a></li><li  class="mega"><a href="http://klassik.dk/kunsthandvaerk/keramik"  class="mega" id="menu217" title="Keramik & porcelæn"><span class="menu-title">Keramik & porcelæn</span></a></li><li  class="mega"><a href="http://klassik.dk/kunsthandvaerk/smykker-og-ure"  class="mega" id="menu16" title="Smykker & ure"><span class="menu-title">Smykker & ure</span></a></li><li  class="mega"><a href="http://klassik.dk/diverse/solv"  class="mega" id="menu162" title="Sølv"><span class="menu-title">Sølv</span></a></li><li  class="mega"><a href="http://klassik.dk/kunsthandvaerk/glas"  class="mega" id="menu223" title="Glas"><span class="menu-title">Glas</span></a></li><li  class="mega last"><a href="http://klassik.dk/kunsthandvaerk/diverse"  class="mega last" id="menu220" title="Diverse"><span class="menu-title">Diverse</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="http://klassik.dk/diverse"  class="mega haschild" id="menu25" title="Gavebutik"><span class="menu-title">Gavebutik</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap" id="childcontent25">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first mobile-menu-item"><a href="http://klassik.dk/gavebutik"  class="mega first mobile-menu-item" id="menu227" title="Alle"><span class="menu-title">Alle</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/ayaiu"  class="mega" id="menu183" title="AIAYU"><span class="menu-title">AIAYU</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/architectmade"  class="mega" id="menu172" title="ArchitectMade"><span class="menu-title">ArchitectMade</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/bodil-manz"  class="mega" id="menu181" title="Bodil Manz"><span class="menu-title">Bodil Manz</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/ditte-fischer-keramik-skale-vaser"  class="mega" id="menu176" title="Ditte Fischer"><span class="menu-title">Ditte Fischer</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/flensted-mobile"  class="mega" id="menu209" title="Flensted Mobiles"><span class="menu-title">Flensted Mobiles</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/georg-jensen"  class="mega" id="menu174" title="Georg Jensen"><span class="menu-title">Georg Jensen</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/holmegaard"  class="mega" id="menu180" title="Holmegaard"><span class="menu-title">Holmegaard</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/kay-bojesen"  class="mega" id="menu189" title="Kay Bojesen"><span class="menu-title">Kay Bojesen</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/mybolig"  class="mega" id="menu212" title="MyBolig"><span class="menu-title">MyBolig</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/metha-s-wallace"  class="mega" id="menu182" title="Metha S. Wallace"><span class="menu-title">Metha S. Wallace</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/oi-soi-oi"  class="mega" id="menu175" title="Oi Soi Oi"><span class="menu-title">Oi Soi Oi</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/pernille-bulow"  class="mega" id="menu207" title="Pernille Bülow"><span class="menu-title">Pernille Bülow</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/rosendahl"  class="mega" id="menu188" title="Rosendahl"><span class="menu-title">Rosendahl</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/vibeke-berland"  class="mega" id="menu179" title="Vibeke Berland"><span class="menu-title">Vibeke Berland</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/skandinavisk"  class="mega" id="menu177" title="SKANDINAVISK"><span class="menu-title">SKANDINAVISK</span></a></li><li  class="mega"><a href="http://klassik.dk/gavebutik/tolne"  class="mega" id="menu215" title="Tolne for Klassik"><span class="menu-title">Tolne for Klassik</span></a></li><li  class="mega"><a href="http://klassik.dk/diverse/gavekort"  class="mega" id="menu161" title="Gavekort"><span class="menu-title">Gavekort</span></a></li><li  class="mega last"><a href="http://klassik.dk/diverse/boger"  class="mega last" id="menu163" title="Bøger"><span class="menu-title">Bøger</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="http://klassik.dk/renovering"  class="mega haschild" id="menu27" title="Renovering"><span class="menu-title">Renovering</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap" id="childcontent27">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first mobile-menu-item"><a href="renovering"  class="mega first mobile-menu-item" id="menu228" title="Renovering"><span class="menu-title">Renovering</span></a></li><li  class="mega"><a href="http://klassik.dk/laedertyper"  class="mega" id="menu168" title="Lædertyper"><span class="menu-title">Lædertyper</span></a></li><li  class="mega last"><a href="http://klassik.dk/tekstiler"  class="mega last" id="menu170" title="Tekstiler"><span class="menu-title">Tekstiler</span></a></li></ul></div></div>
+</div></div></li><li  class="mega"><a href="http://klassik.dk/klassik-koeber-moebler"  class="mega" id="menu28" title="Klassik køber"><span class="menu-title">Klassik køber</span></a></li><li  class="mega"><a href="http://klassik.dk/designers"  class="mega" id="menu47" title="Designere"><span class="menu-title">Designere</span></a></li><li  class="mega last newsletter_icon"><a href="#"  class="mega last newsletter_icon" id="menu106" title="Nyhedsbrev"><span class="menu-title">Nyhedsbrev</span></a></li></ul>
+</div>				</div>
+
+				<div id="ja-search"> <!--  class="has-toggle" -->
+					<!-- <div class="btn-toggle search-toggle">
+				<span>&nbsp;</span><strong>Søg</strong>
+			</div>
+			<div class="inner-toggle clearfix"> -->
+					<div id="fix_top_search">
+    <div class="main clearfix">
+	<div id="top_logo">
+		<a href="http://klassik.dk/" title="" >
+			<img src="/skin/frontend/default/jm_mago/images/klassik_logo_800.png" title="" />
+		</a>
+	</div>
+
+    <form id="search_mini_form" action="http://klassik.dk/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search">Søg:</label>
+        <input
+            id="search"
+            type="text"
+            name="q"
+            value=""
+            class="input-text"
+            maxlength="128"
+            onclick="show_results()"
+        />
+
+        <button type="submit" title="Søg" class="button"><span><span>Søg</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+
+
+    </div>
+    </form>
+    <div id="btn_fixed">
+
+	    <a href="javascript:void()" id="nav-toggle" onclick="show_menu(this)">
+		    <div id="menu_icon"><span></span></div>
+		    <div id="menu_txt">Menu</div>
+	    </a>
+
+    </div>
+
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+
+	//<![CDATA[
+
+	var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Søg...');
+	searchForm.initAutocomplete('http://klassik.dk/catalogsearch/ajax/suggest/', 'search_autocomplete');
+	//]]>
+	function show_results()
+	{
+		var s_autoc_l = document.getElementById('search_autocomplete');
+
+		if (s_autoc_l.innerHTML.length > 0 && !jQuery("#search").val() == '') {
+			s_autoc_l.style.display = 'block';
+		}
+		else {
+
+		}
+
+	}
+
+	function f_addvalues(ed) {
+
+		document.getElementById("search").value = "";
+		document.getElementById("search").value = ed;
+
+		jQuery.ajax({
+			type: "GET",
+			url: "http://klassik.dk/catalogsearch/ajax/suggest//?q=" + ed,
+			"success": function (data) {
+				document.getElementById('search_autocomplete').style.display = 'block';
+				// print out data
+				jQuery('#search_autocomplete').empty();
+				jQuery("#search_autocomplete").append(data);
+			},
+			"error": function (d, msg) {
+
+			}
+		});
+	}
+
+	jQuery(window).trigger('scroll');
+	jQuery(window).bind('scroll', function () {
+
+		var scroll = jQuery(window).scrollTop();
+		if (scroll >= 200)
+		{
+			jQuery("#fix_top_search").addClass('fixed');
+			jQuery(".mobile-cart").addClass('fixed');
+			if (jQuery('#fix_top_search').hasClass('fixed'))
+			{
+
+				jQuery('#search_autocomplete').hide();
+
+				var s_width = jQuery('#search').width();
+				var s_left = jQuery("#search").offset().left;
+
+				if (jQuery(window).width() < 480) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: 52});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+				else if (jQuery(window).width() > 481 && jQuery(window).width() < 800) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: 60});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+				else if (jQuery(window).width() > 800 && jQuery(window).width() < 960) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: '75px'});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+				else {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: '78px'});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+
+
+			}
+
+			if(jQuery('#nav-toggle').hasClass('active'))
+			{
+				jQuery('#ja-mainnav-inner').addClass('fixed_menu');
+			}
+
+
+			/* if scroll on top but still stay menu */
+			if(jQuery(window).width() < 720)
+			{
+				jQuery("#ja-mainnav-inner").css('visibility','visible');
+			}
+
+
+		}
+		else
+		{
+			jQuery("#fix_top_search").removeClass('fixed');
+			jQuery(".mobile-cart").removeClass('fixed');
+			jQuery('#ja-mainnav-inner').removeClass('fixed_menu');
+			jQuery("#ja-mainnav-inner").attr('style','');
+
+
+
+			if (!jQuery('#fix_top_search').hasClass('fixed'))
+			{
+
+				jQuery('#search_autocomplete').hide();
+			//	jQuery('#ja-mainnav-inner').hide();
+
+				var s_width = jQuery('#search').width();
+				var s_left = jQuery("#search").offset().left;
+				var s_top = jQuery("#search").offset().top;
+
+				if (jQuery(window).width() < 680) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: 46});
+					jQuery("#search_autocomplete").css({left: 0});
+				}
+				else if (jQuery(window).width() > 680 && jQuery(window).width() < 800) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: s_top + 40});
+					jQuery("#search_autocomplete").css({left: 0});
+				}
+				else {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: s_top + 46});
+					jQuery("#search_autocomplete").css({left: 0});
+				}
+			}
+
+			/* if scroll on top but still stay menu */
+			if(jQuery(window).width() < 720)
+			{
+				jQuery("#ja-mainnav-inner").css('visibility','hidden');
+			}
+
+		}
+
+	});
+
+
+
+
+	jQuery( "#nav-toggle" ).toggle(function()
+	{
+
+		jQuery('#nav-toggle').addClass("active");
+		jQuery('#ja-mainnav-inner').addClass('fixed_menu');
+		show_menu();
+
+	}, function()
+	{
+		jQuery('#nav-toggle').removeClass("active");
+		jQuery('#ja-mainnav-inner').removeClass('fixed_menu');
+		show_menu();
+		jQuery("#ja-mainnav-inner").attr('style','');
+	});
+
+
+	function show_menu()
+	{
+
+		var menu_sizee = jQuery(window).height() - jQuery("#fix_top_search").height();
+		jQuery('#ja-mainnav-inner').height(menu_sizee);
+
+		if (jQuery(window).width() < 721)
+		{
+			if (jQuery('#toggl_menu').hasClass('active'))
+			{
+				jQuery('#toggl_menu').removeClass('active');
+				jQuery("#ja-mainnav-inner").css('visibility','hidden');
+
+			}
+			else
+			{
+				jQuery('#toggl_menu').addClass('active');
+				jQuery("#ja-mainnav-inner").css('visibility','visible');
+			}
+		}
+	}
+
+
+</script>
+					<!--</div> -->
+				</div>
+
+
+			</div>
+
+			
+			<div id="header_subscribe" style="display:none;">
+				<div class="block block-subscribe">
+    <div class="block-title">
+        <!--<strong><span>Tilmeld nyhedsbrev</span></strong>-->
+    </div>
+    <form action="http://klassik.dk/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+		
+            <div class="input-box">
+    <label>Navn</label> <input type="text" name="name" id="newsletter" title="Tilmeld dig vores nyhedsbrev" class="input-text required-entry subscribe_mail_inp_field" /></br>
+    <label>E-mail</label>
+                <input type="text" name="email" id="newsletter" title="Tilmeld dig vores nyhedsbrev" class="input-text required-entry validate-email subscribe_mail_inp_field" />
+			 </div>
+    <button type="submit" title="Tilmeld" class="button"><span><span>Tilmeld</span></span></button>	 
+			
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+			</div>
+
+			<div id="ja-mainnav-shadow" class="has-toggle"></div>
+
+			<div class="breadcrumbs"> </div>
+			<!--
+-->
+
+			<!-- BEGIN: SITE SEARCH-->
+
+			<script type="text/javascript">
+				jQuery(document).ready
+				(
+				function()
+				{
+					$j = jQuery.noConflict();
+
+					$j(".newsletter_icon a").removeClass('newsletter_icon');
+
+
+
+					$j(".newsletter_icon").click(function(){
+						$j("#header_subscribe:visible").hide('slide', {direction: 'up'}, 1000);
+						$j("#header_subscribe:hidden").show('slide', {direction: 'up'}, 1000);
+						return false;
+					});
+				}
+				);
+				
+		</script>
+
+			<!--<div class="newsletter_icon">
+<img src="http://klassik.dk/skin/frontend/default/jm_mago/images/nyhed.jpg"/>
+</div>-->
+
+			<!--	END: SITE SEARCH -->
+
+		</div></div>
+	
+
+</div>    <!-- END: HEADER -->
+
+  	      <!-- TOP SPOTLIGHT -->
+				      <!-- //TOP SPOTLIGHT -->
+
+      <!-- BEGIN: MAIN CONTAINER -->
+      <div id="ja-container" class="ja-lo-1col wrap">
+          <div class="main clearfix">
+
+              <div id="ja-mainbody" class="clearfix">
+                  <!-- BEGIN: CONTENT -->
+                  <div id="ja-main">
+                      <!-- MASS TOP -->
+										                      <!-- //MASS TOP -->
+                      <div class="inner clearfix">
+                          <!-- global messages -->
+												                          <!-- // global messages -->
+
+                          <div id="ja-current-content" class="clearfix">
+																												
+                                <!-- primary content 1col-->
+															<div class="std"><div id="jm-error">
+<div class="left">
+<div class="page-head-alt">
+<h1>Siden findes ikke</h1>
+<p>Tjek om du har skrevet adressen korrekt, eller g&aring; til forsiden <a href="/">her</a></p>
+<br /><br /><br />
+<h1>This page doesn't exist</h1>
+<p>Go back to the frontpage <a href="/">here</a></p>
+</div>
+</div>
+</div></div>                                <!-- // primary content 1col -->
+
+																												
+
+                          </div>
+
+												
+                      </div>
+                  </div>
+                  <!-- END: CONTENT -->
+              </div>
+
+          </div>
+      </div>
+      <!-- END: MAIN CONTAINER -->
+	
+
+    <!-- MASS BOTTOM -->
+	    <!-- //MASS BOTTOM -->
+
+    <!-- BOTTOM SPOTLIGHT -->
+	    <!-- //BOTTOM SPOTLIGHT -->
+
+    <!-- BEGIN: FOOTER -->
+    <div id="ja-footer" class="wrap">
+        <div class="main">
+            <div class="inner clearfix">
+							<div class="footer_content">
+  <div style="border-bottom: 1px solid #064E28; margin-bottom: 20px; height: 30px;">&nbsp;</div>
+<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 20%;">
+<p><strong><span style="font-family: tahoma, arial, helvetica, sans-serif;">KLASSIK COPENHAGEN</span><br />Flagship Store&nbsp;</strong></p>
+<p><span style="color: #515151;">Bredgade 3</span><br /><span style="color: #515151;"> 1260 K&oslash;benhavn K</span><br /><span style="color: #515151;">Danmark</span><br /><span style="color: #515151;"> Tlf. (+45) 33 33 90 60</span><br /><span style="color: #515151;">Mail:&nbsp;<a href="mailto:klassik@klassik.dk"><span style="color: #515151;">klassik@klassik.dk</span></a>&nbsp;</span><br /><a href="https://www.google.dk/maps/place/KLASSIK+Moderne+M%C3%B8belkunst/@55.681308,12.5854423,17z/data=!3m1!4b1!4m5!3m4!1s0x465253180e05ab4f:0x3ae419f37c6d97e9!8m2!3d55.681308!4d12.587631" target="_blank"><span style="color: #000000;"><span style="color: #000000;">S</span>e kort</span></a><br />Vi svarer p&aring; mails inden for 5 hverdage.</p>
+</td>
+<td>&nbsp;</td>
+<td style="width: 20%;" valign="top">
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong>ROXY KLASSIK<br />Showroom</strong></span>&nbsp;</p>
+<p><span style="color: #515151;">Jorisvej 11</span><br /><span style="color: #515151;">2300 K&oslash;benhavn S</span><br /><span style="color: #515151;">Danmark</span><br /><span style="color: #515151;">Tlf.: (+45) 33 33 90 60</span><br /><span style="color: #515151;">Mail: <a href="mailto:showroom@roxyklassik.dk" target="_blank"><span style="color: #515151;">showroom@roxyklassik.dk</span></a></span><br /><a href="https://www.google.dk/maps/place/Roxy+Klassik/@55.647425,12.6344253,17z/data=!3m1!4b1!4m5!3m4!1s0x465253b0849e165f:0x1c78251befc8cb1f!8m2!3d55.647425!4d12.636614" target="_blank"><span style="color: #000000;">Se kort</span></a><br />Vi svarer p&aring; mails inden for 5 hverdage.</p>
+</td>
+<td>&nbsp;</td>
+<td style="width: 20%;">
+<p><strong><span style="font-family: tahoma, arial, helvetica, sans-serif;">ROXY KLASSIK</span><br />Butik</strong>&nbsp;</p>
+<p><span style="color: #515151;">Godth&aring;bsvej 20</span><br /><span style="color: #515151;">2000 Frederiksberg</span><br /><span style="color: #515151;">Danmark</span><br /><span style="color: #515151;"> Tlf. (+45) 33 33 90 60</span><br /><span style="color: #515151;">Mail: </span><a href="mailto:roxy@klassik.dk"><span style="color: #515151;">roxy@klassik.dk</span><br /></a><span style="color: #000000;"><a href="https://www.google.dk/maps/place/Roxy+Klassik+Butik/@55.686051,12.533259,17z/data=!4m13!1m7!3m6!1s0x465253b084a3c153:0x96ace209730330b4!2sGodth%C3%A5bsvej+20,+2000+Frederiksberg!3b1!8m2!3d55.686042!4d12.535485!3m4!1s0x465253b083f5ac43:0x410ca8f001cf2463!8m2!3d55.6860412!4d12.5354408" target="_blank"><span style="color: #000000;">Se kort</span></a></span><br />Vi svarer p&aring; mails inden for 5 hverdage.</p>
+</td>
+<td>&nbsp;</td>
+<td style="width: 20%;" valign="top">
+<p><strong>CVR: 20175885</strong></p>
+<p><strong>Tilmeld dig vores nyhedsbrev her!</strong></p>
+<p><div class="block block-subscribe">
+    <div class="block-title">
+        <!--<strong><span>Tilmeld nyhedsbrev</span></strong>-->
+    </div>
+    <form action="http://klassik.dk/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+		
+            <div class="input-box">
+    <label>Navn</label> <input type="text" name="name" id="newsletter" title="Tilmeld dig vores nyhedsbrev" class="input-text required-entry subscribe_mail_inp_field" /></br>
+    <label>E-mail</label>
+                <input type="text" name="email" id="newsletter" title="Tilmeld dig vores nyhedsbrev" class="input-text required-entry validate-email subscribe_mail_inp_field" />
+			 </div>
+    <button type="submit" title="Tilmeld" class="button"><span><span>Tilmeld</span></span></button>	 
+			
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+</p>
+</td>
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td style="width: 20%;"><img style="float: right; margin-top: 16px;" src="/media/wysiwyg/cards.png" alt="" width="108" height="12" /><br /><br />
+<div style="float: right;">
+<p><a href="https://www.facebook.com/pages/Klassik-Moderne-M%C3%B8belkunst/104911329581453" target="_blank"><img src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/fb.svg" alt="" width="25" height="25" /></a>&nbsp; <a href="https://dk.pinterest.com/klassikcph" target="_blank"><img src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/pinterest.svg" alt="" width="25" height="25" /></a>&nbsp; <a href="http://instagram.com/klassikcopenhagen/" target="_blank"><img src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/instagram.svg" alt="" width="25" height="25" /></a></p>
+<p><a href="https://www.emaerket.dk/" target="_blank"><img style="float: right;" src="http://klassik.dk/skin/frontend/default/jm_mago/images/banners/e-maerket-mini.png" alt="" /></a></p>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="9">
+<div style="text-align: center; margin: 15px 0;"><span style="color: #888;">KLASSIK A/S</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+<div style="border-bottom: 1px solid #ddd; margin-bottom: 20px; height: 5px;">&nbsp;</div>
+<table style="height: 40px;" border="0">
+<tbody>
+<tr>
+<td style="vertical-align: middle;"><span style="font-size: 92%;"><a href="om-klassik">OM KLASSIK</a></span></td>
+<td style="width: 18px; border-right: 1px solid #f0f0f0;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="width: 18px;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="vertical-align: middle;"><span><a href="mobler">M&Oslash;BLER</a></span></td>
+<td style="width: 18px; border-right: 1px solid #f0f0f0;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="width: 18px;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="vertical-align: middle;"><span style="font-size: 92%;"><a href="belysning">BELYSNING</a></span></td>
+<td style="width: 18px; border-right: 1px solid #f0f0f0;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="width: 18px;"><span style="font-size: 98%;">&nbsp;</span></td>
+<td style="vertical-align: middle;"><span style="font-size: 92%;"><a href="kunst">KUNST</a></span></td>
+<td style="width: 18px; border-right: 1px solid #f0f0f0;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="width: 18px;"><span style="font-size: 98%;">&nbsp;</span></td>
+<td style="vertical-align: middle;"><span style="font-size: 92%;"><a href="keramik-og-glas">KERAMIK OG GLAS</a></span></td>
+<td style="width: 18px; border-right: 1px solid #f0f0f0;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="width: 18px;"><span style="font-size: 98%;">&nbsp;</span></td>
+<td style="vertical-align: middle;"><span style="font-size: 92%;"><a href="/diverse">DIVERSE</a></span></td>
+<td style="width: 18px; border-right: 1px solid #f0f0f0;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="width: 18px;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="vertical-align: middle;"><span style="font-size: 92%;"><a href="renovering">RENOVERING</a></span></td>
+<td style="width: 18px; border-right: 1px solid #f0f0f0;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="width: 18px;"><span style="font-size: 98%;">&nbsp;</span></td>
+<td style="vertical-align: middle;"><span style="font-size: 92%;"><a href="klassik-koeber-moebler">KLASSIK K&Oslash;BER</a></span></td>
+<td style="width: 18px; border-right: 1px solid #f0f0f0;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="width: 18px;"><span style="font-size: 98%;">&nbsp;</span></td>
+<td style="vertical-align: middle;"><span style="font-size: 92%;"><a href="designers">DESIGNERE</a></span></td>
+<td style="width: 18px; border-right: 1px solid #f0f0f0;"><span style="font-size: x-small;">&nbsp;</span></td>
+<td style="width: 18px;"><span style="font-size: 98%;">&nbsp;</span></td>
+<td style="vertical-align: middle;"><span style="font-size: 92%;"><a class="newsletter_icon_fotter" href="#">NYHEDSBREV</a></span></td>
+<td style="width: 18px; border-right: 1px solid #f0f0f0;"><span style="font-size: 98%;">&nbsp;</span></td>
+<td style="width: 18px;"><span style="font-size: 98%;">&nbsp;</span></td>
+<td style="vertical-align: middle;"><span style="font-size: 92%;"><a href="#ja-header">S&Oslash;G</a></span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>  <div id="ja-search-footer" class="has-toggle" style="display:none;">
+    <div class="btn-toggle search-toggle">
+      <span>&nbsp;</span><strong>Søg</strong>
+    </div>
+    <div class="inner-toggle clearfix">
+      <div id="fix_top_search">
+    <div class="main clearfix">
+	<div id="top_logo">
+		<a href="http://klassik.dk/" title="" >
+			<img src="/skin/frontend/default/jm_mago/images/klassik_logo_800.png" title="" />
+		</a>
+	</div>
+
+    <form id="search_mini_form" action="http://klassik.dk/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search">Søg:</label>
+        <input
+            id="search"
+            type="text"
+            name="q"
+            value=""
+            class="input-text"
+            maxlength="128"
+            onclick="show_results()"
+        />
+
+        <button type="submit" title="Søg" class="button"><span><span>Søg</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+
+
+    </div>
+    </form>
+    <div id="btn_fixed">
+
+	    <a href="javascript:void()" id="nav-toggle" onclick="show_menu(this)">
+		    <div id="menu_icon"><span></span></div>
+		    <div id="menu_txt">Menu</div>
+	    </a>
+
+    </div>
+
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+
+	//<![CDATA[
+
+	var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Søg...');
+	searchForm.initAutocomplete('http://klassik.dk/catalogsearch/ajax/suggest/', 'search_autocomplete');
+	//]]>
+	function show_results()
+	{
+		var s_autoc_l = document.getElementById('search_autocomplete');
+
+		if (s_autoc_l.innerHTML.length > 0 && !jQuery("#search").val() == '') {
+			s_autoc_l.style.display = 'block';
+		}
+		else {
+
+		}
+
+	}
+
+	function f_addvalues(ed) {
+
+		document.getElementById("search").value = "";
+		document.getElementById("search").value = ed;
+
+		jQuery.ajax({
+			type: "GET",
+			url: "http://klassik.dk/catalogsearch/ajax/suggest//?q=" + ed,
+			"success": function (data) {
+				document.getElementById('search_autocomplete').style.display = 'block';
+				// print out data
+				jQuery('#search_autocomplete').empty();
+				jQuery("#search_autocomplete").append(data);
+			},
+			"error": function (d, msg) {
+
+			}
+		});
+	}
+
+	jQuery(window).trigger('scroll');
+	jQuery(window).bind('scroll', function () {
+
+		var scroll = jQuery(window).scrollTop();
+		if (scroll >= 200)
+		{
+			jQuery("#fix_top_search").addClass('fixed');
+			jQuery(".mobile-cart").addClass('fixed');
+			if (jQuery('#fix_top_search').hasClass('fixed'))
+			{
+
+				jQuery('#search_autocomplete').hide();
+
+				var s_width = jQuery('#search').width();
+				var s_left = jQuery("#search").offset().left;
+
+				if (jQuery(window).width() < 480) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: 52});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+				else if (jQuery(window).width() > 481 && jQuery(window).width() < 800) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: 60});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+				else if (jQuery(window).width() > 800 && jQuery(window).width() < 960) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: '75px'});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+				else {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: '78px'});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+
+
+			}
+
+			if(jQuery('#nav-toggle').hasClass('active'))
+			{
+				jQuery('#ja-mainnav-inner').addClass('fixed_menu');
+			}
+
+
+			/* if scroll on top but still stay menu */
+			if(jQuery(window).width() < 720)
+			{
+				jQuery("#ja-mainnav-inner").css('visibility','visible');
+			}
+
+
+		}
+		else
+		{
+			jQuery("#fix_top_search").removeClass('fixed');
+			jQuery(".mobile-cart").removeClass('fixed');
+			jQuery('#ja-mainnav-inner').removeClass('fixed_menu');
+			jQuery("#ja-mainnav-inner").attr('style','');
+
+
+
+			if (!jQuery('#fix_top_search').hasClass('fixed'))
+			{
+
+				jQuery('#search_autocomplete').hide();
+			//	jQuery('#ja-mainnav-inner').hide();
+
+				var s_width = jQuery('#search').width();
+				var s_left = jQuery("#search").offset().left;
+				var s_top = jQuery("#search").offset().top;
+
+				if (jQuery(window).width() < 680) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: 46});
+					jQuery("#search_autocomplete").css({left: 0});
+				}
+				else if (jQuery(window).width() > 680 && jQuery(window).width() < 800) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: s_top + 40});
+					jQuery("#search_autocomplete").css({left: 0});
+				}
+				else {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: s_top + 46});
+					jQuery("#search_autocomplete").css({left: 0});
+				}
+			}
+
+			/* if scroll on top but still stay menu */
+			if(jQuery(window).width() < 720)
+			{
+				jQuery("#ja-mainnav-inner").css('visibility','hidden');
+			}
+
+		}
+
+	});
+
+
+
+
+	jQuery( "#nav-toggle" ).toggle(function()
+	{
+
+		jQuery('#nav-toggle').addClass("active");
+		jQuery('#ja-mainnav-inner').addClass('fixed_menu');
+		show_menu();
+
+	}, function()
+	{
+		jQuery('#nav-toggle').removeClass("active");
+		jQuery('#ja-mainnav-inner').removeClass('fixed_menu');
+		show_menu();
+		jQuery("#ja-mainnav-inner").attr('style','');
+	});
+
+
+	function show_menu()
+	{
+
+		var menu_sizee = jQuery(window).height() - jQuery("#fix_top_search").height();
+		jQuery('#ja-mainnav-inner').height(menu_sizee);
+
+		if (jQuery(window).width() < 721)
+		{
+			if (jQuery('#toggl_menu').hasClass('active'))
+			{
+				jQuery('#toggl_menu').removeClass('active');
+				jQuery("#ja-mainnav-inner").css('visibility','hidden');
+
+			}
+			else
+			{
+				jQuery('#toggl_menu').addClass('active');
+				jQuery("#ja-mainnav-inner").css('visibility','visible');
+			}
+		}
+	}
+
+
+</script>
+    </div>
+  </div>
+  <script>
+    jQuery(document).on('click', 'a[href^="#"]', function(e)
+    {
+      // target element id
+      var id = jQuery(this).attr('href');
+
+      // target element
+      var $id = jQuery(id);
+      if ($id.length === 0) {
+        return;
+      }
+
+      // prevent standard hash navigation (avoid blinking in IE)
+      e.preventDefault();
+
+      // top position relative to the document
+      var pos = jQuery(id).offset().top;
+
+      // animated top scrolling
+      jQuery('body, html').animate({scrollTop: pos});
+    });
+  </script>
+  <!--<div class="jm-info clearfix">
+  <p><img src="http://cdn.klassik.dk/media/wysiwyg/cards.png" alt="" /></p>	<ul class="links">
+									<li class="first" ><a href="http://klassik.dk/catalog/seo_sitemap/category/" title="Sitemap" >Sitemap</a></li>
+												<li ><a href="http://klassik.dk/catalogsearch/term/popular/" title="Søgeord" >Søgeord</a></li>
+												<li ><a href="http://klassik.dk/catalogsearch/advanced/" title="Avanceret søgning" >Avanceret søgning</a></li>
+												<li ><a href="http://klassik.dk/sales/guest/form/" title="Ordrer og returneringer" >Ordrer og returneringer</a></li>
+												<li class=" last" ><a href="http://klassik.dk/contacts/" title="Kontakt os" >Kontakt os</a></li>
+					
+
+
+		<li>
+			<a href="http://instagram.com/klassikcopenhagen/" target="_blank">
+				<img title="instagram" src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/instagram.svg" class="soc_icon">
+			</a>
+		</li>
+		<li>
+			<a href="https://dk.pinterest.com/klassikcph" target="_blank">
+				<img title="pinterest" src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/pinterest.svg" class="soc_icon_sm">
+			</a>
+		</li>
+		<li>
+			<a href="https://www.facebook.com/pages/Klassik-Moderne-M%C3%B8belkunst/104911329581453" target="_blank">
+				<img title="facebook" src="http://klassik.dk/skin/frontend/default/jm_mago/images/icons/fb.svg" class="soc_icon_sm">
+			</a>
+		</li>
+		<li>
+			<a href="https://certifikat.emaerket.dk/klassik.dk" target="_blank">
+				<img src="http://klassik.dk/skin/frontend/default/jm_mago/images/banners/e-maketer_icon.png" height="30px" id="maerket_b"/>
+			</a>
+		</li>
+	</ul>
+<div id="fix_top_search">
+    <div class="main clearfix">
+	<div id="top_logo">
+		<a href="http://klassik.dk/" title="" >
+			<img src="/skin/frontend/default/jm_mago/images/klassik_logo_800.png" title="" />
+		</a>
+	</div>
+
+    <form id="search_mini_form" action="http://klassik.dk/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search">Søg:</label>
+        <input
+            id="search"
+            type="text"
+            name="q"
+            value=""
+            class="input-text"
+            maxlength="128"
+            onclick="show_results()"
+        />
+
+        <button type="submit" title="Søg" class="button"><span><span>Søg</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+
+
+    </div>
+    </form>
+    <div id="btn_fixed">
+
+	    <a href="javascript:void()" id="nav-toggle" onclick="show_menu(this)">
+		    <div id="menu_icon"><span></span></div>
+		    <div id="menu_txt">Menu</div>
+	    </a>
+
+    </div>
+
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+
+	//<![CDATA[
+
+	var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Søg...');
+	searchForm.initAutocomplete('http://klassik.dk/catalogsearch/ajax/suggest/', 'search_autocomplete');
+	//]]>
+	function show_results()
+	{
+		var s_autoc_l = document.getElementById('search_autocomplete');
+
+		if (s_autoc_l.innerHTML.length > 0 && !jQuery("#search").val() == '') {
+			s_autoc_l.style.display = 'block';
+		}
+		else {
+
+		}
+
+	}
+
+	function f_addvalues(ed) {
+
+		document.getElementById("search").value = "";
+		document.getElementById("search").value = ed;
+
+		jQuery.ajax({
+			type: "GET",
+			url: "http://klassik.dk/catalogsearch/ajax/suggest//?q=" + ed,
+			"success": function (data) {
+				document.getElementById('search_autocomplete').style.display = 'block';
+				// print out data
+				jQuery('#search_autocomplete').empty();
+				jQuery("#search_autocomplete").append(data);
+			},
+			"error": function (d, msg) {
+
+			}
+		});
+	}
+
+	jQuery(window).trigger('scroll');
+	jQuery(window).bind('scroll', function () {
+
+		var scroll = jQuery(window).scrollTop();
+		if (scroll >= 200)
+		{
+			jQuery("#fix_top_search").addClass('fixed');
+			jQuery(".mobile-cart").addClass('fixed');
+			if (jQuery('#fix_top_search').hasClass('fixed'))
+			{
+
+				jQuery('#search_autocomplete').hide();
+
+				var s_width = jQuery('#search').width();
+				var s_left = jQuery("#search").offset().left;
+
+				if (jQuery(window).width() < 480) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: 52});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+				else if (jQuery(window).width() > 481 && jQuery(window).width() < 800) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: 60});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+				else if (jQuery(window).width() > 800 && jQuery(window).width() < 960) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: '75px'});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+				else {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: '78px'});
+					jQuery("#search_autocomplete").css({left: s_left});
+				}
+
+
+			}
+
+			if(jQuery('#nav-toggle').hasClass('active'))
+			{
+				jQuery('#ja-mainnav-inner').addClass('fixed_menu');
+			}
+
+
+			/* if scroll on top but still stay menu */
+			if(jQuery(window).width() < 720)
+			{
+				jQuery("#ja-mainnav-inner").css('visibility','visible');
+			}
+
+
+		}
+		else
+		{
+			jQuery("#fix_top_search").removeClass('fixed');
+			jQuery(".mobile-cart").removeClass('fixed');
+			jQuery('#ja-mainnav-inner').removeClass('fixed_menu');
+			jQuery("#ja-mainnav-inner").attr('style','');
+
+
+
+			if (!jQuery('#fix_top_search').hasClass('fixed'))
+			{
+
+				jQuery('#search_autocomplete').hide();
+			//	jQuery('#ja-mainnav-inner').hide();
+
+				var s_width = jQuery('#search').width();
+				var s_left = jQuery("#search").offset().left;
+				var s_top = jQuery("#search").offset().top;
+
+				if (jQuery(window).width() < 680) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: 46});
+					jQuery("#search_autocomplete").css({left: 0});
+				}
+				else if (jQuery(window).width() > 680 && jQuery(window).width() < 800) {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: s_top + 40});
+					jQuery("#search_autocomplete").css({left: 0});
+				}
+				else {
+					jQuery('#search_autocomplete').width(s_width + 40);
+					jQuery("#search_autocomplete").css({top: s_top + 46});
+					jQuery("#search_autocomplete").css({left: 0});
+				}
+			}
+
+			/* if scroll on top but still stay menu */
+			if(jQuery(window).width() < 720)
+			{
+				jQuery("#ja-mainnav-inner").css('visibility','hidden');
+			}
+
+		}
+
+	});
+
+
+
+
+	jQuery( "#nav-toggle" ).toggle(function()
+	{
+
+		jQuery('#nav-toggle').addClass("active");
+		jQuery('#ja-mainnav-inner').addClass('fixed_menu');
+		show_menu();
+
+	}, function()
+	{
+		jQuery('#nav-toggle').removeClass("active");
+		jQuery('#ja-mainnav-inner').removeClass('fixed_menu');
+		show_menu();
+		jQuery("#ja-mainnav-inner").attr('style','');
+	});
+
+
+	function show_menu()
+	{
+
+		var menu_sizee = jQuery(window).height() - jQuery("#fix_top_search").height();
+		jQuery('#ja-mainnav-inner').height(menu_sizee);
+
+		if (jQuery(window).width() < 721)
+		{
+			if (jQuery('#toggl_menu').hasClass('active'))
+			{
+				jQuery('#toggl_menu').removeClass('active');
+				jQuery("#ja-mainnav-inner").css('visibility','hidden');
+
+			}
+			else
+			{
+				jQuery('#toggl_menu').addClass('active');
+				jQuery("#ja-mainnav-inner").css('visibility','visible');
+			}
+		}
+	}
+
+
+</script>
+</div>-->
+  <!--<div class="jm-legal">
+Klassik Moderne MøbelkunstDesignet af <a href="http://www.skandiaweb.dk" title="Visit Joomlart.com!">Skandiaweb</a>.
+</div>-->
+            </div>
+        </div>
+    </div>
+    <!-- END: FOOTER -->
+	</div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc6df41f98","applicationID":"6732187","transactionName":"NlBQbUoHCxJZW0JeDA8ac1pMDwoPF1tbREwIW1ZcQEkLDmpXQ0MG","queueTime":8,"applicationTime":422,"atts":"GhdTGwIdGBw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

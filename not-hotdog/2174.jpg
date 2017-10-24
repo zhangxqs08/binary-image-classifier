@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<!-- insert CSS for Default Concrete Theme //-->
+<script type="text/javascript" src="/concrete/js/jquery.js"></script>
+<style type="text/css">@import "/concrete/css/ccm.default.theme.css";</style>
+
+</head>
+<body>
+
+<div id="ccm-logo"><img src="/concrete/images/logo_menu.png" width="49" height="49" alt="Concrete CMS" /></div>
+
+<div id="ccm-theme-wrapper">
+
+
+
+<h1 class="error">Page Not Found</h1>
+
+No page could be found at this address.
+<br/>
+<br/>
+
+<a href="/">Back to Home</a>.
+</div>
+
+</body>
+</html>

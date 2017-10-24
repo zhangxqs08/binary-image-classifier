@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--6ccfff64caa17ec8e4e95b276b8dd5c9701bf906-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Deze domeinnaam is geregistreerd door een klant van Yourhosting</title>
+<meta name="Description" content="Deze domeinnaam is geregistreerd door een klant van Yourhosting. Domeinnaam registratie .NL &euro;1,00! .DE & BE &euro;5,75, .COM &euro;7,- ORG & NET &euro;7,75" />
+<link rel="stylesheet" href="https://www.yourhosting.nl/static/stylesheets/parking/style2.css" />
+<!--[if IE 9]>
+<link rel="stylesheet" href="https://www.yourhosting.nl/static/stylesheets/parking/styleie9.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="https://www.yourhosting.nl/static/stylesheets/parking/styleie8.css" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="https://www.yourhosting.nl/static/stylesheets/parking/styleie7.css" />
+<![endif]-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+$(window).resize(function() {
+  if ($(window).width() < 1200) {
+	$("div#magnify").css("width", "200px");
+  }
+ else {
+	 $("div#magnify").css("width", "337px");
+   
+ }
+}); 
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22954765-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div id="top">
+    <div class="container_12">
+    	<div class="grid_12">
+            <a itemprop="url" href="https://www.yourhosting.nl/">
+                <img itemprop="logo" src="https://www.yourhosting.nl/static/images/shared/yh-logo-transparent-lil.png" alt="Domeinnaam registeren en webhosting bij Yourhosting" class="yh-logo">
+            </a>
+       	</div>
+        
+        <div class="grid_12" id="socialmedia">    
+            <!-- Facebook like code -->
+            <div id="fb-root"></div>
+                <script>(function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0];
+                  if (d.getElementById(id)) return;
+                  js = d.createElement(s); js.id = id;
+                  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+                  fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script>
+            <!-- Einde Facebook like code -->
+            <div class="fb-like" data-href="http://www.facebook.com/Yourhosting.nl" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="arial"></div>
+                 
+              
+            <!-- Google plus one button -->
+            <div class="g-plusone" data-size="small" data-annotation="none" data-href="https://www.yourhosting.nl"></div>
+            <script type="text/javascript">
+              (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+              })();
+            </script>
+            <!-- Einde Google plus one button -->
+            </div>
+       	</div>
+	</div>
+    
+</div>
+
+<div id="magnify"></div>
+
+<div id="header-404">
+	<div class="container_12">
+            <div class="grid_12">
+               <h1 class="white">Oeps... 404</h1>
+               <p>De pagina die je zoekt lijkt niet (meer) te bestaan...</p>
+            </div>
+	</div>
+</div>
+
+<div id="contentwrapper">
+    <div id="content-404" class="container_12">
+        <div class="grid_12">
+            <h2>Algemene tips</h2>
+                <ul>
+                    <li>Controleer of het adres in de adresbalk klopt;</li>
+                    <li><a href="##" onClick="history.go(-1); return false;">Klik hier om terug te gaan</a> naar de vorige pagina.</li>
+                </ul>
+            <h2>Ben je de eigenaar van deze domeinnaam?</h2>
+                <ul>
+                    <li>Controleer of de link naar deze pagina klopt en pas hem eventueel aan;</li>
+                    <li><a href="https://www.yourhosting.nl/webhosting/webhosting_error_pagina.html" target="_blank">Toon je eigen 404-pagina</a> in plaats van deze standaardpagina.</li>
+                </ul>
+        </div>
+    </div>
+	
+    <div class="container_12">
+        <div class="grid_12" id="checker-404">
+        	<div id="left">
+                <h2>Zelf een website maken of een domeinnaam registreren?</h2>
+                <p>Ga dan verder naar de <a href="https://www.yourhosting.nl">website van Yourhosting</a>! 
+                Wil je weten of je domeinnaam nog beschikbaar is, vul dan hiernaast de door jouw gewenste domeinnaam in.</p>
+        	</div>
+            <div id="right">
+                <form id='whois' method="get" enctype="multipart/form-data" action="https://www.yourhosting.nl/404-bij-klanten.php">
+                   	<input type="text" value="Vul hier je domeinnaam in" onFocus="this.value=''" name="domein">
+                    <input type="hidden" value="1|2|3|4|5|6|7|8|21|22" name="tld">
+                    <button type="submit" id="button-404"> <a onclick="document.getElementById('whois').submit();" href="#">Check</a></button>
+                </form> 
+            </div>
+        </div>   
+    </div>
+</div>
+</body>
+</html>

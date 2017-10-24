@@ -1,0 +1,96 @@
+
+
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Language" content="en-uk" /><title>
+	Qbus building intelligence
+</title>
+    <link href="/assets/css/screen.css?v=2.0.2" rel="stylesheet" type="text/css"
+        media="all" charset="utf-8" />
+
+    <script type="text/javascript" src="/assets/js/jquery-1.3.2.js"></script>
+
+    <script type="text/javascript" src="/assets/js/jquery.cycle.all.js"></script>
+
+    
+</head>
+<body bgcolor="4A4F52">
+
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KQW7JV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-KQW7JV');</script>
+<!-- End Google Tag Manager -->
+    <form name="aspnetForm" method="post" action="View.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3MzcxMDAzODMPZBYCZg9kFgICAw9kFgQCAQ9kFgICAQ8WAh4HVmlzaWJsZWhkAgMPZBYCAgMPDxYCHwBoZGRkq+kLtt6fqQtoWTDfIuIdlc6cR+Y=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="541A68AF" />
+    <div class="main">
+        <a name="top" id="top"></a>
+        
+    <div class="nav_main"><div class="logo"> <a href="/NL/home"></a> </div><div class="ph"><div class="left"></div><ul><li><a href="/NL/home">Home</a></li><li><a href="/NL/over_ons">Over ons</a></li><li><a href="/NL/producten___oplossingen">Producten & Oplossingen</a></li><li><a href="/NL/installateurs">Installateurs</a></li><li><a href="/NL/ondersteuning">Ondersteuning</a></li></ul><div class="right"></div></div></div><div class="nav_top"><ul><li><a href="/NL/nieuws">Nieuws</a></li><li><a href="/NL/training">Training</a></li><li><a href="/NL/jobs">Jobs</a></li><li><a href="/NL/contact_us">Contact us</a></li><li><a href="/NL/partners">Partners</a></li><li><a href="/NL/meer_info">Meer info</a></li><li><a  style="margin-top:0px;pading-top:0px;display:block;float:left;"  href="/nl"><img style="margin-top:-3px;pading-top:0px;display:block;float:left;" src="/assets/gfx/Qbus_nl_active.png"></a><a  style="margin-top:-3px;pading-top:0px;display:block;float:left;"  href="/fr"><img src="/assets/gfx/Qbus_fr_off.png"></a><a  style="margin-top:-3px;pading-top:0px;display:block;float:left;"  href="/en"><img src="/assets/gfx/Qbus_en_off.png"></a><a  style="margin-top:-3px;pading-top:0px;display:block;float:left;"  href="/pt"><img src="/assets/gfx/Qbus_pt_off.png"></a></li></ul></div>
+
+
+
+        <div class="container">
+            
+    
+    <div id="ctl00_cpMain_pnlBanner" class="banner">
+	
+    
+</div>
+    
+    <div class="top">
+    </div>
+    <div class="mid">
+    
+        
+ <div class="content">    
+      	<div class="text">    
+            <h1>Ooops..., this page can not be found.</h1>
+            <p>We could not find the requested page, please use the menu to navigate through the site. If this error keeps occuring, please contact the <a href="mailto:error@aaltra.eu">site administrator</a>.</p>
+        </div>
+      </div>
+
+    </div>
+
+            
+
+            
+    <div id="ctl00_cpFooter_pnlBottom" class="bottom">
+	
+    
+</div>
+    
+
+            <div class="legal">
+                <div class="copywright">© 2013 Qbus NV, Alle rechten voorbehouden</div>
+                <ul>
+                    <li><a href="http://www.aaltra.eu" target="_blank">Website made by Aaltra</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    </form>
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-4631834-13");
+        pageTracker._setDomainName("none");
+        pageTracker._setAllowLinker(true);
+        pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+</body>
+</html>

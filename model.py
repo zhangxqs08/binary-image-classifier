@@ -76,7 +76,7 @@ def gen_grayscale(imgs):
 
 
 def normalize(imgs):
-    imgs = (imgs / 255.0).astype(np.float32)
+    imgs /= 255.0
     for i in range(imgs.shape[0]):
         imgs[i] = exposure.equalize_hist(imgs[i])
         imgs = imgs.reshape(imgs.shape + (1,))

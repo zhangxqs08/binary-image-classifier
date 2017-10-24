@@ -1,0 +1,1417 @@
+
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://ogp.me/ns/fb#">
+<html lang="en" dir="ltr" class="ms-isBot">
+    <head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width" /><meta name="description" /><meta name="author" /><meta name="google-site-verification" content="GVJoIxHsPvndeZJO0BrYzgqqGRXc2qeceQSyhj-xxy8" /><meta name="msvalidate.01" content="A3DCE9B1845582820D777A6471BD731A" /><meta property="og:image" content="https://www.linc.tas.gov.au/SiteAssets/logo-desktop-header-dark@1x.png" /><link rel="shortcut icon" href="/SiteAssets/favicon.ico" type="image/vnd.microsoft.icon" id="favicon" /><title>
+	
+	LINC Tasmania - Home
+
+</title><link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=DHzjGJKbtAsTIA4uW3YOqA%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ResponsiveServer/Bootstrap3/css/bootstrap3.min.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ResponsiveServer/Bootstrap3/css/bootstrap2-custom.min.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ResponsiveServer/Bootstrap3/css/sp-responsive.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ResponsiveServer/Bootstrap3/css/bootstrap3-custom.min.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/LINC/CSS/2016-redesign.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/LINC/CSS/2016-redesign-responsive.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/LINC/CSS/2016-redesign-print.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/BindTuning/webpart.css"/>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=Cv9RhP3nrueoFDa3tkS6FQ%3D%3D"></script>
+<script type="text/javascript" src="/style%20library/bindtuning/jquery.min.js"></script>
+<script type="text/javascript" src="/style%20library/bindtuning/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/style%20library/bindtuning/webpart.js"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=nVUDEMiilUXRgdN0802gCH1vBM5nNyKS8Axiqadjzh6IP2BzdHpB9m7wIyRkTnfkW3hGSxBqTIVg2a3NDjf4WbrbiIeLiZF5_s6dMLUTveZY66DmESx1505J8lgZlYTYYTLwbc3ItHU2MprISrn-zlVYnPS_qhbr97eVEJ3BZ6IZFvRKGr0HzwyLujVr4h6i0&amp;t=3d6efc1f"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D"></script>
+<script type="text/javascript">RegisterSod("initstrings.js", "\u002f_layouts\u002f15\u002f1033\u002finitstrings.js?rev=S11vfGURQYVuACMEY0tLTg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=xXYZY4hciX287lShPZuClw\u00253D\u00253D");RegisterSodDep("strings.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=jvJC3Kl5gbORaLtf7kxULQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=yNk\u00252FhRzgBn40LJVP\u00252BqfgdQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=3Oh2QbaaiXSb7ldu2zd6QQ\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=d6tOcTZntXT\u00252BlpDwhRDXhg\u00253D\u00253D");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=cXv35JACAh0ZCqUwKU592w\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=VYAJYBo5H8I3gVSL3MzD6A\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=ryx2n4ePkYj1\u00252FALmcsXZfA\u00253D\u00253D");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=XH1WIFJpyZZdO2qH8bl2jw\u00253D\u00253D");RegisterSodDep("clienttemplates.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=XxxHIxIIc8BsW9ikVc6dgA\u00253D\u00253D");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=REwVU5jSsadDdOZlCx4wpA\u00253D\u00253D");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=5f2WkYJoaxlIRdwUeg4WEg\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=wgu7x7WPUmF6ZXEfjPK4HA\u00253D\u00253D");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002f15\u002fcui.js?rev=LPKF2\u00252BgWXqwwaFh34pQUlA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=tZDGLPOvY1bRw\u00252BsgzXpxTg\u00253D\u00253D");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
+<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002f15\u002fsp.ribbon.js?rev=1F3TSGFB5\u00252FyAaRkjYHJL5w\u00253D\u00253D");RegisterSodDep("ribbon", "strings.js");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");</script>
+<script type="text/javascript">RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=wtVfoqgvnf2cuN894ZirvA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mdn.js", "\u002f_layouts\u002f15\u002fmdn.js?rev=CZrBt1\u00252Fch9YeLFLJtB0mvg\u00253D\u00253D");RegisterSodDep("mdn.js", "sp.init.js");RegisterSodDep("mdn.js", "core.js");RegisterSodDep("mdn.js", "sp.runtime.js");RegisterSodDep("mdn.js", "sp.js");RegisterSodDep("mdn.js", "cui.js");RegisterSodDep("mdn.js", "ribbon");RegisterSodDep("mdn.js", "sp.ui.policy.resources.resx");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=p5tCOm\u00252FlHUwcfll7W3pKNw\u00253D\u00253D");RegisterSodDep("userprofile", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=jWqEDmcjCSPmnQw2ZIfItQ\u00253D\u00253D");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=ProfileBrowserScriptRes\u0026rev=J5HzNnB\u00252FO1Id\u00252FGI18rpRcw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ua8qmZSU9nyf53S7PEyJwQ\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("datepicker.js", "\u002f_layouts\u002f15\u002fdatepicker.js?rev=QSXAxtWIhtEi1Gv0uzsKeg\u00253D\u00253D");RegisterSodDep("datepicker.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("jsapiextensibilitymanager.js", "\u002f_layouts\u002f15\u002fjsapiextensibilitymanager.js?rev=kJO6e\u00252BWjWH8ODvZ75GIBng\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("ganttsharedapi.generated.js", "\u002f_layouts\u002f15\u002fganttsharedapi.generated.js?rev=\u00252FDVHhOS0nE1bluCuXvt4Gg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("ganttapishim.generated.js", "\u002f_layouts\u002f15\u002fganttapishim.generated.js?rev=j7j\u00252Bks22xL0poFm3RS1xPw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=xyQu9SPqkjO4R2\u00252BS3IwO8Q\u00253D\u00253D");RegisterSodDep("dragdrop.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.js?rev=\u00252BHeX6ARcp\u00252F9LpMq6FqQYyA\u00253D\u00253D");RegisterSodDep("quicklaunch.js", "strings.js");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
+<link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx" />
+            
+		
+	<style>
+	
+	#MainSlideshow>div{position:absolute;}
+	
+	</style>
+	
+	<script>
+	var currentSlide = 1;
+	var slideShowAnimating = true;
+	$(document).ready(function(){
+	
+		$('#MainSlideshow > div').each(function() {
+			var slideNo = $(this).attr('slideNo');
+			var img = $('<img>');
+			img.click(function() {selectSlide(slideNo);slideShowAnimating = false;});
+			if (slideNo == 1)
+				img.attr('src','/SiteAssets/dot-filled-white@1x.png');
+			else
+				img.attr('src','/SiteAssets/dot-unfilled-inactive-white@1x.png');
+			img.css('margin-left','20px');
+			img.attr('id','slideShowButton' + slideNo);
+			img.addClass('slideShowButton');
+			img.appendTo('#slideShowButtons');
+		});
+		
+		$("#MainSlideshow> div:gt(0)").hide();
+	
+	setInterval(function() {
+		if (!slideShowAnimating) return false;
+		currentSlide++;
+		if ($("[slideNo='" + currentSlide + "']").length == 0) currentSlide = 1;
+		selectSlide(currentSlide);
+	},  7500);
+	
+	});
+
+	function selectSlide(i) {
+		if ($("[slideNo='" + i + "']").length == 0) return false;
+		currentSlide = i;
+		$('.slideShowButton').attr('src','/SiteAssets/dot-unfilled-inactive-white@1x.png');
+		$('#slideShowButton' + i).attr('src','/SiteAssets/dot-filled-white@1x.png');
+		$('#MainSlideshow> div:visible').fadeOut(1000);
+		$("[slideNo='" + i + "']").fadeIn(1000);
+	}
+	
+	</script>
+			
+
+            <link rel="canonical" href="https://www.linc.tas.gov.au:443/Pages/Home.aspx" />
+            
+            
+        
+   		
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-6570413-13', 'auto');
+		  ga('send', 'pageview');
+		
+		</script>
+		
+		<!-- Google Tag Manager -->
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-KJZJBF');</script>
+		<!-- End Google Tag Manager -->
+		
+		<script>
+		/**
+		* Function that tracks a click on an outbound link in Analytics.
+		* This function takes a valid URL string as an argument, and uses that URL string
+		* as the event label. Setting the transport method to 'beacon' lets the hit be sent
+		* using 'navigator.sendBeacon' in browser that support it.
+		* https://support.google.com/analytics/answer/1136920?hl=en
+		*/
+		var trackOutboundLink = function(url) {
+		   ga('send', 'event', 'outbound', 'click', url, {
+		     'transport': 'beacon',
+		     'hitCallback': function(){document.location = url;}
+		   });
+		}
+		</script>
+		
+		<script>
+		//Temporary navigation home fix
+		$(".menu-item-text").text(function () {
+		    return $(this).text().replace("LINC Tasmania", "Home");
+		});
+
+		$(document).ready(function() {
+			var tImg = "<img src='/PublishingImages/linc-nav-icon.png' style='z-index: unset;'/>";
+				$(".dynamic:contains('LINC')").html(function (_, html) {
+				     return html.replace(/LINC/g , tImg )
+				});
+		});
+		</script>
+		
+		<script>
+		
+		//Replace SharePoint Text with LINC logo
+		$(document).ready(function() {
+			var tImg = "<a href='http://www.linc.tas.gov.au/'><img src='/SiteAssets/linc-nav-icon.png' style='z-index: unset;'/></a>";
+				$(".ms-core-brandingText:contains('SharePoint')").html(function (_, html) {
+				     return html.replace(/SharePoint/g , tImg )
+				});
+				$( "#ms-help" ).append( "<a href='http://test.staff.talis.tas.gov.au/sp-how-to/Pages/default.aspx' style='position:relative; top:-10px; color: #555;'><img src='/Style Library/Images/marioquestionbox_by_camdencc-d5ty7xb.gif' style='width:16px; position: relative; top: 0px; right: 0px; margin-left: 5px; margin-right: 10px;'><span>SharePoint how to</span></a>" );
+		
+		});
+
+		</script>
+		
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
+		
+	</head>
+    <body onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();">
+        
+        <div id="imgPrefetch" style="display:none">
+<img src="/_layouts/15/images/spcommon.png?rev=23" />
+<img src="/SiteAssets/favicon.ico?rev=23" />
+<img src="/SiteAssets/logo-desktop-header-dark@1x.png?rev=23" />
+</div>
+
+        <form method="post" action="./Home.aspx" id="aspnetForm">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x3418A7FB2B53A0DFBB964E031281ED382AB02786ABFD1F879CA99A6C2DADA9257C07EBA8C5DE99733AC4BBE56F7FEF980EEED045AB74BA3A76048BA908F6A76F,23 Oct 2017 21:42:10 -0000" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAIMD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTUuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAhgPZBYCAgMPZBYCZg9kFgJmDzwrAAYAZAIHD2QWCAIBD2QWAgIBD2QWCgUmZ19lZjYwZTAyMV8zOTkwXzRlOGVfYWY4Zl8xMmRlMWU1Njc1YzEQDxYGHgtQYXJhbVZhbHVlczKNCAABAAAA/////wEAAAAAAAAADAIAAABYTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTUuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwUBAAAAPU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYlBhcnRQYWdlcy5QYXJhbWV0ZXJOYW1lVmFsdWVIYXNodGFibGUBAAAABV9jb2xsAxxTeXN0ZW0uQ29sbGVjdGlvbnMuSGFzaHRhYmxlAgAAAAkDAAAABAMAAAAcU3lzdGVtLkNvbGxlY3Rpb25zLkhhc2h0YWJsZQcAAAAKTG9hZEZhY3RvcgdWZXJzaW9uCENvbXBhcmVyEEhhc2hDb2RlUHJvdmlkZXIISGFzaFNpemUES2V5cwZWYWx1ZXMAAAMDAAUFCwgcU3lzdGVtLkNvbGxlY3Rpb25zLklDb21wYXJlciRTeXN0ZW0uQ29sbGVjdGlvbnMuSUhhc2hDb2RlUHJvdmlkZXII7FE4PwwAAAAKChEAAAAJBAAAAAkFAAAAEAQAAAAKAAAABgYAAAAPTm9Bbm5vdW5jZW1lbnRzBgcAAAAKRmlsdGVyTGluawYIAAAADWlkUHJlc0VuYWJsZWQGCQAAAAlvcGVuX21lbnUGCgAAAApTZWxlY3RlZElEBgsAAAAQZHZ0X3ByZXZwYWdlZGF0YQYMAAAAEWR2dF9zdGFydHBvc2l0aW9uBg0AAAAVT3Blbk1lbnVLZXlBY2Nlc3NpYmxlBg4AAAATc2VsZWN0X2Rlc2VsZWN0X2FsbAYPAAAAFE5vQW5ub3VuY2VtZW50c0hvd1RvEAUAAAAKAAAABhAAAABGVGhlcmUgYXJlIG5vIGl0ZW1zIHRvIHNob3cgaW4gdGhpcyB2aWV3IG9mIHRoZSAiSG9tZSBQYWdlIFRpbGVzIiBsaXN0LgYRAAAAAT8GEgAAACBQcmVzZW5jZSBlbmFibGVkIGZvciB0aGlzIGNvbHVtbgYTAAAACU9wZW4gTWVudQYUAAAAAi0xBhUAAABiUGFnZWQ9VFJVRSZQYWdlZFByZXY9VFJVRSZwX1RpbGVPcmRlcj0xJTJlMDAwMDAwMDAwMDAwMDAmcF9Nb2RpZmllZD0yMDE3MTAxMSUyMDIxJTNhMjElM2EzNyZwX0lEPTEGFgAAAAAGFwAAAC5Vc2UgU0hJRlQrRU5URVIgdG8gb3BlbiB0aGUgbWVudSAobmV3IHdpbmRvdykuBhgAAAAcU2VsZWN0IG9yIGRlc2VsZWN0IGFsbCBpdGVtcwYZAAAAH1RvIGFkZCBhIG5ldyBpdGVtLCBjbGljayAiTmV3Ii4LHhBGaWx0ZXJPcGVyYXRpb25zMo0FAAEAAAD/////AQAAAAAAAAAEAQAAAJMCU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuRGljdGlvbmFyeWAyW1tTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldLFtNaWNyb3NvZnQuU2hhcmVQb2ludC5XZWJQYXJ0UGFnZXMuRmlsdGVyT3BlcmF0aW9uLCBNaWNyb3NvZnQuU2hhcmVQb2ludCwgVmVyc2lvbj0xNS4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj03MWU5YmNlMTExZTk0MjljXV0DAAAAB1ZlcnNpb24IQ29tcGFyZXIISGFzaFNpemUAAwAIkgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5HZW5lcmljRXF1YWxpdHlDb21wYXJlcmAxW1tTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQgAAAAACQIAAAAAAAAABAIAAACSAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkdlbmVyaWNFcXVhbGl0eUNvbXBhcmVyYDFbW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAAAAAAseDF92aWV3Q291bnRlcgLfAWRkZAUmZ19hOGE3NTAwM185YzdhXzQzODJfYmU5MV9lZTFlNDQ5YmRlMjcPZBYCZg8WBB4FY2xhc3MFH21zLXJ0ZS1lbWJlZGNvZGUgbXMtcnRlLWVtYmVkd3AeCWlubmVyaHRtbAX4BDxzY3JpcHQ+DQp2YXIgcmVnZXggPSBuZXcgUmVnRXhwKCJbPyZdcSg9KFteJiNdKil8JnwjfCQpIiwgImkiKTsNCnZhciByZXN1bHRzID0gcmVnZXguZXhlYyh3aW5kb3cubG9jYXRpb24uaHJlZik7DQppZiAocmVzdWx0cyAhPSBudWxsKQ0KCXdpbmRvdy5sb2NhdGlvbi5ocmVmID0gJ2h0dHBzOi8vbGluY3Rhcy5lbnQuc2lyc2lkeW5peC5uZXQuYXUvY2xpZW50L2VuX0FVL2FsbC9zZWFyY2gvcmVzdWx0cz9xdT0nICsgZGVjb2RlVVJJQ29tcG9uZW50KHJlc3VsdHNbMl0ucmVwbGFjZSgvXCsvZywgIiAiKSk7DQo8L3NjcmlwdD4NCjxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiI+DQp7DQogICJAY29udGV4dCI6ICJodHRwOi8vc2NoZW1hLm9yZyIsDQogICJAdHlwZSI6ICJXZWJTaXRlIiwNCiAgInVybCI6ICJodHRwczovL2xpbmMudGFzLmdvdi5hdS8iLA0KICAicG90ZW50aWFsQWN0aW9uIjogew0KICAgICJAdHlwZSI6ICJTZWFyY2hBY3Rpb24iLA0KICAgICJ0YXJnZXQiOiAiaHR0cHM6Ly9saW5jLnRhcy5nb3YuYXUvP3E9e3NlYXJjaF90ZXJtX3N0cmluZ30iLA0KICAgICJxdWVyeS1pbnB1dCI6ICJyZXF1aXJlZCBuYW1lPXNlYXJjaF90ZXJtX3N0cmluZyINCiAgfQ0KfQ0KPC9zY3JpcHQ+ZAUmZ183MWVlOWJlYl82OTAxXzRmY2NfYWVmOF9kMDRhY2I5NGJjNGEPZBYEZg8WAh4HVmlzaWJsZWhkAgEPFgIfBmhkBSZnX2ZkNDI4OGJlXzc5NGVfNDU1Ml85MWU2Xzg5NDRlMmY4MGViYg9kFgRmDxYCHwZoZAIBDxYCHwZoZAUmZ19hYTFlZGY1MF9kODM1XzRhYzFfYTgyNl85MmY1NDRmOWY4OGIPZBYEZg8WAh8GaGQCAQ8WAh8GaGQCBQ9kFgICAQ9kFgICAw8WAh8GaBYCZg9kFgQCAg9kFgYCAQ8WAh8GaGQCAw8WAh8GaGQCBQ8WAh8GaGQCAw8PFgIeCUFjY2Vzc0tleQUBL2RkAg8PZBYCAgEPZBYCAgEPPCsABQEADxYCHhVQYXJlbnRMZXZlbHNEaXNwbGF5ZWRmZGQCFQ9kFgICAQ9kFgICDQ8PFgIfBmhkFgICAQ9kFgJmD2QWAgIDD2QWAgIFD2QWAgIBDzwrAAkBAA8WBB4NUGF0aFNlcGFyYXRvcgQIHg1OZXZlckV4cGFuZGVkZ2RkGAIFLWN0bDAwJFBsYWNlSG9sZGVyTGVmdE5hdkJhciRWNFF1aWNrTGF1bmNoTWVudQ8PZAUGUmVjZW50ZAUsY3RsMDAkUGxhY2VIb2xkZXJUb3BOYXZCYXIkVG9wTmF2aWdhdGlvbk1lbnUPD2QFDUxJTkMgVGFzbWFuaWFklYUjB+CsCXU9K3aDtzLAt39QP122+pinHTYv81i6FQk=" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "https:\u002f\u002fwww.linc.tas.gov.au", siteAbsoluteUrl: "https:\u002f\u002fwww.linc.tas.gov.au", serverRequestPath: "\u002fPages\u002fHome.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "LINC Tasmania", webTemplate: "53", tenantAppVersion: "1211402470", isAppWeb: false, webLogoUrl: "\u002fSiteAssets\u002flogo-desktop-header-dark@1x.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2017-10-23T21:42:10.3181200Z") - new Date(), siteClientTag: "1809$$15.0.4957.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{33705e64-79f2-44e3-9b0d-2b859d6263a0}",pageItemId:4, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/"};
+function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
+
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fPages\u002fHome.aspx");
+
+}
+var _spWebPartComponents = new Object();_spWebPartComponents["WebPartWPQ1"] = new Object();_spWebPartComponents["WebPartWPQ1"].firstTabId = "Ribbon.Read";_spWebPartComponents["WebPartWPQ1"].contextualGroupCommands = ["ListContextualGroup"];_spWebPartComponents["WebPartWPQ1"].hasNonPromotedContextualGroups = true;_spWebPartComponents["WebPartWPQ1"].isDefaultWebPart = false;_spWebPartComponents["WebPartWPQ1"].pageComponentId = "WebPartWPQ1";_spWebPartComponents["WebPartWPQ1"].storageId="ef60e021-3990-4e8e-af8f-12de1e5675c1";//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() 
+        {
+          ExecuteOrDelayUntilScriptLoaded(
+            function()
+            {
+              var pairs = SP.ScriptHelpers.getDocumentQueryPairs();
+              var followDoc, itemId, listId, docName;
+              for (var key in pairs)
+              {
+                if(key.toLowerCase() == 'followdocument') 
+                  followDoc = pairs[key];
+                else if(key.toLowerCase() == 'itemid') 
+                  itemId = pairs[key];
+                else if(key.toLowerCase() == 'listid') 
+                  listId = pairs[key];
+                else if(key.toLowerCase() == 'docname') 
+                  docName = decodeURI(pairs[key]);
+              } 
+
+              if(followDoc != null && followDoc == '1' && listId!=null && itemId != null && docName != null)
+              {
+                SP.SOD.executeFunc('followingcommon.js', 'FollowDocumentFromEmail', function() 
+                { 
+                  FollowDocumentFromEmail(itemId, listId, docName);
+                });
+              }
+
+            }, 'SP.init.js');
+
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+
+            if (typeof(SPClientTemplates) === 'undefined' || SPClientTemplates === null || (typeof(APD_InAssetPicker) === 'function' && APD_InAssetPicker())) {
+                return;
+            }
+
+            var renderFollowFooter = function(renderCtx,  calloutActionMenu)
+            {
+                if (renderCtx.ListTemplateType == 700) 
+                    myDocsActionsMenuPopulator(renderCtx, calloutActionMenu);
+                else
+                    CalloutOnPostRenderTemplate(renderCtx, calloutActionMenu);
+
+                var listItem = renderCtx.CurrentItem;
+                if (typeof(listItem) === 'undefined' || listItem === null) {
+                    return;
+                }
+                if (listItem.FSObjType == 0) {
+                    calloutActionMenu.addAction(new CalloutAction({
+                        text: Strings.STS.L_CalloutFollowAction,
+                        tooltip: Strings.STS.L_CalloutFollowAction_Tooltip,
+                        onClickCallback: function (calloutActionClickEvent, calloutAction) {
+                            var callout = GetCalloutFromRenderCtx(renderCtx);
+                            if (!(typeof(callout) === 'undefined' || callout === null))
+                                callout.close();
+                            SP.SOD.executeFunc('followingcommon.js', 'FollowSelectedDocument', function() { FollowSelectedDocument(renderCtx); });
+                        }
+                    }));
+                }
+            };
+
+            var registerOverride = function(id) {
+                var followingOverridePostRenderCtx = {};
+                followingOverridePostRenderCtx.BaseViewID = 'Callout';
+                followingOverridePostRenderCtx.ListTemplateType = id;
+                followingOverridePostRenderCtx.Templates = {};
+                followingOverridePostRenderCtx.Templates.Footer = function(renderCtx) {
+                    var  renderECB;
+                    if (typeof(isSharedWithMeView) === 'undefined' || isSharedWithMeView === null) {
+                        renderECB = true;
+                    } else {
+                        var viewCtx = getViewCtxFromCalloutCtx(renderCtx);
+                        renderECB = !isSharedWithMeView(viewCtx);
+                    }
+                    return CalloutRenderFooterTemplate(renderCtx, renderFollowFooter, renderECB);
+                };
+                SPClientTemplates.TemplateManager.RegisterTemplateOverrides(followingOverridePostRenderCtx);
+            }
+            registerOverride(101);
+            registerOverride(700);
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2695A83F" />
+            <span id="DeltaSPWebPartManager">
+                
+            </span>
+            
+            
+            
+
+                    <!--<div class="OutageNoticeContainer"><div class="OutageNotice"><img src="http://www.linc.tas.gov.au/locations/PublishingImages/redalert_30px.png">Images from the Tasmanian collections are currently unavailable due to a system fault</div></div>-->
+                    <!--<div class="OutageNoticeContainer"><div class="OutageNotice"><img src="http://www.linc.tas.gov.au/locations/PublishingImages/redalert_30px.png">Search and My Library are currently unavailable due to a system fault</div></div>-->
+                    <!--<div class="OutageNoticeContainer"><div class="OutageNotice"><img src="http://www.linc.tas.gov.au/locations/PublishingImages/redalert_30px.png">There will be some website maintenance from 2 - 6pm on Saturday, during this time the LINC website may be unavailable</div></div>-->
+                    <!--<div class="OutageNoticeContainer"><div class="OutageNotice"><img src="http://www.linc.tas.gov.au/locations/PublishingImages/redalert_30px.png">Search and My Library will be unavailable between 2am and 3.30am Wednesday 26 October due to system maintenance</div></div>-->
+ 					<!--<div class="OutageNoticeContainer"><div class="OutageNotice"><img src="http://www.linc.tas.gov.au/locations/PublishingImages/redalert_30px.png">We are working on our systems 2.30-5.30pm Saturday 23 September. You may not be able to use some of our online services during this time.</div></div>-->
+
+
+            
+            
+            <div id="s4-workspace">
+                <div id="s4-bodyContainer">
+                    <div class="masthead container ms-dialogHidden">
+
+                            
+                            </div>
+                        </div>
+
+                        <span id="DeltaBreadcrumbDropdown">
+                            
+                        </span>
+
+                    </div>
+                    
+
+</div>
+                  
+                                <div id="notificationArea" class="ms-notif-box"></div>
+                                <div id="DeltaPageStatusBar">
+	
+                                    <div id="pageStatusBar"></div>
+                                
+</div>
+
+
+<div style="" class="HeaderContainer">
+
+<!--- Header logos -->
+
+	                        <div class="header clearfix"><div class="HeaderLogos">
+		                        <a href="http://www.tas.gov.au"><img src="/SiteAssets/tg-logo.svg" id="TasGovLogo" class="TasGovLogo" alt="Tasmanian Government Homepage" title="Tasmanian Government Homepage"></a>
+			                        <a href="/"><img id="TasGovLogoMobile" src="/SiteAssets/tas-gov-logo-mobile.png"></a><a name="top">
+		                        </a>
+	                            <div id="DeltaSiteLogo" class="pull-left">
+	
+	                                <a id="ctl00_x36d5bee949a7480783b3afc048c15598" class="ms-siteicon-a" href="/"><img id="ctl00_x74bbee6762f840edad4fe46f496d8c78" class="ms-siteicon-img" name="onetidHeadbnnr0" Title="LINC Tasmania" src="/SiteAssets/logo-desktop-header-dark@1x.png" alt="Linc Tasmania logo" /></a>
+	                            
+</div>
+	                            <a href="/"><img src="/SiteAssets/LINCLogoWhite.png" id="mobileLogo"/></a>
+	                            <div class="clearer"></div>
+                           	</div>
+                           	<div id="mobileMenuButton">
+	                        	<img src="/Style Library/LINC/CSS/images/menuButton.png">
+	                        </div>
+                            <div class="headtitle pull-left">
+                                    <span id="DeltaPlaceHolderPageTitleInTitleArea">
+                                        
+											LINC Tasmania
+                                        
+                                    </span>
+                                    		
+                                    		<!-- temprary removal of breadcrumbs
+                                    		<div class="real-breadcrumb">
+											<span sitemapproviders="SPSiteMapProvider,SPXmlContentMapProvider" hideinteriorrootnodes="true"><a href="#ctl00_ctl62_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=Sg0YbDRsTtzT3F9ykkYL__aSqv9EOj8ET0nrK-D1JwcmA8VXeCUjYSrwIYK_sywh76yc-q4_v6RmqgwrtfDY9T70co-tP8yBhKTC3w4sLHg1&amp;t=636355266046607314" width="0" height="0" border="0" /></a><span>LINC Tasmania</span><a id="ctl00_ctl62_SkipLink"></a></span>
+											</div> -->
+                            </div>
+						
+                            
+                            </div>
+
+
+					<div class="bannerBar">
+					<div class="bannerBarRight">
+							<div class="menuRow">
+								<div class="menuCell searchSlide">
+									<form id="search-form" method="get" action="https://linctas.ent.sirsidynix.net.au/client/en_AU/all/search/results">
+									<input id="search-text"type="text" placeholder="Search the library catalogue and website"/></form>
+								</div>
+								<div class="searchClose"><div><img src="/Style Library/LINC/CSS/images/small-x-white.png"/></div></div>
+								<div class="menuCell menuSearchBox">
+									<img src="/Style Library/LINC/CSS/images/search-glass-white.png" />
+								</div>
+								<div class="menuCell menuToggle">
+									<img src="/Style Library/LINC/CSS/images/menuButton.png">
+								</div>
+								<div class="subMenu">
+									<div>
+										<div href="/locations" dropdown="locationsDropDown" class="locationsToggle">Location + Hours</div>
+										<div href="/how-to" dropdown="HowToDropDown">How to</div>
+										<div href="/get-help" dropdown="GetHelpDropDown" style="padding-right: 30px">Get Help</div>
+										<div class="JoinButton"href="/how-to/Pages/join.aspx">Join</div>
+									</div>
+								</div>
+								<div class="menuClose"><div><img src="/Style Library/LINC/CSS/images/small-x-white.png"/></div></div>
+								<div class="menuCell myLibrary" style="padding-right: 30px;">
+									<a href="https://linctas.ent.sirsidynix.net.au/client/en_AU/library/search/patronlogin/https:$002f$002flinctas.ent.sirsidynix.net.au$002fclient$002fen_AU$002flibrary$002fsearch$002faccount$003f/?stylelogin"><img src="/Style Library/images/MyAccount.png"></a>
+								</div>
+							</div>
+						</div>
+						<div class="dropDownContainer">
+							<div class="dropDownContainerInner">
+								<div class="locationsDropDown" dropdown="locationsDropDown">
+									<div class="locationsLeftArrow"><img src="/Style Library/LINC/CSS/images/left-arrow-large-white.png"></div>
+									<div class="locationLinksContainer" currentPage="0">
+										<div class="locationLinks">
+											<a href="/allport/Pages/Allport.aspx">Allport Museum</a>
+											<a href="/locations/Pages/Beaconsfield.aspx">Beaconsfield</a>
+											<a href="/locations/Pages/Bicheno.aspx">Bicheno</a>
+											<a href="/locations/Pages/Bothwell.aspx">Bothwell</a>
+											<a href="/locations/Pages/Bracknell.aspx">Bracknell</a>
+											<a href="/locations/Pages/Bridgewater.aspx">Bridgewater</a>
+											<a href="/locations/Pages/Bridport.aspx">Bridport</a>
+											<a href="/locations/Pages/Bruny.aspx">Bruny Island</a>
+											<a href="/locations/Pages/Burnie.aspx">Burnie</a>
+											<a href="/locations/Pages/Campbell-town.aspx">Campbell Town</a>
+											<a href="/locations/Pages/Cape-Barren.aspx">Cape Barren Island</a>
+											<a href="/locations/Pages/Currie.aspx">Currie</a>
+											<a href="/locations/Pages/Cygnet.aspx">Cygnet</a>
+											<a href="/locations/Pages/Deloraine.aspx">Deloraine</a>
+											<a href="/locations/Pages/Derby.aspx">Derby</a>
+											<a href="/locations/Pages/Devonport.aspx">Devonport</a>
+											<a href="/locations/Pages/Exeter.aspx">Exeter</a>
+											<a href="/locations/Pages/Geeveston.aspx">Geeveston</a>
+											<a href="/locations/Pages/George-Town.aspx">George Town</a>
+											<a href="/locations/Pages/Glenorchy.aspx">Glenorchy</a>
+											<a href="/locations/Pages/Hobart.aspx">Hobart</a>
+											<a href="/locations/Pages/hobart-reading-room.aspx">Hobart Reading Room</a>
+											<a href="/locations/Pages/Huon.aspx">Huon</a>
+											<a href="/locations/Pages/Kingston.aspx">Kingston</a>
+											<a href="/locations/Pages/Latrobe.aspx">Latrobe</a>
+											<a href="/locations/Pages/Launceston.aspx">Launceston</a>
+											<a href="/locations/Pages/Lilydale.aspx">Lilydale</a>
+											<a href="/locations/Pages/Longford.aspx">Longford</a>
+											<a href="/locations/Pages/New-Norfolk.aspx">New Norfolk</a>
+											<a href="/locations/Pages/Oatlands.aspx">Oatlands</a>
+											<a href="/locations/Pages/Orford.aspx">Orford</a>
+											<a href="/locations/Pages/West-Coast.aspx">Queenstown</a>
+											<a href="/locations/Pages/Penguin.aspx">Penguin</a>
+											<a href="/locations/Pages/Ravenswood.aspx">Ravenswood</a>
+											<a href="/locations/Pages/Ringarooma.aspx">Ringarooma</a>
+											<a href="/locations/Pages/Rosebery.aspx">Rosebery</a>
+											<a href="/locations/Pages/Rosny.aspx">Rosny</a>
+											<a href="/locations/Pages/Scottsdale.aspx">Scottsdale</a>
+											<a href="/locations/Pages/Sheffield.aspx">Sheffield</a>
+											<a href="/locations/Pages/Smithton.aspx">Smithton</a>
+											<a href="/locations/Pages/Sorell.aspx">Sorell</a>
+											<a href="/locations/Pages/st-helens.aspx">St Helens</a>
+											<a href="/locations/Pages/St-Marys.aspx">St Marys</a>
+											<a href="/locations/Pages/Strahan.aspx">Strahan</a>
+											<a href="/locations/Pages/Swansea.aspx">Swansea</a>
+											<a href="/locations/Pages/Tasman.aspx">Tasman</a>
+											<a href="/locations/Pages/Ulverstone.aspx">Ulverstone</a>
+											<a href="/locations/Pages/West-Coast.aspx">West Coast</a>
+											<a href="/locations/Pages/Westbury.aspx">Westbury</a>
+											<a href="/locations/Pages/Whitemark.aspx">Whitemark</a>
+											<!--<a href="/locations/Pages/Wilmot.aspx">Wilmot</a>-->
+											<a href="/locations/Pages/Wynyard.aspx">Wynyard</a>
+											<a href="/locations/Pages/Zeehan.aspx">Zeehan</a>
+										</div>
+										<div class="oacHeader">Community Managed Online Access Centres</div>
+										<div class="oacLinks">
+											<a href="/locations/Pages/Bagdad.aspx">Bagdad</a>
+											<a href="/locations/Pages/Beaconsfield-oac.aspx">Beaconsfield</a>
+											<a href="/locations/Pages/Deloraine-oac.aspx">Deloraine</a>
+											<a href="/locations/Pages/Derwent-valley.aspx">Derwent Valley</a>
+											<a href="/locations/Pages/Devonport-oac.aspx">Devonport</a>
+											<a href="/locations/Pages/Dover.aspx">Dover</a>
+											<a href="/locations/Pages/Exeter-oac.aspx">Exeter</a>
+											<a href="/locations/Pages/Fingal.aspx">Fingal</a>
+											<a href="/locations/Pages/Glenora.aspx">Glenora</a>
+											<a href="/locations/Pages/King-Island.aspx">King Island</a>
+											<a href="/locations/Pages/Lilydale-oac.aspx">Lilydale</a>
+											<a href="/locations/Pages/Mole-Creek.aspx">Mole Creek</a>
+											<a href="/locations/Pages/Ouse.aspx">Ouse</a>
+											<a href="/locations/Pages/Richmond.aspx">Richmond</a>
+											<a href="/locations/Pages/Spring-Bay.aspx">Spring Bay</a>
+											<a href="/locations/Pages/St-Helens-oac.aspx">St Helens</a>
+											<a href="/locations/Pages/st-marys-oac.aspx">St Marys</a>
+											<a href="/locations/Pages/Swansea-oac.aspx">Swansea</a>
+											<a href="/locations/Pages/Tullah.aspx">Tullah</a>
+											<a href="/locations/Pages/Woodbridge.aspx">Woodbridge</a>
+										</div>
+									</div>
+									<div class="locationsRightArrow"><img src="/Style Library/LINC/CSS/images/right-arrow-large-white.png"></div>
+								</div>
+								<!--<div class="coursesDropDown" dropdown="coursesDropDown">
+									<div>
+											<a href="https://adulteducation.linc.tas.gov.au/"><div class="menuButton">Adult education</div></a>
+											<a href="/courses-events/Pages/computing.aspx"><div class="menuButton">Computing + technology</div></a>
+											<a href="/courses-events/Pages/events-exhibitions.aspx"><div class="menuButton">Events + exhibitions</div></a>
+											<a href="/courses-events/Pages/kids.aspx"><div class="menuButton">Kids' events</div></a>
+											<a href="/courses-events/Pages/work-life.aspx"><div class="menuButton">Work + life skills</div></a>
+									</div>
+								</div>-->
+								<div class="HowToDropDown" dropdown="HowToDropDown">
+									<div>
+											
+											<a href="/how-to/Pages/bookgroups.aspx"><div class="menuButton">Bookgroups</div></a>
+											<a href="/how-to/Pages/borrow.aspx"><div class="menuButton">Borrow library items</div></a>
+											<a href="/how-to/Pages/computer.aspx"><div class="menuButton">Computers + internet</div></a>
+											<a href="/how-to/Pages/copies-holds.aspx"><div class="menuButton">Copies + holds</div></a>
+											<a href="/how-to/Pages/donate-bequest.aspx"><div class="menuButton">Donate or bequest</div></a>
+											<a href="/how-to/Pages/pay-buy.aspx"><div class="menuButton">Fees and merchandise</div></a>
+											<a href="/kids/Pages/default.aspx"><div class="menuButton">Find stuff for kids</div></a>
+											<a href="/how-to/Pages/meeting-room.aspx"><div class="menuButton">Meeting rooms</div></a>
+											<a href="/how-to/Pages/recommend.aspx"><div class="menuButton">Recommend a library title</div></a>
+											<a href="/how-to/Pages/volunteer.aspx"><div class="menuButton">Volunteer</div></a>
+									</div>
+								</div>
+								<div class="GetHelpDropDown" dropdown="GetHelpDropDown">
+									<div>
+											<a href="/get-help/Pages/learning.aspx"><div class="menuButton">Learning support</div></a>
+											<a href="/get-help/Pages/literacy.aspx"><div class="menuButton">Reading, writing + maths</div></a>
+											<a href="/get-help/Pages/help-finding.aspx"><div class="menuButton">Research + finding information</div></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					
+					<div id="mobileMenu"></div>
+					<div class="clearer"></div>
+					
+					
+						<style>.navbar { display: none; } #search-box { display: none; }</style>
+
+                  
+
+<!--
+                  		<div class="TempLiveSite">
+						<a href="#" target="_blank" id="LiveLink">View page on live site</a>
+						</div>
+
+                  		<script type="text/javascript">
+						window.onload = function(){
+						    document.getElementById("LiveLink").href = window.location.toString().replace("sp2013", "www");
+						}
+						</script>-->
+						
+                  
+                  
+                  		<!--- NAVIGATION ---->
+
+                        <div class="navbar navbar-inverse">
+                            <div class="container">
+                                <div class="navbar-header">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                    <a class="navbar-brand" href="#">Top Menu</a>
+                                </div>
+                                <div id="DeltaTopNavigation" class="ms-displayInline ms-core-navigation" role="navigation">
+	
+                                    
+                                    
+										<div id="zz1_TopNavigationMenu" class="collapse navbar-collapse noindex ms-core-listMenu-horizontalBox">
+		<ul id="zz2_RootAspMenu" class="root ms-core-listMenu-root static">
+			<li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-bold ms-core-listMenu-selected ms-navedit-linkNode" tabindex="0" title="LINC Tasmania - Learn, discover, access public library, reference library, archives and heritage, learning and literacy services for Tasmanians" href="/Pages/Home.aspx" accesskey="1"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">LINC Tasmania</span><span class="ms-hidden">Currently selected</span></span></a><ul class="static">
+				<li class="static dynamic-children"><a class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">Locations + Hours</span></span></a><ul class="dynamic">
+					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/bicheno-oac.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bicheno OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/bothwell-oac.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bothwell OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Clarendon-vale.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Clarendon Vale OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Penguin-OAC.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Penguin OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Rokeby.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Rokeby OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Geeveston.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Geeveston Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/George-Town.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">George Town Hub</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Glenora.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Glenora OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Glenorchy.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Glenorchy LINC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Hobart.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Hobart LINC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/hobart-reading-room.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Hobart Reading Room</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Huon.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Huon LINC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/King-Island.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">King Island OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Kingston.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Kingston LINC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Latrobe.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Latrobe Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Launceston.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Launceston LINC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Lilydale.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Lilydale Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Lilydale-oac.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Lilydale OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Longford.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Longford Library + OAC​</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Maydena.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Maydena OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Mole-Creek.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">​Mole Creek OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/New-Norfolk.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">New Norfolk Library​</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Oatlands.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Oatlands Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Orford.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Orford Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Ouse.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Ouse OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Penguin.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Penguin Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Ravenswood.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Ravenswood Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Richmond.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Richmond OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Ringarooma.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Ringarooma Library + OAC​​</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Rosebery.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Rosebery Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Rosny.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">​​​Rosny LINC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Scottsdale.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Scottsdale LINC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Dover.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Dover OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Sheffield.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Sheffield Library + OAC​</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Exeter.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Exeter Library​</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Smithton.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Smithton Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Exeter-oac.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Exeter OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Sorell.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Sorell Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Fingal.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Fingal OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Spring-Bay.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Spring Bay OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/St-Helens.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">St Helens Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/St-Helens-oac.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">St Helens OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/St-Marys.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">St Marys Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/St-Marys-oac.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">St Marys OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Strahan.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Strahan Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Swansea.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Swansea Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Swansea-oac.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Swan​sea OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Tasman.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Tasman​ Library + OAC​</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Tullah.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Tullah OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Ulverstone.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Ulverstone Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Westbury.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Westbury Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/West-Coast.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">West Coast Hub</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Whitemark.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Whitemark Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Wilmot.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Wilmot OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Woodbridge.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Woodbridge OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Wynyard.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Wynyard Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Zeehan.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Zeehan Library + OAC​</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Bracknell.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bracknell OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Bridgewater.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bridgewater LINC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Bridport.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bridport Library + OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Bruny.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bruny Island OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Burnie.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Burnie LINC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Campbell-town.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Campbell Town Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/allport/Pages/Allport.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">​​Allport Library and Museum</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Bagdad.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bagdad OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Beaconsfield.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Beaconsfield Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Beaconsfield-oac.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Beaconsfield OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Bicheno.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bicheno Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Bothwell.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bothwell Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Cape-Barren.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Cape Barren Island Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Currie.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Currie Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Cygnet.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Cygnet Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Deloraine.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Deloraine Library</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Deloraine-oac.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Deloraine OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Derby.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Derby OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Derwent-valley.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Derwent Valley OAC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Devonport.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Devonport LINC</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/locations/Pages/Devonport-oac.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Devonport OAC</span></span></a></li>
+				</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/courses-events/Pages/default.aspx"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">Courses + Events</span></span></a><ul class="dynamic">
+					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="https://adulteducation.linc.tas.gov.au/"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Adult education</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/courses-events/Pages/computing.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Computing + technology courses</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/courses-events/Pages/events-exhibitions.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Events + exhibitions</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/courses-events/Pages/kids.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Kids’ events</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/courses-events/Pages/work-life.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Work + lifestyle courses</span></span></a></li>
+				</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/how-to/Pages/default.aspx"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">How to</span></span></a><ul class="dynamic">
+					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/how-to/Pages/borrow.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Borrow library items</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/how-to/Pages/computer.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Computers + internet</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/how-to/Pages/copies-holds.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Copies + holds</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/how-to/Pages/bookgroups.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bookgroups</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/how-to/Pages/meeting-room.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Meeting rooms</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/how-to/Pages/pay-buy.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Fees + merchandise</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/how-to/Pages/recommend.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Recommend a library title</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/how-to/Pages/donate-bequest.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Donate or bequest</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/how-to/Pages/volunteer.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Volunteer</span></span></a></li>
+				</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/get-help/Pages/default.aspx"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">Get Help</span></span></a><ul class="dynamic">
+					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/get-help/Pages/learning.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Learning support</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/get-help/Pages/literacy.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Reading, writing + maths</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/get-help/Pages/help-finding.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Research + finding information</span></span></a></li>
+				</ul></li>
+			</ul></li>
+		</ul>
+	</div>
+                                    
+                                
+</div>
+                            </div>
+                        </div>
+
+						<!--- END Navigation -->
+						
+						<!-- SEARCH -->
+						<div class="clearer"></div>
+
+						<script type="text/javascript">
+									function performSearch()
+									{
+										if ($("#search-text").val() == 'Search library catalogue, indexes and website') $("#search-text").val('');
+										if ($("#search-text").val() == 'Search Book Group titles and place holds...') $("#search-text").val('');
+										
+										if (jQuery("#search-text").val().length < 70) {
+											jQuery("#search-text").val().split('"').map(function(v,i){
+											var r = '';
+											if (i == 1) {
+												v = '"' + v + '"'
+												var temp = $('<input type="hidden" name="qu"/>');
+												$('#search-form').append(temp);
+												temp.attr('value',v);
+											} else {
+												var temparr = v.split(' ');
+												for (var i = 0, len = temparr.length; i < len; i++) {
+													var temp = $('<input type="hidden" name="qu"/>');
+													$('#search-form').append(temp);
+													temp.attr('value',temparr[i]);
+												}
+											}});
+										} else {
+											$('#search-form').append("<input type='hidden' name='qu' value='" + jQuery("#search-text").val() + "'/>");
+										}
+										ga('send', 'event', 'Q', $("#search-text").val(), document.location.href);
+										$('#search-form').submit();
+									}
+								</script>
+								
+								<!--[if lte IE 9]>
+									<script>
+										$(document).ready(function() {
+											$("#search-text").attr("value", "Search library catalogue, indexes and website");
+											$("#search-text").css({"color": "#999999"});
+										});
+									</script>
+									<style>
+										#search-text {
+										    *padding-left: 2em;
+										}
+									</style>
+								<![endif]-->
+								<style>
+								#search-button {
+											*min-width: 5em !important;
+										}
+								</style>
+								
+								<div id="search-box" class="search-box">
+									<input name="qu" id="search-text" type="text" placeholder="Search library catalogue, indexes and website" onclick="javascript:if($(this).val() == 'Search library catalogue, indexes and website' || $(this).val() == 'Search Book Group titles and place holds...') {$(this).val('');$(this).css('color','#333333');} return false;"/>
+									<button type="button" onclick="performSearch()" id="search-button"></button>
+								</div>
+								<div class="clearer"></div>
+                            </div>
+                            <script>
+                            	$('#search-box').append('<form id="search-form" style="display:none" method="get" action="https://linctas.ent.sirsidynix.net.au/client/en_AU/all/search/results"></form>')
+	                            jQuery("#search-text").keypress(function(e) {
+									if(e.which == 13) {
+										performSearch();
+										return false;
+									}
+								});
+                            </script>
+                            <div class="clearer"></div>
+						</div>					
+<!-- NEW NAV AND SEARCH JS  -->
+
+
+<script>
+var animating = false;
+var dropDownLeft = 0;
+function dropDownContainerSetPosition() {
+	var left = dropDownLeft;
+	var dropDownWidth = jQuery('.menuRow').position().left + jQuery('.menuRow').width() - left;
+	jQuery('.dropDownContainerInner').css('width',dropDownWidth);
+	var top = jQuery('.menuRow').position().top + 54;
+	jQuery('.dropDownContainer').css('left', left);
+	jQuery('.dropDownContainer').css('top', top);
+}
+
+function liToDiv(target, rows) {
+	var i = 0;
+	var j = 0;
+	var currentDiv = jQuery('<div></div>');
+	currentDiv.addClass('locationVisible');
+	currentDiv.attr('locationGroup',0);
+	currentDiv.appendTo(target);
+	jQuery(target + ' a').each(function() {
+		var newButton = jQuery('<div class="menuButton"></div>');
+		newButton.text(jQuery(this).text());
+		newButton.attr('href', jQuery(this).attr('href'));
+		newButton.click(divLinkClick);
+		newButton.appendTo(currentDiv);
+		i++;
+		if (i > (rows - 1)) {
+			j++;
+			currentDiv = jQuery('<div></div>');
+			if (Math.floor(j/3) == 0) currentDiv.addClass('locationVisible');
+			currentDiv.attr('locationGroup',Math.floor(j/3));
+			currentDiv.appendTo(target);
+			i = 0;
+		}
+	});
+	jQuery(target + ' a').remove();
+}
+
+jQuery(function() {
+	dropDownContainerSetPosition();
+	jQuery( window ).resize(dropDownContainerSetPosition);
+	
+	liToDiv('.locationLinks', 4);
+	liToDiv('.oacLinks', 2);
+});
+function searchToggle(animate) {
+	if (homepage) {
+		if (animate != false)
+			performSearch();
+		return false;
+	}
+	jQuery('.dropDownContainerInner').hide();
+	if (typeof animate == 'undefined') animate = true;
+	if (!jQuery(this).parent().hasClass('searchClose') &&
+		jQuery('.searchSlide input').val().length > 0 &&
+		jQuery('.searchSlide input:visible').length > 0 &&
+		animate) {
+		performSearch();
+		return false;
+	}
+	if (animating) return false;
+	animating = true;
+	if (jQuery('.searchClose:visible').length > 0) {
+		jQuery('.searchClose').css('display','none');
+	} else {
+		jQuery('.searchClose').css('display','table-cell');
+	}
+	if (jQuery('.subMenu').width() > 1) { animating = false; menuToggle(false); }
+	if (animate)
+		jQuery('.searchSlide input').toggle("slide", { direction: "right" }, 300, function() {animating = false});
+	else {
+		jQuery('.searchSlide input').toggle();
+		animating = false
+	}
+	if (jQuery('.searchSlide input:visible').length > 0 && animate != false) jQuery('.searchSlide input').focus();
+}
+menuToggling = false;
+function menuToggle(animate) {
+	menuToggling = true;
+	if (typeof animate == 'undefined') animate = true;
+	//jQuery('.locationsLeftArrow, .locationsRightArrow').hide();
+	if (animating) return false;
+	animating = true;
+	if (jQuery('.menuClose:visible').length > 0) {
+		jQuery('.menuClose').css('display','none');
+	} else {
+		jQuery('.menuClose').css('display','table-cell');
+	}
+	
+	if (jQuery('.searchSlide input:visible').length > 0) { animating = false; searchToggle(false); }
+	
+	var opening = true;
+	if (jQuery('.subMenu').width() > 1) opening = false;
+	
+	if (opening) jQuery('.menuToggle').css({'max-width': 0});
+	
+	if (animate) {
+		if (!opening) {
+			jQuery('.menuToggle').delay(300).animate({'max-width': 1000},300);
+			jQuery('.subMenu').animate({'max-width': 0},600, function() { animating = false; });
+		}
+		else
+			jQuery('.subMenu').animate({'max-width': 1000},500, function() { animating = false; });
+	} else {
+		if (jQuery('.subMenu').width() > 1) {
+			jQuery('.subMenu').css({'max-width': 0});
+			jQuery('.menuToggle').css({'max-width': 1000});
+		} else {
+			jQuery('.subMenu').css({'max-width': 1000});
+			jQuery('.menuToggle').css({'max-width': 0});
+		}
+		animating = false
+	}
+}
+function dropDownToggle() {
+	if(animating) return false;
+	dropDownContainerSetPosition();
+	animating = true;
+	jQuery('.dropDownContainerInner').slideToggle(function() { animating = false; });
+}
+function locationsMoveRight() {
+	var i = parseInt(jQuery('.locationLinksContainer').attr('currentPage'));
+	i = i + 1;
+	locationMove(i);
+}
+function locationsMoveLeft() {
+	var i = parseInt(jQuery('.locationLinksContainer').attr('currentPage'));
+	i = i - 1;
+	locationMove(i);
+}
+function locationMove(i) {
+	maxLocation = 0;
+	jQuery('.locationLinksContainer > div > div').each(function() {
+		if (parseInt(jQuery(this).attr('locationGroup')) > maxLocation) maxLocation = jQuery(this).attr('locationGroup');
+	});
+	if (i < 0 || i > maxLocation) return false;
+	
+	jQuery('.locationLinksContainer').attr('currentPage',i);
+	
+	jQuery('.locationVisible').removeClass('locationVisible');
+	
+	jQuery('.locationLinksContainer > div > div').each(function() {
+		if (parseInt(jQuery(this).attr('locationGroup')) == i) jQuery(this).addClass('locationVisible');
+	});
+	
+	if (i == 0)
+		jQuery('.locationsLeftArrow img').css('opacity',0.2);
+	else
+		jQuery('.locationsLeftArrow img').css('opacity',1);
+		
+	if (i == maxLocation)
+		jQuery('.locationsRightArrow img').css('opacity',0.2);
+	else
+		jQuery('.locationsRightArrow img').css('opacity',1);
+}
+locationsHover = false;
+function dropDownMouseIn() {
+	if (menuToggling) {
+		if (!animating) menuToggling = false;
+		else return false;
+	}
+	locationsHover = true;
+	dropdown = null;
+	if (typeof jQuery(this).attr('dropdown') == 'undefined') {
+		jQuery('.dropDownContainerInner > div').each(function() {
+			if (jQuery(this).css('display') != 'none') { dropdown = jQuery(this).attr('dropdown');
+			}
+		});
+	} else dropdown = jQuery(this).attr('dropdown');
+	dropDownLeft = jQuery("div[dropdown='" + dropdown + "']").position().left;
+	dropDownContainerSetPosition();
+	dropDownOpen(dropdown);
+}
+function dropdownMouseOut() {
+	locationsHover = false;
+	setTimeout(dropDownClose, 500);
+}
+function dropDownOpen(target) {
+	if (target.endsWith('DropDown')) {
+		
+	}
+	if (!locationsHover) return false;
+	jQuery('.dropDownContainerInner > div').each(function() {
+		if (jQuery(this).hasClass(target)) jQuery(this).show();
+		else jQuery(this).hide();
+	});
+	if (jQuery('.dropDownContainerInner:visible').length == 0) dropDownToggle();
+	//else setTimeout(dropDownOpen, 250, target);
+}
+
+function dropDownClose() {
+	if (locationsHover) return false;
+	if (jQuery('.dropDownContainerInner:visible').length > 0) dropDownToggle();
+	//else setTimeout(dropDownClose, 250);
+}
+
+function divLinkClick() {
+	window.location.href = jQuery(this).attr('href');
+	return true;
+}
+
+var homepage = false;
+function homepageHeader() {
+	jQuery('.subMenu').css({'max-width': 1000});
+	jQuery('.menuToggle').css({'max-width': 0});
+	jQuery('.searchSlide').detach().insertBefore('.dropDownContainer');
+	jQuery('.searchSlide').css('float','right');
+	jQuery('.searchSlide input').show();
+	jQuery('.menuSearchBox').detach().appendTo('.searchSlide');
+	jQuery('.menuSearchBox').css('display','inline-block');
+	jQuery('.menuSearchBox').css('padding','15px');
+	jQuery('#search-text').css('width','624px');
+	homepage = true;
+}
+
+function mobileMenuToggle() {
+	if (jQuery('#mobileMenu:visible').length == 0)
+		jQuery('#mobileMenuButton img').attr('src','/Style Library/LINC/CSS/images/menuClose.png');
+	else
+		jQuery('#mobileMenuButton img').attr('src','/Style Library/LINC/CSS/images/menuButton.png');
+
+	jQuery('#mobileMenu').slideToggle();
+}
+
+jQuery('div[href]').click(divLinkClick);
+jQuery('.menuSearchBox').click(searchToggle);
+jQuery('.searchClose div').click(searchToggle);
+jQuery('.menuToggle').click(menuToggle);
+jQuery('.menuClose div').click(menuToggle);
+jQuery('.locationsRightArrow').click(locationsMoveRight);
+jQuery('.locationsLeftArrow').click(locationsMoveLeft);
+jQuery('div[dropdown]').hover(dropDownMouseIn, dropdownMouseOut);
+jQuery('.dropDownContainer').hover(dropDownMouseIn, dropdownMouseOut);
+jQuery('#mobileMenuButton').click(mobileMenuToggle);
+
+jQuery(function() {
+	jQuery('.subMenu > div > div').each(function() {
+		jQuery('#mobileMenu').append('<div class="mobileMenuButton"><a href="' + jQuery(this).attr('href') + '">' + jQuery(this).text() + '</a></div>');
+	});
+	jQuery('#mobileMenu').append('<div class="mobileMenuButton">' + jQuery('.myLibrary').html() + '</div>');
+});
+
+jQuery(function() {
+	if (jQuery('body').width() < 400) {
+		homepageHeader();
+	}
+	searchToggle(false);
+});
+</script>
+
+						
+						<!-- END SEARCH -->
+
+
+                    <div id="centerarea" class="container">
+                        <div id="MainRow" class="row">
+                            <div class="ms-dialogHidden">
+                                <div class="navbar left-navbar navbar-inverse">
+                                    <div class="container">
+                                        <div class="navbar-header left-navbar">
+                                            <button type="button" class="navbar-toggle" id="left-navbar-toggle" data-toggle="collapse" data-target=".left-navbar-collapse">
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                            </button>
+                                            <a class="navbar-brand" id="left-navbar-brand" href="#">Left Menu</a>
+                                        </div>
+                                        <div id="DeltaPlaceHolderLeftNavBar" class="ms-core-navigation" role="navigation">
+	
+                                            
+												<a id="startNavigation" name="startNavigation" tabindex="-1"></a>
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                <div class="ms-core-sideNavBox-removeLeftMargin">
+                                                    <div id="ctl00_PlaceHolderLeftNavBar_QuickLaunchNavigationManager">
+		<div id="zz3_V4QuickLaunchMenu" class="bs-sidebar hidden-print affix collapse left-navbar-collapse noindex ms-core-listMenu-verticalBox">
+			<ul id="zz4_RootAspMenu" class="root ms-core-listMenu-root static">
+				<li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-bold ms-core-listMenu-selected ms-navedit-linkNode" tabindex="0" href="/"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Recent</span><span class="ms-hidden">Currently selected</span></span></a><ul class="static">
+					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/_layouts/15/appredirect.aspx?instance_id={CC172B41-8700-4FF9-A993-2AB86F2CB6A4}"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Artezio SP Picture Library Photo Wall</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/_layouts/15/appredirect.aspx?instance_id={1222AF42-86E6-488E-9A16-084E5FB29627}"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bright Banner</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/_layouts/15/appredirect.aspx?instance_id={3F917C90-16E7-4EB4-B66C-B127B76BE078}"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Google Maps for SharePoint</span></span></a></li>
+				</ul></li>
+			</ul>
+		</div>
+	</div>
+                                                    
+                                                    
+														<div class="ms-core-listMenu-verticalBox">
+                                                            
+                                                        </div>
+                                                    
+                                                </div>
+                                            
+                                        
+</div>
+                                    </div>
+                                </div>
+                                								
+                            <div class="UpperMainContent">
+
+                                <div id="DeltaPlaceHolderMain">
+	
+                                    <a id="mainContent" name="mainContent" tabindex="-1"></a>
+                                    
+
+<!-- START PAGE CONTENT -->
+<div id="MainSlideshowContainer">
+<div id="SlideFloater">
+
+<div id="slideShowButtons"></div>
+
+<div id="MainSlideshow">
+
+<div id="Slide1" slideNo="1" class="CommonSlide" style="background: url('https://www.linc.tas.gov.au/PublishingImages/Spring_project_1600x600.png') no-repeat;">
+<div class="HomeHeaderCenter">
+<a href="https://linctas.ent.sirsidynix.net.au/client/en_AU/all/search/results?qf=-LINC_TAS_FICT%09Fiction%09fiction%09fiction&qf=TOPIC_FACET_NEW%09Topic%09+Interior+decoration.%09Interior+decoration.+%7C%7C+Handicraft.%09Handicraft.+%7C%7C+Gardening.%09Gardening.+%7C%7C+Woodwork.%09Woodwork.+%7C%7C+Photographs%09Photographs+%7C%7C+Drawing+--+Technique.%09Drawing+--+Technique.+%7C%7C+Furniture+making.%09Furniture+making.&qf=FORMAT_LINCTAS%09Format%09Books%09Books+%7C%7C+eBook%09eBook&qf=PUBDATE%09Year%092012-2017%092012-2017&qf=LINC_TAS_AVAIL%09Availability%09Lending%09Lending+%7C%7C+Online%09Online" class="SlideShowLink"><div class="RedBox"><img src="/SiteAssets/forward-arrow-alphatrans.png" class="FwdArrow"><h2>
+	Spring project time</h2><p>Find some inspiration for your next spring 
+	project here</p></div></a>
+</div></div>
+
+<div id="Slide2" slideNo="2" class="CommonSlide" style="background: url('https://www.linc.tas.gov.au/PublishingImages/Birdwoman_1600x600.png') no-repeat;">
+<div class="HomeHeaderCenter">
+<a href="https://www.linc.tas.gov.au/allport/Pages/default.aspx" class="SlideShowLink"><div class="RedBox"><img src="/SiteAssets/forward-arrow-alphatrans.png" class="FwdArrow"><h2>
+	Bird Woman Exhibition</h2><p>Discover Tasmania’s colonial history at the 
+	Allport</p></div></a>
+</div></div>
+
+<div id="Slide3" slideNo="3" class="CommonSlide" style="background: url('https://www.linc.tas.gov.au/PublishingImages/1W0A8203_amended.png') no-repeat;">
+<div class="HomeHeaderCenter">
+<a href="https://www.linc.tas.gov.au/literacy/Pages/default.aspx" class="SlideShowLink"><div class="RedBox"><img src="/SiteAssets/forward-arrow-alphatrans.png" class="FwdArrow"><h2>
+	Need help with reading, writing or maths?</h2><p>Get free support at your 
+	local LINC</p></div></a>
+</div></div>
+
+</div>
+</div>
+</div>
+				<div class="FullWidthTop">
+				    <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartctl00_ctl55_g_a8a75003_9c7a_4382_be91_ee1e449bde27" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="a8a75003-9c7a-4382-be91-ee1e449bde27" HasPers="false" id="WebPartctl00_ctl55_g_a8a75003_9c7a_4382_be91_ee1e449bde27" width="100%" class="ms-WPBody noindex " allowDelete="false" allowExport="false" style="" ><div id="ctl00_ctl55_g_a8a75003_9c7a_4382_be91_ee1e449bde27">
+					<DIV class="ms-rte-embedcode ms-rte-embedwp"><script>
+var regex = new RegExp("[?&]q(=([^&#]*)|&|#|$)", "i");
+var results = regex.exec(window.location.href);
+if (results != null)
+	window.location.href = 'https://linctas.ent.sirsidynix.net.au/client/en_AU/all/search/results?qu=' + decodeURIComponent(results[2].replace(/\+/g, " "));
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://linc.tas.gov.au/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://linc.tas.gov.au/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script></DIV>
+				</div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+			    </div>
+
+			    <div class="clearer"></div>			
+			    
+			    <div class="BlackTilesBox"><h2>Find what you&#39;re looking for</h2></div>
+			    
+			    <div class="FullWidthCenter">	    
+
+				<div class="HomeTilesZone">
+				    <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth " onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="ef60e021-3990-4e8e-af8f-12de1e5675c1" HasPers="false" id="WebPartWPQ1" width="100%" class="" allowDelete="false" allowExport="false" style="" ><span></span><table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" xmlns:x="http://www.w3.org/2001/XMLSchema" xmlns:d="http://schemas.microsoft.com/sharepoint/dsp" xmlns:asp="http://schemas.microsoft.com/ASPNET/20" xmlns:__designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer" xmlns:SharePoint="Microsoft.SharePoint.WebControls" xmlns:pcm="urn:PageContentManager" xmlns:ddwrt2="urn:frontpage:internal"><tr><td id="script"><iframe src="javascript:false;" id="FilterIframe223" name="FilterIframe223" style="display:none" height="0" width="0" FilterLink="?"></iframe><table summary="Home Page Tiles " o:WebQuerySourceHref="https://www.linc.tas.gov.au/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;View={EF60E021-3990-4E8E-AF8F-12DE1E5675C1}" width="100%" border="0" cellspacing="0" dir="none" onmouseover="&#xD;&#xA;                  EnsureSelectionHandler(event,this,223)&#xD;&#xA;                " cellpadding="1" id="{F05E9D0C-51EF-4611-A6D4-00489D4444FC}-{EF60E021-3990-4E8E-AF8F-12DE1E5675C1}" class="ms-listviewtable" xmlns:o="urn:schemas-microsoft-com:office:office"><thead><tr valign="top" class="ms-viewheadertr ms-vhltr"><th class="ms-vh-icon" scope="col"><input type="checkbox" title="Select or deselect all items" onclick="ToggleAllItems(event,this,223)" onfocus="EnsureSelectionHandlerOnFocus(event,this,223)" /></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="" SortDisable="" FilterDisable="" Filterable="" FilterDisableMessage="" name="Title" CTXNum="223" DisplayName="Title" FieldType="Text" ResultType="" SortFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=Title&amp;SortDir=Asc" class="ms-vh-div"><a id="diidSort223Title" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=Title&amp;SortDir=Asc">Title<img src="/_layouts/15/images/blank.gif?rev=23" class="ms-hidden" border="0" width="1" height="1" alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/15/images/blank.gif?rev=23" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=23" border="0" alt=""></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Open Menu"></a><span> </span></div></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="" SortDisable="" FilterDisable="" Filterable="FALSE" FilterDisableMessage="" name="BackgroundImageLocation" CTXNum="223" DisplayName="Background Image Location" FieldType="URL" ResultType="" SortFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=BackgroundImageLocation&amp;SortDir=Asc" class="ms-vh-div"><a id="diidSort223BackgroundImageLocation" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=BackgroundImageLocation&amp;SortDir=Asc">Background Image Location<img src="/_layouts/15/images/blank.gif?rev=23" class="ms-hidden" border="0" width="1" height="1" alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/15/images/blank.gif?rev=23" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=23" border="0" alt=""></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Open Menu"></a><span> </span></div></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="FALSE" SortDisable="" FilterDisable="" Filterable="FALSE" FilterDisableMessage="" name="Description" CTXNum="223" DisplayName="Description" FieldType="Note" ResultType="" SortFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=Description&amp;SortDir=Asc" class="ms-vh-div">Description</div></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="" SortDisable="" FilterDisable="" Filterable="FALSE" FilterDisableMessage="" name="LinkLocation" CTXNum="223" DisplayName="Link Location" FieldType="URL" ResultType="" SortFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=LinkLocation&amp;SortDir=Asc" class="ms-vh-div"><a id="diidSort223LinkLocation" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=LinkLocation&amp;SortDir=Asc">Link Location<img src="/_layouts/15/images/blank.gif?rev=23" class="ms-hidden" border="0" width="1" height="1" alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/15/images/blank.gif?rev=23" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=23" border="0" alt=""></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Open Menu"></a><span> </span></div></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="" SortDisable="" FilterDisable="" Filterable="" FilterDisableMessage="" name="LaunchBehavior" CTXNum="223" DisplayName="Launch Behavior" FieldType="Choice" ResultType="" SortFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=LaunchBehavior&amp;SortDir=Asc" class="ms-vh-div"><a id="diidSort223LaunchBehavior" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=LaunchBehavior&amp;SortDir=Asc">Launch Behavior<img src="/_layouts/15/images/blank.gif?rev=23" class="ms-hidden" border="0" width="1" height="1" alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/15/images/blank.gif?rev=23" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=23" border="0" alt=""></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Open Menu"></a><span> </span></div></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="" SortDisable="" FilterDisable="" Filterable="" FilterDisableMessage="" name="BackgroundImageClusterX" CTXNum="223" DisplayName="Background Image Cluster Horizontal Start" FieldType="Number" ResultType="" SortFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=BackgroundImageClusterX&amp;SortDir=Asc" class="ms-vh-div"><div align="right" class="ms-numHeader"><a id="diidSort223BackgroundImageClusterX" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=BackgroundImageClusterX&amp;SortDir=Asc">Background Image Cluster Horizontal Start<img src="/_layouts/15/images/blank.gif?rev=23" class="ms-hidden" border="0" width="1" height="1" alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/15/images/blank.gif?rev=23" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=23" border="0" alt=""></div></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Open Menu"></a><span> </span></div></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="" SortDisable="" FilterDisable="" Filterable="" FilterDisableMessage="" name="BackgroundImageClusterY" CTXNum="223" DisplayName="Background Image Cluster Vertical Start" FieldType="Number" ResultType="" SortFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=BackgroundImageClusterY&amp;SortDir=Asc" class="ms-vh-div"><div align="right" class="ms-numHeader"><a id="diidSort223BackgroundImageClusterY" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={ef60e021-3990-4e8e-af8f-12de1e5675c1}&SortField=BackgroundImageClusterY&amp;SortDir=Asc">Background Image Cluster Vertical Start<img src="/_layouts/15/images/blank.gif?rev=23" class="ms-hidden" border="0" width="1" height="1" alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/15/images/blank.gif?rev=23" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=23" border="0" alt=""></div></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Open Menu"></a><span> </span></div></th></tr></thead><tr class="ms-itmhover" iid="223,1,0"><td class="ms-vb-itmcbx ms-vb-firstCell"><input type="checkbox" class="s4-itm-cbx" /></td><td class="ms-vb2">Tasmanian archives + heritage</td><td class="ms-vb2"><a href="/PublishingImages/MrLegrandTAHO.png">https://sp2013.linc.tas.gov.au/PublishingImages/taho.png</a></td><td class="ms-vb2"><div dir="" class="ms-rtestate-field">Explore Tasmania&#39;s history</div></td><td class="ms-vb2"><a href="/archive-heritage/">/kids/</a></td><td class="ms-vb2">In page navigation</td><td class="ms-vb2"><div align="right"></div></td><td class="ms-vb2"><div align="right"></div></td></tr><tr class="ms-alternating ms-itmhover" iid="223,3,0"><td class="ms-vb-itmcbx ms-vb-firstCell"><input type="checkbox" class="s4-itm-cbx" /></td><td class="ms-vb2">eLibrary</td><td class="ms-vb2"><a href="/PublishingImages/elendingHomepage%20tile.png">https://sp2013.linc.tas.gov.au/PublishingImages/eresources.png</a></td><td class="ms-vb2"><div dir="" class="ms-rtestate-field">Explore your Tasmanian ancestry</div></td><td class="ms-vb2"><a href="/information/Pages/eLibrary.aspx">/information/Pages/eLibrary.aspx</a></td><td class="ms-vb2">In page navigation</td><td class="ms-vb2"><div align="right"></div></td><td class="ms-vb2"><div align="right"></div></td></tr><tr class="ms-itmhover" iid="223,6,0"><td class="ms-vb-itmcbx ms-vb-firstCell"><input type="checkbox" class="s4-itm-cbx" /></td><td class="ms-vb2">Courses and events</td><td class="ms-vb2"><a href="/PublishingImages/coursesevents1.jpg">/PublishingImages/coursesevents1.jpg</a></td><td class="ms-vb2"><div dir="" class="ms-rtestate-field">Learn something new today</div></td><td class="ms-vb2"><a href="/courses-events/Pages/default.aspx">/courses-events/Pages/default.aspx</a></td><td class="ms-vb2">In page navigation</td><td class="ms-vb2"><div align="right"></div></td><td class="ms-vb2"><div align="right"></div></td></tr><tr class="ms-alternating ms-itmhover" iid="223,4,0"><td class="ms-vb-itmcbx ms-vb-firstCell"><input type="checkbox" class="s4-itm-cbx" /></td><td class="ms-vb2">Family history</td><td class="ms-vb2"><a href="/PublishingImages/Family%20history%20tile.png">https://sp2013.linc.tas.gov.au/PublishingImages/goodreads.png</a></td><td class="ms-vb2"><div dir="" class="ms-rtestate-field">Explore your Tasmanian ancestry</div></td><td class="ms-vb2"><a href="/family-history">/newgood/</a></td><td class="ms-vb2">In page navigation</td><td class="ms-vb2"><div align="right"></div></td><td class="ms-vb2"><div align="right"></div></td></tr><tr class="ms-itmhover" iid="223,5,0"><td class="ms-vb-itmcbx ms-vb-firstCell"><input type="checkbox" class="s4-itm-cbx" /></td><td class="ms-vb2">New arrivals + good reads</td><td class="ms-vb2"><a href="/PublishingImages/goodreads.png">https://sp2013.linc.tas.gov.au/PublishingImages/newsonline.png</a></td><td class="ms-vb2"><div dir="" class="ms-rtestate-field">Find something great to read</div></td><td class="ms-vb2"><a href="/newgood">/newgood/</a></td><td class="ms-vb2">In page navigation</td><td class="ms-vb2"><div align="right"></div></td><td class="ms-vb2"><div align="right"></div></td></tr><tr class="ms-alternating ms-itmhover" iid="223,2,0"><td class="ms-vb-itmcbx ms-vb-firstCell"><input type="checkbox" class="s4-itm-cbx" /></td><td class="ms-vb2">Reading, writing + maths</td><td class="ms-vb2"><a href="/PublishingImages/literacy.png">https://sp2013.linc.tas.gov.au/PublishingImages/literacy.png</a></td><td class="ms-vb2"><div dir="" class="ms-rtestate-field">Literacy support for Tasmanians</div></td><td class="ms-vb2"><a href="/literacy">/literacy/</a></td><td class="ms-vb2">In page navigation</td><td class="ms-vb2"><div align="right"></div></td><td class="ms-vb2"><div align="right"></div></td></tr></table></td></tr></table><div id="ECBItems_{f05e9d0c-51ef-4611-a6d4-00489d4444fc}" style="display:none" height="0" width="0"><div><div>Compliance Details</div><div></div><div>javascript:commonShowModalDialog(&#39;{SiteUrl}&#39;+ 
+            &#39;/_layouts/15/itemexpiration.aspx&#39; 
+            +&#39;?ID={ItemId}&amp;List={ListId}&#39;, &#39;center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no&#39;, function GotoPageAfterClose(pageid){if(pageid == &#39;hold&#39;) {STSNavigate(unescape(decodeURI(&#39;{SiteUrl}&#39;))+ 
+            &#39;/_layouts/15/hold.aspx&#39; 
+            +&#39;?ID={ItemId}&amp;List={ListId}&#39;);  return false;} if(pageid == &#39;audit&#39;) {STSNavigate(unescape(decodeURI(&#39;{SiteUrl}&#39;))+
+            &#39;/_layouts/15/Reporting.aspx&#39;
+            +&#39;?Category=Auditing&amp;backtype=item&amp;ID={ItemId}&amp;List={ListId}&#39;); return false;} if(pageid == &#39;config&#39;) {STSNavigate(unescape(decodeURI(&#39;{SiteUrl}&#39;))+
+            &#39;/_layouts/15/expirationconfig.aspx&#39;
+            +&#39;?ID={ItemId}&amp;List={ListId}&#39;); return false;}}, null);</div><div>0x0</div><div>0x1</div><div>ContentType</div><div>0x01</div><div>898</div><div></div></div><div><div>Document Set Version History</div><div>/_layouts/15/images/versions.gif?rev=23</div><div>javascript:SP.UI.ModalDialog.ShowPopupDialog(&#39;{SiteUrl}&#39;+ 
+                &#39;/_layouts/15/DocSetVersions.aspx&#39;
+                + &#39;?List={ListId}&amp;ID={ItemId}&#39;)</div><div>0x0</div><div>0x0</div><div>ContentType</div><div>0x0120D520</div><div>330</div><div></div></div><div><div>Send To other location</div><div>/_layouts/15/images/sendOtherLoc.gif?rev=23</div><div>javascript:GoToPage(&#39;{SiteUrl}&#39; +
+                &#39;/_layouts/15/docsetsend.aspx&#39; 
+                + &#39;?List={ListId}&amp;ID={ItemId}&#39;)</div><div>0x0</div><div>0x0</div><div>ContentType</div><div>0x0120D520</div><div>350</div><div></div></div></div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+			    </div></div>
+			    
+			    <div class="clearer"></div> 
+
+				<div class="RedPromoBox"><h2>Learn, discover, access with LINC 
+					Tasmania</h2></div>
+			    
+			    <div class="ContentContainer" style="min-height: 0px; margin-top: 0px;">
+				
+			    <div class="HalfLeftHome">
+				    <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ4" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="aa1edf50-d835-4ac1-a826-92f544f9f88b" HasPers="false" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex " allowDelete="false" style="" ><div class="ms-rtestate-field">​<a href="/features/Pages/Laureate-Exhibition.aspx"></a><a href="https://26ten.tas.gov.au/Pages/default.aspx"><img src="/features/PublishingImages/26Ten_BottomPromo_v2_700x370.png" _moz_resizing="true" alt=""/></a><br/></div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+			    </div>
+
+			    <div class="HalfRightHome">
+				    <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ3" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="fd4288be-794e-4552-91e6-8944e2f80ebb" HasPers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody noindex " allowDelete="false" style="" ><div class="ms-rtestate-field"><div class="TRBox"> 
+   <a href="https://linctas.ent.sirsidynix.net.au/client/en_AU/all/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:587426/one"></a>
+   <a href="https://linctas.ent.sirsidynix.net.au/client/en_AU/all/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:587426/one">
+      <img src="/features/PublishingImages/builder_200x200.png" _moz_resizing="true" alt=""/></a>
+   <a href="https://linctas.ent.sirsidynix.net.au/client/en_AU/all/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:587426/one">
+      <span class="bottomPromo">Australian Standards now available online</span></a><br/><br/><br/><br/><br/><br/><br/><br/></div></div><div class="ms-clear"></div></div>
+			</div><div class="ms-PartSpacingVertical"></div>
+		</div><div id="MSOZoneCell_WebPartWPQ2" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="71ee9beb-6901-4fcc-aef8-d04acb94bc4a" HasPers="false" id="WebPartWPQ2" width="100%" class="ms-WPBody noindex " allowDelete="false" style="" ><div class="ms-rtestate-field"><div class="TRBox">
+   <a href="/features/Pages/govhack-results.aspx"> 
+      <img alt="GovHack logo" src="/features/PublishingImages/Govhack_logo_200x200.png"/> </a><a href="/features/Pages/govhack-results.aspx">  </a>
+   <a href="/features/Pages/govhack-results.aspx"><span class="bottomPromo">Congratulations GovHack entrants!</span></a><br/><br/><br/><br/></div>
+   
+   </div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+			    </div>
+			    </div>
+
+			    
+			    <div class="clearer"></div>
+			    <div class="FullWidthBottom">
+				    <menu class="ms-hide">
+		<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+		</ie:menuitem>
+	</menu>
+			    </div>
+			    <div class="clearer"></div>
+			    
+<!-- END PAGE CONTENT -->   
+
+<script>
+
+//menuToggle(false);
+	homepageHeader();	
+
+</script>
+
+<div style='display:none' id='hidZone'></div>
+                                
+</div>
+									<!-- footer -->
+									
+									<a name="bottom"></a>
+									
+								<div class=lincfootouter>
+								<div class=lincfootinner>
+								<div class="lincfootlogo" >
+								   <a id="footer-logo" href="/"><img alt="LINC Tasmania logo" src="/Style Library/Images/logo-desktop-footer-white@1x.png" title="Return to the LINC Tasmania Homepage"/></a>
+								   <a id="footer-logo" href="http://tas.gov.au/"><img alt="Tasmanian Government Logo" src="/Style Library/Images/tasmanian-gov-logo-large-white@1x.png" title="Tasmanian Government Homepage"/></a>
+								   </div>
+								   <div class="foottext"> 
+								      <ul>
+								         <li><a href="/">Home</a></li>
+								         <!--<li><a href="http://www.education.tas.gov.au/">Department of Education</a></li>-->
+								         <li><a href="http://www.service.tas.gov.au/">Service Tasmania</a></li>
+								         <li><a href="http://www.education.tas.gov.au/">Department of Education</a></li>
+								         <li><a href="http://www.tas.gov.au/stds/pip.htm">Personal information protection</a></li>
+								         <li><a href="http://www.tas.gov.au/stds/codi.htm">Copyright &amp; disclaimer</a></li>
+								         <li><a href="/about-us">About us</a></li>
+								         <li><a href="/about-us/Pages/contact.aspx">Contact us</a></li>
+								      </ul>
+								   </div>
+								   <div class="SocialFooter">
+								   
+									   <div class="OuterFoot26TEN">
+			                            <a href="http://www.26ten.tas.gov.au/"><img class="footer26TEN" src="/Style Library/Images/26ten-logo-monocolour@1x.png" alt="26Ten" title="26Ten"></a>
+			                           </div>
+		                           
+			                           <div class="FootIconGroup">
+			                            <a href="https://www.facebook.com/LINCTas"><img class="socialicons" src="/Style Library/Images/social-logo-facebook@1x.png" alt="LINC Tasmania on Facebook" title="LINC Tasmania on Facebook"></a>
+			                            <a href="http://www.youtube.com/user/LINCTasmania"><img class="socialicons" src="/Style Library/Images/social-logo-youtube@1x.png" alt="LINC Tasmania on YouTube" title="LINC Tasmania on YouTube"></a>
+			                            <a href="https://www.instagram.com/tasarchivesandheritage/"><img class="socialicons" src="/Style Library/Images/social-logo-instagram@1x.png" alt="LINC Tasmania on Instagram" title="LINC Tasmania on Instagram"></a>
+			                            <a href="https://www.flickr.com/photos/107895189@N03/"><img class="socialicons" src="/Style Library/Images/social-logo-flickr@1x.png" alt="LINC Tasmania on Flickr" title="LINC Tasmania on Flickr"></a>
+			                            <a href="https://www.eventbrite.com.au/d/tasmania/linc/"><img class="socialicons" src="/Style Library/Images/social-logo-eventbrite@1x.png" alt="LINC Tasmania on Eventbrite" title="LINC Tasmania on Eventbrite"></a>
+			                            <a href="https://www.historypin.org/en/person/39068"><img class="socialicons" src="/Style Library/Images/historypin-icon.png" alt="LINC Tasmania on Historypin" title="LINC Tasmania on Historypin"></a>
+			                            <a href="https://soundcloud.com/linc-tasmania"><img class="socialicons" src="/Style Library/Images/soundcloud-icon.png" alt="LINC Tasmania on Soundcloud" title="LINC Tasmania on Soundcloud"></a>
+			                            <a href="https://archivesandheritageblog.linc.tas.gov.au/"><img class="socialicons" style="margin-left: 8px;" src="/Style Library/Images/blog-icon.png" alt="Tasmanian Archives and Heritage Blog" title="Tasmanian Archives and Heritage Blog"></a>
+									   </div>
+									   
+								   </div>
+								</div>
+								</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <!--end workspace-->
+            <div id="DeltaFormDigest">
+	
+                
+					<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0x3418A7FB2B53A0DFBB964E031281ED382AB02786ABFD1F879CA99A6C2DADA9257C07EBA8C5DE99733AC4BBE56F7FEF980EEED045AB74BA3A76048BA908F6A76F,23 Oct 2017 21:42:10 -0000';
+            g_updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+                
+            
+</div>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);
+if (typeof(_spBodyOnLoadFunctionNames) != "undefined") {
+if (_spBodyOnLoadFunctionNames != null) {
+_spBodyOnLoadFunctionNames.push("ExpDataViewGroupOnPageLoad");
+}
+}function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
+function loadMDN1() { ExecuteOrDelayUntilScriptLoaded(loadMDN2, 'sp.ribbon.js'); }
+_spBodyOnLoadFunctionNames.push('loadMDN1');
+function _spNavigateHierarchyEx(nodeDiv, dataSourceId, dataPath, url, listInContext, type, additionalQString) {
+    CoreInvoke('SetAdditionalNavigateHierarchyQString', additionalQString);
+    g_originalSPNavigateFunc(nodeDiv, dataSourceId, dataPath, url, listInContext, type);
+}
+
+g_originalSPNavigateFunc = _spNavigateHierarchy;
+_spNavigateHierarchy = _spNavigateHierarchyEx;
+var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{33705e64-79f2-44e3-9b0d-2b859d6263a0}",itemId: 4,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: true,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var databaseBtnText = '';var databaseBtnDesc = '';var fDBInstalled = false;var ExpDatabase = GetDataBaseInstalled();
+try{ 
+databaseBtnText = ExpDatabase.MenuTitle;databaseBtnDesc = ExpDatabase.MenuDescription;fDBInstalled = true;
+} catch(e){}
+window.CoreJsApiPresent = true;
+window.ExecuteOrDelayUntilScriptLoaded && ExecuteOrDelayUntilScriptLoaded(function()
+{
+    var fnReg = JsApi.ExtensibilityManager._RegisterFilesForNamespace;
+    var ns = 'SP.SPGantt.InstrumentedApi'; var api = 'GanttSharedApi.generated.js'; var shim = 'GanttApiShim.generated.js';
+    RegisterSodDep(shim, api);
+                                  
+    fnReg(ns, api, ns + '.ClientApi', 1);
+    fnReg(ns, shim, ns + '.ShimPlaceholder', 2);
+}, 
+                             'JsApiExtensibilityManager.js');Type.registerNamespace('SP.SPGantt.InstrumentedApi');
+              SP.SPGantt.InstrumentedApi.ExecuteWithJsApiLoaded = function(fn) { var fnEx = window.ExecuteOrDelayUntilScriptLoaded && ExecuteOrDelayUntilScriptLoaded; fnEx && fnEx(function() { JsApi.ExtensibilityManager.ExecuteWithJsApisInNamespaceLoaded('SP.SPGantt.InstrumentedApi', fn); }, 'JsApiExtensibilityManager.js'); };function _cUpdx74bbee6762f840edad4fe46f496d8c78(){var myd = null; if (typeof(datax74bbee6762f840edad4fe46f496d8c78) != 'undefined') {myd = datax74bbee6762f840edad4fe46f496d8c78;} var myc = document.getElementById('ctl00_x74bbee6762f840edad4fe46f496d8c78');_cUpdcx74bbee6762f840edad4fe46f496d8c78(myd, myc);}function _cUpdcx74bbee6762f840edad4fe46f496d8c78(data, ctrl){SiteLogoImagePageUpdate(ctrl, data);}var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
+var g_clientIdDeltaPlaceHolderPageTitleInTitleArea = "DeltaPlaceHolderPageTitleInTitleArea";
+var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+g_QuickLaunchControlIds.push("zz1_TopNavigationMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz1_TopNavigationMenu = null; function init_zz1_TopNavigationMenu() { if (g_zz1_TopNavigationMenu == null) g_zz1_TopNavigationMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz1_TopNavigationMenu')); } if(g_spPreFetchKeys) {{ g_spPreFetchKeys.push('SP.Core.js');}}EnsureScriptFunc('SP.Core.js', 'SP.UI.AspMenu', init_zz1_TopNavigationMenu);
+g_QuickLaunchControlIds.push("zz3_V4QuickLaunchMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz3_V4QuickLaunchMenu = null; function init_zz3_V4QuickLaunchMenu() { if (g_zz3_V4QuickLaunchMenu == null) g_zz3_V4QuickLaunchMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz3_V4QuickLaunchMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz3_V4QuickLaunchMenu, 'SP.Core.js');
+function _initTRAWebPartWPQ1()
+{var toolbarData = new Object();toolbarData['ToolbarData'] = "[{'Command':'ExportToSpreadsheet','ClickScript':'javaScript:ExportList\\u0028\\u0027\\\\u002f_vti_bin\\\\u002fowssvr.dll?CS=65001\\\\u0026Using=_layouts\\\\u002f15\\\\u002fquery.iqy\\\\u0026List=\\\\u00257BF05E9D0C\\\\u00252D51EF\\\\u00252D4611\\\\u00252DA6D4\\\\u00252D00489D4444FC\\\\u00257D\\\\u0026View=\\\\u00257BEF60E021\\\\u00252D3990\\\\u00252D4E8E\\\\u00252DAF8F\\\\u00252D12DE1E5675C1\\\\u00257D\\\\u0026RootFolder=\\\\u00252FLists\\\\u00252FHome\\\\u002520Page\\\\u002520Tiles\\\\u0026CacheControl=1\\u0027\\u0029','LabelText':'Export to Spreadsheet','Description':'Analyze items with a spreadsheet application.'},{'Command':'ExportToDatabase','ClickScript':'javaScript:ExportToDatabase\\u0028\\u0027\\\\u002f_vti_bin\\\\u002fowssvr.dll?CS=65001\\u0027,\\u0027{F05E9D0C-51EF-4611-A6D4-00489D4444FC}\\u0027,\\u0027{EF60E021-3990-4E8E-AF8F-12DE1E5675C1}\\u0027, false\\u0029','HiddenScript':'!fDBInstalled'}]";
+toolbarData['ViewDropDownOptions']="{showRepairView : false, showMergeView : false, showEditView: false, showCreateView: false, showApproverView:  false, listId: '{F05E9D0C-51EF-4611-A6D4-00489D4444FC}', viewId: '{EF60E021-3990-4E8E-AF8F-12DE1E5675C1}', viewParameters: ''}";
+toolbarData['ViewId']='ef60e021-3990-4e8e-af8f-12de1e5675c1';
+toolbarData['ViewName']='';
+toolbarData['ViewReadOnly']='true';
+toolbarData['BaseViewId']='1';
+toolbarData['ListId']='f05e9d0c-51ef-4611-a6d4-00489d4444fc';
+toolbarData['ListEnableAttachments']='False';
+toolbarData['ListBaseType']='0';
+toolbarData['ListTemplateType']='170';
+toolbarData['ListPermissions']='{High:16,Low:196673}';
+toolbarData['ListFolderPermissions']='{High:16,Low:196673}';
+toolbarData['ListHasExternalDataSource']='False';
+toolbarData['ServerRelativeWebUrl']='\u002f';
+toolbarData['IsAppWeb']=false;
+SP.Ribbon.PageManager.get_instance().addPageComponent(new SP.Ribbon.GenericListWebPartPageComponent('WebPartWPQ1',toolbarData));
+}
+ExecuteOrDelayUntilScriptLoaded(_initTRAWebPartWPQ1, "sp.ribbon.js");
+          ctx = new ContextInfo();
+          ctx.wpq= "WPQ1";
+          ctx.Templates = {};
+          ctx.ListData = null;
+          ctx.ListSchema = null;
+          ctx.BaseViewID = 1;
+          ctx.ListTemplateType = 170;
+          
+          ctx.existingServerFilterHash = ajaxNavigate.getParam("ServerFilter");
+          if (null != ctx.existingServerFilterHash) {
+            ctx.existingServerFilterHash = ctx.existingServerFilterHash.replace(/-/g, '&').replace(/&&/g, '-');
+            var serverFilterRootFolder = GetUrlKeyValue("RootFolder", true,ctx.existingServerFilterHash);
+            var currentRootFolder = GetUrlKeyValue("RootFolder", true);
+            if("" == serverFilterRootFolder && "" != currentRootFolder)
+            {
+              ctx.existingServerFilterHash += "&RootFolder=" + currentRootFolder;
+            }
+            var uri=new URI(ajaxNavigate.get_href());
+            uri.setFragment("");
+            uri.setQuery(ctx.existingServerFilterHash);
+            STSNavigate(uri.getString());
+          }
+          
+              ctx.listBaseType = 0;
+          
+            ctx.noGroupCollapse = true;
+          
+          ctx.NavigateForFormsPages = true;
+          ctx.BasePermissions = {ManageLists: false, ManagePersonalViews: false, OpenItems: false};
+          ctx.CurrentUserIsSiteAdmin = false;
+          ctx.IsAppWeb = false;
+          ctx.AllowGridMode = false;
+          ctx.inGridMode = false;
+          ctx.listTemplate = "170";
+          ctx.listName = "{F05E9D0C-51EF-4611-A6D4-00489D4444FC}";
+          ctx.rootFolder = "";
+          ctx.view = "{EF60E021-3990-4E8E-AF8F-12DE1E5675C1}";
+          ctx.viewTitle = "";
+          ctx.listUrlDir = "/Lists/Home%20Page%20Tiles";
+          ctx.HttpPath = "https://www.linc.tas.gov.au/_vti_bin/owssvr.dll?CS=65001";
+          ctx.HttpRoot = "https://www.linc.tas.gov.au";
+          ctx.imagesPath = "/_layouts/15/images/";
+          ctx.PortalUrl = "";
+          ctx.SendToLocationName = "";
+          ctx.SendToLocationUrl = "";
+          
+              ctx.RecycleBinEnabled = 1;
+            
+          ctx.OfficialFileName = "";
+          ctx.OfficialFileNames = "";
+          ctx.WriteSecurity = "1";
+          ctx.SiteTitle = "LINC Tasmania";
+          ctx.ListTitle = "Home Page Tiles";
+          if (ctx.PortalUrl == "") ctx.PortalUrl = null;
+          ctx.displayFormUrl = "https://www.linc.tas.gov.au/_layouts/15/listform.aspx?PageType=4&ListId=%7BF05E9D0C%2D51EF%2D4611%2DA6D4%2D00489D4444FC%7D";
+          ctx.newFormUrl = "https://www.linc.tas.gov.au/_layouts/15/listform.aspx?PageType=8&ListId=%7BF05E9D0C%2D51EF%2D4611%2DA6D4%2D00489D4444FC%7D&RootFolder=";
+          ctx.editFormUrl = "https://www.linc.tas.gov.au/_layouts/15/listform.aspx?PageType=6&ListId=%7BF05E9D0C%2D51EF%2D4611%2DA6D4%2D00489D4444FC%7D";
+          ctx.isWebEditorPreview = 0;
+          ctx.ctxId = 223;
+          ctx.isXslView = true;
+          
+                  ctx.FolderRight_AddListItems = "0";
+                
+          if (g_ViewIdToViewCounterMap["{EF60E021-3990-4E8E-AF8F-12DE1E5675C1}"] == null)
+              g_ViewIdToViewCounterMap["{EF60E021-3990-4E8E-AF8F-12DE1E5675C1}"]= 223;
+          ctx.CurrentUserId = -1;
+          
+            ctx.WorkflowsAssociated = true;
+          
+          ctx.RegionalSettingsTimeZoneBias = "-600";
+          
+          ctx223 = ctx;
+          g_ctxDict['ctx223'] = ctx;
+      //]]>
+</script>
+</form>
+        <span id="DeltaPlaceHolderUtilityContent">
+            
+        </span>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) 
+        <script type="text/javascript" src="/Style Library/ResponsiveServer/Bootstrap3/js/jquery-1.9.1.js" ></script> -->
+
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script type="text/javascript" src="/Style Library/ResponsiveServer/Bootstrap3/js/bootstrap3.min.js" ></script>
+        <script type="text/javascript" src="/Style Library/ResponsiveServer/Bootstrap3/js/bootstrap3-custom.js" ></script> 
+    	<script type="text/javascript" src="/Style%20Library/LINC/JS/thirdparty/jquery.columnizer.js"></script>
+    	    	    	
+    	<script>
+    	
+    	//redirect to login
+    	
+    	var adminredirect = window.location.href.toLowerCase();
+    	var adminredirect = adminredirect.split('/pages/')[0];
+    	
+    	if (window.location.href.indexOf('?admin') != -1)
+    	window.location.href = adminredirect.split('?')[0] + '/_layouts/15/Authenticate.aspx';
+    	
+		</script>
+    	
+		        	
+    </body>
+</html>

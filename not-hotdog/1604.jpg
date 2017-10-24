@@ -1,0 +1,535 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>没有找到您所要的页面</title>
+<link rel="stylesheet" href="http://www.21food.cn/style/2016/base.css" style="text/css">
+<link rel="stylesheet" href="http://www.21food.cn/style/2016/header.css" style="text/css">
+<link rel="stylesheet" href="http://www.21food.cn/style/2016/footer.css" style="text/css">
+<link rel="stylesheet" href="http://www.21food.cn/style/2016/menu.css" style="text/css">
+<link href="http://www.21food.cn/style/2016/main.css" rel="stylesheet" type="text/css" />
+<link href="http://www.21food.cn/style/2016/layout.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.21food.cn/script/2016/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="http://www.21food.cn/script/2016/header.js"></script>  
+<script type="text/javascript" src="http://www.21food.cn/script/search.js"></script>
+<script src="http://www.21food.cn/tradeonline/js/ajax.js" type="text/javascript"></script>
+<script src="http://www.21food.cn/tradeonline/js/topV2.js" type="text/javascript"></script>
+<!--[if IE 6]>
+<script type="text/javascript" src="js/DD_belatedPNG.js"></script>
+<script type="text/javascript">  
+    DD_belatedPNG.fix('.png_bg');  
+</script>
+<![endif]-->
+ <script type="text/javascript">
+	topMenu();
+
+	function toMemberURL(obj,url)
+	{
+		obj.href="http://my.21food.cn/" + url;
+	}
+
+	
+	function toLogin(){
+		var preUrl = encodeURI(encodeURI(document.location.href));
+		document.location.href="http://my.21food.cn/login!toLogin.action?pre_url="+preUrl;
+	}
+	
+	 //删除采购单产品
+	   function deleteShopCardPro(proId){
+	 		 var token = '';
+	 		 var tr = document.getElementById("top_pro_"+proId);
+	 		 tr.style.display = "none";
+		 	 doAjax({
+				  method : 'get',
+				  url : '/tradeonline/jsp/shopping/shopcar_service.jsp',
+				  data: {action:'delPro',token:token, pro_id:proId},
+				  success : function (code) {
+		          		if(code=='200' || code==200){//成功
+			          		if(document.title=="我的采购单")
+			          		{
+			          			parent.location.reload();return;
+				          	}
+		          			//顶部
+	                    	var topCarProNum = document.getElementById("topCarProNum").innerHTML;
+	                    	topCarProNum = eval(topCarProNum)-1;
+	                    	if(topCarProNum<0){
+	                    		topCarProNum = 0;
+	                    	}
+	                    	document.getElementById("topCarProNum").innerHTML=topCarProNum;
+	                    	refcgd();
+		          		}
+				  },
+				  async : true
+			});        
+		}
+
+
+   function loginOut(){
+		var preUrl = encodeURI(encodeURI(document.location.href));
+		document.location.href="/member/quit_v2.jsp?pre_url="+preUrl;
+	}
+	
+</script>
+</head>
+<body>
+ <div class="header">
+  <div class="top_zxx_main">
+   <div class="fl_zxx"><span>欢迎来到食品商务网，</span><a href="javascript:void(0)" class="mf_zce" onclick="toLogin()">登录</a><a href="http://my.21food.cn/register!toRegister.action" class="mf_zce">免费注册</a></div><!--fl-->
+   <em class="wap_phone" style="z-index:0">手机版
+    <div class="wet" style="display: none;"><img src="http://www.21food.cn/images/wet.jpg"></div><!--wet-->
+   </em>
+  <div class="fr_zxx">
+   <dl id="topMenu">
+    <dd><a href="http://www.21food.cn" class="zx_inde">网站首页</a></dd>
+    <dd><span>|</span></dd>
+    <dd><a href="http://my.21food.cn/index!index.action" class="zx_pkv" rel="nofollow">我的商务室</a>
+     <div class="nav_two_t nav_two_to">
+      <table width="270" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+        <td width="100" height="20" valign="middle" align="left"><strong>采购代理</strong></td>
+        <td width="100" height="20" valign="middle" align="left"><strong>供应招商</strong></td>
+        <td width="100" height="20" valign="middle" align="left"><strong>账户信息</strong></td>
+      </tr>
+      <tr>
+        <td height="20" valign="middle"><a href="http://my.21food.cn/orders!ordersBuyList.action" rel="nofollow" target="_blank">已购买的产品</a></td>
+        <td height="20" valign="middle"><a href="http://my.21food.cn/orders!ordersSaleList.action" rel="nofollow" target="_blank">已卖出的产品</a></td>
+        <td height="20" valign="middle"><a href="http://my.21food.cn/company!index.action" rel="nofollow" target="_blank">公司信息管理</a></td>
+      </tr>
+      <tr>
+        <td height="20" valign="middle"><a href="http://my.21food.cn/post!buy.action" target="_blank" rel="nofollow">发布求购信息</a></td>
+        <td height="20" valign="middle"><a href="http://my.21food.cn/post!product.action" target="_blank" rel="nofollow">发布产品信息</a></td>
+        <td height="20" valign="middle"><a href="http://my.21food.cn/quality_certification!index.action" target="_blank" rel="nofollow">认证管理</a></td>
+      </tr>
+      <tr>
+        <td height="20" valign="middle"><a href="http://my.21food.cn/business_manage!exchangesList.action" target="_blank" rel="nofollow">求购信息管理</a></td>
+        <td height="20" valign="middle"><a href="http://my.21food.cn/product!productsList.action" target="_blank" rel="nofollow">产品信息管理</a></td>
+        <td height="20" valign="middle"><a href="http://my.21food.cn/account!fundsIndex.action" target="_blank" rel="nofollow">资金账户</a></td>
+      </tr>
+      <tr>
+        <td height="20" valign="middle"><a href="http://my.21food.cn/business_manage!exchangesList.action" target="_blank" rel="nofollow">代理信息管理</a></td>
+        <td height="20" valign="middle"><a href="http://my.21food.cn/business_manage!exchangesList.action" target="_blank" rel="nofollow">招商信息管理</a></td>
+        <td height="20" valign="middle"><a href="#" target="_blank" rel="nofollow">&nbsp;</a></td>
+      </tr>
+     </table>
+     </div><!--nav_two_t-->
+    </dd>
+    <dd style="z-index:0"><span>|</span></dd>
+    <dd><a href="javascript:void(0)" onclick="toLogin()" class="zx_pkvg" rel="nofollow"><em>采购单</em><i id="topCarProNum">0</i></a>
+     <div class="nav_two_t nav_two_cgdv">
+      <div id="cgd_top"><table width="315" border="0" cellpadding="0" cellspacing="0"><tbody></tbody></table><div id="cgd_proids" data="" num="0" class="nt_cgd_tb"><button type="button" onclick="toLogin()" value="查看我的采购单" style="color: #fff;background: #ff8400;border:none;" class="nt_g_ckd_2">查看我的采购单</button><span><em>0</em>种产品，共<em>0</em>件  </span></div></div><!--nt_cgd_tb-->
+     </div><!--nav_two_t-->
+    </dd>
+    <dd><span>|</span></dd>
+    <dd style="z-index:0"><a href="#" class="zx_pkv">收藏夹</a>
+     <div class="nav_two_t nav_two_to" style="display: none;">
+      <ul>
+       <li><a href="http://my.21food.cn/message!listFavorites.action" rel="nofollow">收藏产品</a></li>
+       <li><a href="http://my.21food.cn/message!listFavorites.action?type=enterprise" rel="nofollow">收藏企业</a></li>
+      </ul>
+     </div><!--nav_two_t-->
+    </dd>
+    <dd><span>|</span></dd>
+    <dd><a href="javascript:void(0);" class="zx_pkv">网站服务</a>
+     <div class="nav_two_t nav_two_to">
+      <table width="180" border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td width="90" height="25" valign="middle"><a href="http://www.21food.cn/special/member_service/" rel="nofollow">VIP会员服务</a></td>
+        <td width="90" height="25" valign="middle"><a href="http://www.21food.cn/about/media/" rel="nofollow">媒体宣传</a></td>
+       </tr>
+       <tr>
+        <td height="20" valign="middle"><a href="http://www.21food.cn/special/ad_service/" target="_blank" rel="nofollow">广告服务</a></td>
+        <td height="20" valign="middle"><a href="http://wx.21food.cn" target="_blank" rel="nofollow">微信营销通</a></td>
+      </tr>
+      <tr>
+        <td height="20" valign="middle"><a href="http://www.21food.cn/special/website_build/" target="_blank" rel="nofollow">网站建设</a></td>
+        <td height="20" valign="middle"><a href="/special/buyer_meet/" target="_blank" rel="nofollow">买家见面会</a></td>
+      </tr>
+      <tr>
+        
+        <td height="20" valign="middle"><a href="http://www.21food.cn/special/journal/" target="_blank" rel="nofollow">网刊推广</a></td>
+        <td height="20" valign="middle"><a href="http://www.21food.cn/special/overseas_fair/" target="_blank" rel="nofollow">海外参展</a></td>
+      </tr>
+      </table>
+      </div><!--nav_two_t-->
+     </dd>
+     <dd><span>|</span></dd>
+     <dd><a href="http://www.21food.cn/help/help_problem.html" class="zx_pkv">客服中心</a>
+      <div class="nav_two_t nav_two_tf">
+       <ul>
+	      <li><a href="http://www.21food.cn/help/help_center.html" target="_blank" rel="nofollow">买家帮助</a></li>
+	       <li><a href="http://www.21food.cn/help/help_seller.html" target="_blank" rel="nofollow">卖家帮助</a></li>
+	       <li><a href="http://www.21food.cn/help/help_problem.html" target="_blank" rel="nofollow">常见问题</a></li>
+	       <li><a href="http://www.21food.cn/help/help_contact.html" target="_blank" rel="nofollow">联系我们</a></li>
+        </ul>
+       </div><!--nav_two_t-->
+      </dd>
+      <dd><span>|</span></dd>
+      <dd><a href="#" class="zx_pkv">网站导航</a>
+     <div class="nav_two_t nav_two_tov">
+      <table width="160" border="0" cellpadding="0" cellspacing="0">
+       <tr>
+        <td width="40" height="25" valign="middle"><a href="http://www.21food.cn">首页</a></td>
+        <td width="40" height="25" valign="middle"><a href="http://zs.21food.cn/">招商</a></td>
+        <td width="40" height="25" valign="middle"><a href="http://www.21food.cn/product/">产品</a></td>
+        <td width="40" height="25" valign="middle"><a href="http://www.21food.cn/company/">企业</a></td>
+       </tr>
+      <tr>
+        <td width="40" height="25" valign="middle"><a href="http://www.21food.cn/trade/">供应</a></td>
+        <td width="40" height="25" valign="middle"><a href="http://www.21food.cn/trade/mai.htm">求购</a></td>
+        <td width="40" height="25" valign="middle"><a href="http://www.21food.cn/quote/">报价</a></td>
+        <td width="40" height="25" valign="middle"><a href="http://www.21food.cn/news/market.htm">行情</a></td>
+       </tr>
+      <tr>
+        <td width="40" height="25" valign="middle"><a href="http://www.21food.cn/news/">资讯</a></td>
+        <td width="40" height="25" valign="middle"><a href="http://www.21food.cn/brands/">品牌</a></td>
+        <td width="40" height="25" valign="middle"><a href="http://www.21food.cn/exhibition/">会展</a></td>
+        <td width="40" height="25" valign="middle"><a href="http://www.21food.cn/hot/">热门</a></td>
+       </tr>
+       <tr><td width="160" height="25" valign="middle" bgcolor="#ededed" colspan="4"><strong>行业频道</strong></td></tr>
+       <tr>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://jixie.21food.cn">食品机械</a></td>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://baozhuang.21food.cn">食品包装</a></td>
+       </tr>
+       <tr>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://tjj.21food.cn">食品添加剂</a></td>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://scp.21food.cn">水产品频道</a></td>
+       </tr>
+       <tr>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://rzp.21food.cn">乳制品频道 </a></td>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://baojian.21food.cn">保健食品</a></td>
+       </tr>
+       <tr>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://dianfen.21food.cn">淀粉</a></td>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://guoshu.21food.cn">果蔬</a></td>
+       </tr>
+       <tr>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://liangshi.21food.cn">粮食</a></td>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://xiuxian.21food.cn">休闲食品</a></td>
+       </tr>
+       <tr>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://fangbian.21food.cn">方便食品 </a></td>
+        <td width="80" height="25" valign="middle" colspan="2"><a href="http://guantou.21food.cn">罐头食品</a></td>
+       </tr>
+      </table>
+     </div><!--nav_two_t-->
+    </dd>
+      <dd><span>|</span></dd>
+      <dd><a href="http://www.21food.com/">ENGLISH</a></dd>
+     </dl>
+    </div><!--fr-->
+   </div><!--top_zxx_main-->
+ </div><!-- header -->
+ <script type="text/javascript">
+   $(document).click(function(){
+ 	if ($(".jat_mnt").css("display") != "none") $(".jat_mnt").hide();
+ 	 });
+	$(document).ready(function () {
+	$(".jag_ttt").click(function (event) {
+			if ($(".jat_mnt").css("display") == "none") {
+				$(".jat_mnt").show();
+			}
+			else {
+				$(".jat_mnt").hide();
+			}
+			 event.stopPropagation();
+		});
+		$(".jat_mnt li").click(function (event) {
+			$tt = $(this);
+			$(".valt").val($tt.data("val"));
+			$(".valt_name").text($tt.data("txt"));
+			$(".jat_mnt").hide();
+			event.stopPropagation();
+		});
+	});
+ </script>
+ <div class="content_p content_prod">
+  <div class="main_top">
+   <div class="top_t_l"><a href="http://www.21food.cn"><img src="http://www.21food.cn/tradeonline/images/v3/images/logo.jpg" /></a></div><!--top_t_l-->
+   <div class="top_t_r">
+    <div class="top_t_rl">
+	  <div class="jag_right">
+	   <form name="topNavSearch" method="GET" onSubmit="return f_topnavsearch(this);" action="http://www.21food.cn/placehoder.jsp">
+	   <div class="jag_ttt">
+		<span class="valt_name">产品</span>
+		<input type="hidden" class="valt" value="product" name="searchItem" id="searchItem" />
+	    </div><!--jag_ttt-->
+        <ul class="jat_mnt">
+         <li data-txt="产品" data-val="product">产品</li>
+         <li data-txt="求购" data-val="sell">求购</li>
+         <li data-txt="供应商" data-val="buy">供应商</li>
+         <li data-txt="资讯" data-val="news">资讯</li>
+        </ul>
+       </div><!--jag_right-->
+       <div class="select_key">
+	    <input name="keys" type="text" id="keys2" class="txt_ser" value="请输入您需要查找的关键字" onfocus="if(this.value =='请输入您需要查找的关键字'){this.value =''}" onblur="if (this.value ==''){this.value='请输入您需要查找的资讯'}" 
+	    onkeydown="if(event.keyCode == 13&&currentSelIndex!=-1)return false;"/>
+        <ul class="ulItems" id="ulItems" style="display:none;"></ul>
+       </div><!--select_key-->
+      <input name="" type="submit" class="txt_btnm" value="搜索" />
+       </form>
+                       <script language="javascript">
+
+
+                    function f_topnavsearch(form){
+                        var regex = /^\s+|\s+$/;
+                        var e = form.elements['keys'];
+                        e.value = e.value.replace(regex,'');
+                        if(e.value.length<1 || e.value.indexOf('输入关键')>=0 || e.value.indexOf('输入搜索')>=0){
+                            alert('请输入关键词');e.focus();return false;
+                        }
+                        if(document.getElementById("type") != null)
+                        {
+                            if(e.value.length <=1) {alert('最少输入2个搜索关键字');e.focus();return false;}
+                        }
+                        setCookie("searchkey",e.value);
+                        return true;
+                    }
+                </script>
+     </div><!--top_t_rl--> 
+    <a href="http://www.21food.cn/trade/post_buy_info.jsp" class="weitu">委托找货</a>
+   </div><!--top_t_r-->
+  </div><!--main_top-->
+  <div class="main_nav">
+   <dl>
+    <dd><a href="http://www.21food.cn/product/">产品</a></dd>
+    <dd><a href="http://zs.21food.cn/">招商</a></dd>
+    <dd><a href="http://www.21food.cn/trade/mai.htm">采购</a></dd>
+    <dd><a href="http://www.21food.cn/trade/">供应</a></dd>
+    <dd><a href="http://www.21food.cn/company/">企业</a></dd>
+    <dd><a href="http://news.21food.cn/">资讯</a></dd>
+    <dd><a href="http://www.21food.cn/exhibition/">展会</a></dd>
+   </dl>
+  </div><!--main_nav--> 
+  <div class="error_main">
+   <div class="error_min_t">
+    <div class="error_min_t_left"><img src="http://www.21food.cn/images/2016/er_pkq.jpg" /></div><!--error_min_t_left-->
+    <div class="error_min_t_right">
+     <span>Error 404</span>
+     <em>抱歉没有找到相关结果或您要访问的页面不存在！</em>
+     <i>有可能我们的网页 已删除，或已改名，或暂时不可用。</i>
+     <i class="op_l_lk">请尝试以下操作：<br/>
+        1.如果您已经在地址栏中输入该网页的地址，请确认其拼写正确。<br/> 
+        2.打开主页<a href="http://www.21food.cn">http://www.21food.cn</a>，然后查找指向您感兴趣的链接。<br/> 
+        3.单击后退按钮，尝试其他链接。
+     </i>
+    </div><!--error_min_t_right-->
+   </div><!--error_min_t-->
+   <div class="error_min_b">
+    <div class="error_min_bt"><span>分类浏览</span><a href="http://www.21food.cn/product/">更多&gt;&gt;</a></div><!--error_min_bt-->
+    <div class="error_min_bb">
+     <dl>
+      <dd>
+       <span class="plv_k1"><a href="http://www.21food.cn/product/productlist01.html">农牧鱼类</a></span>
+       <em><a href="http://www.21food.cn/product/productlist01008.html">食用菌</a>
+		
+			<a href="http://www.21food.cn/product/productlist01003.html">新鲜水果</a>
+		
+			<a href="http://www.21food.cn/product/productlist01002.html">新鲜蔬菜</a>
+		
+			<a href="http://www.21food.cn/product/productlist01006.html">鲜活畜禽</a>
+		
+			<a href="http://www.21food.cn/product/productlist01001.html">粮食</a>
+		
+			<a href="http://www.21food.cn/product/productlist01005.html">鲜活水产品</a>
+		
+			<a href="http://www.21food.cn/product/productlist01004.html">干果、坚果</a>
+		
+			<a href="http://www.21food.cn/product/productlist01007.html">蛋类</a>
+		
+			<a href="http://www.21food.cn/product/productlist01009.html">咖啡豆、可可</a>
+		
+			<a href="http://www.21food.cn/product/productlist01999.html">其他农牧渔类</a>
+	</em>
+      </dd>
+      <dd>
+       <span class="plv_k2"><a href="http://www.21food.cn/product/productlist03.html">食品类</a></span>
+       <em><a href="http://www.21food.cn/product/productlist03007.html">酒类</a>
+		
+			<a href="http://www.21food.cn/product/productlist03010.html">休闲食品</a>
+		
+			<a href="http://www.21food.cn/product/productlist02015.html">调味品</a>
+		
+			<a href="http://www.21food.cn/product/productlist03003.html">乳制品</a>
+		
+			<a href="http://www.21food.cn/product/productlist03006.html">饮料、饮品</a>
+		
+			<a href="http://www.21food.cn/product/productlist03002.html">豆制品</a>
+		
+			<a href="http://www.21food.cn/product/productlist03009.html">方便食品</a>
+		
+			<a href="http://www.21food.cn/product/productlist03001.html">肉制品</a>
+		
+			<a href="http://www.21food.cn/product/productlist03012.html">罐头食品</a>
+		
+			<a href="http://www.21food.cn/product/productlist02016.html">提取物</a>
+		
+			<a href="http://www.21food.cn/product/productlist03011.html">滋补保健品</a>
+		
+			<a href="http://www.21food.cn/product/productlist03004.html">蛋制品</a>
+		
+			<a href="http://www.21food.cn/product/productlist03999.html">其他深加工类</a>
+</em>
+      </dd>
+      <dd>
+       <span class="plv_k3"><a href="http://www.21food.cn/product/productlist04.html">食品机械</a></span>
+       <em><a href="http://www.21food.cn/product/productlist04001.html">通用设备</a>
+		
+			<a href="http://www.21food.cn/product/productlist04002.html">专用设备</a>
+		
+			<a href="http://www.21food.cn/product/productlist04004.html">食品包装设备</a>
+		
+			<a href="http://www.21food.cn/product/productlist04003.html">试验设备</a>
+		
+			<a href="http://www.21food.cn/product/productlist04999.html">其他食品机械</a>
+</em>
+      </dd>
+      <dd>
+       <span class="plv_k4"><a href="http://www.21food.cn/product/productlist05.html">食品包装</a></span>
+       <em><a href="http://www.21food.cn/product/productlist05001.html">纸质材料类</a>
+		
+			<a href="http://www.21food.cn/product/productlist05002.html">玻璃及陶瓷类</a>
+		
+			<a href="http://www.21food.cn/product/productlist05003.html">塑料类</a>
+		
+			<a href="http://www.21food.cn/product/productlist05004.html">金属材料类</a>
+		
+			<a href="http://www.21food.cn/product/productlist05005.html">复合膜类</a>
+		
+			<a href="http://www.21food.cn/product/productlist05006.html">木质材料类</a>
+		
+			<a href="http://www.21food.cn/product/productlist05999.html">其他食品包装</a>
+</em>
+      </dd>
+     </dl>
+     <dl class="last_pok">
+      <dd>
+       <span class="plv_k5"><a href="http://www.21food.cn/product/productlist02.html">食品配料</a></span>
+       <em><a href="http://www.21food.cn/product/productlist03019.html">肉类</a>
+		
+			<a href="http://www.21food.cn/product/productlist03018.html">茶叶</a>
+		
+			<a href="http://www.21food.cn/product/productlist02007.html">淀粉类</a>
+		
+			<a href="http://www.21food.cn/product/productlist03017.html">米面类</a>
+		
+			<a href="http://www.21food.cn/product/productlist02002.html">食用油</a>
+		
+			<a href="http://www.21food.cn/product/productlist03016.html">加工水产品</a>
+		
+			<a href="http://www.21food.cn/product/productlist02004.html">蔬菜制品</a>
+		
+			<a href="http://www.21food.cn/product/productlist02006.html">糖类</a>
+		
+			<a href="http://www.21food.cn/product/productlist02009.html">加工水果</a>
+		
+			<a href="http://www.21food.cn/product/productlist02010.html">馅料</a>
+		
+			<a href="http://www.21food.cn/product/productlist02011.html">蜜制品</a>
+		
+			<a href="http://www.21food.cn/product/productlist02999.html">其他简加工类</a>
+		
+</em>
+      </dd>
+      <dd>
+       <span class="plv_k6"><a href="http://www.21food.cn/product/productlist06.html">食品添加剂</a></span>
+       <em><a href="http://www.21food.cn/product/productlist06001.html">增稠剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06002.html">着色剂、护色剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06003.html">香精、香料</a>
+		
+			<a href="http://www.21food.cn/product/productlist06004.html">甜味剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06005.html">防腐剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06006.html">抗氧化剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06007.html">乳化剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06008.html">保鲜剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06009.html">酸味剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06010.html">膨松剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06011.html">漂白剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06012.html">水分保持剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06013.html">营养强化剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06014.html">品质改良剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06015.html">稳定剂、凝固剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06016.html">酶制剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06017.html">消泡剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06018.html">抗结剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06019.html">被膜剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06020.html">干燥剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06021.html">发酵剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06022.html">增味剂</a>
+		
+			<a href="http://www.21food.cn/product/productlist06999.html">其他食品添加剂</a>
+	</em>
+      </dd>
+      <dd>
+       <span class="plv_k7"><a href="http://www.21food.cn/product/productlist09.html">商业服务</a></span>
+       <em>
+			<a href="http://www.21food.cn/product/productlist09001.html">广告服务</a>
+		
+			<a href="http://www.21food.cn/product/productlist09002.html">信息咨询</a>
+		
+			<a href="http://www.21food.cn/product/productlist09003.html">外贸服务</a>
+		
+			<a href="http://www.21food.cn/product/productlist09004.html">经济技术合作</a>
+		
+			<a href="http://www.21food.cn/product/productlist09005.html">教育培训</a>
+		
+			<a href="http://www.21food.cn/product/productlist09006.html">运输仓储</a>
+		
+			<a href="http://www.21food.cn/product/productlist09007.html">物流配送</a>
+		
+			<a href="http://www.21food.cn/product/productlist09008.html">冷温库</a>
+		
+			<a href="http://www.21food.cn/product/productlist09009.html">认证服务</a>
+		
+			<a href="http://www.21food.cn/product/productlist09999.html">其他商业服务</a>
+</em>
+      </dd>
+     </dl>
+    </div><!--error_min_bb-->
+   </div><!--error_min_b-->
+  </div><!--error_main-->
+ </div><!--content_p-->
+<div class="footer">
+<a href="http://www.21food.cn/about/about.htm" target="_blank">关于我们</a> |
+		<a href="http://www.21food.cn/special/member_service/" target="_blank">会员服务 </a> |
+	
+		<a href="http://www.21food.cn/special/ad_service/" target="_blank">网站广告</a> |
+		<a href="http://www.21food.cn/about/media/" target="_blank">媒体宣传</a> |
+		<a href="http://www.21food.cn/special/website_build/" target="_blank">网站建设</a> | 
+        <a href="http://wx.21food.cn" target="_blank">微信营销通</a> | 
+		<a href="http://www.21food.cn/special/buyer_meet/" target="_blank">买家见面会</a> |
+		<a href="http://www.21food.cn/special/journal/" target="_blank">网刊推广</a> |
+		<a href="http://www.21food.cn/special/exhibition_spread/" target="_blank">展会推广</a> |
+        
+		<a href="http://www.21food.cn/about/lxwm.htm" target="_blank">联系我们</a> |
+		<a href="http://www.21food.cn/help/help_problem.html" target="_blank">网站帮助</a><br/>
+	
+	<a href="http://www.21food.cn/">食品商务网</a> 版权所有 2002-2016
+	ICP证: 浙B2-20090288-1 
+		
+
+</div>
+
+</body>
+</html>
+<!-- <script src="js/lightbox.js" type="text/javascript"></script> -->
+

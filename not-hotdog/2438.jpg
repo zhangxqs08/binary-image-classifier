@@ -1,0 +1,244 @@
+
+
+<!DOCTYPE html>
+
+<html id="ctl00_htmlRoot" class="no-js" prefix="og: http://ogp.me/ns#" lang="en-US">
+    
+
+    <head>
+        
+
+        <!-- Page Title -->
+        <title>
+	Error | FMG - Local Home Furnishing |  Furniture Store
+</title>
+
+
+        <!-- Meta Data -->
+
+        <meta charset="utf-8"><meta name="verify-v1" content=""><meta name="google-site-verification" content=""><meta name="y_key" content=""><meta name="msvalidate.01" content=""><meta property="og:site_name" content="FMG - Local Home Furnishing">
+
+        <!-- Links (CSS & Icons) -->
+        <link href="/bundles/stylesheets/main?v=ElNA-QT-zwUDNL4OwPnPkDpUD-lSjpRJFu-uCh9gIl41" rel="stylesheet"/>
+<link rel="shortcut icon" href="http://www.localhomefurnishing.com/current/img/icon.ico" />
+
+
+        <!-- Scripts -->
+        <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-3525740-1', 'auto', {'name': 'client','clientId':'0e26c49a-f3e3-4e17-ab24-47f33ec6474a'});ga('create', 'UA-4998364-1', 'auto', {'name': 'fdn','clientId':'0e26c49a-f3e3-4e17-ab24-47f33ec6474a'});ga('client.set', {'dimension8':'False','dimension15':'Portal'});ga('client.send', 'pageview');ga('fdn.set', {'dimension8':'False','dimension15':'Portal'});ga('fdn.send', 'pageview');</script><script type="text/javascript">    var CurrentDealer = {        Id : parseInt("59", 10) || -1,        isResponsive : "False" === "True",        useMobileSite : "False" === "True",        useMobileLink : "False" === "True",        HeaderLayout : parseInt("0", 10) || -1,        FooterLayout : parseInt("0", 10) || -1,        ItemPageLayout : parseInt("1", 10) || -1,        CollectionPageLayout : parseInt("1", 10) || -1,        UseBrowsePageV2 : "False" === "True",        BrowsePageVersion : "v1",        FacebookAppId : "",        FacebookPixelId : "",        GoogleAuthClientId : ""    },    CurrentUser = {        CustomerType : "Unknown",        IsAuthenticated : "False" === "True",        Email : "",        Coords : { Lat : "", Lon : "" },    },    Utils = {        BaseURL : "http://www.localhomefurnishing.com/",        BaseImageUrl : "https://images.furnituredealer.net/img/",        IsDev : "False" === "True",        IsResponsivePage : "False" === "True",        v : "321"    },    Bundles = {        JavaScript : {        },        StyleSheets : {            RoomPlanner : '/bundles/stylesheets/room-planner?v=BCEJJFgKkVZ07buoqr-po2IBuAldaYXClwMG42wBD0E1',            DealerResponsive: '/bundles/stylesheets/dealer-r'        }    };var PageData = {}</script>
+<script type="application/ld+json">
+  {      "@context" : "http://schema.org",      "@type" : "WebSite",      "url" : "http://www.localhomefurnishing.com/",      "potentialAction" : {          "@type" : "SearchAction",          "target" : "search.aspx?keyword={search_term_string}",          "query-input" : "required name=search_term_string"      }  }</script>
+<script src="/bundles/javascript/head?v=plSphWUsV9gb48YDcS3WzQCtO1gtw6NqabWwgy1ZGRs1"></script>
+<script type="text/javascript">window.googleSignInApi = $.Deferred();window.fbLoaded = $.Deferred();window.fbPixel = $.Deferred();</script><script async src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag = googletag || { };googletag.cmd = googletag.cmd || [];</script><script>googletag.cmd.push(function() {googletag.defineSlot('/1056479/StatePortal_Banner_468x60', [468, 60], 'ad-portal-banner').addService(googletag.pubads());googletag.defineSlot('/1056479/Portal_Banner_468x60_2', [468, 60], 'ad-portal-banner-2').addService(googletag.pubads());googletag.defineSlot('/1056479/StatePortal_Banner_728x90', [728, 90], 'ad-portal-leaderboard').addService(googletag.pubads());googletag.defineSlot('/1056479/StatePortal_Banner_728x90_2', [728, 90], 'ad-portal-leaderboard-2').addService(googletag.pubads());googletag.defineSlot('/1056479/StatePortal_Rectangle_300x250', [300, 250], 'ad-portal-rectangle').addService(googletag.pubads());googletag.defineSlot('/1056479/StatePortal_Skyscraper_160x600', [160, 600], 'ad-portal-skyscraper-w').addService(googletag.pubads());googletag.pubads().setTargeting('isdevenv', 'false');googletag.pubads().setTargeting('level', 'Portal');googletag.pubads().setTargeting('retailer', 'FMG - Local Home Furnishing');googletag.pubads().setTargeting('mfg', ['-2045640292', '-1967090300', '-1950851770', '-1922479631', '-1825255724', '-1782018205', '-1653866427', '-1507993583', '-1497145822', '-1239505627', '-1131074325', '-1107172839', '-1101733372', '-1030351014', '-1028377891', '-998989645', '-894805332', '-866873359', '-835685090', '-458846114', '-442177915', '-420030989', '-352436507', '-326308357', '-304588339', '-260191798', '-181734809', '-90808108', '-60713584', '8123919', '89429292', '140082218', '198585808', '233331915', '253203425', '279786690', '318101134', '340533019', '363999755', '637629934', '709113843', '772898971', '892579080', '1090998081', '1113600608', '1144268259', '1147973043', '1157662532', '1159096998', '1168897816', '1193777008', '1194889393', '1195589344', '1229933921', '1254204660', '1338380008', '1374932212', '1563505563', '1592647169', '1593367162', '1632884834', '1781016745', '1782523281', '1812669109', '1833959717', '1858754686', '2045099043', '2077690746']);googletag.pubads().enableSingleRequest();googletag.pubads().disableInitialLoad();googletag.enableServices();});</script>
+
+        <!-- Content Header Placeholder -->
+        <link href="../../../App_Themes/default/BrowseCatalog.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/Cart.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/CategoryPage.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/CollectionPage.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/Compare.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/ContactUs.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/Dropdown.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/Footer.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/getstarted.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/Header.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/HomePage.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/ImgNav.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/ItemPage.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/LinkPage.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/ListPage.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/ManufacturerPage.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/Menu.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/MyAccount.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/pagelayout_stylesheets/CollectionLayouts.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/pagelayout_stylesheets/ItemLayouts.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/ProdTypes.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/ProfilePages1.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/Registration.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/StoreLocator.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/StyleSheet.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/default/thickbox.css" type="text/css" rel="stylesheet" /></head>
+
+
+    <body>
+        <div id="fb-root"></div>
+        
+
+        <!-- Page Content -->
+        <form method="post" action="./top.jpg?404%3bhttp%3a%2f%2fwww.localhomefurnishing.com%3a80%2fdealers%2fKuebler%27s_Furniture%2fimg%2ftop.jpg" id="aspnetForm" class="FormPageWrapper">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="//rQGfA3tqUj4yVo6wSOqftmCKZBncjADaRCrZt7XPPYbUr9uQMqidaTAJSxjfzhvcXh69uQDyUXGk4mgreKhS4MBwpHNRdXIHclOXK2lIknT0oXaDckF5j4JhbnRXr9Nt9J26nKJB77AMtQ2QDbRagt16HsZugFXE+hi+Ymdlk1hbhsszzpKT9iDQ3B/0oaB6eTx3qBj/eshfarXXn4fcYg0vSi/vqtNk9VBUePgNozQOTPgdDpccLZ/V2I/hUpYvmmuBjvuRkOHE8BMEMEM+PSQnH1S8C360HUmixUDJxMYkcYzbVOkWpuOYjy710Byf4fht5KIN/LmW/268s4qFTJBqwncxz7ajZc93VQFYx2UdDSuCIfP5tuLmq4Bnrq91zDkKvcyVDzmqDVRuWN57jGQwIPcqFSDszb2mW1C0eyXqXJ+7VfaRUlhJEfW2L+dm8WTH+3y3X+duNaakYNwExFnYF63H2xPbHzUt+sUXLP+bTNgkB+i2lapvUINSPQL/w68cAVLBo4jNlJz8iMZpuXBy4l/AJZWdM7HUN8i3c1lrK34sInTqFICePJ/qVAZnj5pElYt4AYWYf507mwFI86dIAoaMKCJePZ1/vvZUrJ21yx" />
+
+
+<script src="/bundles/javascript/WebFormsJs?v=TZawN6q-5aGBZ8stabvnxZu3iGZ4tB7AEGTzjTYQcO01" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AB827D4F" />
+            <a href="#SectionContent" class="skiptocontent">Skip to Main Content</a>
+            <!-- 0.000 seconds -->
+
+            
+            
+
+            <div class="SectionOuter">
+
+                <div class="SectionOuter2">
+
+                    <div class="SectionMenu">
+                        
+
+<div id="header_container">
+    <div id="header_logo">
+	     <div class="title"><a href="../../../">local<b>homefurnishing</b>.com</a><h1>Find Home Furnishing Retailers in Your Area</h1></div>
+    </div>
+
+    <div class="clearfloat"></div>
+    <div id="header_nav_tabs">
+	    <ul>
+		    <!--<li style="width:10%; border-left:none;"><a href="../../../">Home</a></li>-->
+		    <li>Find <b>Stores</b> By:</li>
+    		
+		    <li>
+		        <!--[if lte IE 6]><a href="" class="tooltip"><![endif]-->
+		        <div class="tooltip">Product Category
+		            <div style="width:100px;margin-left:2em;" class="tooltip_content">
+		                <!--[if lte IE 6]><table cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+		                <a href="../../../current/furniture.aspx" id="ctl00_ctl28_A5">Furniture</a>
+		                <a href="../../../mattress.aspx" id="ctl00_ctl28_A1">Mattresses</a>
+		                <a href="../../../flooring.aspx" id="ctl00_ctl28_A2">Flooring</a>
+		                <a href="../../../appliances.aspx" id="ctl00_ctl28_A3">Appliances</a>
+		                <a href="../../../electronics.aspx" id="ctl00_ctl28_A4">Electronics</a>
+		                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		            </div>
+		        </div>
+		        <!--[if lte IE 6]></a><![endif]-->
+		    </li>
+    		
+		    <li style=><a href="../../../manufacturers.aspx">Brand</a></li>
+		    <li style=><a href="../../../RetailerByState.aspx">State</a></li>
+		    <li style=><a href="../../../adpage.aspx">Current Promotions</a></li>
+	    </ul>
+    <div class="clearfloat"></div>
+    </div>
+</div>
+
+
+<div class="clearfloat"></div>
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">GS_googleAddAdSenseService("ca-pub-7400242753853056");GS_googleEnableAllServices();</script>
+
+<script type="text/javascript">
+    GA_googleAddAttr("AdCampaign", "BH_Nov2010");
+    GA_googleAddSlot("ca-pub-7400242753853056", "AHFA_728x90");
+    GA_googleFetchAds();
+</script>
+
+<span style="margin:4px 0;text-align:center;display:block;background-color:#253243;">
+    <script type="text/javascript">GA_googleFillSlot("AHFA_728x90");</script>
+</span>
+<div class="clearfloat"></div>
+
+<div id="ctl00_ctl28_FixBanner">
+	
+    <style>
+        .fixed-skyscraper-plug {
+            position:fixed;
+            top:1em;
+            right:0em;
+        }
+    </style>
+    <div class="fixed-skyscraper-plug">
+        
+
+
+
+
+
+
+
+    </div>
+
+</div>
+                    </div>
+
+                    <div class="SectionContent clearfix" id="SectionContent">
+                        
+	<div id="ctl00_ContentMain_DefaultError">
+	
+        <style>
+            .ErrorContainer
+            {width:400px;margin:100px auto;}
+            
+        .ErrorTitle
+        {font-size:80px;color:#444;font-weight:bold;margin:50px 0 0 0;}
+        
+        .ErrorText
+        {font-size:30px;margin:20px 0;}        
+        </style>
+        <div class="ErrorContainer">
+		    <div class="ErrorTitle">Sorry!</div>
+            <div class="ErrorText">Something went wrong...</div>
+        </div>
+	
+</div>
+	
+
+                    </div>
+
+                    <div class="SectionFooter">
+                        
+<div id="footer_container">
+<div id="footer_search">
+    Keyword <input name="ctl00$ctl29$footer_KeywordSearch" type="text" id="ctl00_ctl29_footer_KeywordSearch" /> - Item # <input name="ctl00$ctl29$footer_ItemNumSearch" type="text" id="ctl00_ctl29_footer_ItemNumSearch" />
+</div>
+
+<div class="footer_links_container footer_borderline">
+
+
+<div id="footer_fineprint">
+</div>
+<div id="footer_credits">
+    <div id="furnituredealerCredits">
+    <img src="../../../img/fdn-logo.gif" alt="FurnitureDealer.net" />
+    Site Powered by <a href="http://www.furnituredealer.net">FurnitureDealer.net</a><br />
+    © 2006 - 2017 <a href="http://www.furnituredealer.net">FurnitureDealer.net, Inc.</a>, All rights reserved.
+    </div>
+<div class="clearfloat"></div>
+</div>
+</div>
+                        <p class="legal-disclaimer">
+                            <small>
+                                Nothing on this page may be copied or reproduced without explicit permission.
+                            </small>
+                        </p>
+                    </div>
+
+                    <div id="ctl00_QuickListV2_Control">
+	
+                        <div class="quicklist-sticky quicklist--trigger"></div>
+                        <div class="quicklist"></div>
+                        <div id="add-to-list-widget" class="animated fadeIn fast"></div>
+                    
+</div>
+
+                    
+
+<div class="room-planner-v2__sticky room-planner--trigger">Start a Room Plan</div>
+
+<div id="ctl00_RoomPlannerV2_RoomPlannerV2" class="room-planner-v2">
+	
+
+
+
+
+</div>
+
+<script type="text/javascript">
+    var udata = {"UserId":"0", "UserSession":"ipcc35ao2xvi0t5hzwybqc0t", "UserCookie":"0e26c49a-f3e3-4e17-ab24-47f33ec6474a", "DealerId":"59", "RoomPlannerId":"0"};
+</script>
+
+
+
+<div id="room-planner-templates"></div>
+
+                    
+
+                    <div id="ctl00_divSneakyButtons" class="fdn-sneaky-btns-container hidden-md">
+                        <div class="fdn-sneaky-btns"></div>
+                    </div>
+
+                </div>
+
+            </div>
+        
+            
+
+
+
+        </form>
+
+        
+        <!-- Scripts -->
+        <script src="/bundles/javascript/body?v=nkN0Fh7vaikDV-H66l9Yly1n9Y7ADKBx4vw5r1dRzxU1"></script>
+<script src="/bundles/javascript/body-async?v=-2MLixHP9MAgAkaKegZweVFguHaT2zNzKn0Mx7A3lq01" async></script>
+
+        
+        
+    </body>
+
+
+
+</html>
+

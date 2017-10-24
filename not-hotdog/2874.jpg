@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+	<head>
+		<base href="http://vincentiusboxtel.nl/" />
+		
+		<title>Vincentiusvereniging Boxtel</title>
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<link href="content/css/bootstrap.min.css" rel="stylesheet" />
+		<link href="content/css/angular-carousel.min.css" rel="stylesheet" />
+		<link href="content/css/site.css" rel="stylesheet" />
+		
+		<script src="content/lib/angular.min.js"></script>
+		<script src="content/lib/angular-route.min.js"></script>
+		<script src="content/lib/angular-sanitize.min.js"></script>
+		<script src="content/lib/angular-animate.min.js"></script>
+		<script src="content/lib/angular-cookies.min.js"></script>
+		<script src="content/lib/angular-touch.min.js"></script>
+		<script src="content/lib/angular-carousel.min.js"></script>
+		<script src="content/lib/ui-bootstrap.min.js"></script>
+		<script src="content/lib/ui-validate.min.js"></script>
+		<script src="content/lib/jsencrypt.min.js"></script>
+		<script src="content/lib/require.js" data-main="content/js/site-main"></script>
+	</head>
+	<body data-ng-cloak>
+		<div class="bg-fixed-hand"><div class="container"></div></div>
+		
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/nl_NL/sdk.js#xfbml=1&version=v2.8";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		
+		<header class="navbar navbar-default navbar-fixed-top" data-ng-controller="MenuController">
+			<nav class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-ng-click="isCollapsed = !isCollapsed">
+						<span class="sr-only">Menu</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<span class="logo visible-xs-inline-block"><img src="/content/img/logo-small.png"/></span>
+				</div>
+				<div class="collapse navbar-collapse" data-ng-class="{collapse: isCollapsed}">
+					<span class="logo pull-right hidden-xs"><img src="/content/img/logo-small.png"/></span>
+					<ul class="nav navbar-nav" data-ng-controller="MenuController">
+						<li data-ng-repeat="item in menuItems track by item.Id" data-ng-class="{dropdown:item.Children.length,active:IsCurrentPage(item)}">
+							<a href="{{item.Url}}" class="dropdown-clickable">{{item.Name}}</a>
+							<ul class="dropdown-menu" data-ng-if="item.Children.length">
+								<li data-ng-repeat="subitem in item.Children track by subitem.Id">
+									<a href="{{subitem.Url}}"><i class="visible-xs-inline glyphicon glyphicon-chevron-right small"></i> {{subitem.Name}}</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</nav>
+		</header>
+		
+		<div class="content-wrapper">
+			<div data-ng-view id="ng-view"></div>
+		
+			<section class="fixed">
+				<div class="container">
+					<div data-alert></div>
+				</div>
+			</section>
+		</div>
+		
+		<footer id="footer" class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<h3>Vincentiusvereniging Boxtel</h3>
+						<p><i class="glyphicon glyphicon-earphone"></i> 06 - 106 108 06</p>
+						<p><a href="https://www.facebook.com/VincentiusverenigingBoxtel/" target="_blank" title="Facebook"><i class="icon icon-facebook"></i> volg ons</a></p>
+						<p class="faded">
+							<i class="glyphicon glyphicon-copyright-mark"></i> 2016 - Powered by Theun van der Wiel<br>
+							<i class="glyphicon glyphicon-globe" title="Hosted by"></i> <a href="https://www.mijndomein.nl" target="_blank">Mijndomein</a>
+						</p>
+					</div>
+					<div class="col-sm-6 col-md-4">
+						<h3><i class="glyphicon glyphicon-leaf"></i> Kringloopcentrum</h3>
+						<p>Van leeuwenstraat 5<br/>5281 GM Boxtel</p>
+						<p>Geopend op vrijdag en zaterdag<br/>van 10:00 tot 17:00</p>
+					</div>
+					<div class="col-sm-6 col-md-4">
+						<h3><i class="glyphicon glyphicon-piggy-bank"></i> Donaties</h3>
+						<p>Rekeningnummer<br/>NL18 RABO 0128 7223 20</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>

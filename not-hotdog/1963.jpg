@@ -1,0 +1,1570 @@
+<!doctype html>
+<html lang="nl" class="fonts-loaded">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ProBiblio</title>
+
+    <link rel="stylesheet" href="/build/assets/css/style-5020c0d606.css">
+
+    <meta name="robots" content="INDEX, FOLLOW">
+    <meta itemprop="url" content="https://www.probiblio.nl">
+    <meta itemprop="name" content="Probiblio">
+    <meta itemprop="viewport" content="width=device-width, initial-scale=1">
+    
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+</head>
+<body>
+<div class="wrapper js-scroll-area" id="top">
+
+    <header id="header" class="header" role="banner" data-floating-class="header--floating" data-show-class="header--show" data-hide-class="header--hide" data-mayhide-class="header--mayhide" data-mayanimate-class="header--mayanimate" data-breakpoint="1340">
+        <div class="header__top">
+            <div class="container">
+                            <span class="site-logo">
+                                <a class="site-logo__link" href="/">
+                        <img src="/assets/images/logo.png" height="100" alt="ProBiblio">
+                    </a>
+                            </span>
+            
+                <button class="js-expander header__menu-btn menu-button" id="mainMenuButton" type="button" aria-controls="mainmenu" aria-expanded="true" data-breakpoint="1180">
+                    <span>Menu</span>
+                </button>
+
+                <nav class="menu-container" role="navigation" id="mainmenu" aria-hidden="false">
+                    <ul class="menu" id="site-nav">
+                    <li class="item0
+     menu__item                 ">
+
+    
+        <button class="js-submenu-expander menu__btn-with-text" type="button" aria-controls="submenu0" aria-expanded="false" data-expanded-class="menu__btn--is-expanded" data-collapsed-class="menu__btn--is-collapsed">
+            Thema
+            <svg width="9px" height="7px" viewBox="0 0 9 7" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="none">
+                <title>open/sluit</title>
+                <polyline id="expand-arrow-0" stroke="#4A97DC" stroke-width="2" transform="translate(4.348350, 1.348350) rotate(45.000000) translate(-4.348350, -1.348350)" points="6.71599026 -1.01929112 6.71599026 3.71599026 1.98070888 3.71599026"></polyline>
+            </svg>
+        </button>
+
+    
+
+    
+        
+        <ul class="level0 menu--sub submenu"
+            id="submenu0"
+            aria-hidden="true">
+
+                                            <li class="item0
+         submenu__item             ">
+
+            <a             id='main-menu.jeugd-onderwijs' href='/jeugd-onderwijs'>
+            Jeugd &amp; onderwijs
+        </a>
+    
+
+    </li>
+
+                                            <li class="item1
+         submenu__item             ">
+
+            <a             id='main-menu.persoonlijke-ontwikkeling' href='/persoonlijke-ontwikkeling'>
+            Persoonlijke ontwikkeling
+        </a>
+    
+
+    </li>
+
+                                            <li class="item2
+         submenu__item             ">
+
+            <a             id='main-menu.participatie-zelfredzaamheid' href='/participatie-zelfredzaamheid'>
+            Participatie &amp; zelfredzaamheid
+        </a>
+    
+
+    </li>
+
+                                            <li class="item3
+         submenu__item             ">
+
+            <a             id='main-menu.klassieke-bibliotheek' href='/klassieke-bibliotheek'>
+            Klassieke bibliotheek
+        </a>
+    
+
+    </li>
+
+                                            <li class="item4
+         submenu__item             ">
+
+            <a             id='main-menu.versterken-en-bevorderen-culturele-infrastructuur' href='/versterken-en-bevorderen-culturele-infrastructuur'>
+            Versterken culturele infrastructuur
+        </a>
+    
+
+    </li>
+
+                    </ul>
+    </li>
+
+                    <li class="item1
+     menu__item                 ">
+
+            <a             class="menu__link"  id='main-menu.kennis-kunde' href='/kennis-kunde'>
+            Kennis &amp; kunde 
+        </a>
+    
+
+    
+                <button class="js-submenu-expander menu__btn" type="button" aria-controls="submenu1" aria-expanded="false" data-expanded-class="menu__btn--is-expanded" data-collapsed-class="menu__btn--is-collapsed">
+            <svg width="9px" height="7px" viewBox="0 0 9 7" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="none">
+                <title>open/sluit</title>
+                <polyline id="expand-arrow-1" stroke="#4A97DC" stroke-width="2" transform="translate(4.348350, 1.348350) rotate(45.000000) translate(-4.348350, -1.348350)" points="6.71599026 -1.01929112 6.71599026 3.71599026 1.98070888 3.71599026"></polyline>
+            </svg>
+        </button>
+        
+        <ul class="level0 menu--sub submenu"
+            id="submenu1"
+            aria-hidden="true">
+
+                                            <li class="item0
+         submenu__item             ">
+
+            <a             id='main-menu.kennis-kunde#collectie-collectieadvies' href='/kennis-kunde#collectie-collectieadvies'>
+            Collectie &amp; Collectieadvies
+        </a>
+    
+
+    </li>
+
+                                            <li class="item1
+         submenu__item             ">
+
+            <a             id='main-menu.kennis-kunde#marketing-onderzoek' href='/kennis-kunde#marketing-onderzoek'>
+            Marketing, Communicatie &amp; Onderzoek
+        </a>
+    
+
+    </li>
+
+                                            <li class="item2
+         submenu__item             ">
+
+            <a             id='main-menu.kennis-kunde#management-organisatie' href='/kennis-kunde#management-organisatie'>
+            Management &amp; Organisatie
+        </a>
+    
+
+    </li>
+
+                                            <li class="item3
+         submenu__item             ">
+
+            <a             id='main-menu.kennis-kunde#administratie-controlling' href='/kennis-kunde#administratie-controlling'>
+            Administratie &amp; Controlling
+        </a>
+    
+
+    </li>
+
+                                            <li class="item4
+         submenu__item             ">
+
+            <a             id='main-menu.kennis-kunde#logistiek' href='/kennis-kunde#logistiek'>
+            Logistiek
+        </a>
+    
+
+    </li>
+
+                                            <li class="item5
+         submenu__item             ">
+
+            <a             id='main-menu.kennis-kunde#ict' href='/kennis-kunde#ict'>
+            ICT
+        </a>
+    
+
+    </li>
+
+                                            <li class="item6
+         submenu__item             ">
+
+            <a             id='main-menu.kennis-kunde#ontwikkeling-informeel-leren' href='/kennis-kunde#ontwikkeling-informeel-leren'>
+            Ontwikkeling &amp; Informeel leren
+        </a>
+    
+
+    </li>
+
+                                            <li class="item7
+         submenu__item             ">
+
+            <a             id='main-menu.kennis-kunde#samenwerking-kinderopvang-onderwijs' href='/kennis-kunde#samenwerking-kinderopvang-onderwijs'>
+            Samenwerking Kinderopvang &amp; Onderwijs
+        </a>
+    
+
+    </li>
+
+                    </ul>
+    </li>
+
+                    <li class="item2
+     menu__item                 ">
+
+            <a             class="menu__link"  id='main-menu.aanbod' href='/aanbod'>
+            Aanbod
+        </a>
+    
+
+    </li>
+
+                    <li class="item3
+     menu__item                 ">
+
+            <a             class="menu__link"  id='main-menu.over-ons' href='/over-ons'>
+            Over ProBiblio
+        </a>
+    
+
+    
+                <button class="js-submenu-expander menu__btn" type="button" aria-controls="submenu3" aria-expanded="false" data-expanded-class="menu__btn--is-expanded" data-collapsed-class="menu__btn--is-collapsed">
+            <svg width="9px" height="7px" viewBox="0 0 9 7" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="none">
+                <title>open/sluit</title>
+                <polyline id="expand-arrow-3" stroke="#4A97DC" stroke-width="2" transform="translate(4.348350, 1.348350) rotate(45.000000) translate(-4.348350, -1.348350)" points="6.71599026 -1.01929112 6.71599026 3.71599026 1.98070888 3.71599026"></polyline>
+            </svg>
+        </button>
+        
+        <ul class="level0 menu--sub submenu"
+            id="submenu3"
+            aria-hidden="true">
+
+                                            <li class="item0
+         submenu__item             ">
+
+            <a             id='main-menu.onze-mensen' href='/onze-mensen'>
+            Onze mensen
+        </a>
+    
+
+    </li>
+
+                                            <li class="item1
+         submenu__item             ">
+
+            <a             id='main-menu.vacatures' href='/vacatures'>
+            Vacatures
+        </a>
+    
+
+    </li>
+
+                                            <li class="item2
+         submenu__item             ">
+
+            <a             id='main-menu.publicaties' href='/publicaties'>
+            Publicaties
+        </a>
+    
+
+    </li>
+
+                    </ul>
+    </li>
+
+                    <li class="item4
+     menu__item                 ">
+
+            <a             class="menu__link"  id='main-menu.actueel' href='/actueel'>
+            Actueel
+        </a>
+    
+
+    
+                <button class="js-submenu-expander menu__btn" type="button" aria-controls="submenu4" aria-expanded="false" data-expanded-class="menu__btn--is-expanded" data-collapsed-class="menu__btn--is-collapsed">
+            <svg width="9px" height="7px" viewBox="0 0 9 7" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="none">
+                <title>open/sluit</title>
+                <polyline id="expand-arrow-4" stroke="#4A97DC" stroke-width="2" transform="translate(4.348350, 1.348350) rotate(45.000000) translate(-4.348350, -1.348350)" points="6.71599026 -1.01929112 6.71599026 3.71599026 1.98070888 3.71599026"></polyline>
+            </svg>
+        </button>
+        
+        <ul class="level0 menu--sub submenu"
+            id="submenu4"
+            aria-hidden="true">
+
+                                            <li class="item0
+         submenu__item             ">
+
+            <a             id='main-menu.nieuws' href='/nieuws'>
+            Nieuws
+        </a>
+    
+
+    </li>
+
+                                            <li class="item1
+         submenu__item             ">
+
+            <a             id='main-menu.agenda' href='/agenda'>
+            Agenda
+        </a>
+    
+
+    </li>
+
+                                            <li class="item2
+         submenu__item             ">
+
+            <a             id='main-menu.blog' href='/blog'>
+            Blog
+        </a>
+    
+
+    </li>
+
+                                            <li class="item3
+         submenu__item             ">
+
+            <a             id='main-menu.nieuwsbrieven' href='/nieuwsbrieven'>
+            Nieuwsbrieven
+        </a>
+    
+
+    </li>
+
+                    </ul>
+    </li>
+
+                    <li class="item5
+     menu__item                 ">
+
+            <a             class="menu__link"  id='main-menu.contact' href='/contact'>
+            Contact
+        </a>
+    
+
+    </li>
+
+                    <li class="item6
+     menu__item                 ">
+
+            <a             class="menu__link"  id='main-menu.support' href='/support'>
+            Support
+        </a>
+    
+
+    </li>
+
+    </ul>
+
+                </nav>
+
+                <a href="tel:0235546100" class="header__contact-bar-btn contact-btn" aria-expanded="false">
+                    <span>Contact</span>
+                </a>
+                            </div>
+        </div>
+
+        <div class="header__bottom" id="searchFormBar" aria-hidden="1">
+            <div class="container">
+                <form class="header-search" action="/zoek" method="get">
+                    <label class="header-search__inner">
+                        <span class="header-search__label">zoekterm</span>
+                        <input name="term" class="header-search__input" type="search" placeholder="Typ hier uw zoekterm…">
+                    </label>
+                    <button class="header-search__btn">
+                        <span>Zoeken</span>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </header>
+
+    
+    
+    <div class="wrapper__inner wrapper__inner--is-spacer">
+        <main class="page" role="main">
+            <div class="content-page">
+                <section class="container-wide section">
+                    <div class="content-page--block container">
+                        <img style="float: right;" src="/assets/images/404.jpg">
+                        <div class="content-page--block__text">
+                            <p></p>
+                            <h2 class="content-page--block__subtitle"><span>Helaas, we kunnen de pagina niet vinden.</span></h2>
+                            <p>Probeer het eens door te zoeken binnen onze website of ga terug naar de <a href="/">homepage</a>.</p>
+                            <p>Nog niet gevonden? Neem contact met ons op via <a href="mailto:info@probiblio.nl">info@probiblio.nl</a></p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <footer role="contentinfo" class="footer-wrapper">
+        <div class="footer">
+            <h3 class="footer__title lined-title">
+                <span>Blijf op de hoogte</span>
+            </h3>
+
+            <div class="footer__row">
+                <div class="grid grid--flipped">
+                    <div class="grid__item unit-md-8-12">
+                        <h4 class="footer__subtitle">Nieuwsbrief</h4>
+                        <p>Schrijf je in voor de tweewekelijkse nieuwsbrief van ProBiblio of één van onze specials! </p>
+                        <a href="/inschrijven-nieuwsbrieven" id="footer-nieuwsbrief-inschrijven" class="std-btn__blue">Nu inschrijven</a>
+                    </div>
+                    <div class="grid__item unit-md-4-12">
+
+                        <h4 class="footer__subtitle">Social media</h4>
+                        <p>Volg ProBiblio op Twitter en Linkedin.</p>
+
+                        <ul class="footer__sm-list sm-list">
+                            <li class="sm-list__item">
+                                <a class="sm-link sm-link--twitter" href="https://twitter.com/probiblio" rel="me" id="footer-social-twitter" target="_blank">
+                                    <span class="is-visually-hidden">Twitter</span>
+                                </a>
+                            </li>
+                            <li class="sm-list__item">
+                                <a class="sm-link sm-link--linkedin" href="https://nl.linkedin.com/company/probiblio" id="footer-social-linkedin" rel="me" target="_blank">
+                                    <span class="is-visually-hidden">Linkedin</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer__row">
+                <div class="grid">
+                    <div class="grid__item unit-md-3-12">
+
+                        <img class="footer-site-logo" src="/assets/images/logo.png" height="100" alt="ProBiblio">
+
+                        <dl class="footer-contact-info">
+                            <dt class="is-visually-hidden">adres</dt>
+                            <dd class="footer-contact-info__value footer-contact-info__value--spaced">
+                                Opaallaan 1180
+                                <br>
+                                2132LN Hoofddorp
+                            </dd>
+                                                                                                                                                                                                            <dt class="footer-contact-info__label">
+                                <span aria-label="e-mailadres">E</span>
+                            </dt>
+                            <dd class="footer-contact-info__value">
+                                <a id="footer-contact-email" href="mailto:info@probiblio.nl">info@probiblio.nl</a>
+                            </dd>
+                        </dl>
+                        <a class="footer-contact-link" href="/contact">Neem contact met ons op</a>
+                    </div>
+                    <div class="grid__item unit-md-9-12 grid__item-@md">
+                        <ul class="footer-menu-list">
+        <li class="footer-menu-list__item footer-menu-block">
+        <h4 class="footer-menu-block__title">Thema</h4>
+        <ul class="footer-menu-block__menu footer-menu">
+                                            <li class="item0
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.jeugd-onderwijs' href='/jeugd-onderwijs'>
+        Jeugd &amp; onderwijs
+    </a>
+
+    </li>
+
+                                            <li class="item1
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.persoonlijke-ontwikkeling' href='/persoonlijke-ontwikkeling'>
+        Persoonlijke ontwikkeling
+    </a>
+
+    </li>
+
+                                            <li class="item2
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.participatie-zelfredzaamheid' href='/participatie-zelfredzaamheid'>
+        Participatie &amp; zelfredzaamheid
+    </a>
+
+    </li>
+
+                                            <li class="item3
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.klassieke-bibliotheek' href='/klassieke-bibliotheek'>
+        Klassieke bibliotheek
+    </a>
+
+    </li>
+
+                                            <li class="item4
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.versterken-en-bevorderen-culturele-infrastructuur' href='/versterken-en-bevorderen-culturele-infrastructuur'>
+        Versterken culturele infrastructuur
+    </a>
+
+    </li>
+
+                    </ul>
+    </li>
+        <li class="footer-menu-list__item footer-menu-block">
+        <h4 class="footer-menu-block__title">Kennis &amp; kunde</h4>
+        <ul class="footer-menu-block__menu footer-menu">
+                                            <li class="item0
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.kennis-kunde#ontwikkeling-informeel-leren' href='/kennis-kunde#ontwikkeling-informeel-leren'>
+        Ontwikkeling
+    </a>
+
+    </li>
+
+                                            <li class="item1
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.kennis-kunde#samenwerking-educatieve-partners' href='/kennis-kunde#samenwerking-educatieve-partners'>
+        Partners
+    </a>
+
+    </li>
+
+                                            <li class="item2
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.kennis-kunde#management-organisatie' href='/kennis-kunde#management-organisatie'>
+        Management
+    </a>
+
+    </li>
+
+                                            <li class="item3
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.kennis-kunde#collectie-collectieadvies' href='/kennis-kunde#collectie-collectieadvies'>
+        Collectieadvies
+    </a>
+
+    </li>
+
+                                            <li class="item4
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.kennis-kunde#marketing-marktkennis' href='/kennis-kunde#marketing-marktkennis'>
+        Marketing
+    </a>
+
+    </li>
+
+                                            <li class="item5
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.kennis-kunde#logistiek' href='/kennis-kunde#logistiek'>
+        Logistiek
+    </a>
+
+    </li>
+
+                                            <li class="item6
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.kennis-kunde#ict' href='/kennis-kunde#ict'>
+        ICT
+    </a>
+
+    </li>
+
+                                            <li class="item7
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.kennis-kunde#administratie-controlling' href='/kennis-kunde#administratie-controlling'>
+        Administratie
+    </a>
+
+    </li>
+
+                    </ul>
+    </li>
+        <li class="footer-menu-list__item footer-menu-block">
+        <h4 class="footer-menu-block__title">Support</h4>
+        <ul class="footer-menu-block__menu footer-menu">
+                                            <li class="item0
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.support#ict-support' href='/support#ict-support'>
+        ICT Support
+    </a>
+
+    </li>
+
+                                            <li class="item1
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.support#mijnprobiblio' href='/support#mijnprobiblio'>
+        MijnProBiblio
+    </a>
+
+    </li>
+
+                                            <li class="item2
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.support#rapportageportaal' href='/support#rapportageportaal'>
+        Rapportageportaal
+    </a>
+
+    </li>
+
+                                            <li class="item3
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.support#collecties-bestellen' href='/support#collecties-bestellen'>
+        Collecties bestellen
+    </a>
+
+    </li>
+
+                                            <li class="item4
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.schoolwise-servicepagina' href='/schoolwise-servicepagina'>
+        SchoolWise servicepagina
+    </a>
+
+    </li>
+
+                                            <li class="item5
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.support#opzeggen' href='/support#opzeggen'>
+        Opzeggen
+    </a>
+
+    </li>
+
+                    </ul>
+    </li>
+        <li class="footer-menu-list__item footer-menu-block">
+        <h4 class="footer-menu-block__title">Aanbod</h4>
+        <ul class="footer-menu-block__menu footer-menu">
+                                            <li class="item0
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.aanbod' href='/aanbod'>
+        Producten
+    </a>
+
+    </li>
+
+                                            <li class="item1
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.aanbod' href='/aanbod'>
+        Diensten
+    </a>
+
+    </li>
+
+                                            <li class="item2
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.onze-mensen' href='/onze-mensen'>
+        Experts
+    </a>
+
+    </li>
+
+                                            <li class="item3
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.contact' href='/contact'>
+        Contact
+    </a>
+
+    </li>
+
+                    </ul>
+    </li>
+        <li class="footer-menu-list__item footer-menu-block">
+        <h4 class="footer-menu-block__title">Actueel</h4>
+        <ul class="footer-menu-block__menu footer-menu">
+                                            <li class="item0
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.nieuws' href='/nieuws'>
+        Nieuws
+    </a>
+
+    </li>
+
+                                            <li class="item1
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.agenda' href='/agenda'>
+        Agenda
+    </a>
+
+    </li>
+
+                                            <li class="item2
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.nieuwsbrieven' href='/nieuwsbrieven'>
+        Nieuwsbrieven
+    </a>
+
+    </li>
+
+                                            <li class="item3
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.blog' href='/blog'>
+        Blog
+    </a>
+
+    </li>
+
+                                            <li class="item4
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.agenda.bibliotheekplaza-2017' href='/agenda/bibliotheekplaza-2017'>
+        Bibliotheekplaza
+    </a>
+
+    </li>
+
+                    </ul>
+    </li>
+        <li class="footer-menu-list__item footer-menu-block">
+        <h4 class="footer-menu-block__title">Over ProBiblio</h4>
+        <ul class="footer-menu-block__menu footer-menu">
+                                            <li class="item0
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.onze-mensen' href='/onze-mensen'>
+        Onze mensen
+    </a>
+
+    </li>
+
+                                            <li class="item1
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.vacatures' href='/vacatures'>
+        Vacatures
+    </a>
+
+    </li>
+
+                                            <li class="item2
+        footer-menu__item
+        ">
+
+    <a  id='footer-menu.publicaties' href='/publicaties'>
+        Publicaties
+    </a>
+
+    </li>
+
+                    </ul>
+    </li>
+    </ul>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer__row copyright-row">
+                <span class="copyright-row__left">
+                                <a  id='/disclaimer' href='/disclaimer'>
+    <span>Disclaimer</span>
+</a>
+
+                                <a  id='/algemene-voorwaarden' href='/algemene-voorwaarden'>
+    <span>Algemene voorwaarden</span>
+</a>
+
+                <span>
+            ©ProBiblio 2017        </span>
+    </span>
+
+    <span class="copyright-row__right">
+        <a href="http://www.reyez.nl" target="_blank" rel="nofollow">
+            <span aria-label="created by Reyez!">©reated by Reyez!</span>
+        </a>
+    </span>
+
+            </div>
+         </div>
+    </footer>
+</div>
+
+<!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-N2J2LPQ');</script>
+    <!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2J2LPQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+<script>
+    (function(win, doc, undefined){
+        if(! (doc.querySelector && doc.addEventListener)) return;
+        'use strict';
+        window.Reyez = {};
+        (function(ns){
+            ns.cssClass = {
+                _classRegex: function(className){
+                    return new RegExp('(^| )' + className + '( |$)', 'gi');
+                },
+                contains: function containsCSSClass(el, className){
+                    var currentClassName = el.getAttribute('class') || '';
+                    return this._classRegex(className).test(currentClassName);
+                },
+                remove: function removeCSSClass(el, className){
+                    var currentClassName = el.getAttribute('class') || '';
+                    el.setAttribute('class', currentClassName.replace(this._classRegex(className), ' '));
+                },
+                add: function addCSSClass(el, className){
+                    if(this.contains(el, className)) return;
+                    var currentClassName = el.getAttribute('class') || '';
+                    el.setAttribute('class', currentClassName + ' ' + className);
+                },
+                toggle: function toggleCSSClass(el, className){
+                    var funcName = (this.contains(el, className) ? 'remove':'add')
+                    this[funcName](el, className);
+                }
+            };
+            // let css know we have js
+            ns.cssClass.remove(doc.body, 'no-js');
+            ns.loop = function _loop(items, func){
+                var i = items.length;
+                for(;i--;) func.apply(items, [items[i], i]);
+            };
+            ns.every = function _loop(items, func){
+                var i = items.length;
+                for(;i--;) if(!func.apply(items, [items[i], i])) return false;
+                return true;
+            };
+            ns.map = function _loop(items, func){
+                var l = items.length, i = 0, returnArray = [];
+                for(;i < l;) returnArray.push(func.apply(items, [items[i], i++]));
+                return returnArray;
+            };
+            ns.getScroll = function(){
+                if(win.pageYOffset !== undefined) {
+                    return {'x': win.pageXOffset, 'y': win.pageYOffset};
+                }
+                else {
+                    var x, y, d = document, r = d.documentElement, b = d.body;
+                    x = r.scrollLeft || b.scrollLeft || 0;
+                    y = r.scrollTop  || b.scrollTop  || 0;
+                    return {'x': x, 'y': y};
+                }
+            };
+            ns.hasTransitionEndSupport = (function _transitionEnd() {
+                var el = document.createElement('div');
+                var transEndEventNames = {
+                    WebkitTransition : 'webkitTransitionEnd',
+                    MozTransition    : 'transitionend',
+                    OTransition      : 'oTransitionEnd otransitionend',
+                    transition       : 'transitionend'
+                };
+                for (var name in transEndEventNames) { if(el.style[name] !== undefined) return transEndEventNames[name]; }
+                return false;
+            })();
+            ns.cookie = {
+                write: function writeCookie(name, value, days) {
+                    var d = new Date;
+                    d.setTime(d.getTime() + 24*60*60*1e3*days);
+                    document.cookie = name + "=" + value + ";path=/;expires=" + d.toGMTString();
+                }
+            };
+            ns.b2s = function _bool2string(bool){
+                return bool ? 'true':'false';
+            };
+            ns.filter = function _filter(elements, filterFn) {
+                var out = [];
+                for (var i = elements.length; i--;) {
+                    if (filterFn(elements[i])) out.unshift(elements[i]);
+                }
+                return out;
+            };
+            ns.array = {
+                indexOf: function(searchElement, fromIndex) {
+                    //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf#Polyfill
+                    var k;
+                    if(this == null) throw new TypeError('"this" is null or not defined');
+                    var O = Object(this);
+                    var len = O.length >>> 0;
+                    if (len === 0) return -1;
+                    var n = +fromIndex || 0;
+                    if (Math.abs(n) === Infinity) n = 0;
+                    if (n >= len) return -1;
+                    k = Math.max(n >= 0 ? n : len - Math.abs(n), 0);
+                    while (k < len) {
+                        if (k in O && O[k] === searchElement) return k;
+                        k++;
+                    }
+                    return -1;
+                }
+            };
+            ns.debounce = function _debounce(func, threshold, execAsap){
+                threshold = threshold || 100;
+                if(execAsap !== true) execAsap = false;
+                var timeout;
+                return function debounced(){
+                    var obj = this, args = arguments;
+                    function delayed(){
+                        if(!execAsap)func.apply(obj, args);
+                        timeout = null;
+                    }
+                    if(timeout)clearTimeout(timeout);
+                    else if(execAsap)func.apply(obj, args);
+                    timeout = setTimeout(delayed, threshold || 100);
+                }
+            };
+            ns.loadScript = function _loadScript(url, condition, callback){
+                var tries = 0, maxTries = 10, el = doc.createElement('script');
+                el.src = url;
+                doc.getElementsByTagName('head')[0].appendChild(el);
+                if( ! condition) return;
+                function run(timeout){ setTimeout(init, timeout); }
+                function init(){
+                    if(condition.call()) return callback.call();
+                    if(tries++ < maxTries) run(50);
+                }
+                run(100);
+            };
+            ns.pubsub = (function _pubSub(){
+                var topics = {};
+                var hOP = topics.hasOwnProperty;
+                return {
+                    subscribe: function(topic, listener) {
+                        if(!hOP.call(topics, topic)) topics[topic] = [];
+                        var index = topics[topic].push(listener) -1;
+                        return {
+                            remove: function() {
+                                delete topics[topic][index];
+                            }
+                        };
+                    },
+                    publish: function(topic, info) {
+                        if(!hOP.call(topics, topic)) return;
+                        var i = topics[topic].length;
+                        for(;i--;)(function(item) {
+                            item(info != undefined ? info : {});
+                        })(topics[topic][i]);
+                    }
+                };
+            })();
+        })(Reyez);
+
+        // allow :active styles to work in CSS on a page in Mobile Safari:
+        document.addEventListener('touchstart', function(){}, true);
+
+        // toggle menu visibility
+        (function(clicker){
+            if(!clicker) return;
+            var menuId = clicker.getAttribute('aria-controls');
+            var breakpoint = clicker.getAttribute('data-breakpoint');
+            var menu = doc.getElementById(menuId);
+            var is_expanded = window.innerWidth > breakpoint || window.innerHeight > breakpoint; //window.matchMedia("(orientation: portrait)").matches
+            var subClickers = menu.querySelectorAll('.js-submenu-expander');
+            var openClicker = null;
+            enableSubmenus(subClickers);
+            // initial setup
+            clicker.setAttribute('aria-expanded', Reyez.b2s(is_expanded));
+            menu.setAttribute('aria-hidden', Reyez.b2s(!is_expanded));
+
+            function enableSubmenus(clickers){
+                Reyez.loop(clickers, function _enableSubMenus(clicker) {
+                    var submenu = document.getElementById(clicker.getAttribute('aria-controls'));
+                    clicker.addEventListener('click', function _subClick(){
+                        var is_expanded = clicker.getAttribute('aria-expanded') === 'false';
+                        submenu.setAttribute('aria-hidden', Reyez.b2s(!is_expanded));
+                        clicker.setAttribute('aria-expanded', Reyez.b2s(is_expanded));
+                        if(openClicker === clicker) openClicker = null;
+                        if(openClicker && openClicker !== clicker) openClicker.click();
+                        if(is_expanded) openClicker = clicker;
+                    });
+                });
+            }
+            function showMenu(show){
+                menu.setAttribute('aria-hidden', Reyez.b2s(!show));
+                clicker.setAttribute('aria-expanded', Reyez.b2s(!is_expanded));
+                is_expanded = show;
+            }
+
+            function recalculate (){
+                if(window.innerWidth < breakpoint) { // window is so small enough for menu to collapse
+                    if(is_expanded) showMenu(false);
+                }
+                else { //window is to big - menu stays visible - clicker is not visible
+                    if(!is_expanded)  showMenu(true);
+                }
+            }
+
+            clicker.addEventListener('click', function _click(){
+                showMenu(!is_expanded);
+            });
+
+            menu.addEventListener('click', function _click(e){
+                if( ! (e.target.tagName === 'A')) return;
+                recalculate();
+            });
+
+            Reyez.pubsub.subscribe('hideMenuBar', function(){
+                if(openClicker) openClicker.click();
+            });
+
+            window.addEventListener('resize', recalculate, false);
+            setTimeout(recalculate, 100);
+        })(document.getElementById('mainMenuButton'));
+
+        //toggle search bar
+        (function(clicker){
+            var target = document.getElementById(clicker.getAttribute('aria-controls'));
+            var focusEl = document.querySelector(clicker.getAttribute('data-focus-el-csspath'));
+            var expanded = clicker.getAttribute('aria-expanded') === 'true';
+            target.setAttribute('aria-hidden', !expanded);
+            clicker.addEventListener('click', function _click(){
+                clicker.setAttribute('aria-expanded', !expanded);
+                target.setAttribute('aria-hidden', expanded);
+                expanded = !expanded;
+                if(expanded === true) focusEl.focus();
+            });
+
+        })(document.querySelector('.js-search-bar-expander'));
+
+        //toggle div
+        (function(selector){
+            Reyez.pubsub.subscribe('productFilterHtml/refresh', init);
+
+            init();
+
+            function init(){
+                var showlists = document.querySelectorAll(selector);
+                Reyez.loop(showlists, function(showlist) {
+                    showlist.addEventListener('click', function _click(){
+                        var newClass = 'is-shown';
+                        var clickClass = 'is-clicked';
+                        var myList = showlist.getAttribute('data-toggle');
+                        var getList = document.querySelector('[data-togglechild="'+ myList +'"]');
+                        var getListClass = getList.className;
+                        if (getListClass.indexOf(newClass) !== -1) {
+                            getList.className = getListClass.replace(newClass, '');
+                            this.className = this.className.replace(clickClass,'');
+
+                        } else {
+                            getList.className += ' '+ newClass;
+                            this.className += ' '+ clickClass;
+                        }
+                    });
+                });
+            }
+
+
+        })('.toggle-parent');
+
+        (function(){
+            Reyez.pubsub.subscribe('filterRefresh', hideSubmits);
+
+            hideSubmits();
+
+            function hideSubmits(){
+                var forms = document.querySelectorAll('.js-perpage-submit');
+                if(!forms.length) return;
+                Reyez.loop(forms, function(formPerPage) {
+                    var formSubmitClass = 'is-visually-hidden';
+                    var formSubmits = formPerPage.querySelectorAll('[type=submit]');
+                    Reyez.loop(formSubmits, function(formSubmit) {
+                        Reyez.cssClass.add(formSubmit, formSubmitClass);
+                    });
+                    formPerPage.addEventListener('change', function() {
+                        formPerPage.submit();
+                    });
+                });
+            }
+        })();
+
+        // Aanbod filters
+        (function(form){
+            if(!form) return;
+
+            var filterContainer = document.getElementById(form.getAttribute('data-filter-container-id'));
+            var productContainer = document.getElementById(form.getAttribute('data-products-container-id'));
+            var paginatorContainer = document.getElementsByClassName(form.getAttribute('data-pagination-container-class'));
+            var totalProducts = document.getElementById(form.getAttribute('data-total-count-id'));
+
+            var urlPart = location.pathname;
+            var els = form.querySelectorAll('[type=checkbox]');
+            var hasProgressLoaderEls = document.querySelectorAll('.js-has-progress-loader');
+            var progressClass = ' in-progress';
+
+            window.addEventListener('popstate', onHistory);
+
+            form.addEventListener('change', Reyez.debounce(function(e){
+                onChange(e);
+                addLoader();
+                closeFilter();
+            }, 1000));
+
+            function closeFilter(){
+
+                Reyez.loop(document.getElementsByClassName('filter-list'),function (list) {
+                    Reyez.cssClass.remove(list, 'is-shown');
+                });
+            }
+
+            function addLoader(){
+                Reyez.loop(hasProgressLoaderEls, function(hasProgressLoaderEl) {
+                    Reyez.cssClass.add(hasProgressLoaderEl, progressClass);
+                });
+            }
+
+            function onSuccess(data){
+                history.pushState('', '', this.responseURL ? this.responseURL.replace(/[?&]ajax=1/, '') : this.responseURL);
+
+                productContainer.innerHTML = data.productsHtml;
+                totalProducts.innerHTML = data.total_products_text;
+
+                Reyez.loop(paginatorContainer, function(selectedPaginator) {
+                    selectedPaginator.innerHTML = data.paginatorHtml;
+                });
+
+                Reyez.loop(hasProgressLoaderEls, function(hasProgressLoaderEl) {
+                    Reyez.cssClass.remove(hasProgressLoaderEl, progressClass);
+                });
+
+                Reyez.pubsub.publish('filterRefresh');
+            }
+
+            function onError(data){
+                console.warn(data);
+            }
+
+            function onHistory(e) {
+                function historySucces(data){
+                    filterContainer.innerHTML = data.productFilterHtml;
+                    Reyez.pubsub.publish('productFilterHtml/refresh');
+                    onSuccess.call({responseURL: location.href}, data);
+                }
+
+                doRequest({
+                    url: location.search,
+                    onSuccess: historySucces,
+                    onError: onError
+                });
+            }
+
+            function onChange(e){
+                e.stopPropagation();
+                var checkedEls = getCheckedInputs();
+                var getString = makeGetString(checkedEls);
+
+                getString = getString ? '?' + getString : '';
+
+                var perPage = location.search.match(/per=([0-9]+)/);
+                if(perPage && perPage.length){
+                    var perPageNum = perPage[1];
+                    getString += '&per='+perPageNum;
+                }
+
+                doRequest({
+                    url: urlPart + getString,
+                    onSuccess: onSuccess,
+                    onError: onError
+                });
+            }
+
+            function getCheckedInputs(){
+                return [].filter.call(els, function(el){
+                    return el.checked;
+                });
+            }
+            function makeGetString(checkedEls){
+                return checkedEls.map(function(el){
+                    return el.name + '=' + el.value;
+                }).join('&');
+            }
+            function doRequest(options){
+                var request = new XMLHttpRequest();
+                var url;
+                if(options.url.indexOf('?') > -1){
+                    url = options.url+'&ajax=1';
+                }
+                else{
+                    url = location.pathname+'?ajax=1';
+                }
+                request.open('GET', url , true);
+                request.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+                request.onload = function() {
+                    if (this.status >= 200 && this.status < 400) {
+                        options.onSuccess.call(this, JSON.parse(this.response));
+                    } else {
+                        options.onError.call(this, this.status);
+                    }
+                };
+                request.onerror = function(error) {
+                    options.onError.call(this, error);
+                };
+                request.send();
+
+            }
+
+        })(document.getElementById('product-filter'));
+
+        (function clickOnFilterLabelToExpandSubFilters(selector){
+            var clickers = doc.querySelectorAll(selector);
+            if(!clickers.length) return;
+
+            Reyez.pubsub.subscribe('productFilterHtml/refresh', init);
+            init();
+            function init(){
+                clickers = doc.querySelectorAll(selector);
+                Reyez.loop(clickers, function _initClicker(clicker){
+                    var cssPath = clicker.getAttribute('data-children-via-parent');
+                    var clickerCheckbox = clicker.previousElementSibling;
+                    if(cssPath) {
+                        var children = clicker.parentNode.querySelectorAll(cssPath);
+
+                        if(!allChecked(children) && !allUnChecked(children)){
+                            // initial state. indeterminate cant be set through html
+                            clickerCheckbox.checked = false;
+                            clickerCheckbox.indeterminate = true;
+                        }
+
+                        children[0].parentNode.parentNode.addEventListener('click', function(){
+                            if(allChecked(children)){
+                                clickerCheckbox.checked = true;
+                                clickerCheckbox.indeterminate = false;
+                            }
+                            else {
+                                if(allUnChecked(children)){
+                                    clickerCheckbox.checked = clickerCheckbox.indeterminate = false
+                                }
+                                else{
+                                    clickerCheckbox.checked = false;
+                                    clickerCheckbox.indeterminate = true;
+                                }
+                            }
+                        });
+                    }
+
+                    clicker.addEventListener('click', function(){
+                        if(clickerCheckbox.checked && Reyez.cssClass.contains(clicker.nextElementSibling, 'is-clicked') ||
+                            !clickerCheckbox.checked && !Reyez.cssClass.contains(clicker.nextElementSibling, 'is-clicked')) {
+                            clicker.nextElementSibling.click(); // click the expand/collapse btn
+                        }
+                        if(children) copyStateOfParent(clickerCheckbox, children);
+                    });
+                });
+            }
+
+            function allChecked(items){
+                return Reyez.every(items, function(item){
+                    return item.checked === true;
+                });
+            }
+            function allUnChecked(items){
+                return Reyez.every(items, function(item){
+                    return item.checked === false;
+                });
+            }
+
+            function copyStateOfParent(parent, children){
+                setTimeout(function(){
+                    Reyez.loop(children, function (child) {
+                        if(child.checked === parent.checked) return;
+                        child.checked = parent.checked;
+                        child[(parent.checked?'set':'remove')+'Attribute']('checked', 'checked');
+                    });
+                }, 0); // overcome the small delay that exists between clicking on the <label> and checking the checkbox
+            }
+        })('.js-show-subfilters');
+
+        //tabs/carousel
+        (function(tablists){
+            Reyez.loop(tablists, function initTabs(tablist){
+                var tabs = tablist.querySelectorAll('[role=tab]');
+                if(!tabs.length) return;
+                var selectedTab = Reyez.filter(tabs, function(tab){ return tab.getAttribute('aria-selected') === 'true'})[0];
+                var tab_panel_map = [];
+                var panel_tab_map = [];
+                var selectedTabCssClass = tablist.getAttribute('data-selected-tab-cssclass');
+                var autoPlayTimeOut = Number(tablist.getAttribute('data-carousel-autoplay'));
+                var autoPlayTimer = null;
+
+                // event handlers
+                function switch_active_panel(e){
+                    clearTimeout(autoPlayTimer);
+                    e && e.preventDefault && e.preventDefault();
+                    if(window.innerWidth < 768) {
+                        window.location.href = this.getAttribute('data-url');
+                    } else {
+                        select.call(selectedTab, false);
+                        select.call(this, true);
+                        selectedTab = this;
+                    }
+                    autoPlayTimer = setTimeout(autoPlay, autoPlayTimeOut)
+                }
+                function switch_active_tab(e){
+                    var key = e.key.toLowerCase();
+                    if( -1 === Reyez.array.indexOf.call(['left', 'right'], key)) return;
+                    var currentIndex = Reyez.array.indexOf.call(tabs, selectedTab);
+                    var newIndex = currentIndex + (key === 'left' ? -1:1);
+                    // make sure index is within bounds
+                    newIndex = Math.max(Math.min(newIndex, tabs.length - 1), 0);
+                    if(newIndex !== currentIndex){
+                        switch_active_panel.call(tabs[newIndex], e);
+                    }
+                }
+                // select or unselect
+                function select(shouldSelect){
+                    var index = Reyez.array.indexOf.call(tabs, this);
+                    this.setAttribute('aria-selected', Reyez.b2s(shouldSelect));
+                    Reyez.cssClass[shouldSelect ? 'add':'remove'](tab_panel_map[index], selectedTabCssClass);
+                }
+
+                Reyez.loop(tabs, function _couple(tab, i){
+                    tab.addEventListener('focus', switch_active_panel);
+                    tab.addEventListener('click', switch_active_panel);
+                    tab.addEventListener('keydown', switch_active_tab);
+                    tab_panel_map[i] = document.getElementById(tab.getAttribute('aria-controls'));
+                    panel_tab_map[i] = tab;
+                });
+
+                function autoPlay(){
+                    var newIndex = Reyez.array.indexOf.call(tabs, selectedTab) + 1;
+                    switch_active_panel.call(tabs[(newIndex > tabs.length - 1) ? 0:newIndex])
+                }
+
+                if(tablist.getAttribute('data-carousel-autoplay')){
+                    autoPlayTimer = setTimeout(autoPlay, autoPlayTimeOut)
+                }
+            });
+        })(document.querySelectorAll('[role=tablist]'));
+
+        // change background of slider
+        (function(containers) {
+            Reyez.loop(containers, function(container) {
+                var target = document.getElementById(container.getAttribute('data-change-bg-target'));
+                var cssClass = container.getAttribute('data-change-bg-clicker-class');
+                var cssPrefix = container.getAttribute('data-change-bg-prefix');
+                var regex = new RegExp('(^| )' + cssPrefix + '[a-z\-]+( |$)', 'gi');
+                target.addEventListener('click', function(e) {
+                    if( ! (Reyez.cssClass.contains(e.target, cssClass) || Reyez.cssClass.contains(e.target.parentNode, cssClass))) return;
+                    var el = Reyez.cssClass.contains(e.target.parentNode, cssClass) ? e.target.parentNode:e.target;
+                    var cssClassPart = el.getAttribute('data-cssclass');
+                    target.setAttribute('class', target.getAttribute('class').replace(regex, ' '+ cssPrefix + cssClassPart +' '));
+                });
+            });
+        })(document.querySelectorAll('.js-change-bg'));
+
+        // animated scrolling
+        (function(wrapper, animatingClass, getHash, href, offset, isAnimating){
+            if(!wrapper) return;
+            function onTransitionEnd(){
+                if(!isAnimating) return;
+                Reyez.cssClass.remove(wrapper, animatingClass);
+                wrapper.style.transform = '';
+                window.scrollTo(0, Math.abs(offset));
+                if(href!=='') window.location = href;
+                href = '';
+                isAnimating = false;
+            }
+            function scrollToAnchor(e){
+                if( ! Reyez.hasTransitionEndSupport) return;
+                var target = (e.target.tagName === 'A' ? e.target : null) || (this.tagName === 'A' ? this : null);
+                if( ! target) return;
+                var matches = target.href.match(getHash);
+                if( ! (matches && matches.length)) return;
+                href = matches[0];
+                var el = document.getElementById(href.replace('#', ''));
+                if(!el) return;
+                e.preventDefault();
+                offset = el.offsetTop;
+                var scroll = Reyez.getScroll().y;
+                var amount = Math.abs(offset - scroll);
+                if( ! (scroll === amount)){
+                    var scrollspace = Math.abs(window.innerHeight - wrapper.clientHeight);
+                    amount = Math.min(offset, scrollspace) - scroll;
+                    amount = (amount > scrollspace) ? -(scrollspace - scroll) : -amount;
+                }
+                Reyez.cssClass.add(wrapper, animatingClass);
+                isAnimating = true;
+                var transform = 'translate(0, ' + amount + 'px)';
+                wrapper.style.webkitTransform = transform;
+                wrapper.style.transform = transform;
+            }
+            if(Reyez.hasTransitionEndSupport) wrapper.addEventListener(Reyez.hasTransitionEndSupport, onTransitionEnd);
+            Reyez.loop(doc.querySelectorAll('.js-scrollto'), function(el){
+                if(el) el.addEventListener('click', scrollToAnchor);
+            });
+        })(doc.querySelector('.js-scroll-area'), 'is-animating', /#[a-zA-Z0-9\-_]+/, '', 0, false);
+
+        // show header when scrolling up
+        (function(header){
+            if(!header) return;
+            var mayanimateClass = header.getAttribute('data-mayanimate-class');
+            var hideClass = header.getAttribute('data-hide-class');
+            var floatingClass = header.getAttribute('data-floating-class');
+            var breakpoint = header.getAttribute('data-breakpoint');
+            var scrollTop = Reyez.getScroll().y;
+            var lastScrollTop = scrollTop;
+            var isHiding = false;
+            var thresshold = 100;
+            var thressholdOffset = 50;
+            var headerHeight;
+            var windowInnerWidth;
+
+            measure();
+
+            window.addEventListener('resize', Reyez.debounce(function(){ measure(); }));
+            window.addEventListener('orientationchange', function(){ measure(); });
+
+            window.addEventListener('scroll', onScroll);
+
+            function measure(){
+                headerHeight = header.clientHeight;
+                windowInnerWidth = window.innerWidth;
+                thressholdOffset = (windowInnerWidth > breakpoint) ? 50:0;
+            }
+            function onScroll(){
+                scrollTop = Reyez.getScroll().y;
+                if(scrollTop >= (thresshold + thressholdOffset)) {// not @ top portion of page
+                    if(!isHiding){                                  // not hidden
+                        if(lastScrollTop < scrollTop){                  // we are going down
+                            Reyez.cssClass.add(header, hideClass);
+                            Reyez.cssClass.add(header, floatingClass);
+                            isHiding = true;
+                            Reyez.pubsub.publish('hideMenuBar');
+                            setTimeout(function(){
+                                Reyez.cssClass.add(header, mayanimateClass);
+                            }, 100);
+                        }
+                    } else {                                        // hidden
+                        if(lastScrollTop > scrollTop){                  // we are going up
+                            if(isHiding) {
+                                Reyez.cssClass.remove(header, hideClass);
+                                isHiding = false;
+                            }
+                        }
+                        else {                                          // we are going down
+                            if(!isHiding) {
+                                Reyez.cssClass.add(header, hideClass);
+                                isHiding = true;
+                                Reyez.pubsub.publish('hideMenuBar');
+                            }
+                        }
+                    }
+                }
+                else {
+                    if(scrollTop <= thressholdOffset) {
+                        Reyez.cssClass.remove(header, hideClass);
+                        Reyez.cssClass.remove(header, floatingClass);
+                        Reyez.cssClass.remove(header, mayanimateClass);
+                        isHiding = false;
+                    }
+                }
+                lastScrollTop = scrollTop;
+            }
+        })(document.querySelector('.header'));
+
+        (function(switchers){
+            if(!switchers.length) return;
+            Reyez.loop(switchers, function(switcher){
+                var id = switcher.getAttribute('data-image-switcher-target');
+                var activeCssClass = switcher.getAttribute('data-image-switcher-active-class');
+                var target = document.getElementById(id);
+                var activeEl = document.querySelector('.'+activeCssClass);
+
+                switcher.addEventListener('click', function _click(e){
+                    e.preventDefault();
+                    var target = e.target.tagName === 'A' ? e.target:e.target.parentNode;
+                    if(target) doSwitch(target);
+                });
+
+                function doSwitch(el){
+                    Reyez.cssClass.add(el, activeCssClass);
+                    Reyez.cssClass.remove(activeEl, activeCssClass);
+                    activeEl = el;
+                    target.src = el.getAttribute('data-big-image-url');
+                }
+            });
+        })(document.querySelectorAll('.js-image-switcher'));
+
+        (function(inputs){
+            if(!inputs.length) return;
+            Reyez.loop(inputs, function(input){
+                var label = input.nextElementSibling;
+                var labelVal = label.innerHTML;
+                var fileName = '';
+                input.addEventListener( 'change', function(e){
+                    fileName = e.target.value.split('\\').pop();
+                    label.innerHTML = fileName ? fileName : labelVal;
+                });
+            });
+        })(document.querySelectorAll('.form-uploader'));
+
+        (function _carouselClickCapturer(containers){
+            Reyez.loop(containers, function(container){
+                var a = container.querySelector(container.getAttribute('data-click-capturer-target'));
+                container.addEventListener('click', function(){
+                    window.location = a.href;
+                });
+            });
+        })(doc.querySelectorAll('.js-carousel-click-capturer'));
+    })(window, document);
+</script>
+</body>
+</html>

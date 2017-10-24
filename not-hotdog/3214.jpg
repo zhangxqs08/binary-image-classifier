@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name='robots' content='noindex,follow' />
+
+<title>DecoPasion.com</title>
+<link href="/St/css.css" rel="stylesheet" type="text/css" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40469313-23', 'decopasion.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body>  
+
+
+<div id="CapaCentradora">
+	<div id="HeaderId" class="BloqueGeneral">
+		<div class="Izquierda">
+        	<a href="/"></a>
+        </div>
+		<div class="Derecha">
+			<a href="/" class="EnlaceHeader" id="EnlaceHeader1">Inicio</a>
+			<a href="/galerias" class="EnlaceHeader">Galerías</a>
+			<a href="/fotos" class="EnlaceHeader">Imágenes</a>          
+        </div>
+    </div>
+	<div id="NavegableId">    	
+		<a href="/">Inicio</a>    
+    </div>
+	<div id="ContenidoId" class="BloqueGeneral">    	
+	    <div id="MenuId">
+        	<div class='Bloque'><div class='CapaBloque'><a href='/estilos-decoracion' class='EnlaceBloque'>Estilos de decoración</a></div><a href="/decoracion-arabe" class="EnlaceMenu">Decoración árabe</a><a href="/decoracion-barroca" class="EnlaceMenu">Decoración barroca</a><a href="/decoracion-clasica" class="EnlaceMenu">Decoración clásica</a><a href="/decoracion-colonial" class="EnlaceMenu">Decoración colonial</a><a href="/decoracion-etnica" class="EnlaceMenu">Decoración étnica</a><a href="/decoracion-feng-shui" class="EnlaceMenu">Decoración Feng Shui</a><a href="/decoracion-francesa" class="EnlaceMenu">Decoración francesa</a><a href="/decoracion-industrial" class="EnlaceMenu">Decoración industrial</a><a href="/decoracion-inglesa" class="EnlaceMenu">Decoración inglesa</a><a href="/decoracion-japonesa" class="EnlaceMenu">Decoración japonesa</a><a href="/decoracion-loft" class="EnlaceMenu">Decoración loft</a><a href="/decoracion-marinera" class="EnlaceMenu">Decoración marinera</a><a href="/decoracion-mediterranea" class="EnlaceMenu">Decoración mediterránea</a><a href="/decoracion-minimalista" class="EnlaceMenu">Decoración minimalista</a><a href="/decoracion-moderna" class="EnlaceMenu">Decoración moderna</a><a href="/decoracion-nordica" class="EnlaceMenu">Decoración nórdica</a><a href="/decoracion-oriental" class="EnlaceMenu">Decoración oriental</a><a href="/decoracion-pop" class="EnlaceMenu">Decoración pop</a><a href="/decoracion-retro" class="EnlaceMenu">Decoración retro</a><a href="/decoracion-rustica" class="EnlaceMenu">Decoración rústica</a><a href="/decoracion-vintage" class="EnlaceMenu">Decoración vintage</a><a href="/decoracion-zen" class="EnlaceMenu">Decoración Zen</a></div>
+        </div>    	
+    	<div id="CentroId">
+			<div align="center">
+	            <br /><br /><br />
+            	La página a la que intentas acceder no se encuentra disponible en estos momentos. 
+                <br /><br />
+				Va a ser redireccionado a la página de inicio.
+			</div>
+<script>
+setTimeout(function(){
+	location.href = "/";
+}, 5000);
+</script>            
+		</div>
+        <div class="clearBoth"></div>        
+    </div>
+    <div id="FooterId" class="BloqueGeneral">
+<script>
+document.write('<' + 'a hr' + 'ef="/legal#contacto" rel="nofollow" class="floatLeft">Contacto</' + 'a>');
+</script>
+Consejos para la <b>decoración del hogar</b>. Ideas de interiorismo para los diferentes estilos decorativos.
+<script>
+document.write('<' + 'a hr' + 'ef="/legal" rel="nofollow" class="floatRight">Aviso legal</' + 'a>');
+</script>        
+    </div>
+</div>
+</body>
+</html>

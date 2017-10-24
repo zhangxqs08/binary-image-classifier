@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Josh Spear</title>
+  <base href="/">
+  <meta
+    name="description"
+    content="Josh Spear is an entrepreneur and investor interested in making the world a better place.">
+  <meta
+    property="og:description"
+    content="Josh Spear is an entrepreneur and investor interested in making the world a better place.">
+  <meta
+    name="keywords"
+    content="">
+  <meta
+    property="og:image"
+    content="http://joshspear.com/assets/img/share.jpg">
+  <meta
+    property="og:site_name"
+    content="Josh Spear">
+  <meta
+    property="og:url"
+    content="http://joshspear.com">
+  <meta
+    property="og:type"
+    content="website">
+  <meta
+    name="twitter:site"
+    content="@joshspear">
+  <meta
+    name="twitter:card"
+    content="summary_large_image">
+  <meta
+    name="twitter:title"
+    content="Josh Spear">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, user-scalable=no">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link href="styles.23644e6b1c19883332f6.bundle.css" rel="stylesheet"/></head>
+<body>
+  <app-root></app-root>
+<script type="text/javascript" src="inline.af9bd7c15c09ea6d648a.bundle.js"></script><script type="text/javascript" src="polyfills.0e5f024c7aed3d35edde.bundle.js"></script><script type="text/javascript" src="scripts.945996530282d57fcc2a.bundle.js"></script><script type="text/javascript" src="vendor.6565b8557ed638261d8d.bundle.js"></script><script type="text/javascript" src="main.3506621c7f81f24664c0.bundle.js"></script></body>
+</html>

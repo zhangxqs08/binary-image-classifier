@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>madasafish</title>
+</head>
+<frameset rows="*" cols="*,0" framespacing="0" frameborder="0">
+<frame src="http://www.madasafish.com/holdingpage.asp">
+	<noframes>
+<p>This page uses frames, but your browser does not support them.
+</noframes>
+</frameset>
+</html>

@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]> <html lang="en" id="top" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" id="top" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" id="top" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" id="top" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" id="top" class="no-js"> <!--<![endif]-->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>404 Not Found</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="Page description" />
+<meta name="keywords" content="Page keywords" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="http://www.antiqueindiafurniture.com/media/favicon/default/fevi-icon.png" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.antiqueindiafurniture.com/media/favicon/default/fevi-icon.png" type="image/x-icon" />
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.antiqueindiafurniture.com/js/blank.html';
+    var BLANK_IMG = 'http://www.antiqueindiafurniture.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/base/default/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/_shared/itemslider.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/_shared/generic-nav.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/brands/brands.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/ultra-slideshow/ultra-slideshow.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/_shared/accordion.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/ultra-megamenu/menu.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/styles-infortis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/components/animate/animate.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/_shared/banners.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/_shared/generic-cck.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/_shared/dropdown.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/_shared/itemgrid.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/_shared/tabs.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/_shared/icons.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/_shared/icons-font.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/common.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/override-modules.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/override-theme.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/header.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/bootstrap/bootstrap-grid.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/infortis/_shared/grid12.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/_config/design_default.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/_config/grid_default.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/_config/layout_default.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/override-config.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/print.css" media="print" />
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/varien/form.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/jquery-noconflict.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/plugins/jquery.owlcarousel.min.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/plugins/jquery.easing.min.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/plugins/jquery.accordion.min.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/plugins/modernizr.custom.min.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/plugins/matchMedia.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/plugins/matchMedia.addListener.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/plugins/enquire.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/plugins/jquery.tabs.min.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/infortis/jquery/plugins/imagesloaded.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/js/ultramegamenu.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/js/smartheader.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/js/stickyheader.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/js/app.js"></script>
+<link href="http://www.antiqueindiafurniture.com/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml" />
+<link href="http://www.antiqueindiafurniture.com/rss/catalog/special/store_id/1/cid/0/" title="Special Products" rel="alternate" type="application/rss+xml" />
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.antiqueindiafurniture.com/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/styles-ie7.css" media="all" />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/css/styles-ie8.css" media="all" />
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.antiqueindiafurniture.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<style type="text/css">
+		.wrapper
+	{	
+		background-image: url(http://www.antiqueindiafurniture.com/media/wysiwyg/infortis/ultimo/_backgrounds/default/beg2_1.jpg);
+	}
+									.footer-container2
+	{
+		background-image: url(http://www.antiqueindiafurniture.com/media/wysiwyg/infortis/ultimo/_patterns/default/1.png);
+	}
+		</style><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+	<link href='//fonts.googleapis.com/css?family=Bitter&amp;subset=latin' rel='stylesheet' type='text/css' />
+</head>
+<body class=" cms-index-noroute responsive cms-no-route  page-layout-2columns-right">
+<div id="root-wrapper">
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <div id="header-container" class="header-container header-mobile" style="display:none;">
+<div class="header-container2">
+<div class="header-container3">
+
+        <!-- Part of the header displayed only in mobile mode -->
+    <div class="header-m-container">
+
+        <div class="header-m-top-container">
+            <div class="header-m-top header container clearer">
+                <div class="inner-container">
+
+                    <div class="widget widget-static-block"></div>
+
+                                        
+                </div> <!-- end: inner-container -->
+            </div> <!-- end: header-m-top -->
+        </div> <!-- end: header-m-top-container -->
+
+        <div class="header-m-primary-container">
+            <div class="header-m-primary header container">
+                <div class="inner-container">
+
+                    
+                    <!-- Mobile logo -->
+                    <div class="logo-wrapper--mobile">
+                        <a class="logo logo--mobile" href="http://www.antiqueindiafurniture.com/" title="Responsive Magento Theme">
+                            <img src="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/images/logo-1.png" alt="Responsive Magento Theme" />
+                        </a>
+                    </div>
+                    <div class="clearer after-mobile-logo"></div>
+
+                    <!-- Skip links -->
+                    <div class="skip-links-wrapper skip-links--4">
+
+                                                    <a href="#header-nav" class="skip-link skip-nav">
+                                <span class="icon ic ic-menu"></span>
+                                <span class="label">Menu</span>
+                            </a>
+                        
+                                                    <a href="#header-search" class="skip-link skip-search">
+                                <span class="icon ic ic-search"></span>
+                                <span class="label">Search</span>
+                            </a>
+                        
+                                                    <a href="#header-account" class="skip-link skip-account">
+                                <span class="icon ic ic-user"></span>
+                                <span class="label">Account</span>
+                            </a>
+                        
+                        
+                        
+                                                                            <div id="mini-cart-marker-mobile"></div>
+                            <div id="mini-cart" class="mini-cart dropdown is-empty">
+
+    <a href="#header-cart" class="mini-cart-heading dropdown-heading cover skip-link skip-cart">
+        <span>
+        
+            <span class="icon ic ic-cart"></span>
+                        <span class="label" style="display:none;">Cart</span>
+                        <span class="caret"></span>
+
+        </span>
+    </a> <!-- end: heading -->
+    
+                <div id="header-cart" class="mini-cart-content dropdown-content left-hand block block block-cart skip-content skip-content--style">
+            <div class="block-content-inner">
+
+                                <div class="empty">You have no items in your shopping cart.</div>
+
+            </div> <!-- end: inner block -->
+        </div> <!-- end: dropdown-content -->
+    
+</div>
+                        
+                                                    <div id="header-nav" class="skip-content skip-content--style">
+                                <div id="nav-marker-mobile"></div>
+                            </div>
+
+                                                    <div id="search-marker-mobile"></div>
+                            <div id="header-search" class="skip-content skip-content--style">
+    <div class="search-wrapper">
+        <form id="search_mini_form" action="http://www.antiqueindiafurniture.com/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search">Search:</label>
+        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128" />
+        <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+            searchForm.initAutocomplete('http://www.antiqueindiafurniture.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+    </div>
+</div>
+                        
+                                                    <div id="account-links-marker-mobile"></div>
+                                <div id="header-account" class="account-links top-links links-wrapper-separators-left skip-content skip-content--style">
+        <ul class="links">
+                        <li class="first" ><a href="http://www.antiqueindiafurniture.com/customer/account/" title="Account" >Account</a></li>
+                                <li ><a href="http://www.antiqueindiafurniture.com/wishlist/" title="Wishlist" >Wishlist</a></li>
+                                <li class=" last" ><a href="http://www.antiqueindiafurniture.com/customer/account/login/" title="Log In" >Log In</a></li>
+            </ul>
+    </div>
+                        
+                        
+                            <div class="skip-links-clearer clearer"></div>
+
+                    </div> <!-- end: skip-links-wrapper -->
+
+                </div> <!-- end: inner-container -->
+            </div> <!-- end: header-m-primary -->
+        </div> <!-- end: header-m-primary-container -->
+
+    </div> <!-- end: header-m-container -->
+    
+    <!-- Part of the header displayed only in regular mode -->
+    <div class="header-top-container">
+        <div class="header-top header container clearer">
+            <div class="inner-container">
+
+                                
+                <div class="left-column">
+
+                    
+                    
+                                            <div class="item item-left block_header_top_left"><div class="hide-below-960" title="You can put here a phone number or some additional help info"><span class="ic ic-lg ic-phone"></span><strong>Phone: +91-98287 24349 , Email: info@antiqueindiafurniture.com</strong></div></div>
+                                                            <div class="item item-left hide-below-960">
+                        <p class="welcome-msg">Welcome ! </p>
+                    </div>
+
+                </div> <!-- end: left column -->
+
+                <div class="right-column">
+
+                    
+                                        
+                    
+                    
+                    
+                </div> <!-- end: right column -->
+
+            </div> <!-- end: inner-container -->
+        </div> <!-- end: header-top -->
+    </div> <!-- end: header-top-container -->
+
+    <div class="header-primary-container">
+        <div class="header-primary header container">
+            <div class="inner-container">
+
+                
+                                <div class="hp-blocks-holder">
+
+                                            <!-- Left column -->
+                        <div class="hp-block left-column grid12-4">
+                                                                                                                            <div class="item"><div class="logo-wrapper logo-wrapper--regular">
+			<a class="logo logo--regular" href="http://www.antiqueindiafurniture.com/" title="Responsive Magento Theme"><strong>Responsive Magento Theme</strong><img src="http://www.antiqueindiafurniture.com/skin/frontend/ultimo/default/images/logo-1.png" alt="Responsive Magento Theme" /></a>
+	</div>
+</div>
+                                                                                    </div> <!-- end: left column -->
+                    
+                                            <!-- Central column -->
+                        <div class="hp-block central-column grid12-4">
+                                                                                                                            <div class="item"><div id="search-marker-regular"></div></div>
+                                                                                    </div> <!-- end: central column -->
+                    
+                                            <!-- Right column -->
+                        <div class="hp-block right-column grid12-4">
+                                                                                                                            <div class="item"><div id="user-menu-wrapper-regular">
+    <div id="user-menu" class="user-menu">
+
+        
+        
+                    <div id="mini-cart-marker-regular"></div>        
+        
+                
+        
+                    <div id="mini-compare-marker-regular"></div>        
+        
+                
+        
+                    <div id="account-links-marker-regular"></div>        
+        
+        
+    </div> <!-- end: user-menu -->
+</div>
+</div>
+                                                                                    </div> <!-- end: right column -->
+                                        
+                </div> <!-- end: hp-blocks-holder -->
+
+            </div> <!-- end: inner-container -->
+        </div> <!-- end: header-primary -->
+    </div> <!-- end: header-primary-container -->
+
+            
+    <div class="nav-container skip-content sticky-container">
+        <div class="nav container clearer">
+            <div class="inner-container"><div class="navi-wrapper">
+
+        <ul class="nav-holders-wrapper">
+        <li id="nav-holder1" class="nav-item level0 level-top nav-holder"></li>
+        <li id="nav-holder2" class="nav-item level0 level-top nav-holder"></li>
+        <li id="nav-holder3" class="nav-item level0 level-top nav-holder"></li>
+    </ul>
+
+            
+        <div class="mobnav-trigger menu-trigger">
+            <div class="menu-trigger-inner">
+                <span class="trigger-icon"><span class="line"></span><span class="line"></span><span class="line"></span></span>
+                <span class="label">Menu</span>
+            </div>
+        </div>
+
+    
+        
+            
+        <div id="nav-marker-regular"></div>
+    <nav id="mainmenu" class="navi nav-regular opt-fx-fade-inout opt-sb0 opt-sob opt-hide480 with-bullets">
+        <ul>
+
+                        
+            
+                            <li class="nav-item nav-item--home level0 level-top">
+                    <a class="level-top" href="http://www.antiqueindiafurniture.com/"><span>Home</span></a>
+                </li>
+                        
+                                        <li class="nav-item level0 nav-1 level-top first classic"><a href="http://www.antiqueindiafurniture.com/about-us/" class="level-top"><span>About Us</span></a></li><li class="nav-item level0 nav-2 level-top nav-item--parent classic nav-item--only-subcategories parent"><a href="http://www.antiqueindiafurniture.com/products-by-range.html" class="level-top"><span> Products By Range</span><span class="caret"></span></a><span class="opener"></span><ul class="level0 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level1 nav-2-1 first last classic"><a href="http://www.antiqueindiafurniture.com/products-by-range/bed-side.html"><span>Bed Side</span></a></li></ul></li><li class="nav-item level0 nav-3 level-top classic"><a href="http://www.antiqueindiafurniture.com/bone-inlay-furniture.html" class="level-top"><span>Bone Inlay Furniture</span></a></li><li class="nav-item level0 nav-4 level-top last classic"><a href="http://www.antiqueindiafurniture.com/contacts/" class="level-top"><span>Contact Us</span></a></li>                    
+                                    
+                                                                
+        </ul>
+    </nav>
+
+    <div class="nav-border-bottom"></div>
+
+</div> <!-- end: navi-wrapper -->
+<script type="text/javascript">
+//<![CDATA[
+
+    var topMenuContainer = jQuery('#mainmenu');
+    var topMenuSettings = {
+        mobileMenuThreshold: 960        , isVerticalLayout: false        
+        , mode: 0                , initVerticalMenuCollapsed: true        , outermostContainer: jQuery('.hp-blocks-holder')        , fullWidthDdContainer: jQuery('.hp-blocks-holder')    };
+    var theTopMenu = topMenuContainer.ultramegamenu(topMenuSettings).data("infortis-ultramegamenu");
+    theTopMenu.enableDropdowns();
+
+        
+        jQuery(function($) {
+
+            var itemsList = topMenuContainer.children('ul');
+
+            // Non-clickable links
+            itemsList.on('click', '.no-click', function(e) {
+                e.preventDefault();
+            });
+
+        }); //end: on document ready
+
+        jQuery(window).on("load", function() {
+
+            var menubar = topMenuContainer;
+            var isTouchDevice = ('ontouchstart' in window) || (navigator.msMaxTouchPoints > 0);
+            if (isTouchDevice)
+            {
+                menubar.on('click', 'a', function(e) {
+
+                    var link = jQuery(this);
+                    if (!menubar.hasClass('nav-mobile') && link.parent().hasClass('nav-item--parent'))
+                    {
+                        if (!link.hasClass('ready'))
+                        {
+                            e.preventDefault();
+                            menubar.find('.ready').removeClass('ready');
+                            link.parents('li').children('a').addClass('ready');
+                        }
+                    }
+
+                }); //end: on click
+            } //end: if isTouchDevice
+
+        }); //end: on load
+
+    
+//]]>
+</script>
+</div>
+        </div>
+    </div>    
+</div> <!-- end: header-container3 -->
+</div> <!-- end: header-container2 -->
+</div> <!-- end: header-container -->
+<script type="text/javascript">
+//<![CDATA[
+
+    var theHeaderContainer = jQuery('#header-container');
+
+        
+        var smartHeaderSettings = {
+            cartBlockSelector: '#mini-cart'
+            , dropdownBlockClass: 'dropdown'
+        };
+        theHeaderContainer.smartheader(smartHeaderSettings);
+
+    
+    jQuery(function($) {
+
+        
+            //Skip Links
+            var skipContents = $('.skip-content');
+            var skipLinks = $('.skip-link');
+            skipLinks.on('click', function (e) {
+                e.preventDefault();
+
+                var self = $(this);
+                var target = self.attr('href');
+
+                //Get target element
+                var elem = $(target);
+
+                //Check if stub is open
+                var isSkipContentOpen = elem.hasClass('skip-active') ? 1 : 0;
+
+                //Hide all stubs
+                skipLinks.removeClass('skip-active');
+                skipContents.removeClass('skip-active');
+
+                //Toggle stubs
+                if (isSkipContentOpen) {
+                    self.removeClass('skip-active');
+                } else {
+                    self.addClass('skip-active');
+                    elem.addClass('skip-active');
+                }
+            });
+
+        
+        
+            var stickyHeaderSettings = {
+                stickyThreshold: 960                , cartBlockSelector: '#mini-cart'
+            };
+            theHeaderContainer.stickyheader(stickyHeaderSettings);
+
+        
+    }); //end: on document ready
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+    //Expose the header container
+    var jsHeaderContainerObject = document.getElementById("header-container");
+    if (jsHeaderContainerObject.style.display == 'none')
+    {
+        jsHeaderContainerObject.style.display = "block";
+        jsHeaderContainerObject.classList.add("js-shown"); ///
+    }
+
+//]]>
+</script>
+        <div class="main-container col2-right-layout">
+            <div class="main-top-container"></div>
+            <div class="main container">
+                <div class="inner-container">
+                                        <div class="preface"></div>
+                    <div id="page-columns" class="columns">
+                        <div class="column-main">
+                                                        <div class="std"><div class="grid12-4">
+
+<img src="http://www.antiqueindiafurniture.com/media/wysiwyg/infortis/ultimo/custom/404.jpg" alt="404 not found" />
+
+</div>
+
+
+<div class="grid12-8">
+
+	<div class="page-title"><h1>Whoops, our bad...</h1></div>
+	<dl>
+	<dt>The page you requested was not found, and we have a fine guess why.</dt>
+	<dd>
+	<ul class="disc">
+	<li>If you typed the URL directly, please make sure the spelling is correct.</li>
+	<li>If you clicked on a link to get here, the link is outdated.</li>
+	</ul></dd>
+	</dl>
+	<dl>
+	<dt>What can you do?</dt>
+	<dd>Have no fear, help is near! There are many ways you can get back on track with Magento Store.</dd>
+	<dd>
+	<ul class="disc">
+	<li><a href="#" onclick="history.go(-1); return false;">Go back</a> to the previous page.</li>
+	<li>Use the search bar at the top of the page to search for your products.</li>
+	<li>Follow these links to get you back on track!<br /><a href="http://www.antiqueindiafurniture.com/">Store Home</a> <span class="separator">|</span> <a href="http://www.antiqueindiafurniture.com/customer/account/">My Account</a></li>
+	</ul>
+	</dd>
+	</dl>
+
+</div></div>                        </div>
+                        <div class="col-right sidebar sidebar-additional"><div class="block block-vertnav hide-below-768">
+            <div class="block-title">
+            <strong><span>Main Categories</span></strong>
+        </div>
+        <div class="block-content">
+                    <ul class="accordion accordion-style1 sideacco">
+                <li class="nav-item level0 nav-1 first"><a href="http://www.antiqueindiafurniture.com/about-us/"><span>About Us</span></a></li><li class="nav-item level0 nav-2 parent"><a href="http://www.antiqueindiafurniture.com/products-by-range.html"><span> Products By Range</span></a><span class="opener"></span><ul class="level0 nav-submenu"><li class="nav-item level1 nav-2-1 first last"><a href="http://www.antiqueindiafurniture.com/products-by-range/bed-side.html"><span>Bed Side</span></a></li></ul></li><li class="nav-item level0 nav-3"><a href="http://www.antiqueindiafurniture.com/bone-inlay-furniture.html"><span>Bone Inlay Furniture</span></a></li><li class="nav-item level0 nav-4 last"><a href="http://www.antiqueindiafurniture.com/contacts/"><span>Contact Us</span></a></li>            </ul>
+            </div>
+</div>
+</div>
+                    </div>
+                    <div class="postscript"></div>
+                </div>
+            </div>
+            <div class="main-bottom-container"></div>
+        </div>
+        <div class="footer-container">
+<div class="footer-container2">
+<div class="footer-container3">
+
+	
+	
+		
+	
+		
+	
+	
+	
+	<div class="footer-bottom-container section-container">
+		<div class="footer-bottom footer container">
+			<div class="inner-container">
+
+				<div class="clearer">
+				
+											<div class="item item-left">
+							<div class="footer-copyright">Copyright @ 2017 Antique India Furniture</div>
+						</div>
+										
+											<div class="item item-right block_footer_payment"><p><span style="color: #ffffff; font-size: x-small;"><a href="http://www.thecreativeminds.net/" target="_blank"><span style="font-family: georgia, palatino; color: #ffffff;"><strong>Design by The Creative Minds</strong></span></a></span></p></div>
+										
+					
+				</div> <!-- end: footer-bottom section -->
+
+			</div> <!-- end: inner-container -->
+		</div> <!-- end: footer-bottom -->
+	</div>
+
+		
+	<a id="scroll-to-top" class="ic ic-up" href="#top"></a>
+
+</div> <!-- end: footer-container3 -->
+</div> <!-- end: footer-container2 -->
+</div> <!-- end: footer-container -->
+
+                
+<script type="text/javascript">
+	//<![CDATA[
+
+			var gridItemsEqualHeightApplied = false;
+	function setGridItemsEqualHeight($)
+	{
+		var $list = $('.category-products-grid');
+		var $listItems = $list.children();
+
+		var centered = $list.hasClass('centered');
+		var gridItemMaxHeight = 0;
+		$listItems.each(function() {
+			
+			$(this).css("height", "auto"); 			var $object = $(this).find('.actions');
+
+						if (centered)
+			{
+				var objectWidth = $object.width();
+				var availableWidth = $(this).width();
+				var space = availableWidth - objectWidth;
+				var leftOffset = space / 2;
+				$object.css("padding-left", leftOffset + "px"); 			}
+
+						var bottomOffset = parseInt($(this).css("padding-top"));
+			if (centered) bottomOffset += 10;
+			$object.css("bottom", bottomOffset + "px");
+
+						if ($object.is(":visible"))
+			{
+								var objectHeight = $object.height();
+				$(this).css("padding-bottom", (objectHeight + bottomOffset) + "px");
+			}
+
+						
+			gridItemMaxHeight = Math.max(gridItemMaxHeight, $(this).height());
+		});
+
+		//Apply max height
+		$listItems.css("height", gridItemMaxHeight + "px");
+		gridItemsEqualHeightApplied = true;
+
+	}
+	
+
+
+	jQuery(function($) {
+
+        // Drop-down
+        var ddBlockSelector = '.dropdown';
+        var ddOpenTimeout;
+        var dMenuPosTimeout;
+        var DD_DELAY_IN = 200;
+        var DD_DELAY_OUT = 0;
+        var DD_ANIMATION_IN = 0;
+        var DD_ANIMATION_OUT = 0;
+
+        $(document).on('mouseenter touchstart', ddBlockSelector, function(e) {
+
+            var dd = $(this);
+            var ddHeading = dd.children('.dropdown-heading');
+            var ddContent = dd.children('.dropdown-content');
+
+            // If dd is not opened yet (or not initialized yet)
+            var isDdOpened = dd.data('ddOpened');
+            if (isDdOpened === false || isDdOpened === undefined)
+            {
+                // Clear old position of dd menu
+                ddContent.css("left", "");
+                ddContent.css("right", "");
+
+                // Show dd menu
+                clearTimeout(ddOpenTimeout);
+                ddOpenTimeout = setTimeout(function() {
+                    
+                    dd.addClass('open');
+
+                    // Set dd open flag
+                    dd.data('ddOpened', true);
+                    
+                }, DD_DELAY_IN);
+
+                ddContent.stop(true, true).delay(DD_DELAY_IN).fadeIn(DD_ANIMATION_IN, "easeOutCubic");
+                
+                // Set new position of dd menu.
+                // This code is delayed the same amount of time as dd animation.
+                clearTimeout(dMenuPosTimeout);
+                dMenuPosTimeout = setTimeout(function() {
+
+                    if (ddContent.offset().left < 0)
+                    {
+                        var space = dd.offset().left; // Space available on the left of dd
+                        ddContent.css("left", (-1)*space);
+                        ddContent.css("right", "auto");
+                    }
+                
+                }, DD_DELAY_IN);
+
+            } // end: dd is not opened yet
+
+        }).on('mouseleave', ddBlockSelector, function(e) {
+
+            var dd = $(this);
+            var ddContent = dd.children('.dropdown-content');
+
+            clearTimeout(ddOpenTimeout); // Clear, to close dd on mouseleave
+            ddContent.stop(true, true).delay(DD_DELAY_OUT).fadeOut(DD_ANIMATION_OUT, "easeInCubic");
+            if (ddContent.is(":hidden"))
+            {
+                ddContent.hide();
+            }
+            dd.removeClass('open');
+
+            // Clear dd open flag
+            dd.data('ddOpened', false);
+
+            // After hiding, clear the click event flag
+            dd.data('ddClickIntercepted', false);
+
+        }).on('click', ddBlockSelector, function(e) {
+
+            var dd = $(this);
+            var ddHeading = dd.children('.dropdown-heading');
+            var ddContent = dd.children('.dropdown-content');
+
+            // Only if the heading was clicked
+            if ($.contains(ddHeading[0], e.target) || ddHeading.is(e.target))
+            {
+                // Only after the first click already happened, the second click can close the dropdown
+                if (dd.data('ddClickIntercepted'))
+                {
+                    if (dd.hasClass('open'))
+                    {
+                        clearTimeout(ddOpenTimeout); // Clear, to close dd on mouseleave
+                        ddContent.stop(true, true).delay(DD_DELAY_OUT).fadeOut(DD_ANIMATION_OUT, "easeInCubic");
+                        if (ddContent.is(":hidden"))
+                        {
+                            ddContent.hide();
+                        }
+                        dd.removeClass('open');
+
+                        // Clear dd open flag
+                        dd.data('ddOpened', false);
+
+                        // After hiding, clear the click event flag
+                        dd.data('ddClickIntercepted', false);
+                    }
+                }
+                else 
+                {
+                    // Set the click event flag
+                    dd.data('ddClickIntercepted', true);
+                }
+            }
+
+        });
+
+
+
+				var windowScroll_t;
+		$(window).scroll(function(){
+			
+			clearTimeout(windowScroll_t);
+			windowScroll_t = setTimeout(function() {
+										
+				if ($(this).scrollTop() > 100)
+				{
+					$('#scroll-to-top').fadeIn();
+				}
+				else
+				{
+					$('#scroll-to-top').fadeOut();
+				}
+			
+			}, 500);
+			
+		});
+		
+		$('#scroll-to-top').click(function(){
+			$("html, body").animate({scrollTop: 0}, 600, "easeOutCubic");
+			return false;
+		});
+		
+		
+		
+				
+			var startHeight;
+			var bpad;
+			$('.category-products-grid').on('mouseenter', '.item', function() {
+
+														if ($(window).width() >= 320)
+					{
+				
+											if (gridItemsEqualHeightApplied === false)
+						{
+							return false;
+						}
+					
+					startHeight = $(this).height();
+					$(this).css("height", "auto"); //Release height
+					$(this).find(".display-onhover").fadeIn(400, "easeOutCubic"); //Show elements visible on hover
+					var h2 = $(this).height();
+					
+										////////////////////////////////////////////////////////////////
+					var addtocartHeight = 0;
+					var addtolinksHeight = 0;
+					
+										
+											var addtolinksEl = $(this).find('.add-to-links');
+						if (addtolinksEl.hasClass("addto-onimage") == false)
+							addtolinksHeight = addtolinksEl.innerHeight(); //.height();
+										
+											var h3 = h2 + addtocartHeight + addtolinksHeight;
+						var diff = 0;
+						if (h3 < startHeight)
+						{
+							$(this).height(startHeight);
+						}
+						else
+						{
+							$(this).height(h3); 							diff = h3 - startHeight;
+						}
+										////////////////////////////////////////////////////////////////
+
+					$(this).css("margin-bottom", "-" + diff + "px"); 
+									} 								
+			}).on('mouseleave', '.item', function() {
+
+													if ($(window).width() >= 320)
+					{
+				
+					//Clean up
+					$(this).find(".display-onhover").stop(true).hide();
+					$(this).css("margin-bottom", "");
+
+																$(this).height(startHeight);
+					
+									} 								
+			});
+		
+		
+
+
+				$('.products-grid, .products-list').on('mouseenter', '.product-image-wrapper', function() {
+			$(this).find(".alt-img").fadeIn(400, "easeOutCubic");
+		}).on('mouseleave', '.product-image-wrapper', function() {
+			$(this).find(".alt-img").stop(true).fadeOut(400, "easeOutCubic");
+		});
+
+
+
+				$('.fade-on-hover').on('mouseenter', function() {
+			$(this).animate({opacity: 0.75}, 300, 'easeInOutCubic');
+		}).on('mouseleave', function() {
+			$(this).stop(true).animate({opacity: 1}, 300, 'easeInOutCubic');
+		});
+
+
+
+				var dResize = {
+
+			winWidth : 0
+			, winHeight : 0
+			, windowResizeTimeout : null
+
+			, init : function()
+			{
+				dResize.winWidth = $(window).width();
+				dResize.winHeight = $(window).height();
+				dResize.windowResizeTimeout;
+
+				$(window).on('resize', function(e) {
+					clearTimeout(dResize.windowResizeTimeout);
+					dResize.windowResizeTimeout = setTimeout(function() {
+						dResize.onEventResize(e);
+					}, 50);
+				});
+			}
+
+			, onEventResize : function(e)
+			{
+				//Prevent from executing the code in IE when the window wasn't actually resized
+				var winNewWidth = $(window).width();
+				var winNewHeight = $(window).height();
+
+				//Code in this condition will be executed only if window was actually resized
+				if (dResize.winWidth != winNewWidth || dResize.winHeight != winNewHeight)
+				{
+					//Trigger deferred resize event
+					$(window).trigger("themeResize", e);
+
+					//Additional code executed on deferred resize
+					dResize.onEventDeferredResize();
+				}
+
+				//Update window size variables
+				dResize.winWidth = winNewWidth;
+				dResize.winHeight = winNewHeight;
+			}
+
+			, onEventDeferredResize : function() //Additional code, execute after window was actually resized
+			{
+				//Products grid: equal height of items
+									setGridItemsEqualHeight($);
+				
+			}
+
+		}; //end: dResize
+
+		dResize.init();
+
+
+
+	}); //end: on document ready
+	
+	
+
+	jQuery(window).load(function(){
+		
+							setGridItemsEqualHeight(jQuery);
+		
+	}); //end: jQuery(window).load(){...}
+
+
+
+	//]]>
+</script>
+
+
+    </div>
+</div>
+</div> <!-- end: root-wrapper -->
+</body>
+</html>

@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]>  <html> <![endif]-->
+<!--[if !IE]><!--> <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it">            <!--<![endif]-->
+   <head>
+      <title>Pagina non trovata | Vetrina S.P.</title>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="shortcut icon" type="image/x-icon" href="/sites/www.vetrinasp.it/themes/vetrinasp/images/favicon.ico">
+      <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="/sites/www.vetrinasp.it/themes/vetrinasp/stylesheets/app.css" type="text/css" media="screen" charset="utf-8"/>
+      <style type="text/css" media="all">
+@import url("http://www.vetrinasp.it/modules/system/system.base.css?oxwqng");
+@import url("http://www.vetrinasp.it/modules/system/system.menus.css?oxwqng");
+@import url("http://www.vetrinasp.it/modules/system/system.messages.css?oxwqng");
+@import url("http://www.vetrinasp.it/modules/system/system.theme.css?oxwqng");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.vetrinasp.it/modules/comment/comment.css?oxwqng");
+@import url("http://www.vetrinasp.it/modules/field/theme/field.css?oxwqng");
+@import url("http://www.vetrinasp.it/modules/node/node.css?oxwqng");
+@import url("http://www.vetrinasp.it/modules/search/search.css?oxwqng");
+@import url("http://www.vetrinasp.it/modules/user/user.css?oxwqng");
+</style>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-bottom{background:#135da3;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<style type="text/css" media="all">
+@import url("http://www.vetrinasp.it/sites/www.vetrinasp.it/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?oxwqng");
+</style>
+      
+<!--<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4952263-32']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>-->
+
+
+<script type="text/javascript" src="http://www.vetrinasp.it/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.vetrinasp.it/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.vetrinasp.it/misc/drupal.js?oxwqng"></script>
+<script type="text/javascript" src="http://www.vetrinasp.it/sites/www.vetrinasp.it/files/languages/it_-Hqjxwk-dDZyfN4WZn56K50Rye3ehg5oMN_AecabBTU.js?oxwqng"></script>
+<script type="text/javascript" src="http://www.vetrinasp.it/sites/www.vetrinasp.it/modules/google_analytics/googleanalytics.js?oxwqng"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-4952263-32"]);_gaq.push(["_trackPageview", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"vetrinasp","theme_token":"0e5fqHmTfpaFJK4qwC4UzuB6qF_rIWy09pPWZlero2o","js":{"sites\/www.vetrinasp.it\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/it_-Hqjxwk-dDZyfN4WZn56K50Rye3ehg5oMN_AecabBTU.js":1,"sites\/www.vetrinasp.it\/modules\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"0":1,"sites\/www.vetrinasp.it\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EQuesto sito o agli strumenti di terze parti utilizzati si avvalgono di cookies per consentirti una migliore navigazione. Il sito \u00e8 impostato per consentire l\u0027utilizzo di tutti i cookies.Se si continua a navigare sul presente sito, si accetta il nostro utilizzo dei cookies. Per avere maggiori informazioni circa la nostra Privacy Policy\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EAccetto\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENon accetto, voglio pi\u00f9 informazioni\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EThank you for accepting cookiesYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003ENascondi\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"http:\/\/www.iubenda.com\/privacy-policy\/343793","popup_link_new_window":1,"popup_position":null,"popup_language":"it","domain":"www.vetrinasp.it"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+
+   </head>
+   <body>
+      
+<div class="l-site-container">
+   <div class="m-header">
+      <div id="sysmsgs" class="m-message"></div>
+      <div class="m-header-top">
+         <div class="m-header-logo">
+            <a href="/" title="torna alla homepage">
+               <img src="/sites/www.vetrinasp.it/themes/vetrinasp/images/logo.png" alt="Vetrina S.P. di Paolo Sgorbati"/>
+            </a>
+         </div>
+         <div class="m-header-user-menu">
+            <ul>
+               <li class="catalogo">
+                  <i class="m-icon-pdf"></i>
+                  <a href="/catalogo/catalogo.pdf">scarica il catalogo</a>
+               </li>
+               <li>|</li>
+                              <li><a href="#login">Login</a></li>
+               <li>|</li>
+               <li><a href="#register">Registrati</a></li>
+                           </ul>
+            <ul class="language">
+            	<li><a href="http://www.vetrinasp.it"><img src="/sites/www.vetrinasp.it/themes/vetrinasp/images/it.png"></a></li>
+            	<li><a href="http://www.vetrinasp.com"><img src="/sites/www.vetrinasp.it/themes/vetrinasp/images/en.png"></a></li>
+            </ul>
+         </div>
+         <div class="m-header-search-summary">
+         <div class="m-header-search">
+    
+                    <style>
+                    
+                   	table.gsc-search-box {
+											width: 290px!important;
+											height: 25px;
+										}
+										
+                    .gsc-control-cse {
+                        background: transparent!important;
+                        border:none;
+                        padding: 0;
+                        margin: 0;
+                        /*position: relative;
+                        top:-6px;
+                        right: 60px;
+                        width: 220px;*/
+                        font-family: "PTSansRegular"!important;
+                    }
+                    
+                    .ie9 .gsc-control-cse,
+                    .ie8 .gsc-control-cse {
+                        position: relative;
+                        top:-15px;
+                    }
+                    
+                    .gsc-clear-button {
+                    	display: none;
+                    }
+                    
+                    .cse input.gsc-input, input.gsc-input {
+                       padding: 0px;
+                    }
+                    
+                    input#gsc-i-id1.gsc-input {
+                    	height: 25px!important;
+                    	border: 2px solid #666;
+                    }
+                    
+					.cse input.gsc-search-button, input.gsc-search-button {
+						background: url('/sites/www.vetrinasp.it/themes/vetrinasp/images/icons/icon-search2.png') no-repeat !important;
+						background-position: center; 
+						text-indent: -9999em;
+						border: none !important;
+						width: 24px;
+						height: 24px !important;
+					} 
+
+                </style>
+                
+                <!--[if gte IE 8]>
+                <style>
+                   .gsc-control-cse {
+                        top:-22px;
+                    }
+                    .m-header-bottom {
+                    	height: 40px;
+                    }
+                    
+                </style>
+						<![endif]-->
+         
+					<script>
+					  (function() {
+					    var cx = '008768158928528218078:qopjx0zfh7i';
+					    var gcse = document.createElement('script');
+					    gcse.type = 'text/javascript';
+					    gcse.async = true;
+					    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+					        '//www.google.com/cse/cse.js?cx=' + cx;
+					    var s = document.getElementsByTagName('script')[0];
+					    s.parentNode.insertBefore(gcse, s);
+					  })();
+					</script>
+					<gcse:search></gcse:search>
+					
+					
+         </div>
+         <!--/cerca-->
+         <div id="cartsummary" class="m-header-choice">
+			   <a href="/carrello">Il carrello è vuoto.</a>
+         </div>
+         <!--/summary-->
+         </div>
+             <!--/search and summary-->
+      </div>
+      	
+      	<div class="l-site-container">
+              <div class="m-avviso-importante">
+         	      <p class="animation-left">Trasporto OMAGGIO per tutti gli ordini online</p>
+         	  </div>
+      	</div>
+     
+
+
+      <div class="m-header-center">
+         <div class="m-line"><hr /></div>
+         <div class="m-cart">
+            <a href="/carrello"><i class="m-icon-cart"></i>carrello</a>
+         </div>
+      </div>
+      <div class="m-header-bottom">
+         <div class="m-header-site-menu">
+            <ul>
+                              <li><a href="/evidenza">E-catalogue</a></li>
+            </ul>
+         </div>
+      </div>
+   </div>
+   
+
+		  <section role="main">
+	  		<div class="l-one-content">
+		 
+		 <h1>Pagina non trovata</h1>
+		 La pagina richiesta "/cms/components/com_virtuemart/shop_image/product/330b545187e15747700d1004ba6be846.jpg" non è stata trovata.		</div>
+	  	  </section>
+	
+
+   <div class="l-row">
+      <div class="m-footer">
+         <div class="m-footer-copy">
+            Copyright © 2012 Vetrina SP | Powered by <a href="http://www.plurimedia.it/" target="_blank">Plurimedia</a> <br />
+            P. IVA n. 05249620963
+         </div>
+	     <div class="m-footer-menu">
+		    <ul>
+               <li><a href="/termini-condizioni">Termini e Condizioni</a></li>
+               <li>|</li>
+               <li><a href="/pagamenti-spedizioni">Pagamenti e Spedizioni</a></li>
+               <li>|</li>
+               <!--li><a href="/gestione-privacy">Privacy</a></li-->
+               <li><a href="//www.iubenda.com/privacy-policy/343793" class="iubenda-nostyle no-brand iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script></li>
+	        </ul>
+         </div>
+         <div class="m-footer-pay" style="margin-bottom: 40px;">
+            <img src="/sites/www.vetrinasp.it/themes/vetrinasp/images/paypal.png" alt="paypal" style="height: 75px;"/>
+         </div>
+      </div>
+   </div>
+</div>
+  <script type="text/javascript">
+        var tpath= "/sites/www.vetrinasp.it/themes/vetrinasp/",
+            isadmin= false,
+            logged= false;
+  </script>
+<script data-main="/sites/www.vetrinasp.it/themes/vetrinasp/javascripts/main" src="/sites/www.vetrinasp.it/themes/vetrinasp/javascripts/lib/require.js"></script>
+      <script type="text/javascript" src="http://www.vetrinasp.it/sites/www.vetrinasp.it/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?oxwqng"></script>
+   </body>
+   <!-- 
+   	  	-->
+</html>

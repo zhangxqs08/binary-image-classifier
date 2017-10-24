@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Language" content="nl" />
+    <meta name="robots" content="noindex" />
+    <meta name="robots" content="noindex" />
+    <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css" />
+    <!--[if lte IE 6]><link href="/css/style-ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+    <link href="/css/style-print.css" media="print" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/js/jquery.all.min.js"></script>
+    <script type="text/javascript" src="/js/functions.js"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div id="header" class="header-page">
+        <a href="/" id="logo" title="bHosted.nl voor webhosting en domeinregistratie met een prima prijs kwaliteit verhouding"><img src="/images/v5/image-logo.png" alt="bHosted.nl Webhosting" /></a>
+        
+        <ul id="top-menu">
+          <li class="last cart"><a href="https://www.bhosted.nl/winkelwagentje">Winkelwagentje is leeg</a></li>
+          <li><a href="https://www.bhosted.nl/login?redirect=klant">Controle paneel</a></li>
+          <li><a href="https://www.bhosted.nl/webmail" title="Webmail login">Webmail</a></li>
+          <li><a href="https://www.bhosted.nl/blog">Blog</a></li>
+    
+        </ul>
+        <ul id="main-menu">
+          <li class="first active"><a href="https://www.bhosted.nl/" title="Webhosting en domeinregistratie, binnen 5 minuten aan de slag">Home</a>
+          </li>
+          <li><a href="https://www.bhosted.nl/domeinnaam" title="Domeinregistratie, verhuizing of controle">Domeinen</a>
+            <ul class="sub-menu">
+<li><a href="https://www.bhosted.nl/domeinnaam/controleren" title="Domeinnaam controleren">Controleren</a></li><li><a href="https://www.bhosted.nl/domeinnaam/registratie" title="Domein registratie van vele extensies">Registreren</a></li><li><a href="https://www.bhosted.nl/domeinnaam/verhuizen" title="Domeinnaam verhuizen">Verhuizen</a></li><li><a href="https://www.bhosted.nl/domeinnaam/hosting" title="Domeinnaam hosting">Hosting</a></li><li><a href="https://www.bhosted.nl/domeinnaam/quarantaine" title="Domeinnaam uit quarantaine registreren">Quarantaine</a></li><li><a href="https://www.bhosted.nl/domeinnaam/prijzen" title="Domeinnaam prijzen">Prijzen</a></li><li><a href="https://www.bhosted.nl/domeinnaam/meerdere-domeinen" title="Meerdere domeinnamen in 1 hostingpakket">Meerdere domeinen</a></li><li><a href="https://www.bhosted.nl/domeinnaam/dynamic-dns" title="Dynamic DNS service">Dynamic DNS</a></li><li><a href="https://www.bhosted.nl/domeinnaam/nl-control" title=".nl Control bescherming">.nl Control</a></li></ul>
+          </li>
+          <li><a href="https://www.bhosted.nl/webhosting" title="Webhosting: van domeinparking tot hostingpakketten">Webhosting</a>
+            <ul class="sub-menu">
+<li><a href="https://www.bhosted.nl/webhosting/wizard" title="Webhosting wizard">Wizard</a></li><li><a href="https://www.bhosted.nl/webhosting/domeinparking" title="Domeinparking">Domeinparking</a></li><li><a href="https://www.bhosted.nl/webhosting/email-only" title="eMail only">eMail only</a></li><li><a href="https://www.bhosted.nl/webhosting/hostingpakket" title="Hostingpakket">Hostingpakket</a></li><li><a href="https://www.bhosted.nl/webhosting/office-365" title="Office 365 mailboxen">Office 365</a></li><li><a href="https://www.bhosted.nl/webhosting/cms-webhosting" title="CMS hosting: Wordpress, Joomla, Drupal, CMSMS, Typo3, Magento, etc.">CMS</a></li><li><a href="https://www.bhosted.nl/webhosting/opties" title="Opties">Opties</a></li></ul>
+          </li>
+          <li><a href="https://www.bhosted.nl/vps" title="Virtual Private Server">VPS</a>
+            <ul class="sub-menu">
+<li><a href="https://www.bhosted.nl/vps/configuraties" title="VPS configuraties">Configuraties</a></li><li><a href="https://www.bhosted.nl/vps/linux" title="Linux VPS hosting">Linux VPS</a></li><li><a href="https://www.bhosted.nl/vps/windows" title="Windows VPS hosting">Windows VPS</a></li></ul>
+          </li>
+          <li><a href="https://www.bhosted.nl/colocatie" title="Colocatie, Managed Dedicated Servers en Rackspace in Brabant">Colocatie</a>
+            <ul class="sub-menu">
+<li><a href="https://www.bhosted.nl/colocatie/dedicated-server" title="Dedicated managed server">Dedicated server</a></li><li><a href="https://www.bhosted.nl/colocatie/server-hosting" title="Server hosting">Server hosting</a></li><li><a href="https://www.bhosted.nl/colocatie/rackspace" title="Rackspace">Rackspace</a></li><li><a href="https://www.bhosted.nl/colocatie/bandbreedte" title="Bandbreedte">Bandbreedte</a></li><li><a href="https://www.bhosted.nl/colocatie/diensten" title="Colocatie diensten">Diensten</a></li></ul>
+          </li>
+          <li><a href="https://www.bhosted.nl/helpdesk" title="Helpdesk">Helpdesk</a>
+            <ul class="sub-menu">
+<li><a href="https://www.bhosted.nl/helpdesk/veelgesteldevragen" title="Kennisbank (oud)">Kennisbank (oud)</a></li><li><a href="https://helpdesk.bhosted.nl/" title="Kennisbank (nieuw)">Kennisbank (nieuw)</a></li><li><a href="https://www.bhosted.nl/helpdesk/rss" title="RSS feeds">RSS</a></li></ul>
+          </li>
+          <li><a href="https://www.bhosted.nl/over-bhosted" title="over bHosted">bHosted.nl</a>
+            <ul class="sub-menu">
+<li><a href="https://www.bhosted.nl/over-bhosted/contact" title="Contactgegevens">Contact</a></li><li><a href="https://www.bhosted.nl/over-bhosted/whatsapp" title="Contact via Whatsapp">WhatsApp</a></li><li><a href="https://www.bhosted.nl/over-bhosted/referenties" title="Referenties en reacties">Referenties</a></li><li><a href="https://www.bhosted.nl/over-bhosted/netwerk" title="Netwerk">Netwerk</a></li><li><a href="https://www.bhosted.nl/over-bhosted/datacenter" title="Datacenter Steenbergen">Datacenter</a></li><li><a href="https://www.bhosted.nl/over-bhosted/vacatures" title="Vacature Helpdeskmedewerker">Vacatures</a></li><li><a href="https://www.bhosted.nl/over-bhosted/partners" title="Partners">Partners</a></li></ul>
+          </li>
+        </ul>
+
+        <div class="cart active">
+          <ul class="sub-menu">
+            <li><a href="#">&nbsp;</a></li>
+          </ul>
+        </div>
+
+	  </div>
+
+      <div id="main" class="page">
+        <div id="main-wrapper">
+          <div class="column-left">
+            <p id="breadcrumb"><strong>U bent hier:</strong> <a href="https://www.bhosted.nl/" title="Webhosting, domeinregistratie, VPS en colocatie">Home</a> &gt; </p>
+	<h1>Pagina niet gevonden (code 404)</h1>
+	<p>De pagina die u geprobeerd heeft op te vragen bestaat helaas niet. Maak een keuze uit het bovenstaande menu.</p>
+	<p>Deze fout is ook automatisch doorgestuurd naar de helpdesk. Indien u een vraag heeft over deze melding,
+	dan kunt u contact opnemen met de helpdesk. Voor de contact gegevens van de helpdesk, zie de <a href="https://www.bhosted.nl/over-bhosted/contact">contact pagina</a>.</p>
+
+          </div>
+          <div class="column-right">
+            <ul class="packet">
+              <li>
+                <h2>Webhosting</h2>
+                <p>Webhosting incl. domeinnaam vanaf €&nbsp;24,- ex BTW per jaar! De domeinregistratie wordt op uw naam uitgevoerd en in 10 minuten kunt u aan de slag met uw nieuwe website.</p>
+                <p><a href="https://www.bhosted.nl/webhosting/wizard" title="Kies een hostingpakket met de webhosting wizard">Doe de Webhosting wizard</a> of <a href="https://www.bhosted.nl/webhosting/hostingpakket" title="Bekijk het overzicht van alle bHosted hostingpakketten">Toon de hostingpakketten</a></p>
+
+              </li>
+              <li>
+                <h2>Colocatie</h2>
+                <p>Zoekt u colocatie of rackspace voor &eacute;&eacute;n of meerdere servers in een datacentrum in Nederland, zodat deze continu verbonden zijn met een stabiel en snel netwerk?</p>
+                <p><a href="https://www.bhosted.nl/colocatie" title="Overzicht van de colocatie mogelijkheden bij bHosted in Noord-Brabant">Bekijk de colocatie opties</a></p>
+              </li>
+            </ul>
+          </div>
+      </div>
+
+      <div id="footer">
+        <ul id="footer-top">
+          <li>
+            <h2>Snel naar Domeinnamen</h2>
+            <p><a href="https://www.bhosted.nl/domeinnaam">Domeinregistratie</a><br/>
+            <a href="https://www.bhosted.nl/domeinnaam/controleren">Domeinnaam controleren</a><br/>
+            <a href="https://www.bhosted.nl/domeinnaam/registratie">Domeinnaam registreren</a><br/>
+            <a href="https://www.bhosted.nl/domeinnaam/verhuizen">Domeinnaam verhuizen</a><br/>
+            <a href="https://www.bhosted.nl/domeinnaam/hosting">Domeinnaam hosting</a><br/>
+            <a href="https://www.bhosted.nl/domeinnaam/prijzen">Domeinnaam extensies</a><br/>
+            <a href="https://www.bhosted.nl/domeinnaam/quarantaine">NL Quarantaine</a><br/>
+            <a href="https://www.bhosted.nl/domeinnaam/nl-domein-registratie">NL domein registratie</a><br/>
+            <a href="https://www.bhosted.nl/domeinnaam/be-domein-registratie">BE domein registratie</a><br/>
+            <a href="https://www.bhosted.nl/domeinnaam/eu-domein-registratie">EU domein registratie</a><br/>
+            <a href="https://www.bhosted.nl/domeinnaam/meerdere-domeinen">Meerdere domeinen</a></p>
+          </li>
+          <li>
+            <h2>Snel naar Webhosting</h2>
+            <p><a href="https://www.bhosted.nl/webhosting">Webhosting overzicht</a><br/>
+            <a href="https://www.bhosted.nl/webhosting/domeinparking">Domeinparking</a><br/>
+            <a href="https://www.bhosted.nl/webhosting/email-only">eMail only</a><br/>
+            <a href="https://www.bhosted.nl/webhosting/hostingpakket">Hostingpakket</a><br/>
+            <a href="https://www.bhosted.nl/webhosting/cms-webhosting">CMS hosting</a><br />
+            <a href="https://www.bhosted.nl/webhosting/opties/ssl-certificaten">SSL certificaten</a></p>
+            <br />
+            <h2>Snel naar SSL certificaten</h2>
+            <p><a href="https://www.bhosted.nl/opties/ssl-certificaten">SSL certificaten</a><br />
+            <a href="https://www.bhosted.nl/opties/ssl-certificaten/enkel-domein">SSL voor enkel domein</a><br />
+            <a href="https://www.bhosted.nl/opties/ssl-certificaten/meerdere-domeinen">SSL voor meerdere domeinen</a><br />
+            <a href="https://www.bhosted.nl/opties/ssl-certificaten/wildcard">Wildcard SSL certificaat</a></p>
+          </li>
+          <li>
+            <h2>Snel naar Colocatie</h2>
+            <p><a href="https://www.bhosted.nl/colocatie">Colocatie</a><br/>
+            <a href="https://www.bhosted.nl/colocatie/dedicated-server">Dedicated server</a><br/>
+            <a href="https://www.bhosted.nl/colocatie/server-hosting">Server hosting</a><br/>
+            <a href="https://www.bhosted.nl/colocatie/rackspace">Rackspace</a><br/>
+            <a href="https://www.bhosted.nl/colocatie/bandbreedte">Bandbreedte</a><br/>
+            <a href="https://www.bhosted.nl/colocatie/diensten">Colocatie diensten</a></p>
+            <br/>
+            <h2>Snel naar VPS</h2>
+            <p><a href="https://www.bhosted.nl/vps">VPS</a><br/>
+            <a href="https://www.bhosted.nl/vps/linux">Linux VPS</a><br/>
+            <a href="https://www.bhosted.nl/vps/windows">Windows VPS</a></p>
+          </li>
+          <li>
+            <h2>bHosted</h2>
+            <p><a href="https://www.bhosted.nl/over-bhosted/contact">Contact</a><br/>
+            <a href="http://status.bhosted.nl/">Status pagina</a><br/>
+            <a href="https://www.bhosted.nl/over-bhosted/netwerk">Netwerk</a><br/>
+            <a href="https://www.bhosted.nl/over-bhosted/datacenter">Datacenter</a><br/>
+            
+            <a href="https://www.bhosted.nl/hosting-nederland">Hosting Nederland</a></p>
+            
+            <br/>
+            
+          </li>
+        </ul>
+
+        <div id="footer-bottom">
+          <ul>
+            <li><a href="https://www.bhosted.nl/over-bhosted-nl/partners"><img src="/images/partners.png" border="0" alt="Partners van bHosted zijn o.a. SIDN, DNS.be en EURid voor domeinregistraties" /></a></li>
+          </ul>
+          <div>
+            <span>&copy; 2017 bHosted B.V.. Alle rechten voorbehouden</span>
+            <a href="https://www.bhosted.nl/over-bhosted-nl/voorwaarden">Voorwaarden</a> | <a href="https://www.bhosted.nl/over-bhosted-nl/privacybeleid">Privacybeleid</a> | <a href="https://www.bhosted.nl/over-bhosted-nl/disclaimer">Disclaimer</a> | <a href="https://www.bhosted.nl/sitemap">Sitemap</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="social-media">
+      <a href="http://twitter.com/bhostednl" class="twitter" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound click', 'Twitter', 'Flooting']);">Follow</a>
+      <a href="http://www.facebook.com/bHosted.nl.Webhosting" class="facebook" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound click', 'Facebook', 'Flooting']);">Facebook</a>
+      <a href="/over-bhosted/whatsapp" class="whatsapp">Whatsapp</a>
+      <a href="#" width="30" height="96" style="border:0px;" onclick="CW_API.container.open('CHAT')" class="mailchat" alt="bHosted.nl live chat"></a>
+    </div>
+    <div id="cw-app" data-key="3M6xki5trqPdWzItJbbz3w9PTMETNXK4rnzGqeglN462oc3vSYTGnVAwuwN2Cfo2zwVW7gynkFHfH7sVK9druMdrKhEI8FABh5qt"></div>
+    <script>
+        (function(src) {
+            var script = document.createElement("script");
+            script.setAttribute("type", "text/javascript");
+            script.setAttribute("src", src + '?'+(Math.floor(Math.random() * (78585877 - 18)) + 18));
+            document.getElementsByTagName("head")[0].appendChild(script);
+        }('https://app.trengo.eu/cw/w.js'));
+    </script>
+  </body>
+</html>
