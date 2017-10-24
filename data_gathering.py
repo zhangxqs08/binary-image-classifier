@@ -67,20 +67,20 @@ def remove_invalid(dir_paths):
 
 
 def main():
-    # links = [
-    #     'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n01318894',
-    #     'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n03405725',
-    #     'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07942152',
-    #     'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n00021265',
-    #     'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07690019',
-    #     'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07865105',
-    #     'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07697537'
-    # ]
-    # paths = ['not-hotdog', 'not-hotdog', 'not-hotdog', 'not-hotdog', 'not-hotdog', 'not-hotdog', 'hotdog']
-    paths = ['hotdog']
     links = [
+        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n01318894',
+        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n03405725',
+        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07942152',
+        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n00021265',
+        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07690019',
+        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07865105',
         'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07697537'
     ]
+    paths = ['not-hotdog', 'not-hotdog', 'not-hotdog', 'not-hotdog', 'not-hotdog', 'not-hotdog', 'hotdog']
+    # paths = ['hotdog']
+    # links = [
+    #     'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07697537'
+    # ]
     store_raw_images(paths, links)
     remove_broken(paths)
     remove_invalid(paths)
