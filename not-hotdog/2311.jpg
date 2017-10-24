@@ -1,1 +1,0 @@
-<a style='color:#FF0000;'>query = </a>SELECT * FROM ct_items WHERE id = 175.jpg<BR><BR><a style='color:#FF0000;'>error = </a>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' at line 1<BR><hr>
