@@ -14,7 +14,7 @@ from keras import optimizers
 
 
 size = 64
-class_size = 2000
+class_size = 3500
 batch_size = 32
 
 X, y = load_data(size, class_size)
