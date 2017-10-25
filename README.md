@@ -1,2 +1,2 @@
 # binary-image-classifier
-This is a image classifier to detect hotdogs.
+This is a binary classifier to detect human faces from images.
