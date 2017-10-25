@@ -1,6 +1,6 @@
 __author__ = 'Xiang'
 
-import urllib
+import urllib2
 import cv2
 import os
 import numpy as np
@@ -15,21 +15,26 @@ def load_image(path, link, counter):
     if pic_num < counter:
         pic_num = counter + 1
     try:
-        urllib.urlretrieve(link, path+"/"+str(counter)+".jpg")
-        img = cv2.imread(path+"/"+str(counter)+".jpg")
+        request = urllib2.urlopen(link, timeout=1)
+        fname = path + "/" + str(counter) + ".jpg"
+        with open(fname, 'wb') as f:
+            try:
+                f.write(request.read())
+            except:
+                print "error"
+        img = cv2.imread(fname)
         if img is not None:
-            cv2.imwrite(path+"/"+str(counter)+".jpg", img)
+            cv2.imwrite(fname, img)
             print counter
     except Exception as e:
-        print str(e)
-
-
+        print str(e) 
+    
 def store_raw_images(paths, links):
     global pic_num
     for link, path in zip(links, paths):
         if not os.path.exists(path):
             os.makedirs(path)
-        image_urls = str(urllib.urlopen(link).read())
+        image_urls = str(urllib2.urlopen(link).read())
         args = zip(itertools.repeat(path), image_urls.split('\r\n')[2:], itertools.count(pic_num))
         for arg in args:
             load_image(arg[0], arg[1], arg[2])
@@ -77,7 +82,7 @@ def main():
 
     store_raw_images(paths, links)
     remove_broken(paths)
-
+    print "done"
 
 if __name__ == "__main__":
     main()
